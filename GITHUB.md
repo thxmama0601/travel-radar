@@ -11,11 +11,11 @@
 
 ## 排程行為
 
-每小時第 1、31 分執行，另於推送 main 或手動執行時更新。排程使用 GitHub 自帶的權杖，不需儲存個人 API key。refresh 工作只取得提交新聞快照的 contents:write；deploy 工作取得發布 Pages 所需 pages:write、id-token:write。
+每日台灣時間早上 08:00（UTC 00:00）排程執行，另於推送 main 或手動執行時更新。排程使用 GitHub 自帶的權杖，不需儲存個人 API key。refresh 工作只取得提交新聞快照的 contents:write；deploy 工作取得發布 Pages 所需 pages:write、id-token:write。
 
 同一工作流程會依序抓取、保存 `public/data/news.json`、測試、建置與發布，避免依賴機器人提交再次觸發工作流程。來源全數失敗仍會發布保留資料與失敗狀態，並在執行紀錄標示警告；建置或部署失敗會呈現失敗狀態。
 
-來源失敗保留上次成功資料，移除超過 7 天的備援文章。頁面顯示抓取時間、來源最後成功時間及文章原始發布時間，快照超過 45 分鐘會提示。重新整理只讀取最近完成的網站資料，不代表重新抓取來源。
+來源失敗保留上次成功資料，移除超過 7 天的備援文章。頁面顯示抓取時間、來源最後成功時間及文章原始發布時間，快照超過 26 小時會提示。重新整理只讀取最近完成的網站資料，不代表重新抓取來源。
 
 GitHub 排程可能延遲或略過，公開儲存庫長時間無活動時可能停用排程。請參閱 [GitHub 排程文件](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)。若有精準時間保證需求，需另接具服務等級承諾的排程服務。
 

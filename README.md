@@ -11,8 +11,8 @@
 - KKday、Klook、Booking.com、Trip.com、易遊網 品牌優惠新聞與獨立篩選按鈕。
 - 地區、分類、媒體與標題搜尋，近 24 小時、3 天或 7 天篩選。
 - 去除重複標題與連結、保留原媒體及實際發布日期。
-- GitHub Actions 每小時第 1、31 分抓取，保存 JSON 並部署 GitHub Pages；電腦關閉後仍運作。
-- 來源失敗時保留近 7 天已取得內容，顯示狀態；快照超過 45 分鐘顯示提醒。
+- GitHub Actions 每日台灣時間早上 08:00 排程抓取，保存 JSON 並部署 GitHub Pages；電腦關閉後仍運作。
+- 來源失敗時保留近 7 天已取得內容，顯示狀態；快照超過 26 小時顯示提醒。
 
 ## 本機啟動
 
@@ -25,7 +25,7 @@ npm run dev
 
 開啟 http://localhost:5173/ 。Windows 可雙擊 `Start-TravelRadar.cmd`。
 
-本機版本透過 `/api/news` 抓取來源並快取 30 分鐘。公開網站只讀取 `data/news.json`，由 GitHub Actions 背景更新，重新整理不會強制執行雲端抓取。
+本機版本透過 `/api/news` 抓取來源並快取 24 小時。公開網站只讀取 `data/news.json`，由 GitHub Actions 背景更新，重新整理不會強制執行雲端抓取。
 
 ```sh
 npm run collect:news

@@ -43,4 +43,4 @@ test('expired fallback articles are removed and invalid snapshots are not overwr
     assert.equal(await readFile(outputFile,'utf8'),'broken snapshot');
   }finally{await cleanup(dir);}
 });
-test('refresh interval is thirty minutes',()=>assert.equal(REFRESH_INTERVAL_MS,1800000));
+test('refresh interval is one day',()=>assert.equal(REFRESH_INTERVAL_MS,86400000));

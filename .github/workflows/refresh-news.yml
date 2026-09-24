@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # Every half hour; registered by the repository owner.
-    - cron: '1,31 * * * *'
+    # Daily at 08:00 Asia/Taipei (00:00 UTC).
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
