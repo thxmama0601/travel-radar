@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # UTC :17 / :47 are also Taipei :17 / :47. Avoid busy hour boundaries.
-    - cron: '17,47 * * * *'
+    # Every half hour; registered by the repository owner.
+    - cron: '1,31 * * * *'
   workflow_dispatch:
 
 permissions:
