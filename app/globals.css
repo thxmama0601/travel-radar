@@ -13,3 +13,129 @@
 .source-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 14px}.source-controls label{display:flex;align-items:center;gap:10px;font-size:14px;color:#546b5e;min-width:0}.source-controls select{max-width:320px;min-width:0;width:100%;background:white;border:1px solid #dce4df;border-radius:6px;padding:8px;font:inherit}.source-controls button{font-size:14px;flex-shrink:0}.source-grid a{display:block;color:#24664b;font-size:13px;margin:6px 0}.source-grid p{font-size:12px;line-height:1.8;color:#64786b;margin-top:9px}.category-官方公告{background:#dbeee3;color:#225e40}@media(max-width:640px){.source-controls{align-items:flex-start}.source-controls label{flex-direction:column;align-items:flex-start;gap:4px}.source-controls select{max-width:230px}.article-meta time{margin-left:0}}
 .platform-tabs { display:flex; flex-wrap:wrap; gap:8px; margin: 2px 0 16px; } .platform-tabs button[aria-pressed="true"] { background:#17634b; color:white; border-color:#17634b; }
 .brand { line-height:1.4; } .brand > span:last-child { min-width:0; } .brand-icon { flex-shrink:0; }
+
+/* Staynote brand: lavender surfaces, violet accents, and plum text. */
+:root {
+  --foreground:#30233e; --primary:#7134c5; --primary-foreground:#fff;
+  --secondary:#f3ebfc; --secondary-foreground:#5a258f;
+  --muted:#f8f4fc; --muted-foreground:#70617c;
+  --accent:#eee1fc; --accent-foreground:#6226a8;
+  --border:#e8ddf3; --input:#dcc9ee; --ring:#a474dd;
+}
+body { color:#30233e; background:#fcfaff; }
+button:focus-visible,a:focus-visible,select:focus-visible { outline-color:#9c63de; }
+.sidebar { border-color:#e8ddf3; }
+.brand { color:#401774; font-size:18px; letter-spacing:0; gap:10px; margin:0 0 30px; }
+.brand-logo { width:64px; height:auto; flex-shrink:0; border-radius:14px; }
+.brand small { color:#8b6ca5; font-size:10px; letter-spacing:1.5px; margin-top:5px; }
+.nav-caption,.personal-label,.topbar-note { color:#7f6b91; }
+.nav-item { color:#6d5f78; }
+.nav-item:hover,.region-stats button:hover { background:#f6effc; color:#7134c5; }
+.nav-item.selected { color:#6d28d9; background:#eee0fc; }
+.region-selected { color:#7134c5!important; }
+.sidebar-bottom { background:#f7f0ff; border-color:#e9d9fa; color:#5f3488; }
+.sidebar-bottom p { color:#766383; }
+.sidebar-bottom button { border-color:#d9c3ee; color:#6836a3; }
+.topbar { border-color:#ede4f6; color:#6b547e; }
+.divider { color:#d6bfe8; }
+.workspace { padding-top:28px; }
+.brand-hero {
+  position:relative; isolation:isolate; overflow:hidden; justify-content:flex-start;
+  background:linear-gradient(115deg,#eddcff 0%,#f3e6ff 58%,#faeaff 100%);
+  border:1px solid #ead7fa; border-radius:22px; padding:32px 36px; gap:30px;
+  margin-bottom:23px; min-height:255px;
+}
+.brand-hero::before,.brand-hero::after {
+  content:""; position:absolute; z-index:-1; pointer-events:none;
+  width:13px; height:25px; border-radius:90% 0 90% 0;
+  background:#ee8ecc; transform:rotate(32deg);
+}
+.brand-hero::before { right:38px; top:30px; opacity:.65; }
+.brand-hero::after { right:18%; bottom:28px; width:9px; height:16px; opacity:.35; }
+.hero-logo { width:154px; height:auto; flex-shrink:0; border-radius:18px; }
+.hero-copy { min-width:0; }
+.eyebrow { color:#754da0; font-size:13px; font-weight:650; letter-spacing:1px; margin-bottom:9px; }
+.brand-hero h1 { color:#6021b6; font-size:clamp(25px,2.3vw,34px); letter-spacing:0; line-height:1.5; }
+.brand-hero p { color:#8050a5; line-height:1.9; margin-top:9px; }
+.refresh-button { background:#8054ce!important; color:#fff!important; border-color:#8054ce!important; margin-top:18px; border-radius:10px!important; box-shadow:0 4px 12px #7134c518; }
+.refresh-button:hover { background:#6e3bbb!important; }
+.status-bar,.article-meta,.article-footer,.publisher,.fine-print,.official-card>p,.reading-note,footer { color:#756581; }
+.status-dot { background:#9861d5; }
+.status-dot.warning { background:#c88635; }
+.policy-feature { background:#f5eeff; border-color:#e8d9f8; border-left-color:#9a64d7; border-radius:13px; }
+.policy-icon { background:#eaddf8; color:#7a44b3; }
+.policy-label,.policy-link { color:#743daf; }
+.policy-label span { color:#866499; border-color:#d5bce9; }
+.policy-feature h2 { color:#4d296b; }
+.policy-feature p { color:#796585; }
+.feed-heading h2,.rail-heading h2 { color:#552391; }
+.feed-heading h2 span { background:#eee1fc; color:#8046b5; }
+.feed-heading>span { color:#887595; }
+.region-tabs { background:#f0e8f8; border-radius:10px; }
+.tab { color:#846994; }
+.tab.active { color:#6d28d9; box-shadow:0 2px 5px #66339912; }
+.period { color:#786088; }
+.platform-tabs button { border:1px solid #dbc5f0; color:#7548a2; border-radius:9px; background:#fff; }
+.platform-tabs button:hover { background:#f4eafb; }
+.platform-tabs button[aria-pressed="true"] { background:#8054ce; border-color:#8054ce; color:#fff; }
+.source-controls label { color:#705c80; white-space:nowrap; }
+.source-controls select { border-color:#dfcbee; color:#685775; border-radius:9px; }
+.source-controls button { color:#7a46b3; }
+.search-box { border-color:#ddc5ed; color:#967ba9; border-radius:11px; }
+.search-box:focus-within { border-color:#a878d5; box-shadow:0 0 0 3px #a474dd15; }
+.search-box input::placeholder { color:#927f9f; }
+.search-box button { color:#967ba9; }
+.news-list { border-color:#e9ddf5; border-radius:16px; }
+.news-card { border-color:#f0e8f8; }
+.news-card:hover { background:#fdfaff; }
+.article-link h3 { color:#3b2b46; }
+.article-link>svg { color:#b597cc; }
+.article-link:hover h3 { color:#8033c2; }
+.category { background:#f1e6fc; color:#8546b2; border-radius:7px; }
+.category-優惠 { background:#fbe8f6; color:#a33785; }
+.category-政策 { background:#ebe4fd; color:#7150af; }
+.category-交通 { background:#f1eafd; color:#8460ba; }
+.category-官方公告 { background:#eaddf8; color:#663491; }
+.publisher-initial { background:#f5eef9; color:#9377a6; }
+.rail-card { border-color:#ecdefa; border-radius:16px; box-shadow:0 5px 20px #7134c504; }
+.rail-heading { color:#9862c5; }
+.big-number { color:#7134c5; }
+.big-number span { color:#907e9d; }
+.region-stats { border-color:#f0e7f7; }
+.region-stats button { color:#796487; }
+.region-stats strong { color:#78578f; }
+.official-card a { color:#7b4c9d; border-color:#f0e7f7; }
+.empty-state { color:#9d7db2; }
+.empty-state h3 { color:#705188; }
+.source-panel { border-color:#e9ddf5; border-radius:16px; }
+.source-panel>p,.source-grid p { color:#786584; }
+.source-grid>div { border-color:#eadff3; border-radius:11px; }
+.source-grid span,.source-grid small { color:#887494; }
+.source-grid a { color:#8343bb; }
+.source-grid .source-error { color:#a77735; }
+.active-filter,.active-filter button { color:#8855ae; }
+@media(max-width:1150px) {
+  .brand { flex-direction:column; align-items:flex-start; font-size:18px; }
+  .brand-logo { width:82px; }
+  .brand-hero { padding:28px; gap:23px; }
+  .hero-logo { width:125px; }
+  .hero-break { display:none; }
+}
+@media(max-width:900px) {
+  .brand-hero { gap:20px; padding:24px; }
+  .hero-logo { width:105px; }
+  .brand-hero h1 { font-size:25px; }
+}
+@media(max-width:640px) {
+  .sidebar { border-bottom-color:#e8ddf3; }
+  .brand { flex-direction:row; align-items:center; gap:13px; margin-bottom:15px; font-size:19px; }
+  .brand-logo { width:66px; }
+  .brand small { font-size:10px; }
+  .brand-hero { flex-direction:column; align-items:flex-start; padding:22px; gap:14px; border-radius:18px; min-height:0; }
+  .hero-logo { width:110px; border-radius:12px; align-self:center; }
+  .brand-hero h1 { font-size:25px; }
+  .brand-hero p { font-size:14px!important; }
+  .eyebrow { font-size:12px; }
+  .refresh-button { margin-top:15px; }
+  .source-controls label { white-space:normal; }
+}
