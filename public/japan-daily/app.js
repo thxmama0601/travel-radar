@@ -1,4 +1,4 @@
-import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs';
+import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs?v=topic-picker-1';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
