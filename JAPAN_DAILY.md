@@ -18,7 +18,9 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 
 ### 分潤連結編輯
 
-輸出固定分成「主文」與「留言（分潤）」，各有獨立複製按鈕。每日優先撰寫一篇 500 字內、資訊完整的主文；必要時保留多串。既有草稿合併後不超過 500 個 Unicode 字元時，以段落合成一篇主文；超過則保留原串順序，不截斷內容。未加入連結時提供本題留言開頭、清楚標示的待填網址位置與分潤說明；區塊、按鈕和複製完成訊息都標記為「範本／待填網址」，提醒換成實際連結再發布。沒有相關商品時可只發布主文，不硬推商品或填入虛構網址。
+輸出固定分成「主文串文」與「留言（分潤）」。主文本身必須以 2～5 串接續發布，通常 3 串：第一串用切角與核心消息吸引閱讀，中段補實用細節，末串收尾、限制、行動提醒與官方來源。依題目調整組織，不硬湊字數、不把來源網址單獨拆成一串、不截斷句子或日期。每串含串序須在 500 字內。`draft.threads` 的每個字串代表一篇獨立主文，不論合計字數多少，都保留作者的拆串邊界，禁止再合併成單篇。
+
+每串有「複製第 N 串」按鈕，顯示及複製均附 1/3 這類串序；JSON 本文不重複寫串序。「複製全部主文」保留各串編號與分隔線，僅供整份取用，提示發布時分串貼上。分潤留言另行複製、不放進主文末串。未加入連結時提供本題留言開頭、清楚標示的待填網址位置與分潤說明；區塊、按鈕和複製完成訊息都標記為「範本／待填網址」，提醒換成實際連結再發布。沒有相關商品時可只發布主文串文，不硬推商品或填入虛構網址。
 
 選題後可貼入 Trip.com、Booking.com、KKday、Klook 或其他平台的分潤網址，填寫住宿／票券說明，勾選後才會產生獨立的分潤留言。正文始終保持原始查核文案。只有使用者提供的完整網址會被使用，不產生或推測聯盟識別碼，不刪除、重排或重新編碼追蹤參數，也不聲稱已驗證分潤歸屬、折扣或價格。
 
@@ -72,7 +74,7 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 | trends | 5～10 個字串，對應今天重要趨勢 |
 | choice | title、score、reason、versusSecond、publishAt、audience、lifecycle |
 | top10 | 1～10 個物件，欄位為 id、title、region、category、announcementDate、eventDate、score、why、sources、draft；正常每日 10 題 |
-| top10[].draft | 每題自己的物件：threads（1～5 串非空文案）、angles（切角 name／opening）、images（description／url）、extensions（字串陣列）；全數選題都要備妥，不只編輯首選 |
+| top10[].draft | 每題自己的物件：threads（2～5 串非空主文，通常 3 串，每串含串序不超過 500 字）、angles（切角 name／opening）、images（description／url）、extensions（字串陣列）；全數選題都要備妥，不只編輯首選。歷史單篇仍可讀取，但新報告須拆串 |
 | top10[].affiliateFit / candidates[].affiliateFit | 同一題一致的分潤適合度：level、reason、products、platforms、commentOpening、checks、assessedOn；詳見上方規則 |
 | socialResearch / top10[].socialHeat / candidates[].socialHeat | 社群觀測時刻、存取限制、原始貼文指標與未列入線索；缺證據時不計分，詳見上方規則 |
 | sources | 物件陣列：label、url，連到實際核對的原始來源頁 |

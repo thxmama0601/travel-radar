@@ -1,4 +1,4 @@
-import { getTopicDraft, isRecommended, validReport, formatMainPost, getRecommendedDraftIndex } from './draft-model.mjs?v=compose-1';
+import { getTopicDraft, isRecommended, validReport, formatThreadCopy, getRecommendedDraftIndex } from './draft-model.mjs?v=threaded-1';
 import { composeAffiliateDraft, affiliateCommentTemplate } from './affiliate-model.mjs?v=compose-1';
 import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
 import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
@@ -97,7 +97,7 @@ function selectTopic(index, { scroll = true } = {}) {
   $('generate').disabled = !draft;
   $('generate-label').textContent = '產生脆串文';
   $('generation-help').textContent = draft
-    ? '選題已就緒。可選填分潤連結，產生「主文＋留言（分潤）」後分開複製。'
+    ? '選題已就緒。主文會拆成多串，每串可分開複製；分潤連結另外放在留言。'
     : '這題尚未備妥草稿。請選擇其他題目，或等待當日報告更新。';
   document.querySelectorAll('.topic-radio').forEach((radio) => {
     radio.checked = Number(radio.value) === index;
@@ -227,12 +227,33 @@ function generateDraft() {
   if (composed.error) { clearGenerated(); return; }
   const isCommentTemplate = !composed.comments.length;
   const comments = isCommentTemplate ? [affiliateCommentTemplate(getAffiliateFit(topic)?.commentOpening)] : composed.comments;
-  generatedDraft = { ...draft, threads: formatMainPost(composed.threads), comments, isCommentTemplate };
+  generatedDraft = { ...draft, threads: composed.threads, comments, isCommentTemplate };
   $('generated-topic').textContent = currentReport.date + ' · ' + topic.title;
   if (composed.linkCount) $('generated-topic').textContent += ' · 另備 ' + composed.linkCount + ' 個分潤連結的留言';
+  const total = generatedDraft.threads.length;
+  $('generated-topic').textContent += ' · 主文共 ' + total + ' 串';
   list('drafts', generatedDraft.threads, (text, index) => {
-    const block = element('div', null, 'draft');
-    block.append(element('small', generatedDraft.threads.length === 1 ? '主文' : '主文 ' + (index + 1) + '／' + generatedDraft.threads.length), document.createTextNode(text));
+    const block = element('article', null, 'draft thread-draft');
+    const heading = element('div', null, 'thread-heading');
+    const label = element('h3', '主文第 ' + (index + 1) + ' 串／共 ' + total + ' 串');
+    label.id = 'main-thread-title-' + index;
+    block.setAttribute('aria-labelledby', label.id);
+    const copyButton = element('button', '複製第 ' + (index + 1) + ' 串', 'secondary-button copy-thread');
+    copyButton.type = 'button';
+    const status = element('p', '', 'muted thread-copy-status');
+    status.setAttribute('role', 'status');
+    status.setAttribute('aria-live', 'polite');
+    copyButton.addEventListener('click', async () => {
+      const revision = selectionRevision;
+      try {
+        await navigator.clipboard.writeText(formatThreadCopy(text, index, total));
+        if (revision === selectionRevision && block.isConnected) status.textContent = '已複製第 ' + (index + 1) + ' 串。' + (index === 0 ? '先發布這一串，再接續後面的主文。' : '請接在上一串後方發布。');
+      } catch {
+        if (revision === selectionRevision && block.isConnected) status.textContent = '瀏覽器未允許複製，請選取這串文字手動複製。';
+      }
+    });
+    heading.append(label, copyButton);
+    block.append(heading, element('div', formatThreadCopy(text, index, total), 'thread-text'), status);
     return block;
   });
   list('comments', comments, (text, index) => {
@@ -321,8 +342,8 @@ $('copy').addEventListener('click', async () => {
   if (!generatedDraft) return;
   const revision = selectionRevision;
   try {
-    await navigator.clipboard.writeText(generatedDraft.threads.join('\n\n──────────\n\n'));
-    if (revision === selectionRevision) $('copy-status').textContent = '已複製主文。留言（分潤）請用下方按鈕另外複製。';
+    await navigator.clipboard.writeText(generatedDraft.threads.map((text, index, items) => formatThreadCopy(text, index, items.length)).join('\n\n──────────\n\n'));
+    if (revision === selectionRevision) $('copy-status').textContent = '已複製全部主文，含串序與分隔線。發布時請分串貼上，或使用各串的複製按鈕。分潤留言請另外複製。';
   } catch {
     if (revision === selectionRevision) $('copy-status').textContent = '瀏覽器未允許複製；請選取下方草稿文字手動複製。';
   }

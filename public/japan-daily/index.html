@@ -7,8 +7,8 @@
   <meta name="theme-color" content="#fbf8ff">
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
-  <link rel="stylesheet" href="./selection.css?v=logo-1">
-  <script src="./app.js?v=compose-1" type="module"></script>
+  <link rel="stylesheet" href="./selection.css?v=threaded-1">
+  <script src="./app.js?v=threaded-1" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -58,10 +58,11 @@
         <p id="affiliate-error" class="affiliate-error" role="alert"></p>
       </details>
       <button id="generate" type="button" disabled aria-describedby="generation-help affiliate-error"><span id="generate-label">產生脆串文</span> <span aria-hidden="true">↗</span></button>
-      <p class="preparation-note">每題文案依每日查核資料預先撰寫。按下按鈕後，顯示主文與獨立分潤留言；尚未填連結時會先提供待填網址的留言範本。</p>
+      <p class="preparation-note">每題文案依每日查核資料預先撰寫。主文拆成多串，每串可分開複製；分潤留言獨立呈現，尚未填連結時會先提供待填網址的留言範本。</p>
     </section>
     <section id="generated" class="section" aria-labelledby="threads-title" hidden>
-      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">主文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製主文 <span aria-hidden="true">↗</span></button></div>
+      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">主文串文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製全部主文 <span aria-hidden="true">↗</span></button></div>
+      <p class="muted">依序複製第 1 串、第 2 串……接續發布。每串包含串序；分潤連結另外放在下方留言。</p>
       <p id="copy-status" class="muted" role="status" aria-live="polite"></p><div id="drafts" class="drafts"></div>
       <section id="affiliate-replies" class="affiliate-replies" aria-labelledby="comments-title" hidden>
         <div class="section-heading split"><div><p class="eyebrow">POST IN THE COMMENTS</p><h2 id="comments-title">留言（分潤）</h2><p class="muted">先發布主文，再把分潤連結貼在該篇下方的留言區。若拆成多則，請依序分別留言。</p></div><button id="copy-comments" type="button" disabled>複製留言（分潤） <span aria-hidden="true">↗</span></button></div>

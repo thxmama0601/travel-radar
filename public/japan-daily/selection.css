@@ -68,6 +68,12 @@ button:disabled{cursor:not-allowed;opacity:.45}
 button:disabled:hover{background:var(--accent)}
 .preparation-note{grid-column:1/-1;font-size:12px;color:var(--muted);margin:0;border-top:1px solid #dacbe9;padding-top:14px}
 .draft-source-list{margin-top:22px}
+.thread-draft{white-space:normal}
+.thread-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.thread-heading h3{font-size:14px;color:var(--accent);margin:0;line-height:1.6}
+.thread-text{white-space:pre-wrap;overflow-wrap:anywhere}
+.thread-copy-status{margin:12px 0 0}
+.thread-copy-status:empty{display:none}
 .draft-extras{margin-top:28px}
 .context-title{margin-top:30px;font-size:21px}
 .editor-note{margin:25px 0;padding:20px;background:var(--green);font-size:14px}

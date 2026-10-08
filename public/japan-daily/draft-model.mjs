@@ -27,10 +27,8 @@ export function getTopicDraft(report, index) {
   return isRecommended(report, index) ? normalizeDraft(report) : null;
 }
 
-export function formatMainPost(threads) {
-  const combined = threads.join('\n\n');
-  // Keep all verified text. Longer drafts retain their original thread boundaries.
-  return [...combined].length <= 500 ? [combined] : [...threads];
+export function formatThreadCopy(text, index, total) {
+  return (index + 1) + '/' + total + '\n\n' + text;
 }
 
 export function getRecommendedDraftIndex(report) {
