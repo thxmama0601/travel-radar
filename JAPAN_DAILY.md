@@ -40,7 +40,21 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 
 介面保留原 TOP 排名，另提供「留言分潤適合度優先」與高／中／低／未評估篩選。同適合度再按內容分數排序。排序或篩選保留題目原始索引與選取狀態，不可因此拿到別題草稿。既有缺少欄位的歷史報告顯示未評估。`researchText` 與 `fullText` 同時記錄候選池各題的判斷原因與限制。
 
-### 報告檔案
+### 公開社群討論熱度（預設選題排序）
+
+使用者要求以 Threads 或其他社群的實際討論度選題。每天先廣泛掃描台灣繁體中文 Threads／Facebook／Instagram／Dcard／PTT，輔以日本 X、Instagram、TikTok、YouTube；在 15～30 題候選階段就蒐集證據，再對具旅遊價值且已查核的事件選 TOP 10，不能只把新聞篇數當作熱度。實際社群排名與 100 分編輯潛力、分潤適合度分開呈現。
+
+根層 `socialResearch` 保存 `checkedAt`（含時區的 ISO 時刻）、`windowHours:48`、`methodVersion:"public-sample-v1"`、`limitation`、`searchedTopicCount`、`qualifiedTopicCount` 及可選的 `platformAccess`。每題 `socialHeat` 保存 `checkedAt`、`summary`、`evidence`、`leads`、`queries`。當期 TOP 10 與候選池同一事件須一致。保留實際搜尋關鍵字、讀取限制及未納入原因於 researchText/fullText；不能改寫原新聞截止時間來冒充新聞重新查核。
+
+每筆 `evidence` 須為已讀取的原始社群貼文：`url`、`platform`（Threads/X/Facebook/Instagram/TikTok/YouTube/PTT/Dcard）、`author`、`authorType`（creator/reader/media）、`kind:"organic"`、`sourceType:"original"`、`verified:true`、`matchedEvent:true`、`publishedAt`、`observedAt`、`contentKey`（識別原創內容，轉載相同內容用同一值）、`metrics:{likes,replies,reposts?,views?}`，可加 `note` 與 `authorGroup`（已知跨帳號／跨平台同作者的共同代號）。只在真的確認時標 true，必須核對到本題事件，不能用同景點其他消息替代。時間須含時區；相對時間只能由同步讀取的原頁可靠換算，快取摘要的「昨天」不能套用現在日期。觀測數字缺漏使用 null 或省略，不能補 0、推估私有觀看或收藏數。
+
+`social-heat.mjs` 從證據計算，禁止手填社群分數：貼文發布距本期查核不超過 48 小時，互動數觀測距查核不超過 24 小時；每題 checkedAt 不得晚於全期 checkedAt 或落後超過 24 小時。至少 2 個不同作者及不同原創內容，讚與留言數均可核對，才取得排名。去除重複網址、同作者與相同內容；排除官方、抽獎、廣告、鏡像、同稿轉載。原始聲量線索不足可存 `leads:[{url,label,reason}]`，只是查核紀錄，不计入互動。
+
+樣本互動速率＝（讚＋3×留言）÷max(6,發布至觀測的小時數)。每作者取最高速率一篇，最多 5 位作者，取中位數由高至低排列；相同速率同名次，保持原序。這是可重現的本站樣本方法，不是平台官方排名、全網聲量、預測觀看或增長率。轉發和觀看只在可見時展示，不混入缺漏程度不同的分數。PTT 等若沒有可比的讚／留言數，保留質化線索而不強算分數。跨平台規模不同，介面提供單一平台篩選，不將 X 熱度稱為台灣 Threads 熱度。
+
+首頁預設社群熱度優先，有足夠證據者在前；不足者顯示「未確認」並保留內容原序，不給假低分、不給社群名次。全期不足時明列不能建立熱榜，仍保留可用的新聞與草稿。原排序的編輯推薦不自動改名為社群第一名。歷史報告依當期觀測時間計算、顯示觀測日期，不冒充現在即時熱度。每日上午 10:00 研究時更新，不承諾分鐘級自動抓取或完整平台資料流。
+
+### 報告檔案與索引
 
 1. 每份 UTF-8 JSON 存在 `public/japan-daily/reports/YYYY-MM-DD.json`。
 2. 同一提交更新 `public/japan-daily/reports/manifest.json`，其 `reports` 陣列保存 `{ "date": "YYYY-MM-DD", "title": "當日首選名稱" }`。保留舊日期；當日重跑更新同一日期，勿重複加入。
@@ -58,6 +72,7 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 | top10 | 1～10 個物件，欄位為 id、title、region、category、announcementDate、eventDate、score、why、sources、draft；正常每日 10 題 |
 | top10[].draft | 每題自己的物件：threads（1～5 串非空文案）、angles（切角 name／opening）、images（description／url）、extensions（字串陣列）；全數選題都要備妥，不只編輯首選 |
 | top10[].affiliateFit / candidates[].affiliateFit | 同一題一致的分潤適合度：level、reason、products、platforms、commentOpening、checks、assessedOn；詳見上方規則 |
+| socialResearch / top10[].socialHeat / candidates[].socialHeat | 社群觀測時刻、存取限制、原始貼文指標與未列入線索；缺證據時不計分，詳見上方規則 |
 | sources | 物件陣列：label、url，連到實際核對的原始來源頁 |
 | threads / angles / images / extensions | 舊版單一首選欄位；新版可省略，改以每個 top10[].draft 保存。舊版只有標題唯一匹配 choice.title 的選題能使用這份草稿 |
 | followups | 3～5 個物件：title、next、sources |

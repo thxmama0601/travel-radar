@@ -1,7 +1,7 @@
 import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs?v=topic-picker-1';
 import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-fit-2';
 import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
-import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=affiliate-fit-2';
+import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
@@ -112,13 +112,24 @@ function fitSummary(topic) {
 function renderTopics() {
   if (!currentReport) return;
   const report = currentReport;
-  const entries = getVisibleTopics(report.top10, $('topic-order').value, $('fit-filter').value);
+  const context = { platform: $('social-platform').value, referenceTime: report.socialResearch?.checkedAt };
+  const entries = getVisibleTopics(report.top10, $('topic-order').value, $('fit-filter').value, context);
+  const allEntries = getVisibleTopics(report.top10, 'social', 'all', context);
+  const verifiedCount = allEntries.filter(entry => entry.social.available).length;
+  const platformName = context.platform === 'all' ? '全部平台' : context.platform;
+  const observed = report.socialResearch?.checkedAt ? '觀測：' + formatTime(report.socialResearch.checkedAt) + '。' : '';
+  $('social-status').textContent = verifiedCount
+    ? platformName + '：' + verifiedCount + ' / ' + report.top10.length + ' 題有足夠樣本可排名。未確認者置後、保留內容原序。' + observed
+    : platformName + '：本期尚無足夠樣本建立熱度排名。社群排序暫保留內容原序，未確認不等於不熱門。' + observed;
+  if ($('topic-order').value !== 'social') $('social-status').textContent += '目前使用其他選題排序。';
+  $('social-limitations').textContent = report.socialResearch?.limitation || '只代表已查核的公開樣本，並非平台全站排行榜。';
   $('topic-count').textContent = entries.length + ' / ' + report.top10.length + ' 題 · 內容分數為編輯評估';
   $('filter-status').textContent = selectedIndex >= 0 && !entries.some(({index}) => index === selectedIndex) ? '目前選題不在篩選結果中；下方仍保留你的選擇。' : '';
-  list('top10', entries, ({ topic: item, index }) => {
+  list('top10', entries, ({ topic: item, index, social }) => {
     const card = element('article', null, 'card topic-card');
     const head = element('div', null, 'card-head');
-    head.append(element('span', 'TOP ' + String(index + 1).padStart(2, '0'), 'rank'), element('span', '內容 ' + item.score + ' / 100', 'score'));
+    const rankLabel = $('topic-order').value === 'social' && social.available ? '社群 ' + String(social.rank).padStart(2,'0') : '選題 ' + String(index + 1).padStart(2, '0');
+    head.append(element('span', rankLabel, 'rank'), element('span', '內容 ' + item.score + ' / 100', 'score'));
     card.append(head);
     if (isRecommended(report, index)) card.append(element('span', '編輯推薦', 'recommended-tag'));
     const title = element('h3', item.title);
@@ -127,6 +138,7 @@ function renderTopics() {
     card.append(element('p', '公布：' + (item.announcementDate || '尚未完全確認') + '\n發生／活動：' + (item.eventDate || '尚未完全確認'), 'dates'));
     card.append(element('p', item.why || ''), sources(item.sources));
     card.append(fitSummary(item));
+    card.append(socialSummary(social));
     const pick = element('label', null, 'topic-select');
     const radio = element('input', null, 'topic-radio');
     radio.type = 'radio';
@@ -141,6 +153,37 @@ function renderTopics() {
     return card;
   });
   if (!entries.length) $('top10').append(element('p', '本期沒有符合這個分潤適合度的選題，試試其他篩選條件。', 'muted'));
+}
+function formatTime(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.valueOf()) ? '時間未確認' : new Intl.DateTimeFormat('zh-TW', { timeZone: 'Asia/Taipei', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit', hour12:false }).format(date) + ' 台灣時間';
+}
+function socialSummary(social) {
+  const box = element('div', null, 'social-summary');
+  box.append(element('strong', social.available ? '社群互動樣本：可排名' : '社群熱度：未確認'));
+  box.append(element('p', social.available ? '樣本互動速率 ' + social.rate.toFixed(1) + ' · ' + social.samples.length + ' 位作者（非全站熱度）' : social.summary));
+  if (!social.available) box.append(element('p', social.reason, 'muted'));
+  if (social.samples.length || social.leads.length) {
+    const details = element('details', null, 'social-evidence');
+    details.append(element('summary', '查看社群證據與查核限制'));
+    social.samples.forEach(post => {
+      const item = element('div', null, 'social-post');
+      item.append(safeLink(post.url, post.platform + ' · ' + post.author));
+      item.append(element('p', '發布 ' + formatTime(post.publishedAt) + '；觀測 ' + formatTime(post.observedAt)));
+      item.append(element('p', '讚 ' + post.metrics.likes + ' · 留言 ' + post.metrics.replies));
+      const extras = [['reposts','轉發'],['views','觀看']].filter(([key]) => Number.isSafeInteger(post.metrics[key]) && post.metrics[key] >= 0).map(([key,label]) => label + ' ' + post.metrics[key]);
+      if (extras.length) item.append(element('p', extras.join(' · ') + '（展示，不計入排序）'));
+      if (typeof post.note === 'string') item.append(element('p', post.note));
+      details.append(item);
+    });
+    social.leads.filter(item => item && typeof item.url === 'string' && typeof item.reason === 'string').forEach(lead => {
+      const item = element('div', null, 'social-post');
+      item.append(safeLink(lead.url, lead.label || '查核線索'), element('p', '未計入熱度：' + lead.reason));
+      details.append(item);
+    });
+    box.append(details);
+  }
+  return box;
 }
 function renderReport(report) {
   currentReport = report;
@@ -214,6 +257,9 @@ async function loadReport(date) {
   $('context').hidden = true;
   $('context').querySelector('details').open = false;
   $('topic-count').textContent = '正在讀取選題';
+  $('social-status').textContent = '';
+  $('social-limitations').textContent = '';
+  $('filter-status').textContent = '';
   notice('正在讀取當日選題', date);
   try {
     const response = await fetch('./reports/' + date + '.json', { cache: 'no-cache' });
@@ -240,6 +286,7 @@ async function loadReport(date) {
 $('generate').addEventListener('click', generateDraft);
 $('topic-order').addEventListener('change', renderTopics);
 $('fit-filter').addEventListener('change', renderTopics);
+$('social-platform').addEventListener('change', renderTopics);
 $('copy-comments').addEventListener('click', async () => {
   if (!generatedDraft?.comments.length) return;
   const revision = selectionRevision;

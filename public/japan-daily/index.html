@@ -7,8 +7,8 @@
   <meta name="theme-color" content="#fbf8ff">
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
-  <link rel="stylesheet" href="./selection.css?v=affiliate-fit-2">
-  <script src="./app.js?v=affiliate-fit-2" type="module"></script>
+  <link rel="stylesheet" href="./selection.css?v=social-1">
+  <script src="./app.js?v=social-1" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -20,7 +20,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div><p class="eyebrow">CC三寶媽 · JAPAN DAILY RADAR</p>
         <h1 id="page-title">先選今天想寫的題目，<br>再完成<span>你的 Threads 草稿。</span></h1>
-        <p class="intro">每天精選 10 個日本話題。比較內容潛力與留言分潤適合度，選一題，再產生貼文與留言。</p>
+        <p class="intro">每天精選 10 個日本話題。比較社群討論證據、內容潛力與分潤適合度，再選一題產生貼文與留言。</p>
       </div>
       <div class="edition"><span class="edition-label">DAILY EDITION</span><strong id="edition-date">等待首份報告</strong><span>每日研究排程 · 台灣 10:00</span><small id="cutoff">發布時間以實際完成查核為準</small></div>
     </section>
@@ -30,9 +30,16 @@
       <div class="section-heading split"><div><p class="eyebrow">STEP 01 · PICK YOUR STORY</p><h2 id="top-title">今日 10 個精選選題</h2></div><span id="topic-count" class="muted">等待選題發布</span></div>
       <p class="muted">一次選擇一題。編輯推薦供你參考，最後由你決定今天寫哪一篇。</p>
       <div class="topic-controls">
-        <label for="topic-order">選題方向<select id="topic-order"><option value="editorial">內容潛力優先（原排名）</option><option value="affiliate">留言分潤適合度優先</option></select></label>
+        <label for="topic-order">選題方向<select id="topic-order"><option value="social">社群討論熱度優先（公開樣本）</option><option value="editorial">內容潛力優先（編輯評估）</option><option value="affiliate">留言分潤適合度優先</option></select></label>
+        <label for="social-platform">社群證據平台<select id="social-platform"><option value="all">全部平台</option><option>Threads</option><option>X</option><option>Facebook</option><option>Instagram</option><option>TikTok</option><option>YouTube</option><option>PTT</option><option>Dcard</option></select></label>
         <label for="fit-filter">分潤適合度<select id="fit-filter"><option value="all">全部適合度</option><option value="高">只看高適合度</option><option value="中">只看中適合度</option><option value="低">只看低適合度</option><option value="未評估">尚未評估</option></select></label>
       </div>
+      <div class="social-overview"><p id="social-status" role="status" aria-live="polite">正在讀取社群觀測資料。</p><p id="social-limitations" class="muted"></p></div>
+      <details class="social-method"><summary>社群熱度怎麼排？</summary>
+        <p>以本期觀測時間往前 48 小時的原始公開貼文為樣本，互動數須在 24 小時內確認。至少要有 2 位不同作者、不同原創內容，並能核對讚數及留言數，才列入排名。排除官方公告、抽獎、廣告、轉貼與同稿轉載。</p>
+        <p>樣本互動速率＝（讚數＋留言數 × 3）÷ 發布到觀測的小時數；至少以 6 小時計。每位作者取互動速率最高的一篇，每題最多 5 篇，取中位數由高到低排列。這是網站自訂的樣本比較方法，並非平台官方熱榜或觀看量預測。</p>
+        <p>觀看、轉發數可見時另列，不把缺少的數字當作 0。不同平台規模不同，可選單一平台比較；單次觀測不宣稱正在加速成長。熱度未確認者保留內容原序，不能解讀成不熱門。分潤適合度可同時篩選。</p>
+      </details>
       <p class="muted fit-explanation">高：讀者有直接預訂需求、連結自然。中：需補行程或攻略才適合。低：以資訊分享為主，避免硬推商品。此為編輯判斷，不代表分潤收入；平台商品、庫存與分潤資格仍須確認。同級按內容分數排序。</p>
       <p id="filter-status" class="muted" role="status" aria-live="polite"></p>
       <fieldset id="topic-picker"><legend class="sr-only">選擇要產生 Threads 草稿的題目</legend><div id="top10" class="cards"></div></fieldset>
