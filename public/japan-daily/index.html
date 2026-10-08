@@ -3,39 +3,49 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="為台灣旅人與內容創作者精選的日本每日情報：今日首選、TOP 10、來源查核與 Threads 草稿。">
-  <meta name="theme-color" content="#f7f5ef">
-  <title>日本每日內容雷達</title>
+  <meta name="description" content="每日 10 個日本精選選題。先選擇你想寫的主題，再產生對應的 Threads 草稿。">
+  <meta name="theme-color" content="#fbf8ff">
+  <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
-  <script src="./app.js" defer></script>
+  <link rel="stylesheet" href="./selection.css">
+  <script src="./app.js" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
   <header class="header wrap">
     <a class="brand" href="./"><span class="sun" aria-hidden="true"></span>日本每日內容雷達</a>
-    <nav aria-label="主選單"><a href="../">旅遊雷達首頁</a><a href="#notice" id="selection-link">今日精選</a><a href="#notice" id="threads-link">Threads 草稿</a><a href="#archive">歷史報告</a></nav>
+    <nav aria-label="主選單"><a href="../">旅遊雷達首頁</a><a href="#selection">今日選題</a><a href="#composer">產生草稿</a><a href="#archive">歷史報告</a></nav>
   </header>
   <main id="main" class="wrap">
     <section class="hero" aria-labelledby="page-title">
       <div><p class="eyebrow">CC三寶媽 · JAPAN DAILY RADAR</p>
-        <h1 id="page-title">日本今天的消息，<br>替你的下一趟旅行<span>多想一步。</span></h1>
-        <p class="intro">從各地最新情報裡，選出值得知道、值得收藏，也值得分享的那一則。</p>
+        <h1 id="page-title">先選今天想寫的題目，<br>再完成<span>你的 Threads 草稿。</span></h1>
+        <p class="intro">每天精選 10 個日本話題。看完重點、分數與來源，選一題，再按下產生草稿。</p>
       </div>
       <div class="edition"><span class="edition-label">DAILY EDITION</span><strong id="edition-date">等待首份報告</strong><span>每日研究排程 · 台灣 12:00</span><small id="cutoff">發布時間以實際完成查核為準</small></div>
     </section>
-    <div class="meta-line"><span><i aria-hidden="true"></i>日文原始來源優先 · 日期交叉核對</span><span>北海道到沖繩，持續關注日本各地</span></div>
-    <section id="notice" class="notice" role="status" aria-live="polite"><span class="notice-number">01</span><div><h2>正在讀取最新報告</h2><p>查核完成的情報，會在這裡呈現。</p></div></section>
-    <div id="report" hidden>
-      <section class="section" aria-labelledby="trends-title"><div class="section-heading"><p class="eyebrow">THE BIG PICTURE</p><h2 id="trends-title">今天日本發生什麼？</h2></div><ul id="trends" class="trends"></ul></section>
-      <section id="selection" class="selection section" aria-labelledby="choice-title"><div class="section-heading"><p class="eyebrow">EDITOR’S PICK</p><h2>今日首選</h2></div><div id="choice"></div></section>
-      <section class="section" aria-labelledby="top-title"><div class="section-heading split"><div><p class="eyebrow">WORTH YOUR ATTENTION</p><h2 id="top-title">今日 TOP 10</h2></div><span class="muted">分數與星等為編輯評估</span></div><div id="top10" class="cards"></div></section>
-      <section id="threads" class="section" aria-labelledby="threads-title"><div class="section-heading split"><div><p class="eyebrow">READY TO SHARE</p><h2 id="threads-title">Threads 完整草稿</h2></div><button id="copy" type="button">複製草稿 <span aria-hidden="true">↗</span></button></div><p id="copy-status" class="muted" role="status" aria-live="polite"></p><div id="drafts" class="drafts"></div><details class="details"><summary>5 個推薦切角與開頭</summary><div id="angles"></div></details></section>
-      <section class="section two-column"><div><p class="eyebrow">VISUAL NOTES</p><h2>可搭配圖片</h2><ul id="images" class="list"></ul></div><div><p class="eyebrow">GO FURTHER</p><h2>延伸內容</h2><ul id="extensions" class="list"></ul></div></section>
-      <section class="section"><p class="eyebrow">ON OUR WATCHLIST</p><h2>明天值得持續追蹤</h2><ul id="followups" class="list"></ul></section>
-      <section class="section"><details class="details"><summary>完整報告與候選池評分紀錄</summary><p class="muted">包含候選比較、八項分數、時效、風險與完整來源。</p><div id="full-report" class="full-report"></div></details></section>
-    </div>
-    <section id="archive" class="section archive" aria-labelledby="archive-title"><div><p class="eyebrow">THE ARCHIVE</p><h2 id="archive-title">每一天，都留一份紀錄。</h2><p class="muted">已發布報告依日期保存，方便回頭查閱。</p></div><div><label for="report-date">選擇報告日期</label><select id="report-date" disabled><option>尚無已發布報告</option></select></div></section>
+    <ol class="workflow" aria-label="使用步驟"><li><span>01</span>瀏覽精選選題</li><li><span>02</span>選擇想寫的一題</li><li><span>03</span>產生並複製草稿</li></ol>
+    <section id="notice" class="notice" role="status" aria-live="polite"><span class="notice-number">01</span><div><h2>正在讀取最新選題</h2><p>完成查核的精選題目，會在這裡呈現。</p></div></section>
+    <section id="selection" class="section" aria-labelledby="top-title">
+      <div class="section-heading split"><div><p class="eyebrow">STEP 01 · PICK YOUR STORY</p><h2 id="top-title">今日 10 個精選選題</h2></div><span id="topic-count" class="muted">等待選題發布</span></div>
+      <p class="muted">一次選擇一題。編輯推薦供你參考，最後由你決定今天寫哪一篇。</p>
+      <fieldset id="topic-picker"><legend class="sr-only">選擇要產生 Threads 草稿的題目</legend><div id="top10" class="cards"></div></fieldset>
+    </section>
+    <section id="composer" class="section composer" aria-labelledby="composer-title">
+      <div><p class="eyebrow">STEP 02 · MAKE IT YOUR POST</p><h2 id="composer-title">選好題目，再產生草稿。</h2><p id="selected-topic" class="selected-topic" role="status" aria-live="polite">尚未選擇題目</p><p id="generation-help" class="muted">精選選題發布後，先選擇一題，即可產生對應草稿。</p></div>
+      <button id="generate" type="button" disabled aria-describedby="generation-help">產生 Threads 草稿 <span aria-hidden="true">↗</span></button>
+      <p class="preparation-note">每題草稿依每日查核資料預先撰寫；選題並按下按鈕後，才會顯示該題文案。</p>
+    </section>
+    <section id="generated" class="section" aria-labelledby="threads-title" hidden>
+      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">你的 Threads 草稿</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製完整草稿 <span aria-hidden="true">↗</span></button></div>
+      <p id="copy-status" class="muted" role="status" aria-live="polite"></p><div id="drafts" class="drafts"></div>
+      <div id="draft-sources" class="draft-source-list"></div>
+      <details id="angles-section" class="details"><summary>這題的推薦切角與開頭</summary><div id="angles"></div></details>
+      <div class="two-column draft-extras"><div id="images-section"><p class="eyebrow">VISUAL NOTES</p><h2>可搭配圖片</h2><ul id="images" class="list"></ul></div><div id="extensions-section"><p class="eyebrow">GO FURTHER</p><h2>延伸內容</h2><ul id="extensions" class="list"></ul></div></div>
+    </section>
+    <section id="context" class="section" hidden><details class="details"><summary>今日趨勢、編輯推薦與候選查核紀錄</summary><h2 class="context-title">今天日本發生什麼？</h2><ul id="trends" class="trends"></ul><div id="choice" class="editor-note"></div><h2 class="context-title">明天值得持續追蹤</h2><ul id="followups" class="list"></ul><div id="research-text" class="full-report"></div></details></section>
+    <section id="archive" class="section archive" aria-labelledby="archive-title"><div><p class="eyebrow">THE ARCHIVE</p><h2 id="archive-title">每一天，都留一份紀錄。</h2><p class="muted">切換日期後，重新選擇當天想寫的題目。</p></div><div><label for="report-date">選擇報告日期</label><select id="report-date" disabled><option>尚無已發布報告</option></select></div></section>
   </main>
-  <footer class="wrap footer"><a class="brand" href="./"><span class="sun" aria-hidden="true"></span>日本每日內容雷達</a><p>資訊以查核截止時間為準；出發前請確認官方最新公告。</p><span>TAIWAN 12:00 / JAPAN 13:00</span></footer>
+  <footer class="wrap footer"><a class="brand" href="./"><span class="sun" aria-hidden="true"></span>日本每日內容雷達</a><p>草稿依報告當日資訊撰寫，發布前請再次確認官方最新公告。</p><span>TAIWAN 12:00 / JAPAN 13:00</span></footer>
 </body>
 </html>
