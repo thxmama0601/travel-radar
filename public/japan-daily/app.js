@@ -1,8 +1,8 @@
 import { getTopicDraft, isRecommended, validReport, formatThreadCopy, getRecommendedDraftIndex } from './draft-model.mjs?v=threaded-1';
-import { composeAffiliateDraft, affiliateCommentTemplate } from './affiliate-model.mjs?v=compose-1';
-import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
+import { composeAffiliateDraft, affiliateCommentTemplate } from './affiliate-model.mjs?v=kkday-25165-1';
+import { createAffiliateEditor } from './affiliate-editor.mjs?v=kkday-25165-1';
 import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
-import { createAffiliatePagePanel } from './affiliate-pages.mjs?v=pages-1';
+import { createAffiliatePagePanel } from './affiliate-pages.mjs?v=kkday-25165-1';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
@@ -93,7 +93,7 @@ function selectTopic(index, { scroll = true } = {}) {
   const fit = getAffiliateFit(topic);
   affiliateEditor.load(currentReport, topic, draft);
   $('selected-fit').replaceChildren(fitSummary(topic));
-  $('selected-pages').replaceChildren(createAffiliatePagePanel(topic, { expanded: true }));
+  $('selected-pages').replaceChildren(createAffiliatePagePanel(topic, { expanded: true, onUseKkday: page => affiliateEditor.useKkdayPage(page) }));
   if (fit?.commentOpening) $('selected-fit').append(element('p', '留言切角：' + fit.commentOpening));
   if (fit?.checks) $('selected-fit').append(element('p', '搭配前確認：' + fit.checks, 'muted'));
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;

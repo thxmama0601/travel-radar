@@ -8,6 +8,24 @@ export const AFFILIATE_PLATFORMS = [
 const DISCLOSURE = '（分潤連結：透過連結預訂，我可能獲得佣金。）';
 const count = (text) => [...text].length;
 
+// User-supplied publisher ID. Apply only to researched KKday pages, never saved custom links.
+export const KKDAY_CID = '25165';
+export function kkdayAffiliateUrl(value) {
+  if (typeof value !== 'string' || /[\s\\\u0000-\u001f\u007f\u200b-\u200f\u202a-\u202e\u2066-\u2069]/u.test(value)) return '';
+  try {
+    const parsed = new URL(value);
+    if (parsed.protocol !== 'https:' || !['www.kkday.com', 'm.kkday.com'].includes(parsed.hostname) || parsed.username || parsed.password || parsed.port) return '';
+    const hashAt = value.indexOf('#');
+    const hash = hashAt < 0 ? '' : value.slice(hashAt);
+    const base = hashAt < 0 ? value : value.slice(0, hashAt);
+    const queryAt = base.indexOf('?');
+    const path = queryAt < 0 ? base : base.slice(0, queryAt);
+    const parts = queryAt < 0 ? [] : base.slice(queryAt + 1).split('&').filter(part => part && decodeURIComponent(part.split('=')[0]).toLowerCase() !== 'cid');
+    // Keep the raw spelling/order of unrelated parameters and the fragment intact.
+    return path + '?' + [...parts, 'cid=' + KKDAY_CID].join('&') + hash;
+  } catch { return ''; }
+}
+
 export function affiliateCommentTemplate(opening = '') {
   return (opening || '行程用得到的話，可以參考這個預訂連結。')
     + '\n\n〔貼上與本篇相關、已確認適用的分潤網址〕\n\n' + DISCLOSURE;

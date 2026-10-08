@@ -1,4 +1,5 @@
-import { AFFILIATE_PLATFORMS, normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks } from './affiliate-model.mjs?v=affiliate-fit-2';
+import { AFFILIATE_PLATFORMS, normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks, kkdayAffiliateUrl, KKDAY_CID } from './affiliate-model.mjs?v=kkday-25165-1';
+import { getAffiliatePageGroups } from './affiliate-pages.mjs?v=kkday-25165-1';
 
 export function createAffiliateEditor({ onChange }) {
   const $ = (id) => document.getElementById(id);
@@ -14,7 +15,7 @@ export function createAffiliateEditor({ onChange }) {
     try { localStorage.setItem(key, JSON.stringify(entries)); status(success); return true; }
     catch { status('瀏覽器無法儲存，這次仍可使用；重新整理後請再次貼上連結。'); return false; }
   };
-  const getEntries = () => [...controls].map(([id, row]) => ({ id, enabled: row.enabled.checked, label: row.label.value, url: row.url.value }));
+  const getEntries = () => [...controls].map(([id, row]) => ({ id, enabled: row.enabled.checked, label: row.label.value, url: row.url.value, ...(id === 'kkday' ? { defaultHandled: true } : {}) }));
   const fill = (entries) => normalizeAffiliateEntries(entries).forEach((entry) => {
     const row = controls.get(entry.id);
     row.enabled.checked = entry.enabled;
@@ -81,6 +82,17 @@ export function createAffiliateEditor({ onChange }) {
   });
   return {
     getEntries, showError,
+    useKkdayPage(page) {
+      if (!activeKey) return;
+      const url = kkdayAffiliateUrl(page.url);
+      if (!url) return;
+      const row = controls.get('kkday');
+      row.url.value = url;
+      row.label.value = [...page.title].slice(0, 60).join('');
+      row.enabled.checked = true;
+      $('affiliate-options').open = true;
+      persist();
+    },
     load(report, topic, draft) {
       activeKey = null;
       clearError(); status(''); fill(null);
@@ -91,7 +103,16 @@ export function createAffiliateEditor({ onChange }) {
       if (!topic) return;
       activeKey = affiliateTopicKey(report.date, topic);
       const saved = read(activeKey);
-      const entries = saved ?? normalizeAffiliateEntries(read(presetKey)).map((entry) => ({ ...entry, enabled: false }));
+      const entries = normalizeAffiliateEntries(saved ?? normalizeAffiliateEntries(read(presetKey)).map((entry) => ({ ...entry, enabled: false })));
+      const savedKkday = Array.isArray(saved) ? saved.find(entry => entry?.id === 'kkday') : null;
+      const pages = getAffiliatePageGroups(topic).find(group => group.id === 'kkday').pages;
+      if (pages.length === 1 && !savedKkday?.defaultHandled && !(typeof savedKkday?.url === 'string' && savedKkday.url.trim())) {
+        const url = kkdayAffiliateUrl(pages[0].url);
+        if (url) {
+          Object.assign(entries.find(entry => entry.id === 'kkday'), { url, label: [...pages[0].title].slice(0, 60).join(''), enabled: true });
+          status(($('affiliate-status').textContent ? $('affiliate-status').textContent + '\n' : '') + '已帶入本題 KKday 推薦與 cid=' + KKDAY_CID + '，並勾選加入分潤留言；可修改或取消勾選。');
+        }
+      }
       fill(entries);
       if (getEntries().some((entry) => entry.enabled)) $('affiliate-options').open = true;
       $('affiliate-suggestions').textContent = (draft?.extensions || []).join('\n');

@@ -1,8 +1,23 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks, composeAffiliateDraft } from '../public/japan-daily/affiliate-model.mjs';
+import { normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks, composeAffiliateDraft, kkdayAffiliateUrl } from '../public/japan-daily/affiliate-model.mjs';
 
 const link = (url, extra = {}) => ({ id: 'trip', enabled: true, label: '札幌住宿', url, ...extra });
+test('KKday publisher code composes once without altering other raw query values or fragments', () => {
+  assert.equal(kkdayAffiliateUrl('https://www.kkday.com/zh-tw/product/19252'), 'https://www.kkday.com/zh-tw/product/19252?cid=25165');
+  const input='https://m.kkday.com/zh-tw/product/19252?tag=A+B&cid=111&target=https%3A%2F%2Fx.test&tag=C%20D&%63id=222#options';
+  const expected='https://m.kkday.com/zh-tw/product/19252?tag=A+B&target=https%3A%2F%2Fx.test&tag=C%20D&cid=25165#options';
+  assert.equal(kkdayAffiliateUrl(input),expected);
+  assert.equal(kkdayAffiliateUrl(expected),expected);
+  assert.equal(kkdayAffiliateUrl('https://www.kkday.com/zh-tw/product/19252#details'), 'https://www.kkday.com/zh-tw/product/19252?cid=25165#details');
+  for (const invalid of [null,'?cid=25165','https://www.klook.com/activity/1','https://www.kkday.com.evil.test/product/1','https://www.kkday.com@evil.test/product/1','https://user@www.kkday.com/product/1','https://www.kkday.com/\nproduct/1']) assert.equal(kkdayAffiliateUrl(invalid),'');
+});
+test('supplied custom KKday affiliate URLs remain unchanged when composing replies', () => {
+  const url='https://www.kkday.com/zh-tw/product/19252?ud1=A+B&cid=999&ud2=C%20D#options';
+  const result=composeAffiliateDraft(['主文'],[{id:'kkday',enabled:true,url}]);
+  assert(result.comments[0].includes(url));
+  assert.deepEqual(result.threads,['主文']);
+});
 test('affiliate URLs retain exact tracking parameters, escapes, ordering and fragments', () => {
   const url = 'https://partner.example/reserve?aid=001&target=https%3A%2F%2Fexample.com%2Fhotel&tag=A+B&tag=C%20D#rooms';
   const original = ['已查核的住宿資訊'];
