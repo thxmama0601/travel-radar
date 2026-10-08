@@ -7,8 +7,8 @@
   <meta name="theme-color" content="#fbf8ff">
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
-  <link rel="stylesheet" href="./selection.css?v=affiliate-1">
-  <script src="./app.js?v=affiliate-1" type="module"></script>
+  <link rel="stylesheet" href="./selection.css?v=affiliate-fit-2">
+  <script src="./app.js?v=affiliate-fit-2" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -20,7 +20,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div><p class="eyebrow">CC三寶媽 · JAPAN DAILY RADAR</p>
         <h1 id="page-title">先選今天想寫的題目，<br>再完成<span>你的 Threads 草稿。</span></h1>
-        <p class="intro">每天精選 10 個日本話題。看完重點、分數與來源，選一題，再按下產生草稿。</p>
+        <p class="intro">每天精選 10 個日本話題。比較內容潛力與留言分潤適合度，選一題，再產生貼文與留言。</p>
       </div>
       <div class="edition"><span class="edition-label">DAILY EDITION</span><strong id="edition-date">等待首份報告</strong><span>每日研究排程 · 台灣 10:00</span><small id="cutoff">發布時間以實際完成查核為準</small></div>
     </section>
@@ -29,17 +29,24 @@
     <section id="selection" class="section" aria-labelledby="top-title">
       <div class="section-heading split"><div><p class="eyebrow">STEP 01 · PICK YOUR STORY</p><h2 id="top-title">今日 10 個精選選題</h2></div><span id="topic-count" class="muted">等待選題發布</span></div>
       <p class="muted">一次選擇一題。編輯推薦供你參考，最後由你決定今天寫哪一篇。</p>
+      <div class="topic-controls">
+        <label for="topic-order">選題方向<select id="topic-order"><option value="editorial">內容潛力優先（原排名）</option><option value="affiliate">留言分潤適合度優先</option></select></label>
+        <label for="fit-filter">分潤適合度<select id="fit-filter"><option value="all">全部適合度</option><option value="高">只看高適合度</option><option value="中">只看中適合度</option><option value="低">只看低適合度</option><option value="未評估">尚未評估</option></select></label>
+      </div>
+      <p class="muted fit-explanation">高：讀者有直接預訂需求、連結自然。中：需補行程或攻略才適合。低：以資訊分享為主，避免硬推商品。此為編輯判斷，不代表分潤收入；平台商品、庫存與分潤資格仍須確認。同級按內容分數排序。</p>
+      <p id="filter-status" class="muted" role="status" aria-live="polite"></p>
       <fieldset id="topic-picker"><legend class="sr-only">選擇要產生 Threads 草稿的題目</legend><div id="top10" class="cards"></div></fieldset>
     </section>
     <section id="composer" class="section composer" aria-labelledby="composer-title">
       <div><p class="eyebrow">STEP 02 · MAKE IT YOUR POST</p><h2 id="composer-title">選好題目，再產生草稿。</h2><p id="selected-topic" class="selected-topic" role="status" aria-live="polite">尚未選擇題目</p><p id="generation-help" class="muted">精選選題發布後，先選擇一題，即可產生對應草稿。</p></div>
-      <details id="affiliate-options" class="affiliate-options" open>
-        <summary>加入我的分潤連結 <span>選填</span></summary>
-        <p class="muted">貼上網址，勾選這一題適合的平台。草稿會保留完整連結，並附上分潤說明。</p>
+      <div id="selected-fit" class="selected-fit"></div>
+      <details id="affiliate-options" class="affiliate-options">
+        <summary>準備留言用的分潤連結 <span>選填，不影響選題評估</span></summary>
+        <p class="muted">貼上網址並勾選平台，會另外產生分潤留言，方便貼在正文下方。留言保留完整連結並附分潤說明。</p>
         <p id="affiliate-suggestions" class="affiliate-suggestions"></p>
         <fieldset id="affiliate-fields" disabled><legend class="sr-only">勾選要加入草稿的分潤連結</legend></fieldset>
         <div class="affiliate-actions"><button id="affiliate-save-presets" class="secondary-button" type="button" disabled>儲存為常用連結</button><button id="affiliate-load-presets" class="secondary-button" type="button" disabled>帶入常用連結</button></div>
-        <p class="muted">這題的連結會自動保存在目前瀏覽器，換裝置不會同步。常用連結會帶入新選題，由你勾選是否加入。只有產生並複製的文案會包含連結。</p>
+        <p class="muted">這題的連結會自動保存在目前瀏覽器，換裝置不會同步。常用連結會帶入新選題，由你勾選是否加入留言。</p>
         <p id="affiliate-status" class="muted" role="status" aria-live="polite"></p>
         <p id="affiliate-error" class="affiliate-error" role="alert"></p>
       </details>
@@ -47,8 +54,12 @@
       <p class="preparation-note">每題草稿依每日查核資料預先撰寫；選題並按下按鈕後，才會顯示該題文案。</p>
     </section>
     <section id="generated" class="section" aria-labelledby="threads-title" hidden>
-      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">你的 Threads 草稿</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製完整草稿 <span aria-hidden="true">↗</span></button></div>
+      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">你的 Threads 貼文正文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製貼文正文 <span aria-hidden="true">↗</span></button></div>
       <p id="copy-status" class="muted" role="status" aria-live="polite"></p><div id="drafts" class="drafts"></div>
+      <section id="affiliate-replies" class="affiliate-replies" aria-labelledby="comments-title" hidden>
+        <div class="section-heading split"><div><p class="eyebrow">POST IN THE COMMENTS</p><h2 id="comments-title">另外貼在留言的分潤連結</h2><p class="muted">貼文發布後，再到留言區貼上。若拆成多則，請依序分別留言。</p></div><button id="copy-comments" type="button" disabled>複製分潤留言 <span aria-hidden="true">↗</span></button></div>
+        <p id="comments-status" class="muted" role="status" aria-live="polite"></p><div id="comments" class="drafts"></div>
+      </section>
       <div id="draft-sources" class="draft-source-list"></div>
       <details id="angles-section" class="details"><summary>這題的推薦切角與開頭</summary><div id="angles"></div></details>
       <div class="two-column draft-extras"><div id="images-section"><p class="eyebrow">VISUAL NOTES</p><h2>可搭配圖片</h2><ul id="images" class="list"></ul></div><div id="extensions-section"><p class="eyebrow">GO FURTHER</p><h2>延伸內容</h2><ul id="extensions" class="list"></ul></div></div>

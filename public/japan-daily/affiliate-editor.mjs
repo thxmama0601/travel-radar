@@ -1,4 +1,4 @@
-import { AFFILIATE_PLATFORMS, normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks } from './affiliate-model.mjs?v=affiliate-1';
+import { AFFILIATE_PLATFORMS, normalizeAffiliateEntries, affiliateTopicKey, validateAffiliateLinks } from './affiliate-model.mjs?v=affiliate-fit-2';
 
 export function createAffiliateEditor({ onChange }) {
   const $ = (id) => document.getElementById(id);
@@ -37,7 +37,7 @@ export function createAffiliateEditor({ onChange }) {
     if (!activeKey) return;
     clearError();
     onChange();
-    write(activeKey, getEntries(), '已自動儲存這題的連結。修改後，請重新產生草稿。');
+    write(activeKey, getEntries(), '已自動儲存這題的連結。修改後，請重新產生貼文與留言。');
   };
   for (const { id, name } of AFFILIATE_PLATFORMS) {
     const row = document.createElement('div'); row.className = 'affiliate-row';

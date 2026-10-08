@@ -1,6 +1,7 @@
 import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs?v=topic-picker-1';
-import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-1';
-import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-1';
+import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-fit-2';
+import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
+import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=affiliate-fit-2';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
@@ -56,6 +57,10 @@ function clearGenerated() {
   $('generated').hidden = true;
   $('copy').disabled = true;
   $('copy-status').textContent = '';
+  $('affiliate-replies').hidden = true;
+  $('copy-comments').disabled = true;
+  $('comments-status').textContent = '';
+  $('comments').replaceChildren();
   $('drafts').replaceChildren();
   $('generated-topic').textContent = '';
   $('draft-sources').replaceChildren();
@@ -66,6 +71,7 @@ function resetSelection() {
   selectedIndex = -1;
   clearGenerated();
   affiliateEditor.load(null, null, null);
+  $('selected-fit').replaceChildren();
   $('generate').disabled = true;
   $('selected-topic').textContent = '尚未選擇題目';
   $('generation-help').textContent = '先從上方選擇一題，再按下「產生 Threads 草稿」。';
@@ -73,20 +79,68 @@ function resetSelection() {
 function selectTopic(index) {
   if (!currentReport?.top10[index]) return;
   selectedIndex = index;
+  $('filter-status').textContent = '';
   clearGenerated();
   const topic = currentReport.top10[index];
   const draft = getTopicDraft(currentReport, index);
+  const fit = getAffiliateFit(topic);
   affiliateEditor.load(currentReport, topic, draft);
+  $('selected-fit').replaceChildren(fitSummary(topic));
+  if (fit?.commentOpening) $('selected-fit').append(element('p', '留言切角：' + fit.commentOpening));
+  if (fit?.checks) $('selected-fit').append(element('p', '搭配前確認：' + fit.checks, 'muted'));
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;
   $('generate').disabled = !draft;
   $('generation-help').textContent = draft
-    ? '選題已就緒。可加入適合的分潤連結，再產生這一題的草稿。'
+    ? '選題已就緒。可選填分潤連結，產生後貼文與留言分開複製。'
     : '這題尚未備妥草稿。請選擇其他題目，或等待當日報告更新。';
-  document.querySelectorAll('.topic-radio').forEach((radio, i) => {
-    radio.checked = i === index;
-    radio.closest('.card').classList.toggle('selected', i === index);
+  document.querySelectorAll('.topic-radio').forEach((radio) => {
+    radio.checked = Number(radio.value) === index;
+    radio.closest('.card').classList.toggle('selected', radio.checked);
   });
   $('composer').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
+}
+function fitSummary(topic) {
+  const fit = getAffiliateFit(topic);
+  const box = element('div', null, 'fit-summary');
+  box.append(element('strong', '留言分潤適合度：' + (fit?.level || '未評估'), 'fit-badge fit-' + ({高:'high',中:'medium',低:'low'}[fit?.level] || 'unknown')));
+  if (!fit) { box.append(element('p', '本期尚未提供評估，不以內容分數推算。')); return box; }
+  box.append(element('p', fit.reason));
+  if (fit.products.length) box.append(element('p', '可搭配：' + fit.products.join('、')));
+  if (fit.platforms.length) box.append(element('p', '可查找平台：' + fit.platforms.join('、'), 'muted'));
+  return box;
+}
+function renderTopics() {
+  if (!currentReport) return;
+  const report = currentReport;
+  const entries = getVisibleTopics(report.top10, $('topic-order').value, $('fit-filter').value);
+  $('topic-count').textContent = entries.length + ' / ' + report.top10.length + ' 題 · 內容分數為編輯評估';
+  $('filter-status').textContent = selectedIndex >= 0 && !entries.some(({index}) => index === selectedIndex) ? '目前選題不在篩選結果中；下方仍保留你的選擇。' : '';
+  list('top10', entries, ({ topic: item, index }) => {
+    const card = element('article', null, 'card topic-card');
+    const head = element('div', null, 'card-head');
+    head.append(element('span', 'TOP ' + String(index + 1).padStart(2, '0'), 'rank'), element('span', '內容 ' + item.score + ' / 100', 'score'));
+    card.append(head);
+    if (isRecommended(report, index)) card.append(element('span', '編輯推薦', 'recommended-tag'));
+    const title = element('h3', item.title);
+    title.id = 'topic-title-' + index;
+    card.append(title, element('span', (item.region || '地區未提供') + ' · ' + (item.category || '分類未提供'), 'tag'));
+    card.append(element('p', '公布：' + (item.announcementDate || '尚未完全確認') + '\n發生／活動：' + (item.eventDate || '尚未完全確認'), 'dates'));
+    card.append(element('p', item.why || ''), sources(item.sources));
+    card.append(fitSummary(item));
+    const pick = element('label', null, 'topic-select');
+    const radio = element('input', null, 'topic-radio');
+    radio.type = 'radio';
+    radio.name = 'topic';
+    radio.value = String(index);
+    radio.checked = index === selectedIndex;
+    card.classList.toggle('selected', radio.checked);
+    radio.setAttribute('aria-label', '選擇第 ' + (index + 1) + ' 題：' + item.title);
+    radio.addEventListener('change', () => selectTopic(index));
+    pick.append(radio, element('span', '選擇這題'), element('small', getTopicDraft(report, index) ? '草稿已備妥' : '草稿尚未備妥'));
+    card.append(pick);
+    return card;
+  });
+  if (!entries.length) $('top10').append(element('p', '本期沒有符合這個分潤適合度的選題，試試其他篩選條件。', 'muted'));
 }
 function renderReport(report) {
   currentReport = report;
@@ -97,29 +151,7 @@ function renderReport(report) {
   $('cutoff').textContent = '搜尋截止：' + report.cutoff;
   document.title = report.date + '｜精選選題與 Threads 草稿';
   $('top-title').textContent = '今日 ' + report.top10.length + ' 個精選選題';
-  $('topic-count').textContent = report.top10.length + ' 題可選 · 分數為編輯評估';
-  list('top10', report.top10, (item, index) => {
-    const card = element('article', null, 'card topic-card');
-    const head = element('div', null, 'card-head');
-    head.append(element('span', String(index + 1).padStart(2, '0'), 'rank'), element('span', item.score + ' / 100', 'score'));
-    card.append(head);
-    if (isRecommended(report, index)) card.append(element('span', '編輯推薦', 'recommended-tag'));
-    const title = element('h3', item.title);
-    title.id = 'topic-title-' + index;
-    card.append(title, element('span', (item.region || '地區未提供') + ' · ' + (item.category || '分類未提供'), 'tag'));
-    card.append(element('p', '公布：' + (item.announcementDate || '尚未完全確認') + '\n發生／活動：' + (item.eventDate || '尚未完全確認'), 'dates'));
-    card.append(element('p', item.why || ''), sources(item.sources));
-    const pick = element('label', null, 'topic-select');
-    const radio = element('input', null, 'topic-radio');
-    radio.type = 'radio';
-    radio.name = 'topic';
-    radio.value = String(index);
-    radio.setAttribute('aria-label', '選擇第 ' + (index + 1) + ' 題：' + item.title);
-    radio.addEventListener('change', () => selectTopic(index));
-    pick.append(radio, element('span', '選擇這題'), element('small', getTopicDraft(report, index) ? '草稿已備妥' : '草稿尚未備妥'));
-    card.append(pick);
-    return card;
-  });
+  renderTopics();
   list('trends', report.trends);
   const choice = report.choice || {};
   $('choice').replaceChildren(element('h3', '編輯推薦：' + (choice.title || '未指定')), element('p', choice.reason || ''), element('p', choice.versusSecond ? '為什麼不是第二名：' + choice.versusSecond : ''));
@@ -135,17 +167,24 @@ function generateDraft() {
   const topic = currentReport?.top10[selectedIndex];
   const draft = getTopicDraft(currentReport, selectedIndex);
   if (!topic || !draft) return;
-  const composed = composeAffiliateDraft(draft.threads, affiliateEditor.getEntries());
+  const composed = composeAffiliateDraft(draft.threads, affiliateEditor.getEntries(), getAffiliateFit(topic)?.commentOpening);
   affiliateEditor.showError(composed);
   if (composed.error) { clearGenerated(); return; }
-  generatedDraft = { ...draft, threads: composed.threads };
+  generatedDraft = { ...draft, threads: composed.threads, comments: composed.comments };
   $('generated-topic').textContent = currentReport.date + ' · ' + topic.title;
-  if (composed.linkCount) $('generated-topic').textContent += ' · 已加入 ' + composed.linkCount + ' 個分潤連結';
+  if (composed.linkCount) $('generated-topic').textContent += ' · 另備 ' + composed.linkCount + ' 個分潤連結的留言';
   list('drafts', generatedDraft.threads, (text, index) => {
     const block = element('div', null, 'draft');
     block.append(element('small', 'THREAD ' + String(index + 1).padStart(2, '0')), document.createTextNode(text));
     return block;
   });
+  list('comments', composed.comments, (text, index) => {
+    const block = element('div', null, 'draft');
+    block.append(element('small', '留言 ' + (index + 1)), document.createTextNode(text));
+    return block;
+  });
+  $('affiliate-replies').hidden = !composed.comments.length;
+  $('copy-comments').disabled = !composed.comments.length;
   $('draft-sources').replaceChildren(element('p', '這題的查核來源', 'muted'), sources(topic.sources));
   list('angles', draft.angles, (item, index) => {
     const block = element('div', null, 'angle');
@@ -199,12 +238,24 @@ async function loadReport(date) {
   }
 }
 $('generate').addEventListener('click', generateDraft);
+$('topic-order').addEventListener('change', renderTopics);
+$('fit-filter').addEventListener('change', renderTopics);
+$('copy-comments').addEventListener('click', async () => {
+  if (!generatedDraft?.comments.length) return;
+  const revision = selectionRevision;
+  try {
+    await navigator.clipboard.writeText(generatedDraft.comments.join('\n\n──────────\n\n'));
+    if (revision === selectionRevision) $('comments-status').textContent = '已複製分潤留言，請貼在你的 Threads 貼文下方。';
+  } catch {
+    if (revision === selectionRevision) $('comments-status').textContent = '瀏覽器未允許複製，請選取留言文字手動複製。';
+  }
+});
 $('copy').addEventListener('click', async () => {
   if (!generatedDraft) return;
   const revision = selectionRevision;
   try {
     await navigator.clipboard.writeText(generatedDraft.threads.join('\n\n──────────\n\n'));
-    if (revision === selectionRevision) $('copy-status').textContent = '已複製這題的完整草稿，可貼上 Threads。';
+    if (revision === selectionRevision) $('copy-status').textContent = '已複製貼文正文。分潤留言請用下方按鈕另外複製。';
   } catch {
     if (revision === selectionRevision) $('copy-status').textContent = '瀏覽器未允許複製；請選取下方草稿文字手動複製。';
   }

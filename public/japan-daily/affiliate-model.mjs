@@ -5,7 +5,7 @@ export const AFFILIATE_PLATFORMS = [
   { id: 'klook', name: 'Klook' },
   { id: 'other', name: '其他平台' },
 ];
-const DISCLOSURE = '行程用得到的話，可參考這些預訂連結。\n（分潤連結：透過連結預訂，我可能獲得佣金。）';
+const DISCLOSURE = '（分潤連結：透過連結預訂，我可能獲得佣金。）';
 const count = (text) => [...text].length;
 
 export function normalizeAffiliateEntries(value) {
@@ -42,27 +42,23 @@ export function validateAffiliateLinks(entries, selectedOnly = true) {
   return { links, error: '', field: '' };
 }
 
-export function composeAffiliateDraft(threads, entries) {
+export function composeAffiliateDraft(threads, entries, opening = '') {
+  const header = (opening || '行程用得到的話，可參考這些預訂連結。') + '\n' + DISCLOSURE;
   const validation = validateAffiliateLinks(entries);
-  if (validation.error) return { ...validation, threads: [] };
+  if (validation.error) return { ...validation, threads: [], comments: [] };
   const { links } = validation;
-  if (!links.length) return { threads: [...threads], linkCount: 0, error: '', field: '' };
+  if (!links.length) return { threads: [...threads], comments: [], linkCount: 0, error: '', field: '' };
   const extra = [];
-  let current = DISCLOSURE;
+  let current = header;
   for (const link of links) {
     const block = '\n\n' + link.label + '\n' + link.url;
-    if (count(DISCLOSURE + block) > 500) {
-      return { threads: [], error: link.label + ' 的網址太長，請改用平台提供的短網址；系統不會刪除追蹤參數。', field: link.id + '-url' };
+    if (count(header + block) > 500) {
+      return { threads: [], comments: [], error: link.label + ' 的網址太長，請改用平台提供的短網址；系統不會刪除追蹤參數。', field: link.id + '-url' };
     }
-    if (count(current + block) > 500) { extra.push(current); current = DISCLOSURE; }
+    if (count(current + block) > 500) { extra.push(current); current = header; }
     current += block;
   }
   extra.push(current);
-  const result = [...threads];
-  if (result.length && count(result.at(-1) + '\n\n' + extra[0]) <= 500) result[result.length - 1] += '\n\n' + extra.shift();
-  result.push(...extra);
-  if (result.length > 5 || result.some((thread) => count(thread) > 500)) {
-    return { threads: [], error: '加入後超過 5 串或單串 500 字，請減少勾選的平台，或使用平台提供的短網址。', field: '' };
-  }
-  return { threads: result, linkCount: links.length, error: '', field: '' };
+  // Affiliate replies are copied separately. Never alter the editorial post.
+  return { threads: [...threads], comments: extra, linkCount: links.length, error: '', field: '' };
 }
