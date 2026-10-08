@@ -1,4 +1,4 @@
-import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs?v=topic-picker-1';
+import { getTopicDraft, isRecommended, validReport, formatMainPost } from './draft-model.mjs?v=main-comment-1';
 import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-fit-2';
 import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
 import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
@@ -91,7 +91,7 @@ function selectTopic(index) {
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;
   $('generate').disabled = !draft;
   $('generation-help').textContent = draft
-    ? '選題已就緒。可選填分潤連結，產生後貼文與留言分開複製。'
+    ? '選題已就緒。可選填分潤連結，產生「主文＋留言（分潤）」後分開複製。'
     : '這題尚未備妥草稿。請選擇其他題目，或等待當日報告更新。';
   document.querySelectorAll('.topic-radio').forEach((radio) => {
     radio.checked = Number(radio.value) === index;
@@ -213,21 +213,22 @@ function generateDraft() {
   const composed = composeAffiliateDraft(draft.threads, affiliateEditor.getEntries(), getAffiliateFit(topic)?.commentOpening);
   affiliateEditor.showError(composed);
   if (composed.error) { clearGenerated(); return; }
-  generatedDraft = { ...draft, threads: composed.threads, comments: composed.comments };
+  generatedDraft = { ...draft, threads: formatMainPost(composed.threads), comments: composed.comments };
   $('generated-topic').textContent = currentReport.date + ' · ' + topic.title;
   if (composed.linkCount) $('generated-topic').textContent += ' · 另備 ' + composed.linkCount + ' 個分潤連結的留言';
   list('drafts', generatedDraft.threads, (text, index) => {
     const block = element('div', null, 'draft');
-    block.append(element('small', 'THREAD ' + String(index + 1).padStart(2, '0')), document.createTextNode(text));
+    block.append(element('small', generatedDraft.threads.length === 1 ? '主文' : '主文 ' + (index + 1) + '／' + generatedDraft.threads.length), document.createTextNode(text));
     return block;
   });
   list('comments', composed.comments, (text, index) => {
     const block = element('div', null, 'draft');
-    block.append(element('small', '留言 ' + (index + 1)), document.createTextNode(text));
+    block.append(element('small', composed.comments.length === 1 ? '留言（分潤）' : '留言（分潤）' + (index + 1) + '／' + composed.comments.length), document.createTextNode(text));
     return block;
   });
-  $('affiliate-replies').hidden = !composed.comments.length;
+  $('affiliate-replies').hidden = false;
   $('copy-comments').disabled = !composed.comments.length;
+  $('comments-status').textContent = composed.comments.length ? '' : '尚未加入分潤連結。請展開上方「準備留言用的分潤連結」，填入網址並勾選，再重新產生草稿。';
   $('draft-sources').replaceChildren(element('p', '這題的查核來源', 'muted'), sources(topic.sources));
   list('angles', draft.angles, (item, index) => {
     const block = element('div', null, 'angle');
@@ -302,7 +303,7 @@ $('copy').addEventListener('click', async () => {
   const revision = selectionRevision;
   try {
     await navigator.clipboard.writeText(generatedDraft.threads.join('\n\n──────────\n\n'));
-    if (revision === selectionRevision) $('copy-status').textContent = '已複製貼文正文。分潤留言請用下方按鈕另外複製。';
+    if (revision === selectionRevision) $('copy-status').textContent = '已複製主文。留言（分潤）請用下方按鈕另外複製。';
   } catch {
     if (revision === selectionRevision) $('copy-status').textContent = '瀏覽器未允許複製；請選取下方草稿文字手動複製。';
   }

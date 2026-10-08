@@ -1,7 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { getTopicDraft, validReport } from '../public/japan-daily/draft-model.mjs';
+import { getTopicDraft, validReport, formatMainPost } from '../public/japan-daily/draft-model.mjs';
 const makeReport = () => ({date:'2026-10-08',cutoff:'12:00 Asia/Taipei',choice:{title:'B'},top10:[{title:'A',score:90,draft:{threads:['A 的草稿']}},{title:'B',score:85,draft:{threads:['B 的第一串','B 的第二串']}}],threads:['舊版編輯首選草稿']});
+test('main post combines short paragraphs without losing text and preserves long thread boundaries', () => {
+  const boundary = ['🚅'.repeat(249), '字'.repeat(249)];
+  assert.deepEqual(formatMainPost(boundary), [boundary.join('\n\n')]);
+  const longer = [boundary[0], boundary[1] + '字'];
+  assert.deepEqual(formatMainPost(longer), longer);
+  assert.notEqual(formatMainPost(longer), longer);
+});
 test('each selected topic resolves only its own draft and keeps thread order', () => {
   const report = makeReport();
   assert.deepEqual(getTopicDraft(report, 0).threads, ['A 的草稿']);

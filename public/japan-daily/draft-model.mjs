@@ -27,6 +27,12 @@ export function getTopicDraft(report, index) {
   return isRecommended(report, index) ? normalizeDraft(report) : null;
 }
 
+export function formatMainPost(threads) {
+  const combined = threads.join('\n\n');
+  // Keep all verified text. Longer drafts retain their original thread boundaries.
+  return [...combined].length <= 500 ? [combined] : [...threads];
+}
+
 export function validReport(report, date) {
   return report?.date === date && typeof report.cutoff === 'string'
     && Array.isArray(report.top10) && report.top10.length > 0 && report.top10.length <= 10

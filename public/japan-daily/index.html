@@ -8,7 +8,7 @@
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
   <link rel="stylesheet" href="./selection.css?v=social-1">
-  <script src="./app.js?v=social-1" type="module"></script>
+  <script src="./app.js?v=main-comment-1" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -20,7 +20,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div><p class="eyebrow">CC三寶媽 · JAPAN DAILY RADAR</p>
         <h1 id="page-title">先選今天想寫的題目，<br>再完成<span>你的 Threads 草稿。</span></h1>
-        <p class="intro">每天精選 10 個日本話題。比較社群討論證據、內容潛力與分潤適合度，再選一題產生貼文與留言。</p>
+        <p class="intro">每天精選 10 個日本話題。比較社群討論證據、內容潛力與分潤適合度，再選一題產生「主文＋留言（分潤）」。</p>
       </div>
       <div class="edition"><span class="edition-label">DAILY EDITION</span><strong id="edition-date">等待首份報告</strong><span>每日研究排程 · 台灣 10:00</span><small id="cutoff">發布時間以實際完成查核為準</small></div>
     </section>
@@ -61,10 +61,10 @@
       <p class="preparation-note">每題草稿依每日查核資料預先撰寫；選題並按下按鈕後，才會顯示該題文案。</p>
     </section>
     <section id="generated" class="section" aria-labelledby="threads-title" hidden>
-      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">你的 Threads 貼文正文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製貼文正文 <span aria-hidden="true">↗</span></button></div>
+      <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">主文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製主文 <span aria-hidden="true">↗</span></button></div>
       <p id="copy-status" class="muted" role="status" aria-live="polite"></p><div id="drafts" class="drafts"></div>
       <section id="affiliate-replies" class="affiliate-replies" aria-labelledby="comments-title" hidden>
-        <div class="section-heading split"><div><p class="eyebrow">POST IN THE COMMENTS</p><h2 id="comments-title">另外貼在留言的分潤連結</h2><p class="muted">貼文發布後，再到留言區貼上。若拆成多則，請依序分別留言。</p></div><button id="copy-comments" type="button" disabled>複製分潤留言 <span aria-hidden="true">↗</span></button></div>
+        <div class="section-heading split"><div><p class="eyebrow">POST IN THE COMMENTS</p><h2 id="comments-title">留言（分潤）</h2><p class="muted">先發布主文，再把分潤連結貼在該篇下方的留言區。若拆成多則，請依序分別留言。</p></div><button id="copy-comments" type="button" disabled>複製留言（分潤） <span aria-hidden="true">↗</span></button></div>
         <p id="comments-status" class="muted" role="status" aria-live="polite"></p><div id="comments" class="drafts"></div>
       </section>
       <div id="draft-sources" class="draft-source-list"></div>
