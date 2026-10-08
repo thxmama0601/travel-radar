@@ -6722,7 +6722,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=KKday%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.060Z",
       "latestPublishedAt": "2026-10-07T23:30:00.000Z",
       "count": 4
@@ -6733,7 +6733,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=(Klook%20OR%20%E5%AE%A2%E8%B7%AF)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:14.995Z",
       "latestPublishedAt": "2026-10-07T20:57:19.000Z",
       "count": 3
@@ -6744,7 +6744,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=(Booking.com%20OR%20Booking)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:14.959Z",
       "latestPublishedAt": "2026-10-07T10:56:07.000Z",
       "count": 1
@@ -6755,7 +6755,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=(%22Trip.com%22%20OR%20%E6%94%9C%E7%A8%8B)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:14.924Z",
       "latestPublishedAt": "2026-10-07T20:57:19.000Z",
       "count": 5
@@ -6766,7 +6766,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=(%E6%98%93%E9%81%8A%E7%B6%B2%20OR%20ezTravel)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:14.874Z",
       "latestPublishedAt": "2026-10-07T04:10:31.000Z",
       "count": 5
@@ -6778,7 +6778,7 @@
       "url": "https://feeds.feedburner.com/ettoday/travel",
       "note": "ETtoday 官方訂閱頁提供的旅遊 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T01:53:14.788Z",
+      "lastSuccessAt": "2026-10-08T01:54:45.771Z",
       "latestPublishedAt": "2026-10-07T10:03:00.000Z",
       "count": 50
     },
@@ -6789,7 +6789,7 @@
       "url": "https://www.jnto.go.jp/news/rss.xml",
       "note": "日文官方公告，包含統計、活動、招募等；不等同日本觀光廳或國稅廳的政策公告。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T01:53:15.196Z",
+      "lastSuccessAt": "2026-10-08T01:54:46.113Z",
       "latestPublishedAt": "2026-10-07T05:00:00.000Z",
       "count": 14
     },
@@ -6800,7 +6800,7 @@
       "url": "https://www.cw.com.tw/RSS/cw_content.xml",
       "note": "2026/09/23 驗證時最新文章為 2021/09/29；保留狀態檢查，舊文不列入最新消息。",
       "status": "inactive",
-      "lastSuccessAt": "2026-10-08T01:53:14.976Z",
+      "lastSuccessAt": "2026-10-08T01:54:45.778Z",
       "latestPublishedAt": "2021-09-29T07:23:13.000Z",
       "count": 0
     },
@@ -6810,10 +6810,10 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=site%3Asupertaste.tvbs.com.tw%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "尚未驗證官方 RSS，使用 Google 新聞網站限定索引，可能延遲或漏收。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.116Z",
       "latestPublishedAt": "2026-10-07T19:50:08.000Z",
-      "count": 100
+      "count": 97
     },
     {
       "id": "cw-search",
@@ -6821,7 +6821,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=site%3Awww.cw.com.tw%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%84%AA%E6%83%A0%20OR%20%E4%BA%A4%E9%80%9A%20OR%20%E5%85%A5%E5%A2%83)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "舊 RSS 目前無近期文章，透過 Google 新聞補充旅遊相關標題，不讀取付費全文。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:14.979Z",
       "latestPublishedAt": "2026-10-08T01:45:00.000Z",
       "count": 1
@@ -6832,10 +6832,10 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.152Z",
       "latestPublishedAt": "2026-10-07T12:50:44.000Z",
-      "count": 64
+      "count": 63
     },
     {
       "id": "jp-deals",
@@ -6843,7 +6843,7 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E6%96%B0%E5%B9%B9%E7%B7%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.101Z",
       "latestPublishedAt": "2026-10-07T20:57:19.000Z",
       "count": 51
@@ -6854,10 +6854,10 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E5%9C%8B%E6%97%85)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.104Z",
       "latestPublishedAt": "2026-10-08T01:16:00.000Z",
-      "count": 83
+      "count": 81
     },
     {
       "id": "tw-deals",
@@ -6865,10 +6865,10 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E9%AB%98%E9%90%B5)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E8%A3%9C%E5%8A%A9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.206Z",
       "latestPublishedAt": "2026-10-07T16:05:54.000Z",
-      "count": 60
+      "count": 57
     },
     {
       "id": "kr-news",
@@ -6876,10 +6876,10 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E9%80%80%E7%A8%85%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.035Z",
       "latestPublishedAt": "2026-10-07T21:00:00.000Z",
-      "count": 34
+      "count": 31
     },
     {
       "id": "kr-deals",
@@ -6887,11 +6887,11 @@
       "kind": "search",
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E4%BA%A4%E9%80%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
-      "status": "ok",
+      "status": "stale",
       "lastSuccessAt": "2026-10-08T01:53:15.145Z",
       "latestPublishedAt": "2026-10-07T20:57:19.000Z",
       "count": 30
     }
   ],
-  "checkedAt": "2026-10-08T01:53:14.473Z"
+  "checkedAt": "2026-10-08T01:54:45.214Z"
 }
