@@ -7,8 +7,8 @@
   <meta name="theme-color" content="#fbf8ff">
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
-  <link rel="stylesheet" href="./selection.css?v=topic-picker-1">
-  <script src="./app.js?v=topic-picker-1" type="module"></script>
+  <link rel="stylesheet" href="./selection.css?v=affiliate-1">
+  <script src="./app.js?v=affiliate-1" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -33,7 +33,17 @@
     </section>
     <section id="composer" class="section composer" aria-labelledby="composer-title">
       <div><p class="eyebrow">STEP 02 · MAKE IT YOUR POST</p><h2 id="composer-title">選好題目，再產生草稿。</h2><p id="selected-topic" class="selected-topic" role="status" aria-live="polite">尚未選擇題目</p><p id="generation-help" class="muted">精選選題發布後，先選擇一題，即可產生對應草稿。</p></div>
-      <button id="generate" type="button" disabled aria-describedby="generation-help">產生 Threads 草稿 <span aria-hidden="true">↗</span></button>
+      <details id="affiliate-options" class="affiliate-options" open>
+        <summary>加入我的分潤連結 <span>選填</span></summary>
+        <p class="muted">貼上網址，勾選這一題適合的平台。草稿會保留完整連結，並附上分潤說明。</p>
+        <p id="affiliate-suggestions" class="affiliate-suggestions"></p>
+        <fieldset id="affiliate-fields" disabled><legend class="sr-only">勾選要加入草稿的分潤連結</legend></fieldset>
+        <div class="affiliate-actions"><button id="affiliate-save-presets" class="secondary-button" type="button" disabled>儲存為常用連結</button><button id="affiliate-load-presets" class="secondary-button" type="button" disabled>帶入常用連結</button></div>
+        <p class="muted">這題的連結會自動保存在目前瀏覽器，換裝置不會同步。常用連結會帶入新選題，由你勾選是否加入。只有產生並複製的文案會包含連結。</p>
+        <p id="affiliate-status" class="muted" role="status" aria-live="polite"></p>
+        <p id="affiliate-error" class="affiliate-error" role="alert"></p>
+      </details>
+      <button id="generate" type="button" disabled aria-describedby="generation-help affiliate-error">產生 Threads 草稿 <span aria-hidden="true">↗</span></button>
       <p class="preparation-note">每題草稿依每日查核資料預先撰寫；選題並按下按鈕後，才會顯示該題文案。</p>
     </section>
     <section id="generated" class="section" aria-labelledby="threads-title" hidden>

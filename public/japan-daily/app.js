@@ -1,10 +1,13 @@
 import { getTopicDraft, isRecommended, validReport } from './draft-model.mjs?v=topic-picker-1';
+import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-1';
+import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-1';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
 let generatedDraft = null;
 let requestId = 0;
 let selectionRevision = 0;
+const affiliateEditor = createAffiliateEditor({ onChange: clearGenerated });
 
 function element(tag, text, className) {
   const node = document.createElement(tag);
@@ -62,6 +65,7 @@ function clearGenerated() {
 function resetSelection() {
   selectedIndex = -1;
   clearGenerated();
+  affiliateEditor.load(null, null, null);
   $('generate').disabled = true;
   $('selected-topic').textContent = '尚未選擇題目';
   $('generation-help').textContent = '先從上方選擇一題，再按下「產生 Threads 草稿」。';
@@ -72,16 +76,17 @@ function selectTopic(index) {
   clearGenerated();
   const topic = currentReport.top10[index];
   const draft = getTopicDraft(currentReport, index);
+  affiliateEditor.load(currentReport, topic, draft);
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;
   $('generate').disabled = !draft;
   $('generation-help').textContent = draft
-    ? '選題已就緒，按下按鈕即可取得這一題的草稿。'
+    ? '選題已就緒。可加入適合的分潤連結，再產生這一題的草稿。'
     : '這題尚未備妥草稿。請選擇其他題目，或等待當日報告更新。';
   document.querySelectorAll('.topic-radio').forEach((radio, i) => {
     radio.checked = i === index;
     radio.closest('.card').classList.toggle('selected', i === index);
   });
-  $('composer').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'center' });
+  $('composer').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
 }
 function renderReport(report) {
   currentReport = report;
@@ -130,9 +135,13 @@ function generateDraft() {
   const topic = currentReport?.top10[selectedIndex];
   const draft = getTopicDraft(currentReport, selectedIndex);
   if (!topic || !draft) return;
-  generatedDraft = draft;
+  const composed = composeAffiliateDraft(draft.threads, affiliateEditor.getEntries());
+  affiliateEditor.showError(composed);
+  if (composed.error) { clearGenerated(); return; }
+  generatedDraft = { ...draft, threads: composed.threads };
   $('generated-topic').textContent = currentReport.date + ' · ' + topic.title;
-  list('drafts', draft.threads, (text, index) => {
+  if (composed.linkCount) $('generated-topic').textContent += ' · 已加入 ' + composed.linkCount + ' 個分潤連結';
+  list('drafts', generatedDraft.threads, (text, index) => {
     const block = element('div', null, 'draft');
     block.append(element('small', 'THREAD ' + String(index + 1).padStart(2, '0')), document.createTextNode(text));
     return block;
