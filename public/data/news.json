@@ -94,11 +94,11 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16ajJLeDVmVVVybkhDYm5xdnlKdGpSa0lOaDlqekhFSVUzc2pGU0ZDRlFrdnZPSWJUbHNfSTdtQ1Q1b3UxT1RyaUdFb2tLMzJ2RkUyYjRNblJ4bE9QT3Q2enRjdC1KVkxNSDJfZzRiMEM1WGZob0pnbkRLamQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ncktzR1hhVDM4X1p1RFRjWk1Yc3B0VGkyNkRIREc5MXNyVjNvWEFCMHVaUTh5aU82S0pmclk2ckttY1VzQ0NmUHZMTUt3amhUenVkenlqazZVZHBpVVZEY09icUlBTGdNbmNR?oc=5",
       "title": "1151008《今日觀光旅遊重點新聞》",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16ajJLeDVmVVVybkhDYm5xdnlKdGpSa0lOaDlqekhFSVUzc2pGU0ZDRlFrdnZPSWJUbHNfSTdtQ1Q1b3UxT1RyaUdFb2tLMzJ2RkUyYjRNblJ4bE9QT3Q2enRjdC1KVkxNSDJfZzRiMEM1WGZob0pnbkRLamQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ncktzR1hhVDM4X1p1RFRjWk1Yc3B0VGkyNkRIREc5MXNyVjNvWEFCMHVaUTh5aU82S0pmclk2ckttY1VzQ0NmUHZMTUt3amhUenVkenlqazZVZHBpVVZEY09icUlBTGdNbmNR?oc=5",
       "publisher": "台灣華報",
-      "publishedAt": "2026-10-08T01:28:42.000Z",
+      "publishedAt": "2026-10-08T00:56:00.000Z",
       "regions": [
         "台灣"
       ],
@@ -136,21 +136,6 @@
       "category": "優惠",
       "sourceIds": [
         "kkday-deals"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hTXFzTlBfZnVKSkx1SHFoanBLb2RKQURiMTFhTk41bnQ5NTlEdENWUlR5WXp5cEpQaTNXZWN0cDAwMUlndzAxNExKMy1LVjdneEE?oc=5",
-      "title": "金門攜手業者投入國際旅遊市場 新馬港韓包機來金傳捷報",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hTXFzTlBfZnVKSkx1SHFoanBLb2RKQURiMTFhTk41bnQ5NTlEdENWUlR5WXp5cEpQaTNXZWN0cDAwMUlndzAxNExKMy1LVjdneEE?oc=5",
-      "publisher": "蕃新聞",
-      "publishedAt": "2026-10-07T21:00:00.000Z",
-      "regions": [
-        "韓國"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "kr-news"
       ],
       "sourceKind": "search"
     },
@@ -311,6 +296,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnNPMlJ2ZUoyd1IyZ2NqYlg0dm5IbXI4eGczb09tWVVMb0RPS2dZeW0tVDdwWE01NjBuYzN1WFNndlBhQ0NLbzVMQVlvRU8wcUF6XzVMczVBT2dhT3cySzI3ZXFGNFZzMm1GSGViM3JreWlDTHJLZXdiZWd3b3pVRTMxMjFzdU0?oc=5",
+      "title": "co最佳推薦資訊、熱門討論及評價都在",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnNPMlJ2ZUoyd1IyZ2NqYlg0dm5IbXI4eGczb09tWVVMb0RPS2dZeW0tVDdwWE01NjBuYzN1WFNndlBhQ0NLbzVMQVlvRU8wcUF6XzVMczVBT2dhT3cySzI3ZXFGNFZzMm1GSGViM3JreWlDTHJLZXdiZWd3b3pVRTMxMjFzdU0?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-07T14:21:13.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "supertaste-search"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTdCNXFyRS1nYlF3TXp2bVVCWS15NGEwOWtBc1NxeHhPNm5VdkFUUWhpRkZuLXlmcUFRQW9ldTZFeVdxYXBIR0lYX0dOTlNBQzE5Z3I2d2ZTdV9oN0YyMHdfVmsyQTBRSkx4T215Ty1xQ1pKakE0MjJVaUtZckYxRy0zc3pmY1FTRHNNbkVWcGk?oc=5",
       "title": "抽最佳推薦資訊、熱門討論及評價都在",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTdCNXFyRS1nYlF3TXp2bVVCWS15NGEwOWtBc1NxeHhPNm5VdkFUUWhpRkZuLXlmcUFRQW9ldTZFeVdxYXBIR0lYX0dOTlNBQzE5Z3I2d2ZTdV9oN0YyMHdfVmsyQTBRSkx4T215Ty1xQ1pKakE0MjJVaUtZckYxRy0zc3pmY1FTRHNNbkVWcGk?oc=5",
@@ -352,6 +352,21 @@
       "category": "旅遊",
       "sourceIds": [
         "tw-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTc5dDkwYkN6a0pKc2xnbmlqOEFwSlNtcjMybW82aGNWQ3JieWZXUHN0RUthNE1lYTZuMXI5SWV1UVhfRFhQSksxdjlmMGNTbE1WMlJWX19HR1BYM004SmJmZS1zRUZaQllRcjRsUHFZbnpkck9NQTZsMFdsTHZLVzBYSS1zSlNUXzVF?oc=5",
+      "title": "$Booking Holdings (BKNG.US)$",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTc5dDkwYkN6a0pKc2xnbmlqOEFwSlNtcjMybW82aGNWQ3JieWZXUHN0RUthNE1lYTZuMXI5SWV1UVhfRFhQSksxdjlmMGNTbE1WMlJWX19HR1BYM004SmJmZS1zRUZaQllRcjRsUHFZbnpkck9NQTZsMFdsTHZLVzBYSS1zSlNUXzVF?oc=5",
+      "publisher": "Moomoo",
+      "publishedAt": "2026-10-07T12:29:55.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "booking-deals"
       ],
       "sourceKind": "search"
     },
@@ -491,21 +506,6 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWxoRmJHT3lWUEpFS2EtTXlKX2tKOE1wX1ZaUE9PdU1oYk5YeW4xRS04alVackVETVFzSkpKVnRKMElkS1ZULUo5R3l1SS05SnRUV2VUaUxWd2F2bTVnY1RZNG1jWm1ILTJoc0dwOUFHc1VOVXZqdVBsaFBSdlBDeXZwM1g5T00?oc=5",
-      "title": "14最佳推薦資訊、熱門討論及評價都在",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWxoRmJHT3lWUEpFS2EtTXlKX2tKOE1wX1ZaUE9PdU1oYk5YeW4xRS04alVackVETVFzSkpKVnRKMElkS1ZULUo5R3l1SS05SnRUV2VUaUxWd2F2bTVnY1RZNG1jWm1ILTJoc0dwOUFHc1VOVXZqdVBsaFBSdlBDeXZwM1g5T00?oc=5",
-      "publisher": "食尚玩家",
-      "publishedAt": "2026-10-07T10:20:09.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "supertaste-search"
-      ],
-      "sourceKind": "search"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVjc2ZlhqemJCUGUwUWp3a3JINC1aWUlobFpub29oWjVyMFNTV3dxblFTOHVoaEo1TXYyeG43TUNrQm1NR1UxdWRKVjBYTzY4Ym1VcExuQ3RiYmc?oc=5",
       "title": "日本退稅新制手續費嚇壞遊客！唐吉訶德等3品牌宣布免收林氏璧：具指標意義| 旅遊",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVjc2ZlhqemJCUGUwUWp3a3JINC1aWUlobFpub29oWjVyMFNTV3dxblFTOHVoaEo1TXYyeG43TUNrQm1NR1UxdWRKVjBYTzY4Ym1VcExuQ3RiYmc?oc=5",
@@ -641,6 +641,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpdG9tZFlRSHVFd3RvS3NXU3E5Q2U4UXJUSUVySU00TkpsS01Ed3NTMmFPM3NwdDZRRzNDQmJyUjZlVzNydUpvMUNlbjZsSlB0VHc3ci1OSHA?oc=5",
+      "title": "creammm﹒t台北中山店",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpdG9tZFlRSHVFd3RvS3NXU3E5Q2U4UXJUSUVySU00TkpsS01Ed3NTMmFPM3NwdDZRRzNDQmJyUjZlVzNydUpvMUNlbjZsSlB0VHc3ci1OSHA?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-07T09:44:42.000Z",
+      "regions": [
+        "台灣"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "supertaste-search"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wanMxZ0RwXzlEcmtFR0dDN09ySHNFd2gzTnE4cElVUUNQVHhHSkxlU25IZjBBbFhtNnpCVUpsVzdIemM1LV8yb1BlU2ZteHZnN2fSAVJBVV95cUxNcGpzMWdEcF85RHJrRUdHQzdPckhzRXdoM05xOHBJVVFDUFR4R0pMZVNuSGYwQWxYbTZ6QlVKbFc3SHpjNS1fMm9QZVNmbXh2Zzdn?oc=5",
       "title": "國旅補助刺激「淡季不淡」　平日住房補助經費已用25%",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wanMxZ0RwXzlEcmtFR0dDN09ySHNFd2gzTnE4cElVUUNQVHhHSkxlU25IZjBBbFhtNnpCVUpsVzdIemM1LV8yb1BlU2ZteHZnN2fSAVJBVV95cUxNcGpzMWdEcF85RHJrRUdHQzdPckhzRXdoM05xOHBJVVFDUFR4R0pMZVNuSGYwQWxYbTZ6QlVKbFc3SHpjNS1fMm9QZVNmbXh2Zzdn?oc=5",
@@ -698,21 +713,6 @@
       "sourceIds": [
         "kkday-deals",
         "klook-deals"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdURyMXRGTFZjTjM3Q2kyOXl3OVMzQmRITWFQdllMSVlsZVc0NHRramRDNXpVTGkxSHV2V3E3WnNhbDBpSkV1eV9Zc1hvX0RiRFM0NUcwS0NyUzl5UUFyS2ZBRkJsYmJvUDBQRFRVaDVoX1pmMWYtY0JOQ3V0MlFoVzBTWm1BYklqQjRGWkg1cHdJUjAwV1dlZmpQc3I?oc=5",
-      "title": "獎項最佳推薦資訊、熱門討論及評價都在",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdURyMXRGTFZjTjM3Q2kyOXl3OVMzQmRITWFQdllMSVlsZVc0NHRramRDNXpVTGkxSHV2V3E3WnNhbDBpSkV1eV9Zc1hvX0RiRFM0NUcwS0NyUzl5UUFyS2ZBRkJsYmJvUDBQRFRVaDVoX1pmMWYtY0JOQ3V0MlFoVzBTWm1BYklqQjRGWkg1cHdJUjAwV1dlZmpQc3I?oc=5",
-      "publisher": "食尚玩家",
-      "publishedAt": "2026-10-07T09:17:22.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "supertaste-search"
       ],
       "sourceKind": "search"
     },
@@ -1015,6 +1015,21 @@
       "category": "旅遊",
       "sourceIds": [
         "tw-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fVzBfNGthVjBYVEJuaWdHcU5HdTA3dHpYRnJBcEd5RkpOUGpJM095aWtVQV9OSWdOX1haN0FZLUZvM2pyNkdaajBORWtwbjhwSDlHWDh2LXBpelVBVWhYRXNaa2M?oc=5",
+      "title": "討論牆 | 日本退稅新制11月上路 唐吉訶德宣布「最新退法」1費用0元",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fVzBfNGthVjBYVEJuaWdHcU5HdTA3dHpYRnJBcEd5RkpOUGpJM095aWtVQV9OSWdOX1haN0FZLUZvM2pyNkdaajBORWtwbjhwSDlHWDh2LXBpelVBVWhYRXNaa2M?oc=5",
+      "publisher": "LINE TODAY",
+      "publishedAt": "2026-10-07T07:18:33.000Z",
+      "regions": [
+        "日本"
+      ],
+      "category": "政策",
+      "sourceIds": [
+        "jp-news"
       ],
       "sourceKind": "search"
     },
@@ -1686,6 +1701,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DVVFUVzBRRFpHeTRLb3FqaTNZVGR5enZDQUlzVFlVcUFBREtHNlRDeldlaklNRUlDUjJfalk2YTlwdHk5cXRBSEo4Wmg2Ty1LdmJoeVdn?oc=5",
+      "title": "買暴風雪送消費券｜Dairy Queen｜最新優惠",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DVVFUVzBRRFpHeTRLb3FqaTNZVGR5enZDQUlzVFlVcUFBREtHNlRDeldlaklNRUlDUjJfalk2YTlwdHk5cXRBSEo4Wmg2Ty1LdmJoeVdn?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-06T20:31:02.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "優惠",
+      "sourceIds": [
+        "supertaste-search"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UN3NuRGtqR3NVQjVFcGpnOElERGplOUl5RXVLd250RHhyZ2pJa3VHeUVpS3JIVXpka3F2MVJvVFkxc1lLNXl6UjV6cHpsdVJGYU9uQ0VicWM0OHBr?oc=5",
       "title": "Trip.com優惠碼》2026/10月最新折扣碼(機票/飯店/體驗行程)、卡優讀者專屬&推薦信用卡總整理｜卡優新聞網",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UN3NuRGtqR3NVQjVFcGpnOElERGplOUl5RXVLd250RHhyZ2pJa3VHeUVpS3JIVXpka3F2MVJvVFkxc1lLNXl6UjV6cHpsdVJGYU9uQ0VicWM0OHBr?oc=5",
@@ -2281,36 +2311,6 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUi04NlQ0a05sMU9JUmc3N2NYWHdjcFVQOFJ2eXZaTV9DMjVuMzhLMWtwRnNDam54T0tPLWJCSUZFUnRrLTg5WnVWQlBWRzQ5X2VYUGM5UkFpWmtZNllSMWhlbi00UFpoSWxSLVltS01kUlpocy1jYU9EY3BrR3FRMGliQQ?oc=5",
-      "title": "國旅補助”加馬”一路玩 2027 馬祖四季亮點活動都精彩 | 中華日報",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUi04NlQ0a05sMU9JUmc3N2NYWHdjcFVQOFJ2eXZaTV9DMjVuMzhLMWtwRnNDam54T0tPLWJCSUZFUnRrLTg5WnVWQlBWRzQ5X2VYUGM5UkFpWmtZNllSMWhlbi00UFpoSWxSLVltS01kUlpocy1jYU9EY3BrR3FRMGliQQ?oc=5",
-      "publisher": "LINE TODAY",
-      "publishedAt": "2026-10-06T07:47:41.000Z",
-      "regions": [
-        "台灣"
-      ],
-      "category": "優惠",
-      "sourceIds": [
-        "tw-news"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekNkVGk1LTVsdUd1OFN4SmtoNFRUNHZBUFdOMHBxbm5iQVVVNE0zalFaVlFYVEJKNDI4OENXZGRBeEdLcDlzYUx6c3ZYTEdnMDNUX1hENlI1TFNxbzZoWUlrb0ZvTjBoY09HM29XUEVtRW8xUU1OUVB4MW1aTjMzVVppcXZLU0FQR1pwTFFES1JYR2JQQkZqaWt6bVE?oc=5",
-      "title": "登場最佳推薦資訊、熱門討論及評價都在",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekNkVGk1LTVsdUd1OFN4SmtoNFRUNHZBUFdOMHBxbm5iQVVVNE0zalFaVlFYVEJKNDI4OENXZGRBeEdLcDlzYUx6c3ZYTEdnMDNUX1hENlI1TFNxbzZoWUlrb0ZvTjBoY09HM29XUEVtRW8xUU1OUVB4MW1aTjMzVVppcXZLU0FQR1pwTFFES1JYR2JQQkZqaWt6bVE?oc=5",
-      "publisher": "食尚玩家",
-      "publishedAt": "2026-10-06T07:46:48.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "supertaste-search"
-      ],
-      "sourceKind": "search"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUzhjM1FiM2xscGd3eWJOYUJPT0pjNW5zZDdTTXVFOWRZcVNEcDQxUEpFN1RudnBOWGFMZWx6RE1ucXYwcW9qM01jVkRzLVBTXzV3cUVyZ1RqbVhjZWZJYUdnakc?oc=5",
       "title": "討論牆| 買瓶水多收50% 剩菜回收AI說可以廣藏市場亂象惹怒全韓祭攤商實名制真能救回觀光招牌？【TODAY 看世界】",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUzhjM1FiM2xscGd3eWJOYUJPT0pjNW5zZDdTTXVFOWRZcVNEcDQxUEpFN1RudnBOWGFMZWx6RE1ucXYwcW9qM01jVkRzLVBTXzV3cUVyZ1RqbVhjZWZJYUdnakc?oc=5",
@@ -2397,21 +2397,6 @@
       "category": "優惠",
       "sourceIds": [
         "kr-deals"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnR0MVc0UXpKR3piVjRTVDRPTXhVRWRfeDBvMmdsSjNfaUViRG5KYzhPR2hpTUxQSmNRblc5bnR3MHdqOFMyS2JkTEdQZFQ0Nk1XZG8xcWZCTzI2RVVBalR5TnpYWXJYcjRuTVNoT3h5QUpsTVhPSHZERHVwa205LTVoZElwSGtCUDFTNXlaNGYxRXc?oc=5",
-      "title": "中最佳推薦資訊、熱門討論及評價都在",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnR0MVc0UXpKR3piVjRTVDRPTXhVRWRfeDBvMmdsSjNfaUViRG5KYzhPR2hpTUxQSmNRblc5bnR3MHdqOFMyS2JkTEdQZFQ0Nk1XZG8xcWZCTzI2RVVBalR5TnpYWXJYcjRuTVNoT3h5QUpsTVhPSHZERHVwa205LTVoZElwSGtCUDFTNXlaNGYxRXc?oc=5",
-      "publisher": "食尚玩家",
-      "publishedAt": "2026-10-06T06:44:44.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "supertaste-search"
       ],
       "sourceKind": "search"
     },
@@ -3125,21 +3110,6 @@
       "category": "優惠",
       "sourceIds": [
         "tw-news"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUpPOVFRZThxcHVTRURZdUkxNGw5Xy12enQtVi1fQWZKWWprS0xST3c2MFNiWHRyOU9zVGFQaTdGeWoyXzdpaHI5ZklneU0wSk8xT1haT2NQZlFiVW5uNEdFWXNzbjBETmRvcmR3S0VLRlNiR0ZZaVJfNXFPdm5kOXNOTjNCdWlBd0s4ejhvaDA1aDlfSzl2LWhhNno?oc=5",
-      "title": "澎派最佳推薦資訊、熱門討論及評價都在",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUpPOVFRZThxcHVTRURZdUkxNGw5Xy12enQtVi1fQWZKWWprS0xST3c2MFNiWHRyOU9zVGFQaTdGeWoyXzdpaHI5ZklneU0wSk8xT1haT2NQZlFiVW5uNEdFWXNzbjBETmRvcmR3S0VLRlNiR0ZZaVJfNXFPdm5kOXNOTjNCdWlBd0s4ejhvaDA1aDlfSzl2LWhhNno?oc=5",
-      "publisher": "食尚玩家",
-      "publishedAt": "2026-10-05T20:21:38.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "supertaste-search"
       ],
       "sourceKind": "search"
     },
@@ -4056,6 +4026,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUdWQXlBZURQdElwQmZRMExGLUhnY0ZLNkJnSDFIVG9TbGpRdkVFS1RSR2RJUGhfWUdmVUZ0aDl0c1J0dFhmS0pBcElVLXhlYlBwYk9xYzBMNE9kcWNtMnlReERtNlRPQXJHV3ltRkhjT3VzMVBsMGM5aC1qX2RRZEVsTjJkQV9xZlBZWkR3TXdwMzk1MlZOTVpManhoUFVuWkhJSkhFU08?oc=5",
+      "title": "後疫情時代的日本旅遊，旅客的關注點為何轉變？",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUdWQXlBZURQdElwQmZRMExGLUhnY0ZLNkJnSDFIVG9TbGpRdkVFS1RSR2RJUGhfWUdmVUZ0aDl0c1J0dFhmS0pBcElVLXhlYlBwYk9xYzBMNE9kcWNtMnlReERtNlRPQXJHV3ltRkhjT3VzMVBsMGM5aC1qX2RRZEVsTjJkQV9xZlBZWkR3TXdwMzk1MlZOTVpManhoUFVuWkhJSkhFU08?oc=5",
+      "publisher": "Bella.tw儂儂",
+      "publishedAt": "2026-10-05T03:13:54.000Z",
+      "regions": [
+        "日本"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "jp-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnNicUkwYmZJQ00zTmhOS3I5SlU5dS1McUlhTWVYZFVXVlotOENkbi1ocktlQzhHblpDSjFWU25HMWVJRUN2S2dGazBGeWZtbVVVdElHMUFzUTlw?oc=5",
       "title": "2026暑假出國人次創新高！「387萬人」衝出國 日本、中國大陸成熱門旅遊目的地",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnNicUkwYmZJQ00zTmhOS3I5SlU5dS1McUlhTWVYZFVXVlotOENkbi1ocktlQzhHblpDSjFWU25HMWVJRUN2S2dGazBGeWZtbVVVdElHMUFzUTlw?oc=5",
@@ -4389,21 +4374,6 @@
         "ettoday-travel"
       ],
       "sourceKind": "direct"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90TXpyeXVQV0czTnNiWkhvTTllSVRobFpLTkR6aGFuSnQ2TWNHWURQOVcwUnN2a2tvcFlkZ0FDT3U2VlBuVmtPTA?oc=5",
-      "title": "出國最怕天氣糟！旅韓部落客示警這時段別去 浪漫散步恐變一身狼狽 | 旅遊",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90TXpyeXVQV0czTnNiWkhvTTllSVRobFpLTkR6aGFuSnQ2TWNHWURQOVcwUnN2a2tvcFlkZ0FDT3U2VlBuVmtPTA?oc=5",
-      "publisher": "三立新聞網SETN.com",
-      "publishedAt": "2026-10-04T09:50:33.000Z",
-      "regions": [
-        "韓國"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "kr-news"
-      ],
-      "sourceKind": "search"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4akpwMXpRREhHeGNVUFJWeGRpbGJVdVExLUtlWDI2MEhyeWZ6NXB5LVBGT0dJSktXV3ZNYUphdlh2UHRzY2VsR05MQlFWTlpTc3FxQmRma19iZ1FiVDNqS01NUFQtcVhxRUViUzdn?oc=5",
@@ -4977,6 +4947,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakM1X2FicE9DS1pUYTBCdloyS0R3Y1FiUVdVZV9ZaWdhdGp1X3pkLTB3cGtWWGYwMndpVk1nemw3MFo2QW9wN1dEdmptekxRYzFDY3VCQVJKeGpkaV9yc1AxZVZ2b3lZWUhxNjR6cDJDWDVUTmUyMG5ndHJycHhJaE1KOXRnR0ljTXhxbFE5ZkRRaW8?oc=5",
+      "title": "中最佳推薦資訊、熱門討論及評價都在",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakM1X2FicE9DS1pUYTBCdloyS0R3Y1FiUVdVZV9ZaWdhdGp1X3pkLTB3cGtWWGYwMndpVk1nemw3MFo2QW9wN1dEdmptekxRYzFDY3VCQVJKeGpkaV9yc1AxZVZ2b3lZWUhxNjR6cDJDWDVUTmUyMG5ndHJycHhJaE1KOXRnR0ljTXhxbFE5ZkRRaW8?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-02T18:29:58.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "supertaste-search"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDQ5YzJQOThDemtoLUtIQ1JNcmhvSkN3d3pWZkFIY0NmN3pTMTBVZ1p2dUVsTTRFbWJqOHhQcUNvUnJJcWs2MzBobHBhVnBhY0U4UTgtQTBiX1VVbS03Q2FGNFNNNk03c0MtMjA2em9UazZ5ZXZZby1nR3NzQUt5bjB3UWZ6NURmUEFXWFBlYXJDVlVvOEp1RTdHRQ?oc=5",
       "title": "海味最佳推薦資訊、熱門討論及評價都在",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDQ5YzJQOThDemtoLUtIQ1JNcmhvSkN3d3pWZkFIY0NmN3pTMTBVZ1p2dUVsTTRFbWJqOHhQcUNvUnJJcWs2MzBobHBhVnBhY0U4UTgtQTBiX1VVbS03Q2FGNFNNNk03c0MtMjA2em9UazZ5ZXZZby1nR3NzQUt5bjB3UWZ6NURmUEFXWFBlYXJDVlVvOEp1RTdHRQ?oc=5",
@@ -5108,6 +5093,21 @@
       "category": "旅遊",
       "sourceIds": [
         "kr-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGktc3oxUGhMcGlQMndmbjBFMDNCQzg3RmJIWWtDZWdkVmdzVlJMUlRjVXlsS3lvcVlNQmQyTTRjRUMzVXc4UTdsN2NTOUlOWDQ2Y181MGJkVklnY2t1Xzd0VFMxZFIzWUpybDIwYndaSmE0OThTQWZ0dkpDMGVBVG52X2tlWWpYNDFKTVJ5M0ZMWUo3QVFwVVlFZXk?oc=5",
+      "title": "熱門最佳推薦資訊、熱門討論及評價都在",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGktc3oxUGhMcGlQMndmbjBFMDNCQzg3RmJIWWtDZWdkVmdzVlJMUlRjVXlsS3lvcVlNQmQyTTRjRUMzVXc4UTdsN2NTOUlOWDQ2Y181MGJkVklnY2t1Xzd0VFMxZFIzWUpybDIwYndaSmE0OThTQWZ0dkpDMGVBVG52X2tlWWpYNDFKTVJ5M0ZMWUo3QVFwVVlFZXk?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-02T11:59:16.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "supertaste-search"
       ],
       "sourceKind": "search"
     },
@@ -5454,6 +5454,21 @@
         "韓國"
       ],
       "category": "旅遊",
+      "sourceIds": [
+        "kr-deals"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirANBVV95cUxNN21JbHJzRGVxMjZ4NlpMb3JPUmJRY1dGazJrSDNkT3ZOTURHRW9VUXV0UjRPUHRuN0NHVllDNmhDYlFpMS1YOEEwM3MzTTNmd0QyMHZaeDVqVTQtQmZzS1h4RXQtSk5TNm96d05aU0VhblJsb0V1dXg0bmphdm1xTldEbV90ZXV2MDc4ZF8xeWp1V1kybUoyWWtPQlluNngzczNSSnNqMDRvWTBicmpqWUlMdlE5Qm40SThhT3pkTk5PY0ZSN19rY2ZVVkRfZW5NNkdFSEVvdTJWT0NfY3cxR0JlZ1ZVSUJjXzFLMTV2d2VUa0ViZ05ZUGZXQkhIZVVJYUpKVDZCdmtPSEVvRGtzQmpaOFVrbDFneV9JWkNMc1BGakVBYlNSdHpnT0VsV0FRUW5MR0FpNUJTbXB2My1wSzNfeHhOSGdBRzZqdjFjVzFPSldvN0NMRDJWbFJPMGx4VmdfZzVyaDVhaXE0ZFpVaGg3ZHBFUldITVJ6d290bG9xVmlEc0tBQ25JUHpGYVRFREtXLWM3VHk2TzM4Vi16NDZoNV85OVU1dTJxYg?oc=5",
+      "title": "深圳地鐵13號線二期北延段將於6月28日正式通車沿線14個人氣打卡位推介！ 直達南山/寶安/光明（附最新地鐵路線圖）",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNN21JbHJzRGVxMjZ4NlpMb3JPUmJRY1dGazJrSDNkT3ZOTURHRW9VUXV0UjRPUHRuN0NHVllDNmhDYlFpMS1YOEEwM3MzTTNmd0QyMHZaeDVqVTQtQmZzS1h4RXQtSk5TNm96d05aU0VhblJsb0V1dXg0bmphdm1xTldEbV90ZXV2MDc4ZF8xeWp1V1kybUoyWWtPQlluNngzczNSSnNqMDRvWTBicmpqWUlMdlE5Qm40SThhT3pkTk5PY0ZSN19rY2ZVVkRfZW5NNkdFSEVvdTJWT0NfY3cxR0JlZ1ZVSUJjXzFLMTV2d2VUa0ViZ05ZUGZXQkhIZVVJYUpKVDZCdmtPSEVvRGtzQmpaOFVrbDFneV9JWkNMc1BGakVBYlNSdHpnT0VsV0FRUW5MR0FpNUJTbXB2My1wSzNfeHhOSGdBRzZqdjFjVzFPSldvN0NMRDJWbFJPMGx4VmdfZzVyaDVhaXE0ZFpVaGg3ZHBFUldITVJ6d290bG9xVmlEc0tBQ25JUHpGYVRFREtXLWM3VHk2TzM4Vi16NDZoNV85OVU1dTJxYg?oc=5",
+      "publisher": "U Travel",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "regions": [
+        "韓國"
+      ],
+      "category": "交通",
       "sourceIds": [
         "kr-deals"
       ],
@@ -6194,6 +6209,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWp5Wm1pOTVtMlVjVWdPOFE4eDFIbFl1d0Q0OWhxSmFoT1BZcGtBbVdIX01qMzNxRFh4bjBuYnU3MjllS3E1MUJ0bDBoNHJjOU83cF92TGtfZnJydUlyZGV4OUg3dTdRLTZYTGZSY0N5dld4Qk5RdTdsRUhnU1RiYlJZRGJVYUlrXzljd2wxZEk0U0dwamZaS0R3SzI?oc=5",
+      "title": "歷史最佳推薦資訊、熱門討論及評價都在",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWp5Wm1pOTVtMlVjVWdPOFE4eDFIbFl1d0Q0OWhxSmFoT1BZcGtBbVdIX01qMzNxRFh4bjBuYnU3MjllS3E1MUJ0bDBoNHJjOU83cF92TGtfZnJydUlyZGV4OUg3dTdRLTZYTGZSY0N5dld4Qk5RdTdsRUhnU1RiYlJZRGJVYUlrXzljd2wxZEk0U0dwamZaS0R3SzI?oc=5",
+      "publisher": "食尚玩家",
+      "publishedAt": "2026-10-01T14:58:11.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "supertaste-search"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVdrUFJzNVhhUTU1TE1nSkFzbWhqV0t5RFlGMWhoVmh3NldDWEY3YW5pMVBFOG53bWNWRmZfbjA0TC10cHV1Z002UDVlYXdPTTgySU5DMEdKc3BON1V2NnlDNnA1bU1fLVZSQ2ZLdzhUT2RkbkphOWtneTBVVm02eFBiWGw1dDk5bmJQTHZCZHI?oc=5",
       "title": "machi machi最佳推薦資訊、熱門討論及評價都在",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVdrUFJzNVhhUTU1TE1nSkFzbWhqV0t5RFlGMWhoVmh3NldDWEY3YW5pMVBFOG53bWNWRmZfbjA0TC10cHV1Z002UDVlYXdPTTgySU5DMEdKc3BON1V2NnlDNnA1bU1fLVZSQ2ZLdzhUT2RkbkphOWtneTBVVm02eFBiWGw1dDk5bmJQTHZCZHI?oc=5",
@@ -6250,21 +6280,6 @@
       "category": "旅遊",
       "sourceIds": [
         "supertaste-search"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOVG9rYTZMWW5xcnZKQ05FUlVtaUhvbU5NSVltOE5QeGo2TFdRY1pWamlMTnFJN2ZlZTR3VGlvbmZvdGNvZEd4bUhTbHA4bHRQWUtEOUhhXy13OC16T3RKeEVPVVdydXo2QXRzYkpwTUg3MXNxcklDMmYwSnRPTWRkRmVXQmdac0ZGOHpqa3g2ZmRpZUJsblNnWG4wNmdaY0JTd05lRmRYb3JwRV9oZ2Z4S2NqcjZvUS1iczR2QU1MckRSbXFYVmdtRC1NWlZkQVFmSW9FY3FoY0YzXzVnc21iTGM1Si1zbHJ5RHc0Ym1yb1p4SmFuZnJkdTdZMnJNb1VTNUtUUENWVV9qV1RoMkdyRzQ2eDh2Wml2Rk1ocHdZQzd0bGp2Ul9DYzhNeGlJZ0NBS3ZKMXZlQXppbVZRdDV6LXo0Y1RwLUtxd19KcHZSYnJ6VERnMHVaLXVkR3RDdWQtUU1hcEt4RVdLWk8wTW5mQjM2WEJjRDRIY2tJRTZ4a1Y3NUlwOXVYRFdySFZxV0NhcFVoN3FWUlQ0ZFhwLXNYcmd4eFFOOUtTd1FNQThnbDFFMnNyQ1BYMFpvYXZOTzZfMzduRTFCb3RwaVBkUlVxU1YyOU40NkZFTUR1ci11UUdEYnBwZl9YbF9kUXN3Mld4TTVYbGRtcXVuODJLV1VwdUQtdGQ1cmY1aV9tUi1jb3Y3RXo0V21oeElBbDlQVEgtbWMwc1R0QmtRWnpfeHA1ekExeUptdXdVREVRQ2xfNXBGZk1ISkFkRDZoYUhQNDM5Wl9kempwcll4aUtqM3dlTDlTcUtlX0tEV1hfQVhaYS02SmhSUzl1MzhHMEpDY01vMFFfUF9iTjdSVUY3dFJvU2d2UXMtd2hsUjJ0bDl0VmVlQlBIQ3pXb29ETHRGczQ5REtPTV8xdjBFaU5LNDBTdg?oc=5",
-      "title": "江若琳偕老公兒子韓國旅遊慶生 大懵遺失手袋證件 生日願望「可以如期回家」",
-      "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOVG9rYTZMWW5xcnZKQ05FUlVtaUhvbU5NSVltOE5QeGo2TFdRY1pWamlMTnFJN2ZlZTR3VGlvbmZvdGNvZEd4bUhTbHA4bHRQWUtEOUhhXy13OC16T3RKeEVPVVdydXo2QXRzYkpwTUg3MXNxcklDMmYwSnRPTWRkRmVXQmdac0ZGOHpqa3g2ZmRpZUJsblNnWG4wNmdaY0JTd05lRmRYb3JwRV9oZ2Z4S2NqcjZvUS1iczR2QU1MckRSbXFYVmdtRC1NWlZkQVFmSW9FY3FoY0YzXzVnc21iTGM1Si1zbHJ5RHc0Ym1yb1p4SmFuZnJkdTdZMnJNb1VTNUtUUENWVV9qV1RoMkdyRzQ2eDh2Wml2Rk1ocHdZQzd0bGp2Ul9DYzhNeGlJZ0NBS3ZKMXZlQXppbVZRdDV6LXo0Y1RwLUtxd19KcHZSYnJ6VERnMHVaLXVkR3RDdWQtUU1hcEt4RVdLWk8wTW5mQjM2WEJjRDRIY2tJRTZ4a1Y3NUlwOXVYRFdySFZxV0NhcFVoN3FWUlQ0ZFhwLXNYcmd4eFFOOUtTd1FNQThnbDFFMnNyQ1BYMFpvYXZOTzZfMzduRTFCb3RwaVBkUlVxU1YyOU40NkZFTUR1ci11UUdEYnBwZl9YbF9kUXN3Mld4TTVYbGRtcXVuODJLV1VwdUQtdGQ1cmY1aV9tUi1jb3Y3RXo0V21oeElBbDlQVEgtbWMwc1R0QmtRWnpfeHA1ekExeUptdXdVREVRQ2xfNXBGZk1ISkFkRDZoYUhQNDM5Wl9kempwcll4aUtqM3dlTDlTcUtlX0tEV1hfQVhaYS02SmhSUzl1MzhHMEpDY01vMFFfUF9iTjdSVUY3dFJvU2d2UXMtd2hsUjJ0bDl0VmVlQlBIQ3pXb29ETHRGczQ5REtPTV8xdjBFaU5LNDBTdg?oc=5",
-      "publisher": "堅料網",
-      "publishedAt": "2026-10-01T12:47:00.000Z",
-      "regions": [
-        "韓國"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "kr-news"
       ],
       "sourceKind": "search"
     },
@@ -6713,7 +6728,7 @@
       "url": "https://news.google.com/rss/search?q=KKday%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.271Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.677Z",
       "latestPublishedAt": "2026-10-08T02:50:41.000Z",
       "count": 4
     },
@@ -6724,7 +6739,7 @@
       "url": "https://news.google.com/rss/search?q=(Klook%20OR%20%E5%AE%A2%E8%B7%AF)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.274Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.703Z",
       "latestPublishedAt": "2026-10-08T02:50:41.000Z",
       "count": 3
     },
@@ -6735,9 +6750,9 @@
       "url": "https://news.google.com/rss/search?q=(Booking.com%20OR%20Booking)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.286Z",
-      "latestPublishedAt": "2026-10-07T10:56:07.000Z",
-      "count": 1
+      "lastSuccessAt": "2026-10-08T03:26:08.705Z",
+      "latestPublishedAt": "2026-10-07T12:29:55.000Z",
+      "count": 2
     },
     {
       "id": "trip-deals",
@@ -6746,7 +6761,7 @@
       "url": "https://news.google.com/rss/search?q=(%22Trip.com%22%20OR%20%E6%94%9C%E7%A8%8B)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.289Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.680Z",
       "latestPublishedAt": "2026-10-08T02:50:41.000Z",
       "count": 5
     },
@@ -6757,7 +6772,7 @@
       "url": "https://news.google.com/rss/search?q=(%E6%98%93%E9%81%8A%E7%B6%B2%20OR%20ezTravel)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.207Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.641Z",
       "latestPublishedAt": "2026-10-07T04:10:31.000Z",
       "count": 5
     },
@@ -6768,7 +6783,7 @@
       "url": "https://feeds.feedburner.com/ettoday/travel",
       "note": "ETtoday 官方訂閱頁提供的旅遊 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.329Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.574Z",
       "latestPublishedAt": "2026-10-08T02:56:00.000Z",
       "count": 50
     },
@@ -6779,7 +6794,7 @@
       "url": "https://www.jnto.go.jp/news/rss.xml",
       "note": "日文官方公告，包含統計、活動、招募等；不等同日本觀光廳或國稅廳的政策公告。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.451Z",
+      "lastSuccessAt": "2026-10-08T03:26:09.197Z",
       "latestPublishedAt": "2026-10-07T05:00:00.000Z",
       "count": 13
     },
@@ -6790,7 +6805,7 @@
       "url": "https://www.cw.com.tw/RSS/cw_content.xml",
       "note": "2026/09/23 驗證時最新文章為 2021/09/29；保留狀態檢查，舊文不列入最新消息。",
       "status": "inactive",
-      "lastSuccessAt": "2026-10-08T03:22:01.276Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.824Z",
       "latestPublishedAt": "2021-09-29T07:23:13.000Z",
       "count": 0
     },
@@ -6801,7 +6816,7 @@
       "url": "https://news.google.com/rss/search?q=site%3Asupertaste.tvbs.com.tw%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "尚未驗證官方 RSS，使用 Google 新聞網站限定索引，可能延遲或漏收。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.344Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.965Z",
       "latestPublishedAt": "2026-10-07T19:50:08.000Z",
       "count": 100
     },
@@ -6812,7 +6827,7 @@
       "url": "https://news.google.com/rss/search?q=site%3Awww.cw.com.tw%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%84%AA%E6%83%A0%20OR%20%E4%BA%A4%E9%80%9A%20OR%20%E5%85%A5%E5%A2%83)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "舊 RSS 目前無近期文章，透過 Google 新聞補充旅遊相關標題，不讀取付費全文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.243Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.888Z",
       "latestPublishedAt": "2026-10-08T01:45:00.000Z",
       "count": 1
     },
@@ -6823,9 +6838,9 @@
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.369Z",
+      "lastSuccessAt": "2026-10-08T03:26:09.079Z",
       "latestPublishedAt": "2026-10-08T01:35:04.000Z",
-      "count": 63
+      "count": 65
     },
     {
       "id": "jp-deals",
@@ -6834,7 +6849,7 @@
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E6%96%B0%E5%B9%B9%E7%B7%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.419Z",
+      "lastSuccessAt": "2026-10-08T03:26:09.005Z",
       "latestPublishedAt": "2026-10-07T20:57:19.000Z",
       "count": 51
     },
@@ -6845,7 +6860,7 @@
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E5%9C%8B%E6%97%85)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.486Z",
+      "lastSuccessAt": "2026-10-08T03:26:09.053Z",
       "latestPublishedAt": "2026-10-08T03:08:25.000Z",
       "count": 88
     },
@@ -6856,9 +6871,9 @@
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E9%AB%98%E9%90%B5)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E8%A3%9C%E5%8A%A9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.437Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.976Z",
       "latestPublishedAt": "2026-10-08T00:56:00.000Z",
-      "count": 61
+      "count": 62
     },
     {
       "id": "kr-news",
@@ -6867,9 +6882,9 @@
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E9%80%80%E7%A8%85%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.361Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.924Z",
       "latestPublishedAt": "2026-10-08T01:16:00.000Z",
-      "count": 34
+      "count": 31
     },
     {
       "id": "kr-deals",
@@ -6878,10 +6893,10 @@
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E4%BA%A4%E9%80%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-08T03:22:01.382Z",
+      "lastSuccessAt": "2026-10-08T03:26:08.998Z",
       "latestPublishedAt": "2026-10-08T03:16:39.000Z",
-      "count": 32
+      "count": 33
     }
   ],
-  "checkedAt": "2026-10-08T03:22:00.853Z"
+  "checkedAt": "2026-10-08T03:26:08.277Z"
 }
