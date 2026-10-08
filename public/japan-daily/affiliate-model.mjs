@@ -8,6 +8,11 @@ export const AFFILIATE_PLATFORMS = [
 const DISCLOSURE = '（分潤連結：透過連結預訂，我可能獲得佣金。）';
 const count = (text) => [...text].length;
 
+export function affiliateCommentTemplate(opening = '') {
+  return (opening || '行程用得到的話，可以參考這個預訂連結。')
+    + '\n\n〔貼上與本篇相關、已確認適用的分潤網址〕\n\n' + DISCLOSURE;
+}
+
 export function normalizeAffiliateEntries(value) {
   return AFFILIATE_PLATFORMS.map(({ id }) => {
     const entry = Array.isArray(value) ? value.find((item) => item?.id === id) : null;

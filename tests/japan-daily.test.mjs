@@ -1,7 +1,20 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { getTopicDraft, validReport, formatMainPost } from '../public/japan-daily/draft-model.mjs';
+import { getTopicDraft, validReport, formatMainPost, getRecommendedDraftIndex } from '../public/japan-daily/draft-model.mjs';
 const makeReport = () => ({date:'2026-10-08',cutoff:'12:00 Asia/Taipei',choice:{title:'B'},top10:[{title:'A',score:90,draft:{threads:['A 的草稿']}},{title:'B',score:85,draft:{threads:['B 的第一串','B 的第二串']}}],threads:['舊版編輯首選草稿']});
+test('one-click recommendation identifies the actual choice, never an arbitrary first topic', () => {
+  const report = makeReport();
+  assert.equal(getRecommendedDraftIndex(report), 1);
+  report.top10[1].draft = null;
+  assert.equal(getRecommendedDraftIndex(report), -1);
+  delete report.top10[1].draft;
+  assert.equal(getRecommendedDraftIndex(report), 1);
+  report.top10[0].title = 'B';
+  assert.equal(getRecommendedDraftIndex(report), -1);
+  report.choice = {title:'missing'};
+  assert.equal(getRecommendedDraftIndex(report), -1);
+  assert.equal(getRecommendedDraftIndex(null), -1);
+});
 test('main post combines short paragraphs without losing text and preserves long thread boundaries', () => {
   const boundary = ['🚅'.repeat(249), '字'.repeat(249)];
   assert.deepEqual(formatMainPost(boundary), [boundary.join('\n\n')]);

@@ -8,7 +8,7 @@
   <title>日本每日內容雷達｜選題與 Threads 草稿</title>
   <link rel="stylesheet" href="./styles.css">
   <link rel="stylesheet" href="./selection.css?v=logo-1">
-  <script src="./app.js?v=main-comment-1" type="module"></script>
+  <script src="./app.js?v=compose-1" type="module"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳至內容</a>
@@ -45,7 +45,7 @@
       <fieldset id="topic-picker"><legend class="sr-only">選擇要產生 Threads 草稿的題目</legend><div id="top10" class="cards"></div></fieldset>
     </section>
     <section id="composer" class="section composer" aria-labelledby="composer-title">
-      <div><p class="eyebrow">STEP 02 · MAKE IT YOUR POST</p><h2 id="composer-title">選好題目，再產生草稿。</h2><p id="selected-topic" class="selected-topic" role="status" aria-live="polite">尚未選擇題目</p><p id="generation-help" class="muted">精選選題發布後，先選擇一題，即可產生對應草稿。</p></div>
+      <div><p class="eyebrow">STEP 02 · MAKE IT YOUR POST</p><h2 id="composer-title">產生脆串文：主文＋留言（分潤）</h2><p id="selected-topic" class="selected-topic" role="status" aria-live="polite">尚未選擇題目</p><p id="generation-help" class="muted">自行選題，或直接使用本期編輯推薦。</p></div>
       <div id="selected-fit" class="selected-fit"></div>
       <details id="affiliate-options" class="affiliate-options">
         <summary>準備留言用的分潤連結 <span>選填，不影響選題評估</span></summary>
@@ -57,8 +57,8 @@
         <p id="affiliate-status" class="muted" role="status" aria-live="polite"></p>
         <p id="affiliate-error" class="affiliate-error" role="alert"></p>
       </details>
-      <button id="generate" type="button" disabled aria-describedby="generation-help affiliate-error">產生 Threads 草稿 <span aria-hidden="true">↗</span></button>
-      <p class="preparation-note">每題草稿依每日查核資料預先撰寫；選題並按下按鈕後，才會顯示該題文案。</p>
+      <button id="generate" type="button" disabled aria-describedby="generation-help affiliate-error"><span id="generate-label">產生脆串文</span> <span aria-hidden="true">↗</span></button>
+      <p class="preparation-note">每題文案依每日查核資料預先撰寫。按下按鈕後，顯示主文與獨立分潤留言；尚未填連結時會先提供待填網址的留言範本。</p>
     </section>
     <section id="generated" class="section" aria-labelledby="threads-title" hidden>
       <div class="section-heading split"><div><p class="eyebrow">STEP 03 · READY TO SHARE</p><h2 id="threads-title" tabindex="-1">主文</h2><p id="generated-topic" class="muted"></p></div><button id="copy" type="button" disabled>複製主文 <span aria-hidden="true">↗</span></button></div>

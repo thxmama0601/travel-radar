@@ -1,5 +1,5 @@
-import { getTopicDraft, isRecommended, validReport, formatMainPost } from './draft-model.mjs?v=main-comment-1';
-import { composeAffiliateDraft } from './affiliate-model.mjs?v=affiliate-fit-2';
+import { getTopicDraft, isRecommended, validReport, formatMainPost, getRecommendedDraftIndex } from './draft-model.mjs?v=compose-1';
+import { composeAffiliateDraft, affiliateCommentTemplate } from './affiliate-model.mjs?v=compose-1';
 import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
 import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
 const $ = (id) => document.getElementById(id);
@@ -59,6 +59,7 @@ function clearGenerated() {
   $('copy-status').textContent = '';
   $('affiliate-replies').hidden = true;
   $('copy-comments').disabled = true;
+  $('copy-comments').textContent = '複製留言（分潤）';
   $('comments-status').textContent = '';
   $('comments').replaceChildren();
   $('drafts').replaceChildren();
@@ -72,11 +73,15 @@ function resetSelection() {
   clearGenerated();
   affiliateEditor.load(null, null, null);
   $('selected-fit').replaceChildren();
-  $('generate').disabled = true;
+  const recommendedIndex = getRecommendedDraftIndex(currentReport);
+  $('generate').disabled = recommendedIndex < 0;
+  $('generate-label').textContent = recommendedIndex < 0 ? '產生脆串文' : '用推薦題目產生脆串文';
   $('selected-topic').textContent = '尚未選擇題目';
-  $('generation-help').textContent = '先從上方選擇一題，再按下「產生 Threads 草稿」。';
+  $('generation-help').textContent = recommendedIndex < 0
+    ? '先從上方選擇一題，再按下「產生脆串文」。'
+    : '可以先選題，也可以直接使用本期編輯推薦：' + currentReport.top10[recommendedIndex].title + '。';
 }
-function selectTopic(index) {
+function selectTopic(index, { scroll = true } = {}) {
   if (!currentReport?.top10[index]) return;
   selectedIndex = index;
   $('filter-status').textContent = '';
@@ -90,6 +95,7 @@ function selectTopic(index) {
   if (fit?.checks) $('selected-fit').append(element('p', '搭配前確認：' + fit.checks, 'muted'));
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;
   $('generate').disabled = !draft;
+  $('generate-label').textContent = '產生脆串文';
   $('generation-help').textContent = draft
     ? '選題已就緒。可選填分潤連結，產生「主文＋留言（分潤）」後分開複製。'
     : '這題尚未備妥草稿。請選擇其他題目，或等待當日報告更新。';
@@ -97,7 +103,7 @@ function selectTopic(index) {
     radio.checked = Number(radio.value) === index;
     radio.closest('.card').classList.toggle('selected', radio.checked);
   });
-  $('composer').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
+  if (scroll) $('composer').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
 }
 function fitSummary(topic) {
   const fit = getAffiliateFit(topic);
@@ -207,13 +213,21 @@ function renderReport(report) {
   $('research-text').replaceChildren(fullText(typeof report.researchText === 'string' ? report.researchText : '本期詳細查核紀錄尚未提供；請參考各選題卡片的日期與原始來源。'));
 }
 function generateDraft() {
+  if (selectedIndex < 0) {
+    const recommendedIndex = getRecommendedDraftIndex(currentReport);
+    if (recommendedIndex < 0) return;
+    selectTopic(recommendedIndex, { scroll: false });
+    renderTopics();
+  }
   const topic = currentReport?.top10[selectedIndex];
   const draft = getTopicDraft(currentReport, selectedIndex);
   if (!topic || !draft) return;
   const composed = composeAffiliateDraft(draft.threads, affiliateEditor.getEntries(), getAffiliateFit(topic)?.commentOpening);
   affiliateEditor.showError(composed);
   if (composed.error) { clearGenerated(); return; }
-  generatedDraft = { ...draft, threads: formatMainPost(composed.threads), comments: composed.comments };
+  const isCommentTemplate = !composed.comments.length;
+  const comments = isCommentTemplate ? [affiliateCommentTemplate(getAffiliateFit(topic)?.commentOpening)] : composed.comments;
+  generatedDraft = { ...draft, threads: formatMainPost(composed.threads), comments, isCommentTemplate };
   $('generated-topic').textContent = currentReport.date + ' · ' + topic.title;
   if (composed.linkCount) $('generated-topic').textContent += ' · 另備 ' + composed.linkCount + ' 個分潤連結的留言';
   list('drafts', generatedDraft.threads, (text, index) => {
@@ -221,14 +235,16 @@ function generateDraft() {
     block.append(element('small', generatedDraft.threads.length === 1 ? '主文' : '主文 ' + (index + 1) + '／' + generatedDraft.threads.length), document.createTextNode(text));
     return block;
   });
-  list('comments', composed.comments, (text, index) => {
+  list('comments', comments, (text, index) => {
     const block = element('div', null, 'draft');
-    block.append(element('small', composed.comments.length === 1 ? '留言（分潤）' : '留言（分潤）' + (index + 1) + '／' + composed.comments.length), document.createTextNode(text));
+    const label = isCommentTemplate ? '留言（分潤）範本 · 待填網址' : comments.length === 1 ? '留言（分潤）' : '留言（分潤）' + (index + 1) + '／' + comments.length;
+    block.append(element('small', label), document.createTextNode(text));
     return block;
   });
   $('affiliate-replies').hidden = false;
-  $('copy-comments').disabled = !composed.comments.length;
-  $('comments-status').textContent = composed.comments.length ? '' : '尚未加入分潤連結。請展開上方「準備留言用的分潤連結」，填入網址並勾選，再重新產生草稿。';
+  $('copy-comments').disabled = false;
+  $('copy-comments').textContent = isCommentTemplate ? '複製留言範本（待填網址）' : '複製留言（分潤）';
+  $('comments-status').textContent = isCommentTemplate ? '尚未加入分潤連結。以下是待填網址的留言範本；請換成你的實際連結再發布。也可在上方填入網址並勾選後重新產生。沒有適合的商品時，可只發布主文。' : '';
   $('draft-sources').replaceChildren(element('p', '這題的查核來源', 'muted'), sources(topic.sources));
   list('angles', draft.angles, (item, index) => {
     const block = element('div', null, 'angle');
@@ -291,9 +307,12 @@ $('social-platform').addEventListener('change', renderTopics);
 $('copy-comments').addEventListener('click', async () => {
   if (!generatedDraft?.comments.length) return;
   const revision = selectionRevision;
+  const isCommentTemplate = generatedDraft.isCommentTemplate;
   try {
     await navigator.clipboard.writeText(generatedDraft.comments.join('\n\n──────────\n\n'));
-    if (revision === selectionRevision) $('comments-status').textContent = '已複製分潤留言，請貼在你的 Threads 貼文下方。';
+    if (revision === selectionRevision) $('comments-status').textContent = isCommentTemplate
+      ? '已複製留言範本。請將〔待填網址〕位置換成你的實際分潤連結，再貼在主文下方；沒有適合商品時可略過。'
+      : '已複製分潤留言，請貼在你的 Threads 貼文下方。';
   } catch {
     if (revision === selectionRevision) $('comments-status').textContent = '瀏覽器未允許複製，請選取留言文字手動複製。';
   }
@@ -317,7 +336,7 @@ async function init() {
     if (!Array.isArray(manifest.reports)) throw new Error('Invalid manifest');
     const entries = manifest.reports.filter((item) => item && /^\d{4}-\d{2}-\d{2}$/.test(item.date)).sort((a, b) => b.date.localeCompare(a.date));
     if (!entries.length) {
-      notice('今日精選選題尚未發布', '完成每日查核後，這裡會提供 10 個精選選題。你選好一題，再按下「產生 Threads 草稿」。');
+      notice('今日精選選題尚未發布', '完成每日查核後，這裡會提供 10 個精選選題。你選好一題，再按下「產生脆串文」。');
       return;
     }
     const options = entries.map((item) => { const option = element('option', item.date + (item.title ? ' · ' + item.title : '')); option.value = item.date; return option; });

@@ -33,6 +33,11 @@ export function formatMainPost(threads) {
   return [...combined].length <= 500 ? [combined] : [...threads];
 }
 
+export function getRecommendedDraftIndex(report) {
+  const matches = (report?.top10 || []).map((_, index) => index).filter((index) => isRecommended(report, index));
+  return matches.length === 1 && getTopicDraft(report, matches[0]) ? matches[0] : -1;
+}
+
 export function validReport(report, date) {
   return report?.date === date && typeof report.cutoff === 'string'
     && Array.isArray(report.top10) && report.top10.length > 0 && report.top10.length <= 10
