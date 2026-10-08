@@ -2,6 +2,7 @@ import { getTopicDraft, isRecommended, validReport, formatThreadCopy, getRecomme
 import { composeAffiliateDraft, affiliateCommentTemplate } from './affiliate-model.mjs?v=compose-1';
 import { createAffiliateEditor } from './affiliate-editor.mjs?v=affiliate-fit-2';
 import { getAffiliateFit, getVisibleTopics } from './topic-fit.mjs?v=social-1';
+import { createAffiliatePagePanel } from './affiliate-pages.mjs?v=pages-1';
 const $ = (id) => document.getElementById(id);
 let currentReport = null;
 let selectedIndex = -1;
@@ -73,6 +74,7 @@ function resetSelection() {
   clearGenerated();
   affiliateEditor.load(null, null, null);
   $('selected-fit').replaceChildren();
+  $('selected-pages').replaceChildren();
   const recommendedIndex = getRecommendedDraftIndex(currentReport);
   $('generate').disabled = recommendedIndex < 0;
   $('generate-label').textContent = recommendedIndex < 0 ? '產生脆串文' : '用推薦題目產生脆串文';
@@ -91,6 +93,7 @@ function selectTopic(index, { scroll = true } = {}) {
   const fit = getAffiliateFit(topic);
   affiliateEditor.load(currentReport, topic, draft);
   $('selected-fit').replaceChildren(fitSummary(topic));
+  $('selected-pages').replaceChildren(createAffiliatePagePanel(topic, { expanded: true }));
   if (fit?.commentOpening) $('selected-fit').append(element('p', '留言切角：' + fit.commentOpening));
   if (fit?.checks) $('selected-fit').append(element('p', '搭配前確認：' + fit.checks, 'muted'));
   $('selected-topic').textContent = '已選擇 ' + String(index + 1).padStart(2, '0') + '｜' + topic.title;
@@ -144,6 +147,7 @@ function renderTopics() {
     card.append(element('p', '公布：' + (item.announcementDate || '尚未完全確認') + '\n發生／活動：' + (item.eventDate || '尚未完全確認'), 'dates'));
     card.append(element('p', item.why || ''), sources(item.sources));
     card.append(fitSummary(item));
+    card.append(createAffiliatePagePanel(item));
     card.append(socialSummary(social));
     const pick = element('label', null, 'topic-select');
     const radio = element('input', null, 'topic-radio');

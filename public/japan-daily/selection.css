@@ -32,6 +32,27 @@
 .selected-fit .fit-summary{margin-bottom:0;background:var(--white)}
 .affiliate-replies{margin-top:28px;border-top:2px solid var(--line);padding-top:26px}
 .affiliate-replies h2{font-size:23px}
+.selected-pages{grid-column:1/-1;min-width:0}
+.selected-pages:empty{display:none}
+.affiliate-pages{border:1px solid var(--line);border-radius:5px;background:var(--white);padding:16px;margin-bottom:20px;font-size:13px;min-width:0}
+.affiliate-pages summary{cursor:pointer;color:var(--accent);font-weight:650;line-height:1.7}
+.affiliate-pages p{font-size:13px;line-height:1.8;margin:9px 0;overflow-wrap:anywhere}
+.affiliate-pages .page-instructions{margin:14px 0}
+.affiliate-page-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}
+.selected-pages .affiliate-page-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.selected-pages .affiliate-pages{margin:0}
+.affiliate-page-platform{min-width:0;border-top:1px solid var(--line);padding-top:12px}
+.affiliate-page-platform h4{font-size:14px;margin:0 0 8px;color:var(--ink)}
+.affiliate-page{min-width:0}
+.affiliate-page+.affiliate-page{border-top:1px dashed var(--line);padding-top:12px;margin-top:12px}
+.affiliate-page strong{display:block;line-height:1.8;overflow-wrap:anywhere}
+.page-kind{display:inline-block;background:var(--green);color:var(--accent);padding:2px 8px;margin-bottom:7px;font-size:11px;border-radius:3px}
+.affiliate-page small{display:block;color:var(--muted);font-size:11px;margin:8px 0}
+.affiliate-page-actions{display:flex;align-items:center;flex-wrap:wrap;gap:10px 16px;margin:12px 0}
+.affiliate-page-actions a{color:var(--accent);font-weight:650;text-underline-offset:3px}
+.affiliate-page-actions button{font-size:12px;padding:8px 10px;white-space:normal}
+.affiliate-pages .page-footnote{border-top:1px solid var(--line);margin:16px 0 0;padding-top:12px;font-size:12px}
+.page-copy-status:empty{display:none}
 .topic-card{display:flex;flex-direction:column;transition:border-color .15s,background-color .15s}
 .topic-card.selected{border:2px solid var(--accent);padding:25px;background:#faf5ff;box-shadow:0 0 0 3px #7134c512}
 .topic-card h3{overflow-wrap:anywhere}
@@ -96,6 +117,7 @@ button:disabled:hover{background:var(--accent)}
   .preparation-note{font-size:11px}
   .selected-topic{font-size:15px}
   .affiliate-options{padding:16px}
+  .selected-pages .affiliate-page-grid{grid-template-columns:minmax(0,1fr)}
   .affiliate-row{grid-template-columns:1fr;gap:9px}
   .affiliate-actions button{width:100%;white-space:normal}
   .topic-controls{padding:14px}

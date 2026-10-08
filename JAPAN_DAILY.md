@@ -43,6 +43,14 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 
 商業連結的適用性由使用者依選題判斷；每日研究的 `draft.extensions` 仍只列真正相關的延伸機會，不因介面支援分潤就硬加訂房或票券建議。
 
+### 推薦平台頁面（選題及草稿階段）
+
+每題另查閱 Trip.com、Booking.com、KKday、Klook 的實際頁面，為相關的住宿、交通、票券或行程提供可開啟及複製的原始網址。優先具體商品頁；未選定飯店時可用精準地點的住宿列表，交通可用路線查詢頁，必須如實標明頁面類型。不要只放平台首頁、臆造網址、套用搜尋結果中的他人聯盟碼，或將搜尋摘要當成已讀過商品。核對地點、方向、園區、季節及使用日期；不可將冬季滑雪套票當成秋季紅葉纜車，不將過夜行程或套票誤稱單程車票。
+
+`top10[].affiliatePages` 是四個平台的物件陣列；同事件若存在於 candidates，維持一致。每組 `{platform, note, pages}`：`platform` 為 trip／booking／kkday／klook，`note` 說明沒有推薦的原因，`pages` 是該平台本題已查閱的 0～2 個頁面。每筆頁面包含 `title`、`url`（平台公開原始網址）、`kind`（商品頁／住宿列表／交通查詢／目的地列表）、`reason`（如何自然接續本題）、`checks`（日期、票種、包含內容等本題限制）、`checkedAt`（含時區 ISO 時刻）及 `verified:true`。只有實際讀取並核對頁面主題後才可標 verified；受阻或未確認時不給確定推薦，以空陣列及 note 解釋。不為了四平台都有連結而硬推商品；低分潤題目可全部留空。
+
+選題卡片可展開推薦頁面，選中題目後在草稿區直接顯示四平台與適用說明。每個頁面可另開分頁或複製原始網址，供使用者在自己的分潤後台取得專屬連結。原始頁面不是使用者的分潤網址，不能自動填入分潤欄位、勾選、改寫已存網址或混入主文與留言；只有使用者另外貼入並勾選的連結才加入分潤留言。平台查閱日期不等於確認庫存、最低價格、佣金資格，也不能改寫新聞截止或社群觀測時刻。`researchText`／`fullText` 記錄查閱時刻、推薦原因、限制及原始頁面。歷史報告缺欄位時顯示本期尚未提供，不從關鍵字猜商品或借用別題頁面。
+
 ### 留言分潤適合度（選題階段）
 
 每日候選池與 TOP 10 都須獨立評估 `affiliateFit`，不改動原本八項內容潛力分數。評估是依旅客預訂需求、商品與主題的直接關聯、留言銜接是否自然，以及活動剩餘規劃時間作出的編輯判斷，不是佣金金額、轉換率或銷量保證。不能用未查核或過期新聞換取較高商業排序。
@@ -89,6 +97,7 @@ Codex 的研究排程需要其執行環境及已授權的 GitHub 連線可用。
 | top10 | 1～10 個物件，欄位為 id、title、region、category、announcementDate、eventDate、score、why、sources、draft；正常每日 10 題 |
 | top10[].draft | 每題自己的物件：threads（2～5 串非空主文，通常 3～4 串，每串含串序不超過 500 字）、angles（切角 name／opening）、images（description／url）、extensions（字串陣列）；全數選題都要備妥，不只編輯首選。歷史單篇仍可讀取，但新報告須拆串 |
 | top10[].affiliateFit / candidates[].affiliateFit | 同一題一致的分潤適合度：level、reason、products、platforms、commentOpening、checks、assessedOn；詳見上方規則 |
+| top10[].affiliatePages / candidates[].affiliatePages | 四平台的原始推薦頁面及無推薦原因：platform、note、pages；各頁 title/url/kind/reason/checks/checkedAt/verified，詳見上方規則 |
 | socialResearch / top10[].socialHeat / candidates[].socialHeat | 社群觀測時刻、存取限制、原始貼文指標與未列入線索；缺證據時不計分，詳見上方規則 |
 | sources | 物件陣列：label、url，連到實際核對的原始來源頁 |
 | threads / angles / images / extensions | 舊版單一首選欄位；新版可省略，改以每個 top10[].draft 保存。舊版只有標題唯一匹配 choice.title 的選題能使用這份草稿 |
