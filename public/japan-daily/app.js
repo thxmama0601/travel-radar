@@ -9,6 +9,8 @@ let selectedIndex = -1;
 let generatedDraft = null;
 let requestId = 0;
 let selectionRevision = 0;
+let followLatest = !new URLSearchParams(location.search).has('date');
+let refreshingLatest = false;
 const affiliateEditor = createAffiliateEditor({ onChange: clearGenerated });
 
 function element(tag, text, className) {
@@ -311,7 +313,8 @@ async function loadReport(date) {
     if (id !== requestId) return;
     renderReport(report);
     const url = new URL(location.href);
-    url.searchParams.set('date', date);
+    if (followLatest) url.searchParams.delete('date');
+    else url.searchParams.set('date', date);
     history.replaceState(null, '', url);
   } catch {
     if (id !== requestId) return;
@@ -352,12 +355,20 @@ $('copy').addEventListener('click', async () => {
     if (revision === selectionRevision) $('copy-status').textContent = '瀏覽器未允許複製；請選取下方草稿文字手動複製。';
   }
 });
-$('report-date').addEventListener('change', (event) => loadReport(event.target.value));
+$('report-date').addEventListener('change', (event) => {
+  followLatest = event.target.value === '';
+  if (followLatest) init();
+  else loadReport(event.target.value);
+});
 async function init() {
+  const initialRequest = requestId;
+  const initialMode = followLatest;
+  const initialSelection = selectionRevision;
   try {
     const response = await fetch('./reports/manifest.json', { cache: 'no-cache' });
     if (!response.ok) throw new Error('HTTP ' + response.status);
     const manifest = await response.json();
+    if (initialRequest !== requestId || initialMode !== followLatest || initialSelection !== selectionRevision) return;
     if (!Array.isArray(manifest.reports)) throw new Error('Invalid manifest');
     const entries = manifest.reports.filter((item) => item && /^\d{4}-\d{2}-\d{2}$/.test(item.date)).sort((a, b) => b.date.localeCompare(a.date));
     if (!entries.length) {
@@ -365,12 +376,30 @@ async function init() {
       return;
     }
     const options = entries.map((item) => { const option = element('option', item.date + (item.title ? ' · ' + item.title : '')); option.value = item.date; return option; });
-    $('report-date').replaceChildren(...options);
+    const latestOption = element('option', '自動顯示最新一期');
+    latestOption.value = '';
+    $('report-date').replaceChildren(latestOption, ...options);
     $('report-date').disabled = false;
     const requested = new URLSearchParams(location.search).get('date');
-    const selected = entries.some((item) => item.date === requested) ? requested : entries[0].date;
-    $('report-date').value = selected;
+    const selected = !followLatest && entries.some((item) => item.date === requested) ? requested : entries[0].date;
+    $('report-date').value = followLatest ? '' : selected;
+    if (currentReport?.date === selected) {
+      if (followLatest) {
+        const url = new URL(location.href);
+        url.searchParams.delete('date');
+        history.replaceState(null, '', url);
+      }
+      return;
+    }
     await loadReport(selected);
-  } catch { notice('目前無法取得選題清單', '請確認網路連線後重新整理。若剛完成網站部署，請稍後再試。'); }
+  } catch { if (!currentReport) notice('目前無法取得選題清單', '請確認網路連線後重新整理。若剛完成網站部署，請稍後再試。'); }
 }
 init();
+async function refreshLatest() {
+  // Keep an in-progress topic and its draft intact until the user reloads or chooses Latest.
+  if (!followLatest || document.hidden || selectedIndex >= 0 || refreshingLatest) return;
+  refreshingLatest = true;
+  try { await init(); } finally { refreshingLatest = false; }
+}
+setInterval(refreshLatest, 60000);
+document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshLatest(); });
