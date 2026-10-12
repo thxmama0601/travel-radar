@@ -1,0 +1,1840 @@
+{
+  "date": "2026-10-12",
+  "cutoff": "2026-10-12 10:10:20 Asia/Taipei（日本11:10:20）",
+  "trends": [
+    "今日核對15個候選事件，選入5題；其餘因舊事件、來源不足、日期矛盾或缺少行動條件未入選，不補成10題。",
+    "橫濱null²ⁿ將在10/14開幕；10/12有新內覽報導，但開業與售票早已公告，不能稱今天首次公布。",
+    "明天開始的購物題有新宿Suica企鵝快閃及書店版ミャクミャク；重點是改札內位置、順次到貨與門市限制。",
+    "池袋與博多的萬博快閃店即將開始；店期與玩偶抽獎日期不同，應分開看。",
+    "白山鐵道祭是今天在地可用的選題，發文時間比總分更重要；下午之後須再核對剩餘活動。",
+    "紅葉摘要與實際原頁存在日期不一致；沒有把搜尋摘要當成當日觀測。",
+    "未取得任何題目兩位獨立作者、可核實時間及讚／留言數的48小時樣本；本期無法建立社群熱榜。順序為內容編輯評估。",
+    "分潤適合度独立判斷：橫濱題為中，其餘入選題為低；不為放連結硬推商品。"
+  ],
+  "choice": {
+    "id": "yokohama-null2n",
+    "title": "橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制",
+    "score": 89,
+    "reason": "開幕前兩天，票價、兒童規則與預約限制能讓正在規劃東京近郊的人立即使用；視覺好搭配，亦可延伸橫濱行程。讀者停下來的鉤子是『錯過萬博，可在橫濱安排新版本』；分享給旅伴核對日期，收藏票價與訂票步驟。",
+    "versusSecond": "第二名Suica快閃更適合粉絲順路購物；橫濱題同時服務新景點、親子、預算與住宿規劃，內容生命較長。這是編輯選擇，不是假稱社群第一。",
+    "publishAt": "台灣20:30（編輯建議，未取得帳號時段績效）",
+    "audience": "近期東京近郊自由行、萬博展覽與沉浸藝術愛好者、先評估體驗條件的親子旅客",
+    "lifecycle": "1個月以上，預約規則需持續更新"
+  },
+  "top10": [
+    {
+      "id": "yokohama-null2n",
+      "title": "橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制",
+      "region": "關東／神奈川橫濱 Landmark Plaza 5F",
+      "category": "旅遊／新設施",
+      "announcementDate": "開業資訊至少2026-07-15已公告；2026-10-12 06:00 JST新增媒體內覽報導",
+      "eventDate": "2026-10-14開幕；一般票7/14已開賣",
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "why": "大阪萬博體驗延伸為常設設施；兩天後開幕，現在補訂票條件比單純分享美照更實用。",
+      "sources": [
+        {
+          "label": "官方票價與FAQ",
+          "url": "https://null2.nexus/"
+        },
+        {
+          "label": "Travel Watch 10/12內覽",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147398.html"
+        },
+        {
+          "label": "橫濱觀光局7/15公告",
+          "url": "https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天新增內覽報導；開業屬舊公告，因10/14即將開始例外納入",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸橫濱住宿，但首要需求是官方指定日期門票；四平台同款票券未核實，不把住宿當套票。",
+        "products": [
+          "櫻木町／港未來住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你打算把橫濱排成兩天一夜，可以再比較櫻木町、港未來的住宿。訂房和 null²ⁿ 門票是分開的，先確定入場日期再訂房。",
+        "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際讀取地區住宿列表；未確認指定日期空房或最低價。",
+          "pages": [
+            {
+              "title": "JR櫻木町站周邊住宿",
+              "url": "https://tw.trip.com/hotels/yokohama-jr-sakuragicho-station/hotels-c271r8419332/",
+              "kind": "住宿列表",
+              "reason": "已安排橫濱過夜的讀者可比較場館周邊住宿。",
+              "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-12T10:07:12+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "實際讀取地區住宿列表；未確認指定日期空房或最低價。",
+          "pages": [
+            {
+              "title": "橫濱港未來21住宿",
+              "url": "https://www.booking.com/district/jp/yokohama/minatomirai.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "已安排橫濱過夜的讀者可比較場館周邊住宿。",
+              "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-12T10:07:12+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "notes": "官方同頁對平日與假日間改期條件有矛盾，草稿不保證可跨票種改期，請購票前向官方確認。現場票價與網路不同；多語導覽尚未確定。",
+      "draft": {
+        "threads": [
+          "沒去到大阪萬博的 null²，10/14 起可以在橫濱安排新版本。\n\n落合陽一的常設體驗「null²ⁿ」將在 Landmark Plaza 5 樓開幕，約 60 分鐘走過六個空間。\n\n先記一個重點：要選日期、選時段。這是即將開幕提醒，並不是今天才開放售票，也不是買了票隨時都能進。",
+          "預算先用一般網路票算，以下都是日圓含稅價：\n\n・13 歲以上：平日 3,900／週末假日 4,500\n・4～12 歲：平日 3,000／週末假日 4,000\n・3 歲以下：每位成人最多帶 1 名免費\n\n12 歲以下不能單獨入場，每 3 名兒童須有 1 位滿 18 歲者陪同。親子行程也要考慮館內暗處、強光與音效；中文導覽尚未確認。",
+          "訂票前先把交通與行李安排好：港未來站步行約 3 分鐘，櫻木町站約 5 分鐘；大型行李先放車站或商場置物櫃，館內沒有寄存空間。\n\n官網選時段付款後，用手機出示 QR code。個人因素不接受退款；官網對跨平日／假日改期的說明有矛盾，這點請先向官方確認，別把可改期當成保證。\n\n實際時段與剩餘名額看官網：https://null2.nexus/"
+        ],
+        "angles": [
+          {
+            "name": "新景點",
+            "opening": "沒去到大阪萬博的 null²，10/14 起可以在橫濱安排新版本。"
+          },
+          {
+            "name": "預算",
+            "opening": "橫濱 null²ⁿ 成人平日3,900日圓；親子同行要先看年齡票種。"
+          },
+          {
+            "name": "訂票避雷",
+            "opening": "這個橫濱新景點不是買票就隨時能進：日期、時段都要先選。"
+          },
+          {
+            "name": "親子行程",
+            "opening": "60分鐘沉浸體驗適不適合孩子？先看暗處、強光與陪同規定。"
+          },
+          {
+            "name": "交通攻略",
+            "opening": "把橫濱新展排進行程前，先解決一件事：大型行李放哪裡？"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方場館空間、樓層與交通示意。素材可查閱，商用或轉載授權未確認。",
+            "url": "https://null2.nexus/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：橫濱兩天一夜與櫻木町／港未來住宿比較；房費和展覽票分開列。"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "suica-newoman-popup",
+      "title": "Suica 企鵝明天進駐新宿：位置在 JR 改札內",
+      "region": "東京／NEWoMan新宿エキナカ",
+      "category": "購物／IP活動",
+      "announcementDate": "2026-10-07",
+      "eventDate": "2026-10-13～11-01",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "明天開始，粉絲可提早安排；改札內與分段贈品門檻是容易漏看的資訊。",
+      "sources": [
+        {
+          "label": "千趣會10/7公告",
+          "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf"
+        },
+        {
+          "label": "Travel Watch",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2146429.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "7天；以即將開始例外納入，非今日首度公告",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "主要購買門市周邊，沒有直接訂房或行程需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "明天去新宿找 Suica 企鵝，別先出 JR 改札。\n\nBelle Maison 快閃店 10/13～11/1 在 NEWoMan 新宿的エキナカ活動空間，位置是 JR 新宿站新南區域「改札內」。\n\n這次能現場看平常以網路販售為主的生活用品，也有快閃限定設計。不要只導航到戶外企鵝廣場，那不是同一個位置。",
+          "想買周邊，可以先抓這幾個預算，以下為公告含稅價：\n\n・搖搖壓克力立牌：各1,590日圓\n・大開口收納包：3,990日圓\n・眼鏡盒：2,190日圓\n\n款式與數量以現場為準。10/13～10/22，指定企鵝商品單筆滿4,000日圓送髮夾組；滿10,000日圓再加小鏡子。贈品先到先得、送完為止，不能合併收據。",
+          "10/23～11/1 的滿4,000日圓贈品會換成壓克力夾式徽章；滿10,000日圓加贈的鏡子相同。\n\n如果只是為了買東西進站，先問站務人員應使用哪種有效車票或入場方式；不要把交通卡當成任意進出改札的通行證。營業時間與入場安排出發前再確認。\n\n官方商品與贈品條件：https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf"
+        ],
+        "angles": [
+          {
+            "name": "交通",
+            "opening": "明天去新宿找 Suica 企鵝，別先出 JR 改札。"
+          },
+          {
+            "name": "預算",
+            "opening": "想買 Suica 企鵝不用先衝萬元：立牌公告價1,590日圓。"
+          },
+          {
+            "name": "贈品",
+            "opening": "同一家 Suica 企鵝快閃店，10/23前後的滿額贈不一樣。"
+          },
+          {
+            "name": "限定",
+            "opening": "平常只在網路看的企鵝生活用品，10/13起能在新宿看實物。"
+          },
+          {
+            "name": "行程",
+            "opening": "11/1前經過新宿，可以把這個改札內快閃店排在轉車途中。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品照片及兩階段贈品圖；轉載授權未確認。",
+            "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf"
+          }
+        ],
+        "extensions": [
+          "可做新宿站改札內外購物動線圖；本題不硬搭訂房分潤。"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "myaku-junkudo-goods",
+      "title": "ミャクミャク換上書店圍裙，10/13起周邊陸續開賣",
+      "region": "日本／丸善ジュンク堂指定通路",
+      "category": "購物／IP聯名",
+      "announcementDate": "2026-10-07媒體公告；2026-10-10 16:31 JST新增實物採訪；官網首次日期未標",
+      "eventDate": "2026-10-13起順次販售；麻布台先行10/10～11已結束",
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 13,
+        "實用性": 11,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "讀書造型有視覺辨識度，明天一般販售，提醒別跑去已結束的先行會場。",
+      "sources": [
+        {
+          "label": "書店官方商品與通路",
+          "url": "https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo"
+        },
+        {
+          "label": "10/10實物採訪",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147350.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時內新採訪；一般販售明天開始",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "商品為書店零售；四旅遊平台不是已核實販售通路。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "notes": "官方頁頂有7/29舊標題殘留，以正文10/13順次発売及10/10獨立採訪交叉確認；不是所有商品所有分店同日齊貨。",
+      "draft": {
+        "threads": [
+          "ミャクミャク穿上書店圍裙了，而且不只賣玩偶。\n\nジュンク堂創業50周年聯名，10/13起在指定通路陸續販售，主題是讀書與書店。\n\n東京麻布台的10/10～11先行販售已經結束。明天想買，請查正式販售店，不要再照先行活動地址跑。",
+          "先挑你真正想帶回家的品項，公告含稅價可參考：\n\n・圍裙造型玩偶：5,500日圓\n・附掛鉤的小吊飾：各3,740日圓\n・書套：1,650日圓\n・印章組：2,200日圓\n\n周邊不是全部同一天到貨。官網用的是「順次販售」，分店品項也可能不同，別把商品總覽當成當日庫存表。",
+          "出門前照這個順序確認：先在官方頁找販售店，再看想買的品項與購買數量限制，最後核對該店營業時間。\n\n官方提醒門市不接受商品預約、保留或貨到付款配送；數量有限，不能保證到了就買得到。這批聯名也不適用書店應援特別會員證的10%折扣。\n\n商品與通路：https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo"
+        ],
+        "angles": [
+          {
+            "name": "造型",
+            "opening": "ミャクミャク穿上書店圍裙了，而且不只賣玩偶。"
+          },
+          {
+            "name": "行前",
+            "opening": "想買書店版ミャクミャク，別再跑已結束的麻布台先行會場。"
+          },
+          {
+            "name": "文具",
+            "opening": "不收玩偶也能看：這次ミャクミャク聯名有書套和印章。"
+          },
+          {
+            "name": "預算",
+            "opening": "書店版ミャクミャク玩偶5,500日圓，先挑品項再排行程。"
+          },
+          {
+            "name": "避雷",
+            "opening": "10/13起開賣，不等於每家分店所有商品明天都到齊。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方圍裙玩偶、書套、文具圖；商業轉載需另確認授權。",
+            "url": "https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo"
+          }
+        ],
+        "extensions": [
+          "可以延伸日本書店文具購物清單；本題沒有自然的旅遊分潤商品。"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "myaku-popups-ikebukuro-hakata",
+      "title": "池袋、博多將開ミャクミャク快閃店：抽獎不是每天都有",
+      "region": "東京池袋／福岡博多",
+      "category": "購物／期間限定活動",
+      "announcementDate": "書店2026-10-06；萬博官方2026-10-07",
+      "eventDate": "池袋10/15～11/15；博多10/16～11/9",
+      "score": 79,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "分開店期與黑色玩偶抽獎日期，避免為抽獎跑錯日。兩城市合併同一開店公告。",
+      "sources": [
+        {
+          "label": "萬博官方兩店公告",
+          "url": "https://www.expo2025.or.jp/news/news-20261007-01/"
+        },
+        {
+          "label": "書店博多公告",
+          "url": "https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-02"
+        },
+        {
+          "label": "書店池袋公告",
+          "url": "https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-01"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "7天；以即將開始例外納入，非今日首度公告",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "可順逛的門市資訊，沒有必要為快閃店額外訂房；抽獎通路也未核實在四旅遊平台販售。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "去博多也能逛ミャクミャク官方快閃店，但黑色玩偶抽獎不是開店每天都有。\n\n這波兩個地點：\n・池袋：10/15～11/15\n・博多：10/16～11/9\n\n如果只是買周邊，先看店期；如果目標是黑色玩偶くじ，還要再對一次抽獎日期。",
+          "東京店在ジュンク堂書店池袋本店7樓，公告營業10:00～22:00；黑色玩偶抽獎安排11/6～11/15。\n\n博多店在JR博多City 8樓丸善店內，公告營業10:00～20:00；抽獎安排10/23～25，以及10/30～11/1。\n\n以上都是日本時間。10/16去博多店，不等於當天就能參加這個抽獎。",
+          "官方表示抽獎參加方式將由丸善ジュンク堂官方帳號另行公告，先別把開店日期當成抽獎預約成功。\n\n商品數量有限，繁忙時可能限制入店；喜歡的品項是否有貨、當日如何進場，出發前再查店方。可以把這則傳給旅伴，先對照你們在池袋或博多的那一天。\n\n兩店官方資訊：https://www.expo2025.or.jp/news/news-20261007-01/"
+        ],
+        "angles": [
+          {
+            "name": "博多",
+            "opening": "博多要開ミャクミャク快閃店了，但10/16開店日不是抽獎日。"
+          },
+          {
+            "name": "比較",
+            "opening": "池袋、博多兩家快閃店，店期和黑色玩偶抽獎日期都不同。"
+          },
+          {
+            "name": "避雷",
+            "opening": "想抽黑色ミャクミャク，別只看官方快閃店的開店日期。"
+          },
+          {
+            "name": "轉車購物",
+            "opening": "福岡行程有經過博多站，可以先記JR博多City 8樓這個期間限定店。"
+          },
+          {
+            "name": "行程檢查",
+            "opening": "先拿機票日期對一下：你在日本的那天，有沒有玩偶抽獎？"
+          }
+        ],
+        "images": [
+          {
+            "description": "兩店官方主視覺，另製店期與抽獎日期比較卡；圖片再利用授權未確認。",
+            "url": "https://www.expo2025.or.jp/news/news-20261007-01/"
+          }
+        ],
+        "extensions": [
+          "適合併入池袋、博多站購物地圖；不另推與抽獎無關的分潤票券。"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "hakusan-rail-festival",
+      "title": "今天在石川白山：三會場鐵道祭有免費接駁",
+      "region": "北陸／石川白山市",
+      "category": "活動／交通",
+      "announcementDate": "2026-10-08鐵道媒體公告；官方首次日期未標",
+      "eventDate": "2026-10-12；各會場結束時間不同",
+      "score": 77,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "適合已在金澤、白山附近的親子旅客；上午發布仍能用，晚上就過時。",
+      "sources": [
+        {
+          "label": "石川官方活動詳情",
+          "url": "https://www.hot-ishikawa.jp/event/detail_30589.html"
+        },
+        {
+          "label": "鐵道fan交叉確認",
+          "url": "https://railf.jp/event/2026/10/08/140500.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天正式舉辦",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣現在～11:00；發前核對活動現況",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天才發的在地提醒，規劃時間太短，不適合再推機票住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天已在金澤、白山附近，帶小孩可以看看這個鐵道祭：IR加賀笠間站有免費接駁串起三個會場。\n\n「いいとこ白山鉄道まつり」只在10/12舉行，內容包含模型、鐵道用品與迷你新幹線體驗。\n\n這是給已在當地的人加排行程用的提醒，別為了單日活動臨時拉很遠。",
+          "先選會場，再看結束時間，以下都是日本時間：\n\n・金城大學日光Arena：09:00～15:00\n・Train Park白山：09:00～17:00\n・道之驛めぐみ白山：09:30～18:00\n\n金城大學的免費迷你新幹線，下午場13:00～15:00，雨天取消。免費接駁不代表全部展館、體驗或餐飲都免費；個別設施與項目費用仍要現場確認。",
+          "接駁會串連加賀笠間站和三會場，班次表在官方活動頁。先看回程班次，再決定停留多久，別只記最晚18:00，因為金城大學15:00就結束。\n\n餐飲可能提早售罄；活動與天候變更請以主辦現場公告為準。停車位有限，官方建議使用大眾運輸。\n\n會場與接駁表：https://www.hot-ishikawa.jp/event/detail_30589.html"
+        ],
+        "angles": [
+          {
+            "name": "親子",
+            "opening": "今天在金澤附近，免費接駁能串起白山三個鐵道祭會場。"
+          },
+          {
+            "name": "動線",
+            "opening": "別把白山鐵道祭全部排到傍晚：其中一個會場15:00就結束。"
+          },
+          {
+            "name": "體驗",
+            "opening": "白山今天有迷你新幹線體驗，下午場先記13:00～15:00。"
+          },
+          {
+            "name": "交通",
+            "opening": "不用三個點各開一次車：加賀笠間站有活動免費接駁。"
+          },
+          {
+            "name": "時效",
+            "opening": "10/12限定的鐵道行程，適合今天人已在石川的你。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方三會場地圖、接駁時刻表；請保留日期與使用條件，轉載授權另查。",
+            "url": "https://www.hot-ishikawa.jp/event/detail_30589.html"
+          }
+        ],
+        "extensions": [
+          "可做白山鐵道親子常態行程，但不要把今天限定接駁延用到其他日期。"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    }
+  ],
+  "candidates": [
+    {
+      "id": "yokohama-null2n",
+      "title": "橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制",
+      "region": "關東／神奈川橫濱 Landmark Plaza 5F",
+      "category": "旅遊／新設施",
+      "announcementDate": "開業資訊至少2026-07-15已公告；2026-10-12 06:00 JST新增媒體內覽報導",
+      "eventDate": "2026-10-14開幕；一般票7/14已開賣",
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "why": "大阪萬博體驗延伸為常設設施；兩天後開幕，現在補訂票條件比單純分享美照更實用。",
+      "sources": [
+        {
+          "label": "官方票價與FAQ",
+          "url": "https://null2.nexus/"
+        },
+        {
+          "label": "Travel Watch 10/12內覽",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147398.html"
+        },
+        {
+          "label": "橫濱觀光局7/15公告",
+          "url": "https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天新增內覽報導；開業屬舊公告，因10/14即將開始例外納入",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸橫濱住宿，但首要需求是官方指定日期門票；四平台同款票券未核實，不把住宿當套票。",
+        "products": [
+          "櫻木町／港未來住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你打算把橫濱排成兩天一夜，可以再比較櫻木町、港未來的住宿。訂房和 null²ⁿ 門票是分開的，先確定入場日期再訂房。",
+        "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際讀取地區住宿列表；未確認指定日期空房或最低價。",
+          "pages": [
+            {
+              "title": "JR櫻木町站周邊住宿",
+              "url": "https://tw.trip.com/hotels/yokohama-jr-sakuragicho-station/hotels-c271r8419332/",
+              "kind": "住宿列表",
+              "reason": "已安排橫濱過夜的讀者可比較場館周邊住宿。",
+              "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-12T10:07:12+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "實際讀取地區住宿列表；未確認指定日期空房或最低價。",
+          "pages": [
+            {
+              "title": "橫濱港未來21住宿",
+              "url": "https://www.booking.com/district/jp/yokohama/minatomirai.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "已安排橫濱過夜的讀者可比較場館周邊住宿。",
+              "checks": "重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-12T10:07:12+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "notes": "官方同頁對平日與假日間改期條件有矛盾，草稿不保證可跨票種改期，請購票前向官方確認。現場票價與網路不同；多語導覽尚未確定。",
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "suica-newoman-popup",
+      "title": "Suica 企鵝明天進駐新宿：位置在 JR 改札內",
+      "region": "東京／NEWoMan新宿エキナカ",
+      "category": "購物／IP活動",
+      "announcementDate": "2026-10-07",
+      "eventDate": "2026-10-13～11-01",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "明天開始，粉絲可提早安排；改札內與分段贈品門檻是容易漏看的資訊。",
+      "sources": [
+        {
+          "label": "千趣會10/7公告",
+          "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf"
+        },
+        {
+          "label": "Travel Watch",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2146429.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "7天；以即將開始例外納入，非今日首度公告",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "主要購買門市周邊，沒有直接訂房或行程需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "myaku-junkudo-goods",
+      "title": "ミャクミャク換上書店圍裙，10/13起周邊陸續開賣",
+      "region": "日本／丸善ジュンク堂指定通路",
+      "category": "購物／IP聯名",
+      "announcementDate": "2026-10-07媒體公告；2026-10-10 16:31 JST新增實物採訪；官網首次日期未標",
+      "eventDate": "2026-10-13起順次販售；麻布台先行10/10～11已結束",
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 13,
+        "實用性": 11,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "讀書造型有視覺辨識度，明天一般販售，提醒別跑去已結束的先行會場。",
+      "sources": [
+        {
+          "label": "書店官方商品與通路",
+          "url": "https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo"
+        },
+        {
+          "label": "10/10實物採訪",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147350.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時內新採訪；一般販售明天開始",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "商品為書店零售；四旅遊平台不是已核實販售通路。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "notes": "官方頁頂有7/29舊標題殘留，以正文10/13順次発売及10/10獨立採訪交叉確認；不是所有商品所有分店同日齊貨。",
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "myaku-popups-ikebukuro-hakata",
+      "title": "池袋、博多將開ミャクミャク快閃店：抽獎不是每天都有",
+      "region": "東京池袋／福岡博多",
+      "category": "購物／期間限定活動",
+      "announcementDate": "書店2026-10-06；萬博官方2026-10-07",
+      "eventDate": "池袋10/15～11/15；博多10/16～11/9",
+      "score": 79,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "分開店期與黑色玩偶抽獎日期，避免為抽獎跑錯日。兩城市合併同一開店公告。",
+      "sources": [
+        {
+          "label": "萬博官方兩店公告",
+          "url": "https://www.expo2025.or.jp/news/news-20261007-01/"
+        },
+        {
+          "label": "書店博多公告",
+          "url": "https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-02"
+        },
+        {
+          "label": "書店池袋公告",
+          "url": "https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-01"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "7天；以即將開始例外納入，非今日首度公告",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議，非帳號數據）",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "可順逛的門市資訊，沒有必要為快閃店額外訂房；抽獎通路也未核實在四旅遊平台販售。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "hakusan-rail-festival",
+      "title": "今天在石川白山：三會場鐵道祭有免費接駁",
+      "region": "北陸／石川白山市",
+      "category": "活動／交通",
+      "announcementDate": "2026-10-08鐵道媒體公告；官方首次日期未標",
+      "eventDate": "2026-10-12；各會場結束時間不同",
+      "score": 77,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "適合已在金澤、白山附近的親子旅客；上午發布仍能用，晚上就過時。",
+      "sources": [
+        {
+          "label": "石川官方活動詳情",
+          "url": "https://www.hot-ishikawa.jp/event/detail_30589.html"
+        },
+        {
+          "label": "鐵道fan交叉確認",
+          "url": "https://railf.jp/event/2026/10/08/140500.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天正式舉辦",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣現在～11:00；發前核對活動現況",
+      "verification": "重要事項已交叉核對；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天才發的在地提醒，規劃時間太短，不適合再推機票住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "沒有已核對的直接預訂商品，不硬放旅遊分潤連結。",
+        "assessedOn": "2026-10-12"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證",
+      "selected": true
+    },
+    {
+      "id": "kagoshima-discount",
+      "title": "鹿兒島10/14復興補助",
+      "region": "九州／鹿兒島",
+      "category": "政策／住宿",
+      "announcementDate": "10/9媒體；官方10/10更新",
+      "eventDate": "10/14起",
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。",
+      "exclusionReason": "外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://fukko-ouenwari.pref.kagoshima.jp/"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "資格與通路未釐清，不能借補助引導一般訂房。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "nissho-leaves",
+      "title": "日勝峠紅葉即時狀態",
+      "region": "北海道／日勝峠",
+      "category": "季節情報",
+      "announcementDate": "搜尋摘要10/11，原頁10/2",
+      "eventDate": "目前葉況未確認",
+      "score": 65,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。",
+      "exclusionReason": "摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://koyo.walkerplus.com/detail/ar0101e154378/"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "超過7天／日期衝突",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "確認葉況與道路後才可延伸租車／住宿。",
+        "products": [
+          "待核實的相關住宿／交通／門票"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "hachimantai-leaves",
+      "title": "八幡平大沼紅葉近況",
+      "region": "東北／秋田",
+      "category": "季節情報",
+      "announcementDate": "原頁可讀最新10/8；搜尋另顯10/11",
+      "eventDate": "10月葉況；未核實今日",
+      "score": 72,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。",
+      "exclusionReason": "開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.weathernews.jp/koyo/spot/23219/?fm=pref"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "溫泉住宿可銜接，但先補交通及實際葉況。",
+        "products": [
+          "待核實的相關住宿／交通／門票"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "kyoto-zen-ghibli",
+      "title": "京都禪與吉卜力展",
+      "region": "關西／京都",
+      "category": "活動／展覽",
+      "announcementDate": "原始公告日尚未確認；媒體10月彙整",
+      "eventDate": "10/3～12/6",
+      "score": 71,
+      "scoreBreakdown": {
+        "即時性": 7,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 13,
+        "實用性": 10,
+        "稀缺性": 4,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。",
+      "exclusionReason": "開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://co-trip.jp/article/735395?page=1"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "日期未確認",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "門票需求明確但本期尚未核實商品。",
+        "products": [
+          "待核實的相關住宿／交通／門票"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "kochi-yoi",
+      "title": "高知宵之舞秋之陣",
+      "region": "四國／高知",
+      "category": "活動／祭典",
+      "announcementDate": "公告日期未確認",
+      "eventDate": "10/24～12/6指定日",
+      "score": 58,
+      "scoreBreakdown": {
+        "即時性": 9,
+        "台灣旅客相關性": 11,
+        "社群討論潛力": 8,
+        "實用性": 8,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。",
+      "exclusionReason": "距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.w-nexco.co.jp/drive_porter/event_info/info/r8/10/"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "日期未確認",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可在活動條件核實後延伸高知過夜行程。",
+        "products": [
+          "待核實的相關住宿／交通／門票"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "nago-tacos",
+      "title": "名護タコス野郎新店回顧",
+      "region": "沖繩／名護",
+      "category": "美食／新餐廳",
+      "announcementDate": "彙整10/9",
+      "eventDate": "實際8/6開幕",
+      "score": 51,
+      "scoreBreakdown": {
+        "即時性": 2,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 8,
+        "實用性": 8,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。",
+      "exclusionReason": "10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.okinawastory.jp/news/tourism/4727"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市餐飲非已核實旅遊平台預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "tokyo-garden-stamps",
+      "title": "都立9庭園紅葉集章",
+      "region": "東京",
+      "category": "季節情報／活動",
+      "announcementDate": "首次公告未確認",
+      "eventDate": "10/10～12/6",
+      "score": 69,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 9,
+        "實用性": 10,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。",
+      "exclusionReason": "官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.tokyo-park.or.jp/event_search/9_2_2.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "日期未確認",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "集章與庭園散步優先，尚無精準分潤商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "meiji-black",
+      "title": "明治きのこ與たけのこ黑巧克力新品",
+      "region": "日本全國；不含超商與車站賣店",
+      "category": "美食／購物",
+      "announcementDate": "10/6",
+      "eventDate": "10/13販售",
+      "score": 73,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 12,
+        "實用性": 10,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。",
+      "exclusionReason": "官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.meiji.co.jp/corporate/pressrelease/2026/10_03/index.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "食品零售，無自然住宿票券分潤需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "nipponmaru-kawasaki",
+      "title": "川崎日本丸公開",
+      "region": "關東／川崎",
+      "category": "活動",
+      "announcementDate": "10/10 14:18 JST",
+      "eventDate": "10/10～11，已結束",
+      "score": 39,
+      "scoreBreakdown": {
+        "即時性": 0,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 7,
+        "實用性": 3,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "10/10文章的『明天截止』指10/11，今天不可再推薦前往。",
+      "exclusionReason": "10/10文章的『明天截止』指10/11，今天不可再推薦前往。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147334.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "已結束",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "活動已結束，不引導預订。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "10/10文章的『明天截止』指10/11，今天不可再推薦前往。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    },
+    {
+      "id": "jnto-award",
+      "title": "日本獲美國旅行雜誌讀者國家榜首",
+      "region": "日本全國",
+      "category": "旅遊／時事",
+      "announcementDate": "JNTO10/7",
+      "eventDate": "美東10/6公布",
+      "score": 48,
+      "scoreBreakdown": {
+        "即時性": 7,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 10,
+        "實用性": 3,
+        "稀缺性": 3,
+        "視覺吸引力": 7,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。",
+      "exclusionReason": "本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。",
+      "verification": "未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.jnto.go.jp/news/press/20261007.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天；未取得今日新增討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "國家形象消息，不宜硬接泛用分潤連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。",
+        "assessedOn": "2026-10-12"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-12T10:10:20+08:00",
+        "summary": "熱度未確認",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10",
+          "(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10",
+          "(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10",
+          "(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10",
+          "(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10"
+        ]
+      },
+      "scoreLabel": "編輯評估，非已驗證社群熱度或觀看量保證"
+    }
+  ],
+  "followups": [
+    {
+      "title": "鹿兒島補助10/13傍晚預計補上住宿預約方法",
+      "next": "依官方預告追查參與飯店、外國旅客資格與10/14各通路開始時間；未確認前不寫成四平台都可折扣。",
+      "sources": [
+        {
+          "label": "補助官方",
+          "url": "https://fukko-ouenwari.pref.kagoshima.jp/"
+        }
+      ]
+    },
+    {
+      "title": "明治黑巧克力10/13販售及新平台預告",
+      "next": "查獨立上架資訊與實際店家；官方指出超商、車站賣店除外。新平台預計10/13 15:00日本時間，尚未實際開放。",
+      "sources": [
+        {
+          "label": "明治公告",
+          "url": "低"
+        }
+      ]
+    },
+    {
+      "title": "null²ⁿ10/14正式開幕與FAQ修正",
+      "next": "追蹤正式營業、可售時段、多語服務及平日／假日改期矛盾是否釐清；不預測一定爆紅。",
+      "sources": [
+        {
+          "label": "官方票價與FAQ",
+          "url": "https://null2.nexus/"
+        },
+        {
+          "label": "Travel Watch 10/12內覽",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147398.html"
+        },
+        {
+          "label": "橫濱觀光局7/15公告",
+          "url": "https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731"
+        }
+      ]
+    },
+    {
+      "title": "八幡平、日勝峠下一次可核對葉況",
+      "next": "查有拍攝日期的原始照片、當地官方道路資訊；不把例年見頃或快取當今天現況。",
+      "sources": [
+        {
+          "label": "本次查閱來源",
+          "url": "https://koyo.walkerplus.com/detail/ar0101e154378/"
+        },
+        {
+          "label": "本次查閱來源",
+          "url": "https://www.weathernews.jp/koyo/spot/23219/?fm=pref"
+        }
+      ]
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-12\n搜尋截止：2026-10-12 10:10:20 Asia/Taipei／日本11:10:20\n\n今日核對15個候選事件，選入5題；其餘因舊事件、來源不足、日期矛盾或缺少行動條件未入選，不補成10題。\n橫濱null²ⁿ將在10/14開幕；10/12有新內覽報導，但開業與售票早已公告，不能稱今天首次公布。\n明天開始的購物題有新宿Suica企鵝快閃及書店版ミャクミャク；重點是改札內位置、順次到貨與門市限制。\n池袋與博多的萬博快閃店即將開始；店期與玩偶抽獎日期不同，應分開看。\n白山鐵道祭是今天在地可用的選題，發文時間比總分更重要；下午之後須再核對剩餘活動。\n紅葉摘要與實際原頁存在日期不一致；沒有把搜尋摘要當成當日觀測。\n未取得任何題目兩位獨立作者、可核實時間及讚／留言數的48小時樣本；本期無法建立社群熱榜。順序為內容編輯評估。\n分潤適合度独立判斷：橫濱題為中，其餘入選題為低；不為放連結硬推商品。\n\n【候選池與評分紀錄】\n橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制\n分類：旅遊／新設施｜地點：關東／神奈川橫濱 Landmark Plaza 5F\n公布／更新：開業資訊至少2026-07-15已公告；2026-10-12 06:00 JST新增媒體內覽報導｜事件：2026-10-14開幕；一般票7/14已開賣\n摘要與判斷：大阪萬博體驗延伸為常設設施；兩天後開幕，現在補訂票條件比單純分享美照更實用。\n八項分數（20/20/15/15/10/10/5/5）：即時性18／台灣旅客相關性18／社群討論潛力13／實用性14／稀缺性6／視覺吸引力10／標題吸引力5／延伸內容價值5；合計89/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、5/5、4/5；非已驗證熱度。風險中；時效今天新增內覽報導；開業屬舊公告，因10/14即將開始例外納入；生命週期1個月以上；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 官方同頁對平日與假日間改期條件有矛盾，草稿不保證可跨票種改期，請購票前向官方確認。現場票價與網路不同；多語導覽尚未確定。\n留言分潤：中；可延伸橫濱住宿，但首要需求是官方指定日期門票；四平台同款票券未核實，不把住宿當套票。；可搭配：櫻木町／港未來住宿；限制：重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。\ntrip：實際讀取地區住宿列表；未確認指定日期空房或最低價。 JR櫻木町站周邊住宿 [原始頁](https://tw.trip.com/hotels/yokohama-jr-sakuragicho-station/hotels-c271r8419332/)；住宿列表；已安排橫濱過夜的讀者可比較場館周邊住宿。；重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。；查閱2026-10-12T10:07:12+08:00\nbooking：實際讀取地區住宿列表；未確認指定日期空房或最低價。 橫濱港未來21住宿 [原始頁](https://www.booking.com/district/jp/yokohama/minatomirai.zh-tw.html)；住宿列表；已安排橫濱過夜的讀者可比較場館周邊住宿。；重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。；查閱2026-10-12T10:07:12+08:00\nkkday：已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。 \nklook：已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[官方票價與FAQ](https://null2.nexus/)\n[Travel Watch 10/12內覽](https://travel.watch.impress.co.jp/docs/news/2147398.html)\n[橫濱觀光局7/15公告](https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731)\n\nSuica 企鵝明天進駐新宿：位置在 JR 改札內\n分類：購物／IP活動｜地點：東京／NEWoMan新宿エキナカ\n公布／更新：2026-10-07｜事件：2026-10-13～11-01\n摘要與判斷：明天開始，粉絲可提早安排；改札內與分段贈品門檻是容易漏看的資訊。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性18／社群討論潛力12／實用性13／稀缺性6／視覺吸引力9／標題吸引力5／延伸內容價值3；合計83/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、4/5、4/5；非已驗證熱度。風險低；時效7天；以即將開始例外納入，非今日首度公告；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；主要購買門市周邊，沒有直接訂房或行程需求。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[千趣會10/7公告](https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf)\n[Travel Watch](https://travel.watch.impress.co.jp/docs/news/2146429.html)\n\nミャクミャク換上書店圍裙，10/13起周邊陸續開賣\n分類：購物／IP聯名｜地點：日本／丸善ジュンク堂指定通路\n公布／更新：2026-10-07媒體公告；2026-10-10 16:31 JST新增實物採訪；官網首次日期未標｜事件：2026-10-13起順次販售；麻布台先行10/10～11已結束\n摘要與判斷：讀書造型有視覺辨識度，明天一般販售，提醒別跑去已結束的先行會場。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性16／社群討論潛力13／實用性11／稀缺性6／視覺吸引力10／標題吸引力5／延伸內容價值3；合計81/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：5/5、3/5、4/5；非已驗證熱度。風險低；時效48小時內新採訪；一般販售明天開始；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 官方頁頂有7/29舊標題殘留，以正文10/13順次発売及10/10獨立採訪交叉確認；不是所有商品所有分店同日齊貨。\n留言分潤：低；商品為書店零售；四旅遊平台不是已核實販售通路。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[書店官方商品與通路](https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo)\n[10/10實物採訪](https://travel.watch.impress.co.jp/docs/news/2147350.html)\n\n池袋、博多將開ミャクミャク快閃店：抽獎不是每天都有\n分類：購物／期間限定活動｜地點：東京池袋／福岡博多\n公布／更新：書店2026-10-06；萬博官方2026-10-07｜事件：池袋10/15～11/15；博多10/16～11/9\n摘要與判斷：分開店期與黑色玩偶抽獎日期，避免為抽獎跑錯日。兩城市合併同一開店公告。\n八項分數（20/20/15/15/10/10/5/5）：即時性16／台灣旅客相關性17／社群討論潛力12／實用性12／稀缺性6／視覺吸引力9／標題吸引力4／延伸內容價值3；合計79/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、4/5、4/5；非已驗證熱度。風險低；時效7天；以即將開始例外納入，非今日首度公告；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；可順逛的門市資訊，沒有必要為快閃店額外訂房；抽獎通路也未核實在四旅遊平台販售。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[萬博官方兩店公告](https://www.expo2025.or.jp/news/news-20261007-01/)\n[書店博多公告](https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-02)\n[書店池袋公告](https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-01)\n\n今天在石川白山：三會場鐵道祭有免費接駁\n分類：活動／交通｜地點：北陸／石川白山市\n公布／更新：2026-10-08鐵道媒體公告；官方首次日期未標｜事件：2026-10-12；各會場結束時間不同\n摘要與判斷：適合已在金澤、白山附近的親子旅客；上午發布仍能用，晚上就過時。\n八項分數（20/20/15/15/10/10/5/5）：即時性20／台灣旅客相關性12／社群討論潛力10／實用性13／稀缺性7／視覺吸引力8／標題吸引力4／延伸內容價值3；合計77/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、4/5；非已驗證熱度。風險低；時效今天正式舉辦；生命週期1天；發布現在發 台灣現在～11:00；發前核對活動現況\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；今天才發的在地提醒，規劃時間太短，不適合再推機票住宿。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[石川官方活動詳情](https://www.hot-ishikawa.jp/event/detail_30589.html)\n[鐵道fan交叉確認](https://railf.jp/event/2026/10/08/140500.html)\n\n鹿兒島10/14復興補助\n分類：政策／住宿｜地點：九州／鹿兒島\n公布／更新：10/9媒體；官方10/10更新｜事件：10/14起\n摘要與判斷：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n八項分數（20/20/15/15/10/10/5/5）：即時性18／台灣旅客相關性19／社群討論潛力13／實用性15／稀缺性5／視覺吸引力5／標題吸引力5／延伸內容價值4；合計84/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：未評估；資格與通路未釐清，不能借補助引導一般訂房。；可搭配：不硬推；限制：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n[本次查閱來源](https://fukko-ouenwari.pref.kagoshima.jp/)\n\n日勝峠紅葉即時狀態\n分類：季節情報｜地點：北海道／日勝峠\n公布／更新：搜尋摘要10/11，原頁10/2｜事件：目前葉況未確認\n摘要與判斷：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n八項分數（20/20/15/15/10/10/5/5）：即時性5／台灣旅客相關性15／社群討論潛力10／實用性12／稀缺性5／視覺吸引力10／標題吸引力4／延伸內容價值4；合計65/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效超過7天／日期衝突；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；確認葉況與道路後才可延伸租車／住宿。；可搭配：待核實的相關住宿／交通／門票；限制：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n[本次查閱來源](https://koyo.walkerplus.com/detail/ar0101e154378/)\n\n八幡平大沼紅葉近況\n分類：季節情報｜地點：東北／秋田\n公布／更新：原頁可讀最新10/8；搜尋另顯10/11｜事件：10月葉況；未核實今日\n摘要與判斷：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n八項分數（20/20/15/15/10/10/5/5）：即時性10／台灣旅客相關性16／社群討論潛力11／實用性12／稀缺性5／視覺吸引力10／標題吸引力4／延伸內容價值4；合計72/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；溫泉住宿可銜接，但先補交通及實際葉況。；可搭配：待核實的相關住宿／交通／門票；限制：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n[本次查閱來源](https://www.weathernews.jp/koyo/spot/23219/?fm=pref)\n\n京都禪與吉卜力展\n分類：活動／展覽｜地點：關西／京都\n公布／更新：原始公告日尚未確認；媒體10月彙整｜事件：10/3～12/6\n摘要與判斷：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n八項分數（20/20/15/15/10/10/5/5）：即時性7／台灣旅客相關性18／社群討論潛力13／實用性10／稀缺性4／視覺吸引力10／標題吸引力5／延伸內容價值4；合計71/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；門票需求明確但本期尚未核實商品。；可搭配：待核實的相關住宿／交通／門票；限制：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n[本次查閱來源](https://co-trip.jp/article/735395?page=1)\n\n高知宵之舞秋之陣\n分類：活動／祭典｜地點：四國／高知\n公布／更新：公告日期未確認｜事件：10/24～12/6指定日\n摘要與判斷：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n八項分數（20/20/15/15/10/10/5/5）：即時性9／台灣旅客相關性11／社群討論潛力8／實用性8／稀缺性7／視覺吸引力9／標題吸引力3／延伸內容價值3；合計58/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；可在活動條件核實後延伸高知過夜行程。；可搭配：待核實的相關住宿／交通／門票；限制：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n[本次查閱來源](https://www.w-nexco.co.jp/drive_porter/event_info/info/r8/10/)\n\n名護タコス野郎新店回顧\n分類：美食／新餐廳｜地點：沖繩／名護\n公布／更新：彙整10/9｜事件：實際8/6開幕\n摘要與判斷：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n八項分數（20/20/15/15/10/10/5/5）：即時性2／台灣旅客相關性13／社群討論潛力8／實用性8／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值3；合計51/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；門市餐飲非已核實旅遊平台預訂商品。；可搭配：不硬推；限制：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n[本次查閱來源](https://www.okinawastory.jp/news/tourism/4727)\n\n都立9庭園紅葉集章\n分類：季節情報／活動｜地點：東京\n公布／更新：首次公告未確認｜事件：10/10～12/6\n摘要與判斷：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n八項分數（20/20/15/15/10/10/5/5）：即時性12／台灣旅客相關性16／社群討論潛力9／實用性10／稀缺性5／視覺吸引力9／標題吸引力4／延伸內容價值4；合計69/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；集章與庭園散步優先，尚無精準分潤商品。；可搭配：不硬推；限制：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n[本次查閱來源](https://www.tokyo-park.or.jp/event_search/9_2_2.html)\n\n明治きのこ與たけのこ黑巧克力新品\n分類：美食／購物｜地點：日本全國；不含超商與車站賣店\n公布／更新：10/6｜事件：10/13販售\n摘要與判斷：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性15／社群討論潛力12／實用性10／稀缺性5／視覺吸引力8／標題吸引力4／延伸內容價值2；合計73/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；食品零售，無自然住宿票券分潤需求。；可搭配：不硬推；限制：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n[本次查閱來源](https://www.meiji.co.jp/corporate/pressrelease/2026/10_03/index.html)\n\n川崎日本丸公開\n分類：活動｜地點：關東／川崎\n公布／更新：10/10 14:18 JST｜事件：10/10～11，已結束\n摘要與判斷：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n八項分數（20/20/15/15/10/10/5/5）：即時性0／台灣旅客相關性10／社群討論潛力7／實用性3／稀缺性5／視覺吸引力9／標題吸引力3／延伸內容價值2；合計39/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期已結束；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；活動已結束，不引導預订。；可搭配：不硬推；限制：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n[本次查閱來源](https://travel.watch.impress.co.jp/docs/news/2147334.html)\n\n日本獲美國旅行雜誌讀者國家榜首\n分類：旅遊／時事｜地點：日本全國\n公布／更新：JNTO10/7｜事件：美東10/6公布\n摘要與判斷：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n八項分數（20/20/15/15/10/10/5/5）：即時性7／台灣旅客相關性12／社群討論潛力10／實用性3／稀缺性3／視覺吸引力7／標題吸引力4／延伸內容價值2；合計48/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；國家形象消息，不宜硬接泛用分潤連結。；可搭配：不硬推；限制：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n[本次查閱來源](https://www.jnto.go.jp/news/press/20261007.html)\n\n【編輯首選】\n{\n  \"id\": \"yokohama-null2n\",\n  \"title\": \"橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制\",\n  \"score\": 89,\n  \"reason\": \"開幕前兩天，票價、兒童規則與預約限制能讓正在規劃東京近郊的人立即使用；視覺好搭配，亦可延伸橫濱行程。讀者停下來的鉤子是『錯過萬博，可在橫濱安排新版本』；分享給旅伴核對日期，收藏票價與訂票步驟。\",\n  \"versusSecond\": \"第二名Suica快閃更適合粉絲順路購物；橫濱題同時服務新景點、親子、預算與住宿規劃，內容生命較長。這是編輯選擇，不是假稱社群第一。\",\n  \"publishAt\": \"台灣20:30（編輯建議，未取得帳號時段績效）\",\n  \"audience\": \"近期東京近郊自由行、萬博展覽與沉浸藝術愛好者、先評估體驗條件的親子旅客\",\n  \"lifecycle\": \"1個月以上，預約規則需持續更新\"\n}\n\n【明天追蹤】\n鹿兒島補助10/13傍晚預計補上住宿預約方法\n依官方預告追查參與飯店、外國旅客資格與10/14各通路開始時間；未確認前不寫成四平台都可折扣。\n[補助官方](https://fukko-ouenwari.pref.kagoshima.jp/)\n\n明治黑巧克力10/13販售及新平台預告\n查獨立上架資訊與實際店家；官方指出超商、車站賣店除外。新平台預計10/13 15:00日本時間，尚未實際開放。\n[明治公告](低)\n\nnull²ⁿ10/14正式開幕與FAQ修正\n追蹤正式營業、可售時段、多語服務及平日／假日改期矛盾是否釐清；不預測一定爆紅。\n[官方票價與FAQ](https://null2.nexus/)\n[Travel Watch 10/12內覽](https://travel.watch.impress.co.jp/docs/news/2147398.html)\n[橫濱觀光局7/15公告](https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731)\n\n八幡平、日勝峠下一次可核對葉況\n查有拍攝日期的原始照片、當地官方道路資訊；不把例年見頃或快取當今天現況。\n[本次查閱來源](https://koyo.walkerplus.com/detail/ar0101e154378/)\n[本次查閱來源](https://www.weathernews.jp/koyo/spot/23219/?fm=pref)\n\n【搜尋限制】\n日文官方與媒體、英文場館頁及繁中平台頁均有查閱。北海道、東北、北陸、關東、關西、四國、九州、沖繩有候選；中部名古屋與中國地方未取得本期合格新題。未涵蓋每一類別的即時原始資料，不聲稱全面新聞監測。原始社群檢索未得到可用樣本；PTT回傳舊促銷與10/7行程請益，Dcard回傳舊足球資訊，鏡像與官方X不計分。\n實際組合查詢：\n(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10\n(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10\n(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10\n(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10\n(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10",
+  "fullText": "日本每日內容雷達\n日期：2026-10-12\n搜尋截止：2026-10-12 10:10:20 Asia/Taipei／日本11:10:20\n\n今日核對15個候選事件，選入5題；其餘因舊事件、來源不足、日期矛盾或缺少行動條件未入選，不補成10題。\n橫濱null²ⁿ將在10/14開幕；10/12有新內覽報導，但開業與售票早已公告，不能稱今天首次公布。\n明天開始的購物題有新宿Suica企鵝快閃及書店版ミャクミャク；重點是改札內位置、順次到貨與門市限制。\n池袋與博多的萬博快閃店即將開始；店期與玩偶抽獎日期不同，應分開看。\n白山鐵道祭是今天在地可用的選題，發文時間比總分更重要；下午之後須再核對剩餘活動。\n紅葉摘要與實際原頁存在日期不一致；沒有把搜尋摘要當成當日觀測。\n未取得任何題目兩位獨立作者、可核實時間及讚／留言數的48小時樣本；本期無法建立社群熱榜。順序為內容編輯評估。\n分潤適合度独立判斷：橫濱題為中，其餘入選題為低；不為放連結硬推商品。\n\n【候選池與評分紀錄】\n橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制\n分類：旅遊／新設施｜地點：關東／神奈川橫濱 Landmark Plaza 5F\n公布／更新：開業資訊至少2026-07-15已公告；2026-10-12 06:00 JST新增媒體內覽報導｜事件：2026-10-14開幕；一般票7/14已開賣\n摘要與判斷：大阪萬博體驗延伸為常設設施；兩天後開幕，現在補訂票條件比單純分享美照更實用。\n八項分數（20/20/15/15/10/10/5/5）：即時性18／台灣旅客相關性18／社群討論潛力13／實用性14／稀缺性6／視覺吸引力10／標題吸引力5／延伸內容價值5；合計89/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、5/5、4/5；非已驗證熱度。風險中；時效今天新增內覽報導；開業屬舊公告，因10/14即將開始例外納入；生命週期1個月以上；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 官方同頁對平日與假日間改期條件有矛盾，草稿不保證可跨票種改期，請購票前向官方確認。現場票價與網路不同；多語導覽尚未確定。\n留言分潤：中；可延伸橫濱住宿，但首要需求是官方指定日期門票；四平台同款票券未核實，不把住宿當套票。；可搭配：櫻木町／港未來住宿；限制：重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。\ntrip：實際讀取地區住宿列表；未確認指定日期空房或最低價。 JR櫻木町站周邊住宿 [原始頁](https://tw.trip.com/hotels/yokohama-jr-sakuragicho-station/hotels-c271r8419332/)；住宿列表；已安排橫濱過夜的讀者可比較場館周邊住宿。；重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。；查閱2026-10-12T10:07:12+08:00\nbooking：實際讀取地區住宿列表；未確認指定日期空房或最低價。 橫濱港未來21住宿 [原始頁](https://www.booking.com/district/jp/yokohama/minatomirai.zh-tw.html)；住宿列表；已安排橫濱過夜的讀者可比較場館周邊住宿。；重新輸入入住日期、人數、取消條件；房費不含展覽門票；分潤資格須由後台確認。；查閱2026-10-12T10:07:12+08:00\nkkday：已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。 \nklook：已搜尋 null2n／null²ⁿ，未核實此平台同款門票；不推薦無關商品。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[官方票價與FAQ](https://null2.nexus/)\n[Travel Watch 10/12內覽](https://travel.watch.impress.co.jp/docs/news/2147398.html)\n[橫濱觀光局7/15公告](https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731)\n\nSuica 企鵝明天進駐新宿：位置在 JR 改札內\n分類：購物／IP活動｜地點：東京／NEWoMan新宿エキナカ\n公布／更新：2026-10-07｜事件：2026-10-13～11-01\n摘要與判斷：明天開始，粉絲可提早安排；改札內與分段贈品門檻是容易漏看的資訊。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性18／社群討論潛力12／實用性13／稀缺性6／視覺吸引力9／標題吸引力5／延伸內容價值3；合計83/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、4/5、4/5；非已驗證熱度。風險低；時效7天；以即將開始例外納入，非今日首度公告；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；主要購買門市周邊，沒有直接訂房或行程需求。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[千趣會10/7公告](https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf)\n[Travel Watch](https://travel.watch.impress.co.jp/docs/news/2146429.html)\n\nミャクミャク換上書店圍裙，10/13起周邊陸續開賣\n分類：購物／IP聯名｜地點：日本／丸善ジュンク堂指定通路\n公布／更新：2026-10-07媒體公告；2026-10-10 16:31 JST新增實物採訪；官網首次日期未標｜事件：2026-10-13起順次販售；麻布台先行10/10～11已結束\n摘要與判斷：讀書造型有視覺辨識度，明天一般販售，提醒別跑去已結束的先行會場。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性16／社群討論潛力13／實用性11／稀缺性6／視覺吸引力10／標題吸引力5／延伸內容價值3；合計81/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：5/5、3/5、4/5；非已驗證熱度。風險低；時效48小時內新採訪；一般販售明天開始；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 官方頁頂有7/29舊標題殘留，以正文10/13順次発売及10/10獨立採訪交叉確認；不是所有商品所有分店同日齊貨。\n留言分潤：低；商品為書店零售；四旅遊平台不是已核實販售通路。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[書店官方商品與通路](https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo)\n[10/10實物採訪](https://travel.watch.impress.co.jp/docs/news/2147350.html)\n\n池袋、博多將開ミャクミャク快閃店：抽獎不是每天都有\n分類：購物／期間限定活動｜地點：東京池袋／福岡博多\n公布／更新：書店2026-10-06；萬博官方2026-10-07｜事件：池袋10/15～11/15；博多10/16～11/9\n摘要與判斷：分開店期與黑色玩偶抽獎日期，避免為抽獎跑錯日。兩城市合併同一開店公告。\n八項分數（20/20/15/15/10/10/5/5）：即時性16／台灣旅客相關性17／社群討論潛力12／實用性12／稀缺性6／視覺吸引力9／標題吸引力4／延伸內容價值3；合計79/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：4/5、4/5、4/5；非已驗證熱度。風險低；時效7天；以即將開始例外納入，非今日首度公告；生命週期1週；發布晚上發 台灣20:30（編輯建議，非帳號數據）\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；可順逛的門市資訊，沒有必要為快閃店額外訂房；抽獎通路也未核實在四旅遊平台販售。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[萬博官方兩店公告](https://www.expo2025.or.jp/news/news-20261007-01/)\n[書店博多公告](https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-02)\n[書店池袋公告](https://corp.maruzenjunkudo.co.jp/blogs/info/20261006-01)\n\n今天在石川白山：三會場鐵道祭有免費接駁\n分類：活動／交通｜地點：北陸／石川白山市\n公布／更新：2026-10-08鐵道媒體公告；官方首次日期未標｜事件：2026-10-12；各會場結束時間不同\n摘要與判斷：適合已在金澤、白山附近的親子旅客；上午發布仍能用，晚上就過時。\n八項分數（20/20/15/15/10/10/5/5）：即時性20／台灣旅客相關性12／社群討論潛力10／實用性13／稀缺性7／視覺吸引力8／標題吸引力4／延伸內容價值3；合計77/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、4/5；非已驗證熱度。風險低；時效今天正式舉辦；生命週期1天；發布現在發 台灣現在～11:00；發前核對活動現況\n查核：重要事項已交叉核對；即時庫存未確認 \n留言分潤：低；今天才發的在地提醒，規劃時間太短，不適合再推機票住宿。；可搭配：不硬推；限制：沒有已核對的直接預訂商品，不硬放旅遊分潤連結。\ntrip：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nbooking：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nkkday：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \nklook：本題為門市購物或當日活動；四平台搜尋未取得直接適用商品，不以不相關住宿充數。 \n社群：熱度未確認；未取得兩位不同作者於48小時內的原始貼文及完整讚、留言數。；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n入選\n[石川官方活動詳情](https://www.hot-ishikawa.jp/event/detail_30589.html)\n[鐵道fan交叉確認](https://railf.jp/event/2026/10/08/140500.html)\n\n鹿兒島10/14復興補助\n分類：政策／住宿｜地點：九州／鹿兒島\n公布／更新：10/9媒體；官方10/10更新｜事件：10/14起\n摘要與判斷：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n八項分數（20/20/15/15/10/10/5/5）：即時性18／台灣旅客相關性19／社群討論潛力13／實用性15／稀缺性5／視覺吸引力5／標題吸引力5／延伸內容價值4；合計84/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：未評估；資格與通路未釐清，不能借補助引導一般訂房。；可搭配：不硬推；限制：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：外國旅客身分與各通路資格尚未完全確認；先不寫成台灣人全面六折優惠。\n[本次查閱來源](https://fukko-ouenwari.pref.kagoshima.jp/)\n\n日勝峠紅葉即時狀態\n分類：季節情報｜地點：北海道／日勝峠\n公布／更新：搜尋摘要10/11，原頁10/2｜事件：目前葉況未確認\n摘要與判斷：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n八項分數（20/20/15/15/10/10/5/5）：即時性5／台灣旅客相關性15／社群討論潛力10／實用性12／稀缺性5／視覺吸引力10／標題吸引力4／延伸內容價值4；合計65/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效超過7天／日期衝突；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；確認葉況與道路後才可延伸租車／住宿。；可搭配：待核實的相關住宿／交通／門票；限制：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：摘要稱10/11見頃，開啟原頁卻為10/2剛變色，日期衝突，排除即時葉況結論。\n[本次查閱來源](https://koyo.walkerplus.com/detail/ar0101e154378/)\n\n八幡平大沼紅葉近況\n分類：季節情報｜地點：東北／秋田\n公布／更新：原頁可讀最新10/8；搜尋另顯10/11｜事件：10月葉況；未核實今日\n摘要與判斷：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n八項分數（20/20/15/15/10/10/5/5）：即時性10／台灣旅客相關性16／社群討論潛力11／實用性12／稀缺性5／視覺吸引力10／標題吸引力4／延伸內容價值4；合計72/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險中；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；溫泉住宿可銜接，但先補交通及實際葉況。；可搭配：待核實的相關住宿／交通／門票；限制：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：開啟頁面只核對到10/8在地提供照片；缺今日道路、天候與第二來源，不稱全面見頃。\n[本次查閱來源](https://www.weathernews.jp/koyo/spot/23219/?fm=pref)\n\n京都禪與吉卜力展\n分類：活動／展覽｜地點：關西／京都\n公布／更新：原始公告日尚未確認；媒體10月彙整｜事件：10/3～12/6\n摘要與判斷：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n八項分數（20/20/15/15/10/10/5/5）：即時性7／台灣旅客相關性18／社群討論潛力13／實用性10／稀缺性4／視覺吸引力10／標題吸引力5／延伸內容價值4；合計71/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；門票需求明確但本期尚未核實商品。；可搭配：待核實的相關住宿／交通／門票；限制：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：開展已逾7天，未取得本日新進展或自然討論證據；價格與官方票務未完成雙查，不作今日新消息。\n[本次查閱來源](https://co-trip.jp/article/735395?page=1)\n\n高知宵之舞秋之陣\n分類：活動／祭典｜地點：四國／高知\n公布／更新：公告日期未確認｜事件：10/24～12/6指定日\n摘要與判斷：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n八項分數（20/20/15/15/10/10/5/5）：即時性9／台灣旅客相關性11／社群討論潛力8／實用性8／稀缺性7／視覺吸引力9／標題吸引力3／延伸內容價值3；合計58/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：中；可在活動條件核實後延伸高知過夜行程。；可搭配：待核實的相關住宿／交通／門票；限制：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：距開始尚有12天；目前只有活動日程頁，未完成票價、地點、預約交叉查核。\n[本次查閱來源](https://www.w-nexco.co.jp/drive_porter/event_info/info/r8/10/)\n\n名護タコス野郎新店回顧\n分類：美食／新餐廳｜地點：沖繩／名護\n公布／更新：彙整10/9｜事件：實際8/6開幕\n摘要與判斷：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n八項分數（20/20/15/15/10/10/5/5）：即時性2／台灣旅客相關性13／社群討論潛力8／實用性8／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值3；合計51/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；門市餐飲非已核實旅遊平台預訂商品。；可搭配：不硬推；限制：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：10/9新文章介紹8/6已開幕店家，不能當今天新開店；無突然爆紅佐證。\n[本次查閱來源](https://www.okinawastory.jp/news/tourism/4727)\n\n都立9庭園紅葉集章\n分類：季節情報／活動｜地點：東京\n公布／更新：首次公告未確認｜事件：10/10～12/6\n摘要與判斷：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n八項分數（20/20/15/15/10/10/5/5）：即時性12／台灣旅客相關性16／社群討論潛力9／實用性10／稀缺性5／視覺吸引力9／標題吸引力4／延伸內容價值4；合計69/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效日期未確認；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；集章與庭園散步優先，尚無精準分潤商品。；可搭配：不硬推；限制：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：官網證實活動期間，尚缺第二來源和兌換完整條件；開始集章不代表紅葉已達見頃。\n[本次查閱來源](https://www.tokyo-park.or.jp/event_search/9_2_2.html)\n\n明治きのこ與たけのこ黑巧克力新品\n分類：美食／購物｜地點：日本全國；不含超商與車站賣店\n公布／更新：10/6｜事件：10/13販售\n摘要與判斷：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n八項分數（20/20/15/15/10/10/5/5）：即時性17／台灣旅客相關性15／社群討論潛力12／實用性10／稀缺性5／視覺吸引力8／標題吸引力4／延伸內容價值2；合計73/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；食品零售，無自然住宿票券分潤需求。；可搭配：不硬推；限制：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：官方已讀，另一結果是同份企業公關稿，不能當獨立第二次確認。待上架資訊再核。\n[本次查閱來源](https://www.meiji.co.jp/corporate/pressrelease/2026/10_03/index.html)\n\n川崎日本丸公開\n分類：活動｜地點：關東／川崎\n公布／更新：10/10 14:18 JST｜事件：10/10～11，已結束\n摘要與判斷：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n八項分數（20/20/15/15/10/10/5/5）：即時性0／台灣旅客相關性10／社群討論潛力7／實用性3／稀缺性5／視覺吸引力9／標題吸引力3／延伸內容價值2；合計39/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期已結束；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；活動已結束，不引導預订。；可搭配：不硬推；限制：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：10/10文章的『明天截止』指10/11，今天不可再推薦前往。\n[本次查閱來源](https://travel.watch.impress.co.jp/docs/news/2147334.html)\n\n日本獲美國旅行雜誌讀者國家榜首\n分類：旅遊／時事｜地點：日本全國\n公布／更新：JNTO10/7｜事件：美東10/6公布\n摘要與判斷：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n八項分數（20/20/15/15/10/10/5/5）：即時性7／台灣旅客相關性12／社群討論潛力10／實用性3／稀缺性3／視覺吸引力7／標題吸引力4／延伸內容價值2；合計48/100（編輯判斷；稀缺性未做全市場量化）\n爆紅／收藏／分享潛力：3/5、3/5、3/5；非已驗證熱度。風險低；時效7天；未取得今日新增討論證據；生命週期1週；發布先收藏觀察 \n查核：未入選；資訊或即時性尚未完全確認，分數為候選編輯初評，不代表可發布 \n留言分潤：低；國家形象消息，不宜硬接泛用分潤連結。；可搭配：不硬推；限制：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n社群：熱度未確認；2026-10-12T10:10:20+08:00，無合格原始互動數，未計分。\n未入選原因：本次是讀者票選、不是所有旅客總體評價；缺今日新進展，實用性低，未入選。\n[本次查閱來源](https://www.jnto.go.jp/news/press/20261007.html)\n\n【編輯首選】\n{\n  \"id\": \"yokohama-null2n\",\n  \"title\": \"橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制\",\n  \"score\": 89,\n  \"reason\": \"開幕前兩天，票價、兒童規則與預約限制能讓正在規劃東京近郊的人立即使用；視覺好搭配，亦可延伸橫濱行程。讀者停下來的鉤子是『錯過萬博，可在橫濱安排新版本』；分享給旅伴核對日期，收藏票價與訂票步驟。\",\n  \"versusSecond\": \"第二名Suica快閃更適合粉絲順路購物；橫濱題同時服務新景點、親子、預算與住宿規劃，內容生命較長。這是編輯選擇，不是假稱社群第一。\",\n  \"publishAt\": \"台灣20:30（編輯建議，未取得帳號時段績效）\",\n  \"audience\": \"近期東京近郊自由行、萬博展覽與沉浸藝術愛好者、先評估體驗條件的親子旅客\",\n  \"lifecycle\": \"1個月以上，預約規則需持續更新\"\n}\n\n【明天追蹤】\n鹿兒島補助10/13傍晚預計補上住宿預約方法\n依官方預告追查參與飯店、外國旅客資格與10/14各通路開始時間；未確認前不寫成四平台都可折扣。\n[補助官方](https://fukko-ouenwari.pref.kagoshima.jp/)\n\n明治黑巧克力10/13販售及新平台預告\n查獨立上架資訊與實際店家；官方指出超商、車站賣店除外。新平台預計10/13 15:00日本時間，尚未實際開放。\n[明治公告](低)\n\nnull²ⁿ10/14正式開幕與FAQ修正\n追蹤正式營業、可售時段、多語服務及平日／假日改期矛盾是否釐清；不預測一定爆紅。\n[官方票價與FAQ](https://null2.nexus/)\n[Travel Watch 10/12內覽](https://travel.watch.impress.co.jp/docs/news/2147398.html)\n[橫濱觀光局7/15公告](https://www.welcome.city.yokohama.jp/topics/tp_detail.php?tpid=T04731)\n\n八幡平、日勝峠下一次可核對葉況\n查有拍攝日期的原始照片、當地官方道路資訊；不把例年見頃或快取當今天現況。\n[本次查閱來源](https://koyo.walkerplus.com/detail/ar0101e154378/)\n[本次查閱來源](https://www.weathernews.jp/koyo/spot/23219/?fm=pref)\n\n【搜尋限制】\n日文官方與媒體、英文場館頁及繁中平台頁均有查閱。北海道、東北、北陸、關東、關西、四國、九州、沖繩有候選；中部名古屋與中國地方未取得本期合格新題。未涵蓋每一類別的即時原始資料，不聲稱全面新聞監測。原始社群檢索未得到可用樣本；PTT回傳舊促銷與10/7行程請益，Dcard回傳舊足球資訊，鏡像與官方X不計分。\n實際組合查詢：\n(site:threads.com OR site:x.com OR site:instagram.com) (\"null2n\" OR \"Suica ペンギン\" OR \"ジュンク堂 ミャクミャク\") after:2026-10-10\n(site:facebook.com OR site:dcard.tw OR site:ptt.cc) (\"鹿兒島 補助\" OR \"白山 鐵道\" OR \"八幡平 紅葉\" OR \"日勝峠\") after:2026-10-10\n(site:threads.com OR site:youtube.com OR site:tiktok.com) (\"禅とジブリ\" OR \"高知 宵の舞\" OR \"沖縄 新店\" OR \"都立庭園 紅葉\") after:2026-10-10\n(site:x.com OR site:threads.com) (\"丸善博多\" OR \"池袋 ミャクミャク\" OR \"きのこの山 ブラック\" OR \"日本丸 川崎\") after:2026-10-10\n(site:threads.com OR site:facebook.com OR site:x.com) \"日本\" \"魅力的な国\" after:2026-10-10\n\n【各選題Threads串文／切角／圖片／延伸】\n橫濱 null²ⁿ 10/14 開幕：先看票價與預約限制\n{\n  \"threads\": [\n    \"沒去到大阪萬博的 null²，10/14 起可以在橫濱安排新版本。\\n\\n落合陽一的常設體驗「null²ⁿ」將在 Landmark Plaza 5 樓開幕，約 60 分鐘走過六個空間。\\n\\n先記一個重點：要選日期、選時段。這是即將開幕提醒，並不是今天才開放售票，也不是買了票隨時都能進。\",\n    \"預算先用一般網路票算，以下都是日圓含稅價：\\n\\n・13 歲以上：平日 3,900／週末假日 4,500\\n・4～12 歲：平日 3,000／週末假日 4,000\\n・3 歲以下：每位成人最多帶 1 名免費\\n\\n12 歲以下不能單獨入場，每 3 名兒童須有 1 位滿 18 歲者陪同。親子行程也要考慮館內暗處、強光與音效；中文導覽尚未確認。\",\n    \"訂票前先把交通與行李安排好：港未來站步行約 3 分鐘，櫻木町站約 5 分鐘；大型行李先放車站或商場置物櫃，館內沒有寄存空間。\\n\\n官網選時段付款後，用手機出示 QR code。個人因素不接受退款；官網對跨平日／假日改期的說明有矛盾，這點請先向官方確認，別把可改期當成保證。\\n\\n實際時段與剩餘名額看官網：https://null2.nexus/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"新景點\",\n      \"opening\": \"沒去到大阪萬博的 null²，10/14 起可以在橫濱安排新版本。\"\n    },\n    {\n      \"name\": \"預算\",\n      \"opening\": \"橫濱 null²ⁿ 成人平日3,900日圓；親子同行要先看年齡票種。\"\n    },\n    {\n      \"name\": \"訂票避雷\",\n      \"opening\": \"這個橫濱新景點不是買票就隨時能進：日期、時段都要先選。\"\n    },\n    {\n      \"name\": \"親子行程\",\n      \"opening\": \"60分鐘沉浸體驗適不適合孩子？先看暗處、強光與陪同規定。\"\n    },\n    {\n      \"name\": \"交通攻略\",\n      \"opening\": \"把橫濱新展排進行程前，先解決一件事：大型行李放哪裡？\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方場館空間、樓層與交通示意。素材可查閱，商用或轉載授權未確認。\",\n      \"url\": \"https://null2.nexus/\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：橫濱兩天一夜與櫻木町／港未來住宿比較；房費和展覽票分開列。\"\n  ]\n}\n\nSuica 企鵝明天進駐新宿：位置在 JR 改札內\n{\n  \"threads\": [\n    \"明天去新宿找 Suica 企鵝，別先出 JR 改札。\\n\\nBelle Maison 快閃店 10/13～11/1 在 NEWoMan 新宿的エキナカ活動空間，位置是 JR 新宿站新南區域「改札內」。\\n\\n這次能現場看平常以網路販售為主的生活用品，也有快閃限定設計。不要只導航到戶外企鵝廣場，那不是同一個位置。\",\n    \"想買周邊，可以先抓這幾個預算，以下為公告含稅價：\\n\\n・搖搖壓克力立牌：各1,590日圓\\n・大開口收納包：3,990日圓\\n・眼鏡盒：2,190日圓\\n\\n款式與數量以現場為準。10/13～10/22，指定企鵝商品單筆滿4,000日圓送髮夾組；滿10,000日圓再加小鏡子。贈品先到先得、送完為止，不能合併收據。\",\n    \"10/23～11/1 的滿4,000日圓贈品會換成壓克力夾式徽章；滿10,000日圓加贈的鏡子相同。\\n\\n如果只是為了買東西進站，先問站務人員應使用哪種有效車票或入場方式；不要把交通卡當成任意進出改札的通行證。營業時間與入場安排出發前再確認。\\n\\n官方商品與贈品條件：https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"交通\",\n      \"opening\": \"明天去新宿找 Suica 企鵝，別先出 JR 改札。\"\n    },\n    {\n      \"name\": \"預算\",\n      \"opening\": \"想買 Suica 企鵝不用先衝萬元：立牌公告價1,590日圓。\"\n    },\n    {\n      \"name\": \"贈品\",\n      \"opening\": \"同一家 Suica 企鵝快閃店，10/23前後的滿額贈不一樣。\"\n    },\n    {\n      \"name\": \"限定\",\n      \"opening\": \"平常只在網路看的企鵝生活用品，10/13起能在新宿看實物。\"\n    },\n    {\n      \"name\": \"行程\",\n      \"opening\": \"11/1前經過新宿，可以把這個改札內快閃店排在轉車途中。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方商品照片及兩階段贈品圖；轉載授權未確認。\",\n      \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261007_Suica_popup.pdf\"\n    }\n  ],\n  \"extensions\": [\n    \"可做新宿站改札內外購物動線圖；本題不硬搭訂房分潤。\"\n  ]\n}\n\nミャクミャク換上書店圍裙，10/13起周邊陸續開賣\n{\n  \"threads\": [\n    \"ミャクミャク穿上書店圍裙了，而且不只賣玩偶。\\n\\nジュンク堂創業50周年聯名，10/13起在指定通路陸續販售，主題是讀書與書店。\\n\\n東京麻布台的10/10～11先行販售已經結束。明天想買，請查正式販售店，不要再照先行活動地址跑。\",\n    \"先挑你真正想帶回家的品項，公告含稅價可參考：\\n\\n・圍裙造型玩偶：5,500日圓\\n・附掛鉤的小吊飾：各3,740日圓\\n・書套：1,650日圓\\n・印章組：2,200日圓\\n\\n周邊不是全部同一天到貨。官網用的是「順次販售」，分店品項也可能不同，別把商品總覽當成當日庫存表。\",\n    \"出門前照這個順序確認：先在官方頁找販售店，再看想買的品項與購買數量限制，最後核對該店營業時間。\\n\\n官方提醒門市不接受商品預約、保留或貨到付款配送；數量有限，不能保證到了就買得到。這批聯名也不適用書店應援特別會員證的10%折扣。\\n\\n商品與通路：https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"造型\",\n      \"opening\": \"ミャクミャク穿上書店圍裙了，而且不只賣玩偶。\"\n    },\n    {\n      \"name\": \"行前\",\n      \"opening\": \"想買書店版ミャクミャク，別再跑已結束的麻布台先行會場。\"\n    },\n    {\n      \"name\": \"文具\",\n      \"opening\": \"不收玩偶也能看：這次ミャクミャク聯名有書套和印章。\"\n    },\n    {\n      \"name\": \"預算\",\n      \"opening\": \"書店版ミャクミャク玩偶5,500日圓，先挑品項再排行程。\"\n    },\n    {\n      \"name\": \"避雷\",\n      \"opening\": \"10/13起開賣，不等於每家分店所有商品明天都到齊。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方圍裙玩偶、書套、文具圖；商業轉載需另確認授權。\",\n      \"url\": \"https://www.maruzenjunkudo.co.jp/pages/myakumyaku-and-junkudo\"\n    }\n  ],\n  \"extensions\": [\n    \"可以延伸日本書店文具購物清單；本題沒有自然的旅遊分潤商品。\"\n  ]\n}\n\n池袋、博多將開ミャクミャク快閃店：抽獎不是每天都有\n{\n  \"threads\": [\n    \"去博多也能逛ミャクミャク官方快閃店，但黑色玩偶抽獎不是開店每天都有。\\n\\n這波兩個地點：\\n・池袋：10/15～11/15\\n・博多：10/16～11/9\\n\\n如果只是買周邊，先看店期；如果目標是黑色玩偶くじ，還要再對一次抽獎日期。\",\n    \"東京店在ジュンク堂書店池袋本店7樓，公告營業10:00～22:00；黑色玩偶抽獎安排11/6～11/15。\\n\\n博多店在JR博多City 8樓丸善店內，公告營業10:00～20:00；抽獎安排10/23～25，以及10/30～11/1。\\n\\n以上都是日本時間。10/16去博多店，不等於當天就能參加這個抽獎。\",\n    \"官方表示抽獎參加方式將由丸善ジュンク堂官方帳號另行公告，先別把開店日期當成抽獎預約成功。\\n\\n商品數量有限，繁忙時可能限制入店；喜歡的品項是否有貨、當日如何進場，出發前再查店方。可以把這則傳給旅伴，先對照你們在池袋或博多的那一天。\\n\\n兩店官方資訊：https://www.expo2025.or.jp/news/news-20261007-01/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"博多\",\n      \"opening\": \"博多要開ミャクミャク快閃店了，但10/16開店日不是抽獎日。\"\n    },\n    {\n      \"name\": \"比較\",\n      \"opening\": \"池袋、博多兩家快閃店，店期和黑色玩偶抽獎日期都不同。\"\n    },\n    {\n      \"name\": \"避雷\",\n      \"opening\": \"想抽黑色ミャクミャク，別只看官方快閃店的開店日期。\"\n    },\n    {\n      \"name\": \"轉車購物\",\n      \"opening\": \"福岡行程有經過博多站，可以先記JR博多City 8樓這個期間限定店。\"\n    },\n    {\n      \"name\": \"行程檢查\",\n      \"opening\": \"先拿機票日期對一下：你在日本的那天，有沒有玩偶抽獎？\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"兩店官方主視覺，另製店期與抽獎日期比較卡；圖片再利用授權未確認。\",\n      \"url\": \"https://www.expo2025.or.jp/news/news-20261007-01/\"\n    }\n  ],\n  \"extensions\": [\n    \"適合併入池袋、博多站購物地圖；不另推與抽獎無關的分潤票券。\"\n  ]\n}\n\n今天在石川白山：三會場鐵道祭有免費接駁\n{\n  \"threads\": [\n    \"今天已在金澤、白山附近，帶小孩可以看看這個鐵道祭：IR加賀笠間站有免費接駁串起三個會場。\\n\\n「いいとこ白山鉄道まつり」只在10/12舉行，內容包含模型、鐵道用品與迷你新幹線體驗。\\n\\n這是給已在當地的人加排行程用的提醒，別為了單日活動臨時拉很遠。\",\n    \"先選會場，再看結束時間，以下都是日本時間：\\n\\n・金城大學日光Arena：09:00～15:00\\n・Train Park白山：09:00～17:00\\n・道之驛めぐみ白山：09:30～18:00\\n\\n金城大學的免費迷你新幹線，下午場13:00～15:00，雨天取消。免費接駁不代表全部展館、體驗或餐飲都免費；個別設施與項目費用仍要現場確認。\",\n    \"接駁會串連加賀笠間站和三會場，班次表在官方活動頁。先看回程班次，再決定停留多久，別只記最晚18:00，因為金城大學15:00就結束。\\n\\n餐飲可能提早售罄；活動與天候變更請以主辦現場公告為準。停車位有限，官方建議使用大眾運輸。\\n\\n會場與接駁表：https://www.hot-ishikawa.jp/event/detail_30589.html\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"親子\",\n      \"opening\": \"今天在金澤附近，免費接駁能串起白山三個鐵道祭會場。\"\n    },\n    {\n      \"name\": \"動線\",\n      \"opening\": \"別把白山鐵道祭全部排到傍晚：其中一個會場15:00就結束。\"\n    },\n    {\n      \"name\": \"體驗\",\n      \"opening\": \"白山今天有迷你新幹線體驗，下午場先記13:00～15:00。\"\n    },\n    {\n      \"name\": \"交通\",\n      \"opening\": \"不用三個點各開一次車：加賀笠間站有活動免費接駁。\"\n    },\n    {\n      \"name\": \"時效\",\n      \"opening\": \"10/12限定的鐵道行程，適合今天人已在石川的你。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方三會場地圖、接駁時刻表；請保留日期與使用條件，轉載授權另查。\",\n      \"url\": \"https://www.hot-ishikawa.jp/event/detail_30589.html\"\n    }\n  ],\n  \"extensions\": [\n    \"可做白山鐵道親子常態行程，但不要把今天限定接駁延用到其他日期。\"\n  ]\n}",
+  "socialResearch": {
+    "checkedAt": "2026-10-12T10:10:20+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "limitation": "公開搜尋未取得符合條件的原始貼文及互動指標，不能建立本期社群熱榜；不以新聞數、官方公告、粉絲數或鏡像代替。",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "platformAccess": {
+      "Threads": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "X": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "Facebook": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "Instagram": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "TikTok": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "YouTube": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "PTT": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流",
+      "Dcard": "已做公開搜尋，未取得合格事件樣本；未登入抓取完整資料流"
+    }
+  }
+}
