@@ -1,0 +1,1811 @@
+{
+  "date": "2026-10-13",
+  "cutoff": "2026-10-13 10:10:11 Asia/Taipei（日本11:10:11）",
+  "trends": [
+    "本期檢視15個不同事件，5題通過發布門檻；其餘10題保留線索與排除原因，不湊成10題。",
+    "10/17淀川花火即將舉行，今天有交通整理報導；梅田側河川敷觀覽限制是最實用的行前切角。",
+    "USJ聯名商品今天開始，餐點另有日期；門票不代表限量商品必定有貨。",
+    "PLAZA聯名第二波今天開始，適用門市及不可預留條件比虛構搶購熱度重要。",
+    "WESTER關西北陸券今天進入使用期，6000是點數，不能寫成6000日圓。",
+    "京都國立博物館今天10/13休館，官方月曆與展覽頁相符；這是既有安排的當日提醒。",
+    "本期無任何題目取得兩位不同作者、48小時內原文及可核對讚／留言數，無法建立社群熱榜；排序是編輯判斷。",
+    "搜尋包含北海道、東北、北陸、中部、關西、中國、四國、九州與沖繩，但合格題集中關西與全國購物；不把地域掃描說成每區均有完整查核。"
+  ],
+  "choice": {
+    "id": "yodogawa-2026-traffic",
+    "title": "10/17 淀川花火：梅田側河川敷不能看，先排好散場路線",
+    "score": 90,
+    "reason": "對本週大阪旅客有立即行動價值；不看花火的人也可能遇到交通管制。鉤子是梅田側不能觀覽，分享給同行者，收藏管制圖與回程提醒。最佳切角為觀覽地點與移動避雷。",
+    "versusSecond": "USJ聯名的視覺與粉絲吸引力更高，也較適合分潤；淀川花火影響面更廣且只剩4天準備，所以同分時列第一。未以不存在的社群數據作排名。",
+    "publishAt": "台灣12:00（編輯建議）",
+    "audience": "10/17在大阪、住梅田或計畫看花火的自由行旅客",
+    "lifecycle": "1週，活動後失效"
+  },
+  "top10": [
+    {
+      "id": "yodogawa-2026-traffic",
+      "title": "10/17 淀川花火：梅田側河川敷不能看，先排好散場路線",
+      "region": "關西／大阪淀川",
+      "category": "交通／活動",
+      "announcementDate": "官方交通頁9/16已有更新；10/13 06:00 JST新增交通報導，非今日首次公告",
+      "eventDate": "2026-10-17 19:00–20:00 JST；交通管制約16:00–23:00，部分13:00起",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "本週六即將舉行；不看花火但住大阪的旅客也可能受車流與管制影響。",
+      "sources": [
+        {
+          "label": "主辦方概要",
+          "url": "https://www.yodohanabi.com/gaiyou.html"
+        },
+        {
+          "label": "大阪府警交通管制",
+          "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        },
+        {
+          "label": "主辦方管制圖",
+          "url": "https://www.yodohanabi.com/kisei.html"
+        },
+        {
+          "label": "Travel Watch 10/13交通提醒",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147098.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "今天新增媒體整理；舊公告因4天後活動例外納入",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "已讀官方與交叉來源；即時庫存未確認",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "活動只剩4天；已在大阪或能於10/15前取票的人有需求，臨時出發者不一定適合。",
+        "products": [
+          "指定觀覽席",
+          "梅田住宿"
+        ],
+        "platforms": [
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "本週六已經在大阪的話，可以再核對觀覽席與住宿。這張票有提前領取紙本的限制，先看自己抵達關西機場的日期，再決定要不要訂。",
+        "checks": "Klook頁列10/15 18:00前關西機場領票；確認庫存、座位、取消及天候規則。機場巴士不是會場接駁；住宿不保證看得到煙火。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"淀川花火\" \"2026\" site:threads.com",
+          "\"淀川花火\" \"2026\" site:facebook.com",
+          "\"淀川花火\" \"2026\" site:youtube.com OR site:tiktok.com OR site:dcard.tw"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "只找到大阪全市住宿列表，未完成更精準地區推薦，不列為已核對商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "梅田地區住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "適合已安排大阪過夜者比較地點，不代表能從飯店看煙火。",
+              "checks": "輸入10/17入住條件重查空房與取消；梅田側河川敷禁入，住宿不含門票或視野。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到適合的商品或精準列表；不推測平台庫存。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "第38屆淀川花火大會觀覽席方案",
+              "url": "https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/",
+              "kind": "商品頁",
+              "reason": "讀取到10/17觀覽席與機場巴士組合；可用於提醒提前取票。",
+              "checks": "須10/15 18:00前於關西機場1F指定櫃台取紙本，非QR直接入場。機場巴士非會場接駁；庫存、座位及雨天退款須再確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "draft": {
+        "threads": [
+          "10/17在大阪看淀川花火，別把「梅田側河川敷」設成觀賞地點。那一側今年禁止觀覽。\n\n第38屆淀川花火預定本週六日本時間19:00～20:00施放。主辦方也說，中津到野田附近因工程有一般民眾禁止進入區域。住梅田很方便，不代表能沿河找位置看。",
+          "交通要分成「到場」與「散場」兩段排。大阪府警公告，10/17管制約16:00～23:00，部分區域13:00就開始，實際時間可能隨現場調整。\n\n主辦方列出的十三側周邊車站包括十三、塚本、西中島南方等；請依自己的觀覽區選路線，別只挑地圖最近的一站。沒有專用停車場，也不能停在十三大橋上看煙火。",
+          "出發前先做三件事：確認觀覽區入口、存下官方管制圖、查當天鐵路運行與回程方式。一般雨天照常、荒天取消，當天仍要看主辦方通知。\n\n如果你訂的是平台席次，另外核對領票截止與入場時間；不要把票券頁的入場時間當成19:00的施放時間。把這份提醒傳給負責大阪交通的旅伴。\n官方概要：https://www.yodohanabi.com/gaiyou.html\n管制：https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        ],
+        "angles": [
+          {
+            "name": "避雷",
+            "opening": "住梅田，不代表能去梅田側河川敷看淀川花火。"
+          },
+          {
+            "name": "交通",
+            "opening": "10/17大阪的移動，要把花火散場一起算進去。"
+          },
+          {
+            "name": "時間",
+            "opening": "19:00才放煙火，部分道路13:00就開始管制。"
+          },
+          {
+            "name": "同行提醒",
+            "opening": "先跟旅伴約好回程，比當天在人群裡找路更實際。"
+          },
+          {
+            "name": "訂票限制",
+            "opening": "看到淀川花火席次，先查領票截止，不只查活動日期。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方觀覽區及交通管制圖；以標記梅田側禁入與日期為主，素材授權須另外確認。",
+            "url": "https://www.yodohanabi.com/kisei.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：淀川花火觀覽席取票步驟、梅田住宿與回程安排；商品領票截止是優先條件。"
+        ]
+      }
+    },
+    {
+      "id": "usj-myakumyaku-hamikuma-2026",
+      "title": "USJ ミャクミャク×ハミクマ今天開賣：入園不等於保證買得到",
+      "region": "關西／大阪 USJ",
+      "category": "購物／動漫IP",
+      "announcementDate": "2026-09-30官方公告；10/13 07:47 JST商品報導",
+      "eventDate": "聯名商品2026-10-13起；章魚燒包僅10/13、聖代10/14起，三者不同",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "同一聯名有不同開始日期與購買限制；拆開商品、餐點與門票，可避免粉絲安排錯誤。",
+      "sources": [
+        {
+          "label": "USJ官方9/30公告",
+          "url": "https://www.usj.co.jp/web/ja/jp/news/2026/0930"
+        },
+        {
+          "label": "Travel Watch 10/13商品報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147448.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天開賣；9/30舊公告例外納入",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "實體販售起日、店名與限量規則已核對；線上商店原頁遭挑戰頁阻擋，不採用其精確截止時刻",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "對本來就打算進USJ的讀者，入園票券能自然銜接；不能以買得到聯名商品作保證。",
+        "products": [
+          "USJ日期門票",
+          "園區周邊住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你原本就要排USJ，可以先確認入園日期，再比較門票與附近住宿。入園票不含聯名商品，也不保證有貨或拿得到整理券。",
+        "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"ハミクマ\" \"2026\" site:x.com",
+          "\"ハミクマ ミャクミャク\" site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀Trip.com USJ景點介紹，未確認可訂票方案及適用條件，因此不列為商品推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "日本環球影城周邊飯店列表",
+              "url": "https://www.booking.com/landmark/jp/universal-studios-japan.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "適合要住園區附近的旅客比較，不推定房價含門票。",
+              "checks": "重新輸入入住日期、人數、取消政策；房價不保證含USJ門票或任何聯名商品。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "大阪日本環球影城入園門票",
+              "url": "https://www.kkday.com/zh-tw/product/2247-universal-studios-japan-ticket-osaka",
+              "kind": "商品頁",
+              "reason": "先有入園計畫才比較日期票；不含限量商品。",
+              "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "日本環球影城QR入園門票",
+              "url": "https://www.klook.com/zh-TW/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/",
+              "kind": "商品頁",
+              "reason": "可比較日期入園票，不保證商品庫存或整理券。",
+              "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "draft": {
+        "threads": [
+          "ミャクミャク×ハミクマ今天在USJ開賣，但「有入園票」不等於一定買得到。\n\n聯名商品自2026/10/13起，在園內Universal Studios Store販售。官方已提醒數量有限，也可能發放購買整理券；如果你是為了這組聯名安排USJ，先把門票與商品庫存當成兩件事。",
+          "到店前要知道的限制：\n・購買時可能需要確認當天入園票或年票。\n・個別商品的購買數量限制，依店內說明。\n・整理券可能發完，商品也可能售罄。\n\n官方公告沒有承諾固定補貨或一定買得到，這篇也不把網路看到的售價當成現場現貨保證。先確認入園日期，再看官方當天販售安排。",
+          "同一聯名，餐點日期卻不同。10/13限定的章魚燒包與10/14起的聖代，不要和商品開賣日混在一起。章魚燒包另有整理券等條件，不能只憑入園票就當成能直接買。\n\n如果你主要想收商品，先看商品規則；想吃餐點，再逐項核對販售地點與時段。今天轉發給同行粉絲，最有用的就是這個日期差。\n官方詳情：https://www.usj.co.jp/web/ja/jp/news/2026/0930"
+        ],
+        "angles": [
+          {
+            "name": "消息",
+            "opening": "ミャクミャク×ハミクマ今天開賣，先分清商品與餐點日期。"
+          },
+          {
+            "name": "購買限制",
+            "opening": "有USJ門票，仍不代表一定買得到聯名商品。"
+          },
+          {
+            "name": "行程",
+            "opening": "為聯名排USJ前，先把整理券與庫存的不確定性算進去。"
+          },
+          {
+            "name": "日期差",
+            "opening": "章魚燒包10/13、聖代10/14：同一聯名不要排成同一天。"
+          },
+          {
+            "name": "粉絲",
+            "opening": "想收ミャクミャク×ハミクマ，先看Universal Studios Store的規則。"
+          }
+        ],
+        "images": [
+          {
+            "description": "USJ官方聯名商品及餐點主視覺；標出不同販售日期，商用授權未查核。",
+            "url": "https://www.usj.co.jp/web/ja/jp/news/2026/0930"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：USJ入園票與附近住宿比較；不把聯名商品庫存當成買票保證。"
+        ]
+      }
+    },
+    {
+      "id": "plaza-peanuts-mlb-subway",
+      "title": "Snoopy穿上洋基與大都會：PLAZA 10/13第二波聯名",
+      "region": "日本各地適用PLAZA門市",
+      "category": "購物／動漫IP",
+      "announcementDate": "2026-09-25官方活動公告；10/13 06:00 JST新增商品報導",
+      "eventDate": "2026-10-13第二波SUBWAY SERIES開始",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 12,
+        "實用性": 11,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "旅途中可順路逛的視覺選題，粉絲會在意系列與門市限制；不虛構現貨或排隊熱度。",
+      "sources": [
+        {
+          "label": "PLAZA活動頁",
+          "url": "https://www.plazastyle.com/contents/peanuts2026/"
+        },
+        {
+          "label": "PLAZA 9/25門市限制",
+          "url": "https://www.plazastyle.com/contents/topics/detail/569"
+        },
+        {
+          "label": "Travel Watch 10/13",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147132.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天第二波開賣；舊公告例外",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "已讀官方與交叉來源；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市聯名商品與旅遊預訂需求薄弱，不因可放網址而推薦無關飯店。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認適用門市、上市與現貨；本期不推薦四平台無關商品。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"PLAZA\" \"SUBWAY SERIES\" site:instagram.com",
+          "\"PLAZA\" \"SUBWAY\" site:instagram.com OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "Snoopy這次穿洋基，也穿大都會。PLAZA的PEANUTS×MLB「SUBWAY SERIES」第二波，2026/10/13開始。\n\n如果你這幾天在日本，想買帶球隊元素的聯名小物，可以把PLAZA排成順路的一站。這是9月已預告、今天開始的第二波，不是今天才突然公布。",
+          "官方頁有收納包、衛衣、開襟衫及居家服等品項。想先挑小物，收納包標價為含稅2,530日圓；不同品項請以官方頁與店內標示核對。\n\n先選你喜歡的隊伍與款式，再查目的地附近門市。這裡沒有即時庫存資料，不會用「全店都有」或「一定買得到」讓你白跑。",
+          "還有門市例外：官方9/25活動公告列出Lazona川崎PLAZA與全部PLAZA OUTLET不在活動範圍，也說活動期間不接受商品預留及調貨。\n\n出發前再看想去門市的說明；照片裡的聯名款，不代表每間店都有同樣庫存。你會先挑洋基，還是大都會？\n系列與照片：https://www.plazastyle.com/contents/peanuts2026/\n門市限制：https://www.plazastyle.com/contents/topics/detail/569"
+        ],
+        "angles": [
+          {
+            "name": "新款",
+            "opening": "Snoopy穿洋基也穿大都會，PLAZA第二波今天開始。"
+          },
+          {
+            "name": "小物",
+            "opening": "想找日本聯名小物？這次先看2,530日圓的收納包。"
+          },
+          {
+            "name": "順路購物",
+            "opening": "不用另排大行程，赴日途中先查附近PLAZA是否適用。"
+          },
+          {
+            "name": "門市限制",
+            "opening": "看到PLAZA聯名先別衝Outlet，這波有門市例外。"
+          },
+          {
+            "name": "選擇",
+            "opening": "洋基與大都會，你會讓Snoopy穿哪一隊？"
+          }
+        ],
+        "images": [
+          {
+            "description": "PLAZA官方Snoopy兩隊款式及收納包照片；素材可找到，不代表可任意商用。",
+            "url": "https://www.plazastyle.com/contents/peanuts2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸PLAZA聯名門市清單；目前不硬接旅遊分潤。"
+        ]
+      }
+    },
+    {
+      "id": "wester-kansai-hokuriku-start",
+      "title": "6000是點數，不是日圓：關西・北陸3日券今天開始使用",
+      "region": "關西／北陸指定路線",
+      "category": "票券／交通",
+      "announcementDate": "至少2026-09-24已有報導；官方專頁未列首次發布日期",
+      "eventDate": "販售10/1–12/22；使用10/13–12/24，最晚12/22開始",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "容易被誤讀成任何旅客都能花6000日圓購買；適合持有足額WESTER點數者，先說資格才有實用價值。",
+      "sources": [
+        {
+          "label": "JR西日本專頁",
+          "url": "https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/"
+        },
+        {
+          "label": "JR西日本詳細規則",
+          "url": "https://tickets.jr-odekake.net/shohindb/view/consumer/tokutoku/detail.html?staticShnId=100023002"
+        },
+        {
+          "label": "Travel Watch 9/24",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2142671.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天開始使用；9/24前後舊訊例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "點數、期間、指定席次數及取票已核對；未確認台灣新申請者註冊資格，不宣稱人人可買",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "這是JR官方點數兌換商品，不能用平台販售的其他JR Pass替代。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先確認WESTER會員與可用點數、e5489取票和適用路段；外國旅客新註冊資格尚未確認。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"WESTERポイント関西\" site:threads.com OR site:x.com OR site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "看到「6000、關西北陸3天搭到飽」，先看單位：是WESTER點數，不是6,000日圓。\n\n「WESTERポイント関西・北陸フリーパス」今天10/13開始使用。成人需6,000點、兒童3,000點，連續3天有效；適合本來就持有足額點數的會員，不是任何旅客付現都能買的通票。",
+          "範圍也不是全日本JR。官方列出的主要路段包括北陸新幹線敦賀～糸魚川、Thunderbird大阪～敦賀，以及Shirasagi米原～敦賀等指定區域。\n\n普通車指定席可使用6次，仍需照規則預約。規劃大阪到北陸行程前，先對照範圍圖與轉乘方式；別用「有新幹線」推論東京或所有新幹線路段都適用。",
+          "操作順序是：確認WESTER會員與足額點數 → 到e5489申購 → 乘車前領取實體票 → 安排指定席。不能只拿手機訂單就直接搭車。\n\n販售到12/22，使用期間到12/24，最晚12/22開始3天行程。我尚未確認台灣旅客新註冊的完整資格；如果你還不是會員，先向官方確認，不要為了這篇先訂不可退行程。\n官方範圍與規則：https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/"
+        ],
+        "angles": [
+          {
+            "name": "單位",
+            "opening": "6000不是日圓：這張關西北陸3日券用WESTER點數換。"
+          },
+          {
+            "name": "資格",
+            "opening": "有足額WESTER點數，才開始算這張券值不值得。"
+          },
+          {
+            "name": "範圍",
+            "opening": "有新幹線，不代表全線適用：先看敦賀～糸魚川。"
+          },
+          {
+            "name": "操作",
+            "opening": "在e5489買好還沒結束，乘車前要先取票。"
+          },
+          {
+            "name": "行程",
+            "opening": "3天關西北陸，先對照你的路線再決定兌換。"
+          }
+        ],
+        "images": [
+          {
+            "description": "JR官方適用路線圖與點數條件；避免把點數改寫為日圓。",
+            "url": "https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/"
+          }
+        ],
+        "extensions": [
+          "可延伸WESTER點數資格與路線比較；平台一般JR Pass不能當同商品推薦。"
+        ]
+      }
+    },
+    {
+      "id": "kyohaku-oct13-closed",
+      "title": "今天星期二，京都國立博物館仍休館：源氏物語展改排日期",
+      "region": "關西／京都國立博物館平成知新館",
+      "category": "旅遊／大型展覽",
+      "announcementDate": "官方頁未列首次公告日；屬已公布展期內的休館安排",
+      "eventDate": "2026-10-13休館；展期10/6–11/29；下一開館日10/14",
+      "score": 77,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 8,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "連假後的休館日很容易看錯；今天有立即避雷價值，但受眾比大阪前兩題窄。",
+      "sources": [
+        {
+          "label": "京都國立博物館展覽頁",
+          "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/"
+        },
+        {
+          "label": "官方10月月曆",
+          "url": "https://www.kyohaku.go.jp/jp/calendar/2026/10/"
+        },
+        {
+          "label": "Hopetrip展期與休館交叉資料",
+          "url": "https://www.hopetrip.com/news/detail-41069.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天生效的既有休館安排，非新公告",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "查核完成後立即（台灣時間；今日行前提醒）",
+      "verification": "官方月曆與展覽頁一致，另核對旅遊整理；後者非獨立採訪，票價以官方為準",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天的主要價值是休館提醒；未核對到同展覽平台門票，沒有自然分潤商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先確認開館日與展品輪替，不推薦不含展覽票的商品冒充套票。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2029140630127968609",
+            "label": "X索引趨勢摘要",
+            "reason": "不是近期原始作者貼文，不能作互動證據。"
+          }
+        ],
+        "queries": [
+          "\"源氏物語\" \"2026\" site:x.com OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天10/13雖然是星期二，京都國立博物館仍然休館。要看《源氏物語 王朝のかがやき》，今天先別往館內跑。\n\n昨天10/12是假日開館，休館日移到今天；官方10月月曆也標示10/14恢復特別展。這是原本就公告的安排，適合提醒今天正在京都的旅伴。",
+          "改排其他日期時，再記住兩組時間：一般開館9:00～17:30，最後入場17:00；星期五延長到20:00，最後入場19:30，都是日本時間。\n\n展期10/6～11/29，地點是平成知新館。一般成人當日票2,200日圓；預售期已經結束，別再拿舊文章的預售價當成現在能買到的價格。",
+          "如果你是為了特定展品而去，還要核對展示日期：展覽分前後期，部分作品會輪替，整體展期不代表每件作品都展到最後一天。\n\n現在先把今天的博物館行程移開，再用官方月曆確認新日期。11/24也有星期二休館安排，秋季行程可以一併留意。\n官方展覽：https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/\n月曆：https://www.kyohaku.go.jp/jp/calendar/2026/10/"
+        ],
+        "angles": [
+          {
+            "name": "即時提醒",
+            "opening": "今天星期二，京都國立博物館還是休館。"
+          },
+          {
+            "name": "連假後",
+            "opening": "昨天假日開館，今天換休：京都行程別只記星期一。"
+          },
+          {
+            "name": "時間",
+            "opening": "17:30閉館不等於17:30還能入場，京博最後入場是17:00。"
+          },
+          {
+            "name": "票價",
+            "opening": "源氏物語展預售已結束，現在先看當日票條件。"
+          },
+          {
+            "name": "展品",
+            "opening": "展期到11/29，不代表你想看的每件作品都展到11/29。"
+          }
+        ],
+        "images": [
+          {
+            "description": "京都國立博物館官方展覽主視覺搭配10月月曆；圖像再利用授權需確認。",
+            "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/"
+          }
+        ],
+        "extensions": [
+          "可延伸京都展覽休館日與展品輪替攻略；目前沒有核對到同展覽平台票券。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "yodogawa-2026-traffic",
+      "title": "10/17 淀川花火：梅田側河川敷不能看，先排好散場路線",
+      "region": "關西／大阪淀川",
+      "category": "交通／活動",
+      "announcementDate": "官方交通頁9/16已有更新；10/13 06:00 JST新增交通報導，非今日首次公告",
+      "eventDate": "2026-10-17 19:00–20:00 JST；交通管制約16:00–23:00，部分13:00起",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "本週六即將舉行；不看花火但住大阪的旅客也可能受車流與管制影響。",
+      "sources": [
+        {
+          "label": "主辦方概要",
+          "url": "https://www.yodohanabi.com/gaiyou.html"
+        },
+        {
+          "label": "大阪府警交通管制",
+          "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        },
+        {
+          "label": "主辦方管制圖",
+          "url": "https://www.yodohanabi.com/kisei.html"
+        },
+        {
+          "label": "Travel Watch 10/13交通提醒",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147098.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "今天新增媒體整理；舊公告因4天後活動例外納入",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "已讀官方與交叉來源；即時庫存未確認",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "活動只剩4天；已在大阪或能於10/15前取票的人有需求，臨時出發者不一定適合。",
+        "products": [
+          "指定觀覽席",
+          "梅田住宿"
+        ],
+        "platforms": [
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "本週六已經在大阪的話，可以再核對觀覽席與住宿。這張票有提前領取紙本的限制，先看自己抵達關西機場的日期，再決定要不要訂。",
+        "checks": "Klook頁列10/15 18:00前關西機場領票；確認庫存、座位、取消及天候規則。機場巴士不是會場接駁；住宿不保證看得到煙火。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"淀川花火\" \"2026\" site:threads.com",
+          "\"淀川花火\" \"2026\" site:facebook.com",
+          "\"淀川花火\" \"2026\" site:youtube.com OR site:tiktok.com OR site:dcard.tw"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "只找到大阪全市住宿列表，未完成更精準地區推薦，不列為已核對商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "梅田地區住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "適合已安排大阪過夜者比較地點，不代表能從飯店看煙火。",
+              "checks": "輸入10/17入住條件重查空房與取消；梅田側河川敷禁入，住宿不含門票或視野。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到適合的商品或精準列表；不推測平台庫存。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "第38屆淀川花火大會觀覽席方案",
+              "url": "https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/",
+              "kind": "商品頁",
+              "reason": "讀取到10/17觀覽席與機場巴士組合；可用於提醒提前取票。",
+              "checks": "須10/15 18:00前於關西機場1F指定櫃台取紙本，非QR直接入場。機場巴士非會場接駁；庫存、座位及雨天退款須再確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "status": "入選"
+    },
+    {
+      "id": "usj-myakumyaku-hamikuma-2026",
+      "title": "USJ ミャクミャク×ハミクマ今天開賣：入園不等於保證買得到",
+      "region": "關西／大阪 USJ",
+      "category": "購物／動漫IP",
+      "announcementDate": "2026-09-30官方公告；10/13 07:47 JST商品報導",
+      "eventDate": "聯名商品2026-10-13起；章魚燒包僅10/13、聖代10/14起，三者不同",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "同一聯名有不同開始日期與購買限制；拆開商品、餐點與門票，可避免粉絲安排錯誤。",
+      "sources": [
+        {
+          "label": "USJ官方9/30公告",
+          "url": "https://www.usj.co.jp/web/ja/jp/news/2026/0930"
+        },
+        {
+          "label": "Travel Watch 10/13商品報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147448.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天開賣；9/30舊公告例外納入",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "實體販售起日、店名與限量規則已核對；線上商店原頁遭挑戰頁阻擋，不採用其精確截止時刻",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "對本來就打算進USJ的讀者，入園票券能自然銜接；不能以買得到聯名商品作保證。",
+        "products": [
+          "USJ日期門票",
+          "園區周邊住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你原本就要排USJ，可以先確認入園日期，再比較門票與附近住宿。入園票不含聯名商品，也不保證有貨或拿得到整理券。",
+        "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"ハミクマ\" \"2026\" site:x.com",
+          "\"ハミクマ ミャクミャク\" site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀Trip.com USJ景點介紹，未確認可訂票方案及適用條件，因此不列為商品推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "日本環球影城周邊飯店列表",
+              "url": "https://www.booking.com/landmark/jp/universal-studios-japan.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "適合要住園區附近的旅客比較，不推定房價含門票。",
+              "checks": "重新輸入入住日期、人數、取消政策；房價不保證含USJ門票或任何聯名商品。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "大阪日本環球影城入園門票",
+              "url": "https://www.kkday.com/zh-tw/product/2247-universal-studios-japan-ticket-osaka",
+              "kind": "商品頁",
+              "reason": "先有入園計畫才比較日期票；不含限量商品。",
+              "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。",
+          "pages": [
+            {
+              "title": "日本環球影城QR入園門票",
+              "url": "https://www.klook.com/zh-TW/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/",
+              "kind": "商品頁",
+              "reason": "可比較日期入園票，不保證商品庫存或整理券。",
+              "checks": "確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。",
+              "checkedAt": "2026-10-13T10:05:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "status": "入選"
+    },
+    {
+      "id": "plaza-peanuts-mlb-subway",
+      "title": "Snoopy穿上洋基與大都會：PLAZA 10/13第二波聯名",
+      "region": "日本各地適用PLAZA門市",
+      "category": "購物／動漫IP",
+      "announcementDate": "2026-09-25官方活動公告；10/13 06:00 JST新增商品報導",
+      "eventDate": "2026-10-13第二波SUBWAY SERIES開始",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 12,
+        "實用性": 11,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "旅途中可順路逛的視覺選題，粉絲會在意系列與門市限制；不虛構現貨或排隊熱度。",
+      "sources": [
+        {
+          "label": "PLAZA活動頁",
+          "url": "https://www.plazastyle.com/contents/peanuts2026/"
+        },
+        {
+          "label": "PLAZA 9/25門市限制",
+          "url": "https://www.plazastyle.com/contents/topics/detail/569"
+        },
+        {
+          "label": "Travel Watch 10/13",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147132.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天第二波開賣；舊公告例外",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "已讀官方與交叉來源；即時庫存未確認",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市聯名商品與旅遊預訂需求薄弱，不因可放網址而推薦無關飯店。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認適用門市、上市與現貨；本期不推薦四平台無關商品。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"PLAZA\" \"SUBWAY SERIES\" site:instagram.com",
+          "\"PLAZA\" \"SUBWAY\" site:instagram.com OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "status": "入選"
+    },
+    {
+      "id": "wester-kansai-hokuriku-start",
+      "title": "6000是點數，不是日圓：關西・北陸3日券今天開始使用",
+      "region": "關西／北陸指定路線",
+      "category": "票券／交通",
+      "announcementDate": "至少2026-09-24已有報導；官方專頁未列首次發布日期",
+      "eventDate": "販售10/1–12/22；使用10/13–12/24，最晚12/22開始",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "容易被誤讀成任何旅客都能花6000日圓購買；適合持有足額WESTER點數者，先說資格才有實用價值。",
+      "sources": [
+        {
+          "label": "JR西日本專頁",
+          "url": "https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/"
+        },
+        {
+          "label": "JR西日本詳細規則",
+          "url": "https://tickets.jr-odekake.net/shohindb/view/consumer/tokutoku/detail.html?staticShnId=100023002"
+        },
+        {
+          "label": "Travel Watch 9/24",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2142671.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "今天開始使用；9/24前後舊訊例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，非帳號績效）",
+      "verification": "點數、期間、指定席次數及取票已核對；未確認台灣新申請者註冊資格，不宣稱人人可買",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "這是JR官方點數兌換商品，不能用平台販售的其他JR Pass替代。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先確認WESTER會員與可用點數、e5489取票和適用路段；外國旅客新註冊資格尚未確認。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"WESTERポイント関西\" site:threads.com OR site:x.com OR site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "status": "入選"
+    },
+    {
+      "id": "kyohaku-oct13-closed",
+      "title": "今天星期二，京都國立博物館仍休館：源氏物語展改排日期",
+      "region": "關西／京都國立博物館平成知新館",
+      "category": "旅遊／大型展覽",
+      "announcementDate": "官方頁未列首次公告日；屬已公布展期內的休館安排",
+      "eventDate": "2026-10-13休館；展期10/6–11/29；下一開館日10/14",
+      "score": 77,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 8,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "連假後的休館日很容易看錯；今天有立即避雷價值，但受眾比大阪前兩題窄。",
+      "sources": [
+        {
+          "label": "京都國立博物館展覽頁",
+          "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/"
+        },
+        {
+          "label": "官方10月月曆",
+          "url": "https://www.kyohaku.go.jp/jp/calendar/2026/10/"
+        },
+        {
+          "label": "Hopetrip展期與休館交叉資料",
+          "url": "https://www.hopetrip.com/news/detail-41069.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天生效的既有休館安排，非新公告",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "查核完成後立即（台灣時間；今日行前提醒）",
+      "verification": "官方月曆與展覽頁一致，另核對旅遊整理；後者非獨立採訪，票價以官方為準",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天的主要價值是休館提醒；未核對到同展覽平台門票，沒有自然分潤商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先確認開館日與展品輪替，不推薦不含展覽票的商品冒充套票。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2029140630127968609",
+            "label": "X索引趨勢摘要",
+            "reason": "不是近期原始作者貼文，不能作互動證據。"
+          }
+        ],
+        "queries": [
+          "\"源氏物語\" \"2026\" site:x.com OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。",
+          "pages": []
+        }
+      ],
+      "status": "入選"
+    },
+    {
+      "id": "sapporo-autumn-gondola",
+      "title": "札幌秋季纜車與紅葉接駁",
+      "region": "北海道／札幌",
+      "category": "季節情報",
+      "announcementDate": "官方動態索引出現10/12資訊；細節日期待核",
+      "eventDate": "秋季運行期限待交叉核對",
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "未完成原始活動頁與當日葉況核對；不把索引摘要当實測紅葉。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.sapporo.travel/today/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "未完成原始活動頁與當日葉況核對；不把索引摘要当實測紅葉。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "tabicore-gift",
+      "title": "tabicore GIFT旅行禮品服務",
+      "region": "全日本",
+      "category": "旅遊",
+      "announcementDate": "2026-09-25公司發稿",
+      "eventDate": "宣稱10/13服務開始",
+      "score": 53,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 8,
+        "社群討論潛力": 6,
+        "實用性": 6,
+        "稀缺性": 6,
+        "視覺吸引力": 4,
+        "標題吸引力": 2,
+        "延伸內容價值": 3
+      },
+      "why": "已讀公司發布，主要為企業用途；欠缺旅客購買條件與第二來源。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000014.000085910.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "已讀公司發布，主要為企業用途；欠缺旅客購買條件與第二來源。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "hachinohe-square",
+      "title": "八戶Square新飯店開幕線索",
+      "region": "東北／青森八戶",
+      "category": "住宿",
+      "announcementDate": "已讀飯店開業彙整，原始官方公告待核",
+      "eventDate": "彙整列10/15開幕，尚未完全確認",
+      "score": 65,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 8,
+        "實用性": 9,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 4
+      },
+      "why": "僅取得開業彙整，沒有完成官網實際訂房與開幕日期第二次確認。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "僅取得開業彙整，沒有完成官網實際訂房與開幕日期第二次確認。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lawson-oct13",
+      "title": "Lawson 10/13新品批次",
+      "region": "日本各地，適用地區未核",
+      "category": "美食",
+      "announcementDate": "新品彙整列2026-10-13",
+      "eventDate": "10/13上市線索，分區與售價待核",
+      "score": 73,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 9,
+        "稀缺性": 4,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "官方新品頁未讀到有效正文；不能把第三方新品列表當成全日本同日上市。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://mognavi.jp/newitem/20261013/100"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "官方新品頁未讀到有效正文；不能把第三方新品列表當成全日本同日上市。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "nhk-toyotomi-event",
+      "title": "NHK豐臣兄弟活動申請截止線索",
+      "region": "地點尚未完全確認",
+      "category": "活動",
+      "announcementDate": "NHK活動頁日期未完整讀取",
+      "eventDate": "索引列10/13中午截止、11月活動，待核",
+      "score": 52,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 7,
+        "社群討論潛力": 6,
+        "實用性": 6,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "原頁僅回傳框架，無法核對申請資格與時刻，排除緊急推薦。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.event.nhk.or.jp/e-portal/detail.html?id=4638"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "原頁僅回傳框架，無法核對申請資格與時刻，排除緊急推薦。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "tax-free-november",
+      "title": "日本免稅新制11月實施準備",
+      "region": "全日本",
+      "category": "政策",
+      "announcementDate": "既有政策資料，非今天新發布",
+      "eventDate": "11月制度變更；具體細節另需完整查核",
+      "score": 71,
+      "scoreBreakdown": {
+        "即時性": 7,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 3,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "why": "今天未找到新進展，不將既有政策重新包成10/13新消息。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "今天未找到新進展，不將既有政策重新包成10/13新消息。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "boso-rail-alert",
+      "title": "房總地區鐵路運行提醒線索",
+      "region": "關東／千葉",
+      "category": "交通",
+      "announcementDate": "旅遊警示頁10/13讀取，原公告時間未核",
+      "eventDate": "當日運行狀態待JR官方確認",
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 10,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 3,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "只有旅遊警示彙整，未完成JR官方路線與恢復時刻查核；不發布停駛結論。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.japan-guide.com/news/alerts.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "只有旅遊警示彙整，未完成JR官方路線與恢復時刻查核；不發布停駛結論。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "ex-autumn-expired",
+      "title": "EX秋季旅遊套裝優惠",
+      "region": "多地",
+      "category": "優惠／票券",
+      "announcementDate": "促銷既有頁面，首次公告日未列",
+      "eventDate": "預訂已於9/28截止；出發期間仍延續至11月",
+      "score": 44,
+      "scoreBreakdown": {
+        "即時性": 1,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 8,
+        "實用性": 6,
+        "稀缺性": 2,
+        "視覺吸引力": 5,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "活動出發期仍在不代表優惠仍可訂，排除已截止促銷。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.nta.co.jp/jr/ex/campaign/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "活動出發期仍在不代表優惠仍可訂，排除已截止促銷。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "okinawa-hotel-list",
+      "title": "沖繩2026新飯店彙整",
+      "region": "沖繩",
+      "category": "住宿",
+      "announcementDate": "頁面2025-12-17、2026-06-23更新線索",
+      "eventDate": "各飯店開業時間不同，本次無新進展",
+      "score": 56,
+      "scoreBreakdown": {
+        "即時性": 2,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 9,
+        "實用性": 10,
+        "稀缺性": 3,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 4
+      },
+      "why": "舊彙整，不能当本日新開飯店；未列入可發布新聞。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://www.okinawa-c.site/hotel/new-hotel_2026/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "舊彙整，不能当本日新開飯店；未列入可發布新聞。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "akita-ukiyoe",
+      "title": "秋田北齋廣重展覽線索",
+      "region": "東北／秋田",
+      "category": "大型展覽",
+      "announcementDate": "活動索引，原始公告日期未核",
+      "eventDate": "索引列10/10–12/6，尚未完全確認",
+      "score": 57,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 8,
+        "實用性": 8,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "只有活動列表，沒有完成官方展期、票價與展品查核；不作精選。",
+      "sources": [
+        {
+          "label": "候選線索（不是完成查核的推薦）",
+          "url": "https://iko-yo.net/events?end_date%5Bday%5D=13&end_date%5Bmonth%5D=10&end_date%5Byear%5D=2026&region_ids%5B%5D=1&start_date%5Bday%5D=13&start_date%5Bmonth%5D=10&start_date%5Byear%5D=2026"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未通過時效或查核門檻，詳見日期與排除原因",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議發布，待查核",
+      "verification": "尚未完全確認；分數僅為候選編輯初評，不表示事實已確認",
+      "exclusionReason": "只有活動列表，沒有完成官方展期、票價與展品查核；不作精選。",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "資訊或條件尚未核實，現階段不適合放預訂連結。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。",
+        "assessedOn": "2026-10-13"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-13T10:10:11+08:00",
+        "summary": "熱度未確認；未完成逐題合格原始樣本查核。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-13T10:10:11+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "limitation": "沒有合格原始社群互動樣本，不能建立本期熱榜。搜尋索引、官方商品資訊與媒體篇數不作人氣證據；未逐一完成全部未入選候選的社群樣本調查。",
+    "searchedTopicCount": 5,
+    "qualifiedTopicCount": 0,
+    "platformAccess": {
+      "Threads": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "Facebook": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "Instagram": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "Dcard": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "PTT": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "X": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "YouTube": "搜尋未取得符合本期主題、48小時時窗且可核對時間與讚留言的兩作者樣本",
+      "TikTok": "工具回報robots限制，未取得原始資料"
+    }
+  },
+  "followups": [
+    {
+      "title": "10/17淀川花火當天管制與天候",
+      "detail": "未來24–72小時檢查主辦方新增公告；現階段不預測取消或加開班次。",
+      "url": "https://www.yodohanabi.com/gaiyou.html"
+    },
+    {
+      "title": "USJ聯名商品現貨與10/14聖代",
+      "detail": "確認商品是否售罄、餐點是否按公告開始；不保證補貨。",
+      "url": "https://www.usj.co.jp/web/ja/jp/news/2026/0930"
+    },
+    {
+      "title": "札幌秋季纜車與實際葉況",
+      "detail": "需補原始營運頁、接駁日及當日照片日期，不能把季節預測當實測。",
+      "url": "https://www.sapporo.travel/today/"
+    },
+    {
+      "title": "八戶新飯店10/15開幕線索",
+      "detail": "需補官方開幕公告與可訂房條件，仍是待確認候選。",
+      "url": "https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/"
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-13\n搜尋截止：2026-10-13 10:10:11 Asia/Taipei（日本11:10:11）\n\n【今天日本發生什麼？】\n本期檢視15個不同事件，5題通過發布門檻；其餘10題保留線索與排除原因，不湊成10題。\n10/17淀川花火即將舉行，今天有交通整理報導；梅田側河川敷觀覽限制是最實用的行前切角。\nUSJ聯名商品今天開始，餐點另有日期；門票不代表限量商品必定有貨。\nPLAZA聯名第二波今天開始，適用門市及不可預留條件比虛構搶購熱度重要。\nWESTER關西北陸券今天進入使用期，6000是點數，不能寫成6000日圓。\n京都國立博物館今天10/13休館，官方月曆與展覽頁相符；這是既有安排的當日提醒。\n本期無任何題目取得兩位不同作者、48小時內原文及可核對讚／留言數，無法建立社群熱榜；排序是編輯判斷。\n搜尋包含北海道、東北、北陸、中部、關西、中國、四國、九州與沖繩，但合格題集中關西與全國購物；不把地域掃描說成每區均有完整查核。\n\n【候選池與評分紀錄】\n已完成候選比較再定編輯排序。5題入選，10題未入選；未入選為線索初評，不能直接發布。部分候選只有索引，已明列不足。未取得合格社群熱榜，沒有把內容分數冒充熱度。\n\n入選｜10/17 淀川花火：梅田側河川敷不能看，先排好散場路線\n分類：交通／活動；地區：關西／大阪淀川\n公布：官方交通頁9/16已有更新；10/13 06:00 JST新增交通報導，非今日首次公告\n事件：2026-10-17 19:00–20:00 JST；交通管制約16:00–23:00，部分13:00起\n本週六即將舉行；不看花火但住大阪的旅客也可能受車流與管制影響。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：19/20/13/15/6/8/5/4＝90/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：4/5/5星；風險中；今天新增媒體整理；舊公告因4天後活動例外納入；生命1週；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：已讀官方與交叉來源；即時庫存未確認\n分潤中：活動只剩4天；已在大阪或能於10/15前取票的人有需求，臨時出發者不一定適合。 商品：指定觀覽席、梅田住宿；限制：Klook頁列10/15 18:00前關西機場領票；確認庫存、座位、取消及天候規則。機場巴士不是會場接駁；住宿不保證看得到煙火。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"淀川花火\" \"2026\" site:threads.com；\"淀川花火\" \"2026\" site:facebook.com；\"淀川花火\" \"2026\" site:youtube.com OR site:tiktok.com OR site:dcard.tw\n來源：主辦方概要 https://www.yodohanabi.com/gaiyou.html\n大阪府警交通管制 https://www.police.pref.osaka.lg.jp/topics/24860.html\n主辦方管制圖 https://www.yodohanabi.com/kisei.html\nTravel Watch 10/13交通提醒 https://travel.watch.impress.co.jp/docs/news/2147098.html\ntrip：只找到大阪全市住宿列表，未完成更精準地區推薦，不列為已核對商品。\n\nbooking：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n梅田地區住宿列表 https://www.booking.com/district/jp/osaka/umeda.zh-tw.html；適合已安排大阪過夜者比較地點，不代表能從飯店看煙火。；輸入10/17入住條件重查空房與取消；梅田側河川敷禁入，住宿不含門票或視野。；查閱約2026-10-13T10:05:00+08:00\nkkday：未核對到適合的商品或精準列表；不推測平台庫存。\n\nklook：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n第38屆淀川花火大會觀覽席方案 https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/；讀取到10/17觀覽席與機場巴士組合；可用於提醒提前取票。；須10/15 18:00前於關西機場1F指定櫃台取紙本，非QR直接入場。機場巴士非會場接駁；庫存、座位及雨天退款須再確認。；查閱約2026-10-13T10:05:00+08:00\n\n入選｜USJ ミャクミャク×ハミクマ今天開賣：入園不等於保證買得到\n分類：購物／動漫IP；地區：關西／大阪 USJ\n公布：2026-09-30官方公告；10/13 07:47 JST商品報導\n事件：聯名商品2026-10-13起；章魚燒包僅10/13、聖代10/14起，三者不同\n同一聯名有不同開始日期與購買限制；拆開商品、餐點與門票，可避免粉絲安排錯誤。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/19/14/12/6/10/5/4＝90/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：5/4/4星；風險中；今天開賣；9/30舊公告例外納入；生命1週；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：實體販售起日、店名與限量規則已核對；線上商店原頁遭挑戰頁阻擋，不採用其精確截止時刻\n分潤高：對本來就打算進USJ的讀者，入園票券能自然銜接；不能以買得到聯名商品作保證。 商品：USJ日期門票、園區周邊住宿；限制：確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"ハミクマ\" \"2026\" site:x.com；\"ハミクマ ミャクミャク\" site:threads.com\n來源：USJ官方9/30公告 https://www.usj.co.jp/web/ja/jp/news/2026/0930\nTravel Watch 10/13商品報導 https://travel.watch.impress.co.jp/docs/news/2147448.html\ntrip：已讀Trip.com USJ景點介紹，未確認可訂票方案及適用條件，因此不列為商品推薦。\n\nbooking：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n日本環球影城周邊飯店列表 https://www.booking.com/landmark/jp/universal-studios-japan.zh-tw.html；適合要住園區附近的旅客比較，不推定房價含門票。；重新輸入入住日期、人數、取消政策；房價不保證含USJ門票或任何聯名商品。；查閱約2026-10-13T10:05:00+08:00\nkkday：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n大阪日本環球影城入園門票 https://www.kkday.com/zh-tw/product/2247-universal-studios-japan-ticket-osaka；先有入園計畫才比較日期票；不含限量商品。；確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。；查閱約2026-10-13T10:05:00+08:00\nklook：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n日本環球影城QR入園門票 https://www.klook.com/zh-TW/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/；可比較日期入園票，不保證商品庫存或整理券。；確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。；查閱約2026-10-13T10:05:00+08:00\n\n入選｜Snoopy穿上洋基與大都會：PLAZA 10/13第二波聯名\n分類：購物／動漫IP；地區：日本各地適用PLAZA門市\n公布：2026-09-25官方活動公告；10/13 06:00 JST新增商品報導\n事件：2026-10-13第二波SUBWAY SERIES開始\n旅途中可順路逛的視覺選題，粉絲會在意系列與門市限制；不虛構現貨或排隊熱度。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/16/12/11/6/10/4/3＝82/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：4/4/4星；風險低；今天第二波開賣；舊公告例外；生命1週；晚上發 台灣20:30（編輯建議）\n查核：已讀官方與交叉來源；即時庫存未確認\n分潤低：門市聯名商品與旅遊預訂需求薄弱，不因可放網址而推薦無關飯店。 商品：無；限制：確認適用門市、上市與現貨；本期不推薦四平台無關商品。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"PLAZA\" \"SUBWAY SERIES\" site:instagram.com；\"PLAZA\" \"SUBWAY\" site:instagram.com OR site:threads.com\n來源：PLAZA活動頁 https://www.plazastyle.com/contents/peanuts2026/\nPLAZA 9/25門市限制 https://www.plazastyle.com/contents/topics/detail/569\nTravel Watch 10/13 https://travel.watch.impress.co.jp/docs/news/2147132.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n入選｜6000是點數，不是日圓：關西・北陸3日券今天開始使用\n分類：票券／交通；地區：關西／北陸指定路線\n公布：至少2026-09-24已有報導；官方專頁未列首次發布日期\n事件：販售10/1–12/22；使用10/13–12/24，最晚12/22開始\n容易被誤讀成任何旅客都能花6000日圓購買；適合持有足額WESTER點數者，先說資格才有實用價值。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/14/10/15/6/6/5/4＝78/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：3/5/4星；風險中；今天開始使用；9/24前後舊訊例外；生命1個月以上；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：點數、期間、指定席次數及取票已核對；未確認台灣新申請者註冊資格，不宣稱人人可買\n分潤低：這是JR官方點數兌換商品，不能用平台販售的其他JR Pass替代。 商品：無；限制：先確認WESTER會員與可用點數、e5489取票和適用路段；外國旅客新註冊資格尚未確認。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"WESTERポイント関西\" site:threads.com OR site:x.com OR site:facebook.com\n來源：JR西日本專頁 https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/\nJR西日本詳細規則 https://tickets.jr-odekake.net/shohindb/view/consumer/tokutoku/detail.html?staticShnId=100023002\nTravel Watch 9/24 https://travel.watch.impress.co.jp/docs/news/2142671.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n入選｜今天星期二，京都國立博物館仍休館：源氏物語展改排日期\n分類：旅遊／大型展覽；地區：關西／京都國立博物館平成知新館\n公布：官方頁未列首次公告日；屬已公布展期內的休館安排\n事件：2026-10-13休館；展期10/6–11/29；下一開館日10/14\n連假後的休館日很容易看錯；今天有立即避雷價值，但受眾比大阪前兩題窄。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/15/8/15/6/6/4/3＝77/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/4/4星；風險低；今天生效的既有休館安排，非新公告；生命1天；現在發 查核完成後立即（台灣時間；今日行前提醒）\n查核：官方月曆與展覽頁一致，另核對旅遊整理；後者非獨立採訪，票價以官方為準\n分潤低：今天的主要價值是休館提醒；未核對到同展覽平台門票，沒有自然分潤商品。 商品：無；限制：先確認開館日與展品輪替，不推薦不含展覽票的商品冒充套票。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"源氏物語\" \"2026\" site:x.com OR site:threads.com\n來源：京都國立博物館展覽頁 https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/\n官方10月月曆 https://www.kyohaku.go.jp/jp/calendar/2026/10/\nHopetrip展期與休館交叉資料 https://www.hopetrip.com/news/detail-41069.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n未入選｜札幌秋季纜車與紅葉接駁\n分類：季節情報；地區：北海道／札幌\n公布：官方動態索引出現10/12資訊；細節日期待核\n事件：秋季運行期限待交叉核對\n未完成原始活動頁與當日葉況核對；不把索引摘要当實測紅葉。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：12/17/11/13/5/9/4/4＝75/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.sapporo.travel/today/\n\n\n未入選｜tabicore GIFT旅行禮品服務\n分類：旅遊；地區：全日本\n公布：2026-09-25公司發稿\n事件：宣稱10/13服務開始\n已讀公司發布，主要為企業用途；欠缺旅客購買條件與第二來源。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/8/6/6/6/4/2/3＝53/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://prtimes.jp/main/html/rd/p/000000014.000085910.html\n\n\n未入選｜八戶Square新飯店開幕線索\n分類：住宿；地區：東北／青森八戶\n公布：已讀飯店開業彙整，原始官方公告待核\n事件：彙整列10/15開幕，尚未完全確認\n僅取得開業彙整，沒有完成官網實際訂房與開幕日期第二次確認。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：15/12/8/9/6/8/3/4＝65/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/\n\n\n未入選｜Lawson 10/13新品批次\n分類：美食；地區：日本各地，適用地區未核\n公布：新品彙整列2026-10-13\n事件：10/13上市線索，分區與售價待核\n官方新品頁未讀到有效正文；不能把第三方新品列表當成全日本同日上市。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/17/11/9/4/8/4/2＝73/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://mognavi.jp/newitem/20261013/100\n\n\n未入選｜NHK豐臣兄弟活動申請截止線索\n分類：活動；地區：地點尚未完全確認\n公布：NHK活動頁日期未完整讀取\n事件：索引列10/13中午截止、11月活動，待核\n原頁僅回傳框架，無法核對申請資格與時刻，排除緊急推薦。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：17/7/6/6/5/6/3/2＝52/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.event.nhk.or.jp/e-portal/detail.html?id=4638\n\n\n未入選｜日本免稅新制11月實施準備\n分類：政策；地區：全日本\n公布：既有政策資料，非今天新發布\n事件：11月制度變更；具體細節另需完整查核\n今天未找到新進展，不將既有政策重新包成10/13新消息。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：7/20/12/15/3/4/5/5＝71/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html\n\n\n未入選｜房總地區鐵路運行提醒線索\n分類：交通；地區：關東／千葉\n公布：旅遊警示頁10/13讀取，原公告時間未核\n事件：當日運行狀態待JR官方確認\n只有旅遊警示彙整，未完成JR官方路線與恢復時刻查核；不發布停駛結論。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/17/10/15/5/3/4/3＝75/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.japan-guide.com/news/alerts.html\n\n\n未入選｜EX秋季旅遊套裝優惠\n分類：優惠／票券；地區：多地\n公布：促銷既有頁面，首次公告日未列\n事件：預訂已於9/28截止；出發期間仍延續至11月\n活動出發期仍在不代表優惠仍可訂，排除已截止促銷。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：1/16/8/6/2/5/3/3＝44/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.nta.co.jp/jr/ex/campaign/\n\n\n未入選｜沖繩2026新飯店彙整\n分類：住宿；地區：沖繩\n公布：頁面2025-12-17、2026-06-23更新線索\n事件：各飯店開業時間不同，本次無新進展\n舊彙整，不能当本日新開飯店；未列入可發布新聞。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：2/17/9/10/3/8/3/4＝56/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.okinawa-c.site/hotel/new-hotel_2026/\n\n\n未入選｜秋田北齋廣重展覽線索\n分類：大型展覽；地區：東北／秋田\n公布：活動索引，原始公告日期未核\n事件：索引列10/10–12/6，尚未完全確認\n只有活動列表，沒有完成官方展期、票價與展品查核；不作精選。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：10/10/8/8/6/9/3/3＝57/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://iko-yo.net/events?end_date%5Bday%5D=13&end_date%5Bmonth%5D=10&end_date%5Byear%5D=2026&region_ids%5B%5D=1&start_date%5Bday%5D=13&start_date%5Bmonth%5D=10&start_date%5Byear%5D=2026\n\n\n【編輯首選】\n10/17 淀川花火：梅田側河川敷不能看，先排好散場路線\n對本週大阪旅客有立即行動價值；不看花火的人也可能遇到交通管制。鉤子是梅田側不能觀覽，分享給同行者，收藏管制圖與回程提醒。最佳切角為觀覽地點與移動避雷。\n為何不是第二：USJ聯名的視覺與粉絲吸引力更高，也較適合分潤；淀川花火影響面更廣且只剩4天準備，所以同分時列第一。未以不存在的社群數據作排名。\n\n【明天追蹤】\n10/17淀川花火當天管制與天候：未來24–72小時檢查主辦方新增公告；現階段不預測取消或加開班次。 https://www.yodohanabi.com/gaiyou.html\nUSJ聯名商品現貨與10/14聖代：確認商品是否售罄、餐點是否按公告開始；不保證補貨。 https://www.usj.co.jp/web/ja/jp/news/2026/0930\n札幌秋季纜車與實際葉況：需補原始營運頁、接駁日及當日照片日期，不能把季節預測當實測。 https://www.sapporo.travel/today/\n八戶新飯店10/15開幕線索：需補官方開幕公告與可訂房條件，仍是待確認候選。 https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/\n\n【查核限制】\nTravel Watch三篇10/13原頁以HTTP正文讀取補足搜尋工具限制。USJ線上商店遭挑戰頁，未採用23:45等未讀原頁條件。京都月曆與展覽頁同一機構，另讀旅遊整理，沒有假稱兩次獨立採訪。所有商品價格與庫存可能變動；已讀推薦不代表指定日期可訂。圖片可找到不代表已獲商用授權。分潤評估不代表收入；KKday原始網址保留乾淨，由既有介面依使用者授權加cid=25165，僅用在獨立留言。",
+  "fullText": "日本每日內容雷達\n日期：2026-10-13\n搜尋截止：2026-10-13 10:10:11 Asia/Taipei（日本11:10:11）\n\n【今天日本發生什麼？】\n本期檢視15個不同事件，5題通過發布門檻；其餘10題保留線索與排除原因，不湊成10題。\n10/17淀川花火即將舉行，今天有交通整理報導；梅田側河川敷觀覽限制是最實用的行前切角。\nUSJ聯名商品今天開始，餐點另有日期；門票不代表限量商品必定有貨。\nPLAZA聯名第二波今天開始，適用門市及不可預留條件比虛構搶購熱度重要。\nWESTER關西北陸券今天進入使用期，6000是點數，不能寫成6000日圓。\n京都國立博物館今天10/13休館，官方月曆與展覽頁相符；這是既有安排的當日提醒。\n本期無任何題目取得兩位不同作者、48小時內原文及可核對讚／留言數，無法建立社群熱榜；排序是編輯判斷。\n搜尋包含北海道、東北、北陸、中部、關西、中國、四國、九州與沖繩，但合格題集中關西與全國購物；不把地域掃描說成每區均有完整查核。\n\n【候選池與評分紀錄】\n已完成候選比較再定編輯排序。5題入選，10題未入選；未入選為線索初評，不能直接發布。部分候選只有索引，已明列不足。未取得合格社群熱榜，沒有把內容分數冒充熱度。\n\n入選｜10/17 淀川花火：梅田側河川敷不能看，先排好散場路線\n分類：交通／活動；地區：關西／大阪淀川\n公布：官方交通頁9/16已有更新；10/13 06:00 JST新增交通報導，非今日首次公告\n事件：2026-10-17 19:00–20:00 JST；交通管制約16:00–23:00，部分13:00起\n本週六即將舉行；不看花火但住大阪的旅客也可能受車流與管制影響。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：19/20/13/15/6/8/5/4＝90/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：4/5/5星；風險中；今天新增媒體整理；舊公告因4天後活動例外納入；生命1週；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：已讀官方與交叉來源；即時庫存未確認\n分潤中：活動只剩4天；已在大阪或能於10/15前取票的人有需求，臨時出發者不一定適合。 商品：指定觀覽席、梅田住宿；限制：Klook頁列10/15 18:00前關西機場領票；確認庫存、座位、取消及天候規則。機場巴士不是會場接駁；住宿不保證看得到煙火。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"淀川花火\" \"2026\" site:threads.com；\"淀川花火\" \"2026\" site:facebook.com；\"淀川花火\" \"2026\" site:youtube.com OR site:tiktok.com OR site:dcard.tw\n來源：主辦方概要 https://www.yodohanabi.com/gaiyou.html\n大阪府警交通管制 https://www.police.pref.osaka.lg.jp/topics/24860.html\n主辦方管制圖 https://www.yodohanabi.com/kisei.html\nTravel Watch 10/13交通提醒 https://travel.watch.impress.co.jp/docs/news/2147098.html\ntrip：只找到大阪全市住宿列表，未完成更精準地區推薦，不列為已核對商品。\n\nbooking：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n梅田地區住宿列表 https://www.booking.com/district/jp/osaka/umeda.zh-tw.html；適合已安排大阪過夜者比較地點，不代表能從飯店看煙火。；輸入10/17入住條件重查空房與取消；梅田側河川敷禁入，住宿不含門票或視野。；查閱約2026-10-13T10:05:00+08:00\nkkday：未核對到適合的商品或精準列表；不推測平台庫存。\n\nklook：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n第38屆淀川花火大會觀覽席方案 https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/；讀取到10/17觀覽席與機場巴士組合；可用於提醒提前取票。；須10/15 18:00前於關西機場1F指定櫃台取紙本，非QR直接入場。機場巴士非會場接駁；庫存、座位及雨天退款須再確認。；查閱約2026-10-13T10:05:00+08:00\n\n入選｜USJ ミャクミャク×ハミクマ今天開賣：入園不等於保證買得到\n分類：購物／動漫IP；地區：關西／大阪 USJ\n公布：2026-09-30官方公告；10/13 07:47 JST商品報導\n事件：聯名商品2026-10-13起；章魚燒包僅10/13、聖代10/14起，三者不同\n同一聯名有不同開始日期與購買限制；拆開商品、餐點與門票，可避免粉絲安排錯誤。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/19/14/12/6/10/5/4＝90/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：5/4/4星；風險中；今天開賣；9/30舊公告例外納入；生命1週；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：實體販售起日、店名與限量規則已核對；線上商店原頁遭挑戰頁阻擋，不採用其精確截止時刻\n分潤高：對本來就打算進USJ的讀者，入園票券能自然銜接；不能以買得到聯名商品作保證。 商品：USJ日期門票、園區周邊住宿；限制：確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"ハミクマ\" \"2026\" site:x.com；\"ハミクマ ミャクミャク\" site:threads.com\n來源：USJ官方9/30公告 https://www.usj.co.jp/web/ja/jp/news/2026/0930\nTravel Watch 10/13商品報導 https://travel.watch.impress.co.jp/docs/news/2147448.html\ntrip：已讀Trip.com USJ景點介紹，未確認可訂票方案及適用條件，因此不列為商品推薦。\n\nbooking：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n日本環球影城周邊飯店列表 https://www.booking.com/landmark/jp/universal-studios-japan.zh-tw.html；適合要住園區附近的旅客比較，不推定房價含門票。；重新輸入入住日期、人數、取消政策；房價不保證含USJ門票或任何聯名商品。；查閱約2026-10-13T10:05:00+08:00\nkkday：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n大阪日本環球影城入園門票 https://www.kkday.com/zh-tw/product/2247-universal-studios-japan-ticket-osaka；先有入園計畫才比較日期票；不含限量商品。；確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。；查閱約2026-10-13T10:05:00+08:00\nklook：已閱讀頁面內容；未選定日期付款，不代表有庫存或已確認分潤资格。\n日本環球影城QR入園門票 https://www.klook.com/zh-TW/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/；可比較日期入園票，不保證商品庫存或整理券。；確認票種、有效日期、改期退款條件；限量商品另購，門票不保證購買資格或庫存；分潤資格須由後台確認。；查閱約2026-10-13T10:05:00+08:00\n\n入選｜Snoopy穿上洋基與大都會：PLAZA 10/13第二波聯名\n分類：購物／動漫IP；地區：日本各地適用PLAZA門市\n公布：2026-09-25官方活動公告；10/13 06:00 JST新增商品報導\n事件：2026-10-13第二波SUBWAY SERIES開始\n旅途中可順路逛的視覺選題，粉絲會在意系列與門市限制；不虛構現貨或排隊熱度。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/16/12/11/6/10/4/3＝82/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：4/4/4星；風險低；今天第二波開賣；舊公告例外；生命1週；晚上發 台灣20:30（編輯建議）\n查核：已讀官方與交叉來源；即時庫存未確認\n分潤低：門市聯名商品與旅遊預訂需求薄弱，不因可放網址而推薦無關飯店。 商品：無；限制：確認適用門市、上市與現貨；本期不推薦四平台無關商品。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"PLAZA\" \"SUBWAY SERIES\" site:instagram.com；\"PLAZA\" \"SUBWAY\" site:instagram.com OR site:threads.com\n來源：PLAZA活動頁 https://www.plazastyle.com/contents/peanuts2026/\nPLAZA 9/25門市限制 https://www.plazastyle.com/contents/topics/detail/569\nTravel Watch 10/13 https://travel.watch.impress.co.jp/docs/news/2147132.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n入選｜6000是點數，不是日圓：關西・北陸3日券今天開始使用\n分類：票券／交通；地區：關西／北陸指定路線\n公布：至少2026-09-24已有報導；官方專頁未列首次發布日期\n事件：販售10/1–12/22；使用10/13–12/24，最晚12/22開始\n容易被誤讀成任何旅客都能花6000日圓購買；適合持有足額WESTER點數者，先說資格才有實用價值。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/14/10/15/6/6/5/4＝78/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：3/5/4星；風險中；今天開始使用；9/24前後舊訊例外；生命1個月以上；現在發 台灣12:00（編輯建議，非帳號績效）\n查核：點數、期間、指定席次數及取票已核對；未確認台灣新申請者註冊資格，不宣稱人人可買\n分潤低：這是JR官方點數兌換商品，不能用平台販售的其他JR Pass替代。 商品：無；限制：先確認WESTER會員與可用點數、e5489取票和適用路段；外國旅客新註冊資格尚未確認。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"WESTERポイント関西\" site:threads.com OR site:x.com OR site:facebook.com\n來源：JR西日本專頁 https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/\nJR西日本詳細規則 https://tickets.jr-odekake.net/shohindb/view/consumer/tokutoku/detail.html?staticShnId=100023002\nTravel Watch 9/24 https://travel.watch.impress.co.jp/docs/news/2142671.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n入選｜今天星期二，京都國立博物館仍休館：源氏物語展改排日期\n分類：旅遊／大型展覽；地區：關西／京都國立博物館平成知新館\n公布：官方頁未列首次公告日；屬已公布展期內的休館安排\n事件：2026-10-13休館；展期10/6–11/29；下一開館日10/14\n連假後的休館日很容易看錯；今天有立即避雷價值，但受眾比大阪前兩題窄。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：20/15/8/15/6/6/4/3＝77/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/4/4星；風險低；今天生效的既有休館安排，非新公告；生命1天；現在發 查核完成後立即（台灣時間；今日行前提醒）\n查核：官方月曆與展覽頁一致，另核對旅遊整理；後者非獨立採訪，票價以官方為準\n分潤低：今天的主要價值是休館提醒；未核對到同展覽平台門票，沒有自然分潤商品。 商品：無；限制：先確認開館日與展品輪替，不推薦不含展覽票的商品冒充套票。\n社群：熱度未確認：未取得最近48小時至少兩位不同作者、可核對原文時間及讚／留言數的合格樣本。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：\"源氏物語\" \"2026\" site:x.com OR site:threads.com\n來源：京都國立博物館展覽頁 https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/\n官方10月月曆 https://www.kyohaku.go.jp/jp/calendar/2026/10/\nHopetrip展期與休館交叉資料 https://www.hopetrip.com/news/detail-41069.html\ntrip：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nbooking：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nkkday：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\nklook：未核對到能直接銜接本題的實際商品；不為四平台齊全硬放連結。\n\n\n未入選｜札幌秋季纜車與紅葉接駁\n分類：季節情報；地區：北海道／札幌\n公布：官方動態索引出現10/12資訊；細節日期待核\n事件：秋季運行期限待交叉核對\n未完成原始活動頁與當日葉況核對；不把索引摘要当實測紅葉。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：12/17/11/13/5/9/4/4＝75/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.sapporo.travel/today/\n\n\n未入選｜tabicore GIFT旅行禮品服務\n分類：旅遊；地區：全日本\n公布：2026-09-25公司發稿\n事件：宣稱10/13服務開始\n已讀公司發布，主要為企業用途；欠缺旅客購買條件與第二來源。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/8/6/6/6/4/2/3＝53/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://prtimes.jp/main/html/rd/p/000000014.000085910.html\n\n\n未入選｜八戶Square新飯店開幕線索\n分類：住宿；地區：東北／青森八戶\n公布：已讀飯店開業彙整，原始官方公告待核\n事件：彙整列10/15開幕，尚未完全確認\n僅取得開業彙整，沒有完成官網實際訂房與開幕日期第二次確認。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：15/12/8/9/6/8/3/4＝65/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/\n\n\n未入選｜Lawson 10/13新品批次\n分類：美食；地區：日本各地，適用地區未核\n公布：新品彙整列2026-10-13\n事件：10/13上市線索，分區與售價待核\n官方新品頁未讀到有效正文；不能把第三方新品列表當成全日本同日上市。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/17/11/9/4/8/4/2＝73/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://mognavi.jp/newitem/20261013/100\n\n\n未入選｜NHK豐臣兄弟活動申請截止線索\n分類：活動；地區：地點尚未完全確認\n公布：NHK活動頁日期未完整讀取\n事件：索引列10/13中午截止、11月活動，待核\n原頁僅回傳框架，無法核對申請資格與時刻，排除緊急推薦。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：17/7/6/6/5/6/3/2＝52/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.event.nhk.or.jp/e-portal/detail.html?id=4638\n\n\n未入選｜日本免稅新制11月實施準備\n分類：政策；地區：全日本\n公布：既有政策資料，非今天新發布\n事件：11月制度變更；具體細節另需完整查核\n今天未找到新進展，不將既有政策重新包成10/13新消息。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：7/20/12/15/3/4/5/5＝71/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html\n\n\n未入選｜房總地區鐵路運行提醒線索\n分類：交通；地區：關東／千葉\n公布：旅遊警示頁10/13讀取，原公告時間未核\n事件：當日運行狀態待JR官方確認\n只有旅遊警示彙整，未完成JR官方路線與恢復時刻查核；不發布停駛結論。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：18/17/10/15/5/3/4/3＝75/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.japan-guide.com/news/alerts.html\n\n\n未入選｜EX秋季旅遊套裝優惠\n分類：優惠／票券；地區：多地\n公布：促銷既有頁面，首次公告日未列\n事件：預訂已於9/28截止；出發期間仍延續至11月\n活動出發期仍在不代表優惠仍可訂，排除已截止促銷。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：1/16/8/6/2/5/3/3＝44/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.nta.co.jp/jr/ex/campaign/\n\n\n未入選｜沖繩2026新飯店彙整\n分類：住宿；地區：沖繩\n公布：頁面2025-12-17、2026-06-23更新線索\n事件：各飯店開業時間不同，本次無新進展\n舊彙整，不能当本日新開飯店；未列入可發布新聞。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：2/17/9/10/3/8/3/4＝56/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤中：若後續核對住宿／交通成立才可能自然銜接；目前不推薦實際商品。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://www.okinawa-c.site/hotel/new-hotel_2026/\n\n\n未入選｜秋田北齋廣重展覽線索\n分類：大型展覽；地區：東北／秋田\n公布：活動索引，原始公告日期未核\n事件：索引列10/10–12/6，尚未完全確認\n只有活動列表，沒有完成官方展期、票價與展品查核；不作精選。\n八項分數（即時／台灣／討論／實用／稀缺／視覺／標題／延伸）：10/10/8/8/6/9/3/3＝57/100（編輯判斷，稀缺與討論非量化實測）\n爆紅／收藏／分享：2/2/2星；風險中；未通過時效或查核門檻，詳見日期與排除原因；生命1週；先收藏觀察 不建議發布，待查核\n查核：尚未完全確認；分數僅為候選編輯初評，不表示事實已確認\n分潤低：資訊或條件尚未核實，現階段不適合放預訂連結。 商品：無；限制：未入選，不提供未確認商品連結；仍需日期、適用對象及庫存查核。\n社群：熱度未確認；未完成逐題合格原始樣本查核。 觀測截止2026-10-13T10:10:11+08:00；互動數無可驗證資料，不填0。搜尋：未逐題完成\n來源：候選線索（不是完成查核的推薦） https://iko-yo.net/events?end_date%5Bday%5D=13&end_date%5Bmonth%5D=10&end_date%5Byear%5D=2026&region_ids%5B%5D=1&start_date%5Bday%5D=13&start_date%5Bmonth%5D=10&start_date%5Byear%5D=2026\n\n\n【編輯首選】\n10/17 淀川花火：梅田側河川敷不能看，先排好散場路線\n對本週大阪旅客有立即行動價值；不看花火的人也可能遇到交通管制。鉤子是梅田側不能觀覽，分享給同行者，收藏管制圖與回程提醒。最佳切角為觀覽地點與移動避雷。\n為何不是第二：USJ聯名的視覺與粉絲吸引力更高，也較適合分潤；淀川花火影響面更廣且只剩4天準備，所以同分時列第一。未以不存在的社群數據作排名。\n\n【明天追蹤】\n10/17淀川花火當天管制與天候：未來24–72小時檢查主辦方新增公告；現階段不預測取消或加開班次。 https://www.yodohanabi.com/gaiyou.html\nUSJ聯名商品現貨與10/14聖代：確認商品是否售罄、餐點是否按公告開始；不保證補貨。 https://www.usj.co.jp/web/ja/jp/news/2026/0930\n札幌秋季纜車與實際葉況：需補原始營運頁、接駁日及當日照片日期，不能把季節預測當實測。 https://www.sapporo.travel/today/\n八戶新飯店10/15開幕線索：需補官方開幕公告與可訂房條件，仍是待確認候選。 https://hotelbank.jp/supply-pipeline/new-hotel-openings-2026-oct-2027-mar-100rooms/\n\n【查核限制】\nTravel Watch三篇10/13原頁以HTTP正文讀取補足搜尋工具限制。USJ線上商店遭挑戰頁，未採用23:45等未讀原頁條件。京都月曆與展覽頁同一機構，另讀旅遊整理，沒有假稱兩次獨立採訪。所有商品價格與庫存可能變動；已讀推薦不代表指定日期可訂。圖片可找到不代表已獲商用授權。分潤評估不代表收入；KKday原始網址保留乾淨，由既有介面依使用者授權加cid=25165，僅用在獨立留言。\n\n【每題Threads串文草稿】\n10/17 淀川花火：梅田側河川敷不能看，先排好散場路線\n1/3\n10/17在大阪看淀川花火，別把「梅田側河川敷」設成觀賞地點。那一側今年禁止觀覽。\n\n第38屆淀川花火預定本週六日本時間19:00～20:00施放。主辦方也說，中津到野田附近因工程有一般民眾禁止進入區域。住梅田很方便，不代表能沿河找位置看。\n\n2/3\n交通要分成「到場」與「散場」兩段排。大阪府警公告，10/17管制約16:00～23:00，部分區域13:00就開始，實際時間可能隨現場調整。\n\n主辦方列出的十三側周邊車站包括十三、塚本、西中島南方等；請依自己的觀覽區選路線，別只挑地圖最近的一站。沒有專用停車場，也不能停在十三大橋上看煙火。\n\n3/3\n出發前先做三件事：確認觀覽區入口、存下官方管制圖、查當天鐵路運行與回程方式。一般雨天照常、荒天取消，當天仍要看主辦方通知。\n\n如果你訂的是平台席次，另外核對領票截止與入場時間；不要把票券頁的入場時間當成19:00的施放時間。把這份提醒傳給負責大阪交通的旅伴。\n官方概要：https://www.yodohanabi.com/gaiyou.html\n管制：https://www.police.pref.osaka.lg.jp/topics/24860.html\n切角：避雷：住梅田，不代表能去梅田側河川敷看淀川花火。\n交通：10/17大阪的移動，要把花火散場一起算進去。\n時間：19:00才放煙火，部分道路13:00就開始管制。\n同行提醒：先跟旅伴約好回程，比當天在人群裡找路更實際。\n訂票限制：看到淀川花火席次，先查領票截止，不只查活動日期。\n配圖：[{\"description\":\"官方觀覽區及交通管制圖；以標記梅田側禁入與日期為主，素材授權須另外確認。\",\"url\":\"https://www.yodohanabi.com/kisei.html\"}]\n延伸：可延伸商業內容：淀川花火觀覽席取票步驟、梅田住宿與回程安排；商品領票截止是優先條件。\n獨立分潤留言範本：本週六已經在大阪的話，可以再核對觀覽席與住宿。這張票有提前領取紙本的限制，先看自己抵達關西機場的日期，再決定要不要訂。\n[待填已確認分潤網址；KKday由網站依設定帶入]\n此為分潤連結，透過連結預訂我可能獲得佣金。\n\nUSJ ミャクミャク×ハミクマ今天開賣：入園不等於保證買得到\n1/3\nミャクミャク×ハミクマ今天在USJ開賣，但「有入園票」不等於一定買得到。\n\n聯名商品自2026/10/13起，在園內Universal Studios Store販售。官方已提醒數量有限，也可能發放購買整理券；如果你是為了這組聯名安排USJ，先把門票與商品庫存當成兩件事。\n\n2/3\n到店前要知道的限制：\n・購買時可能需要確認當天入園票或年票。\n・個別商品的購買數量限制，依店內說明。\n・整理券可能發完，商品也可能售罄。\n\n官方公告沒有承諾固定補貨或一定買得到，這篇也不把網路看到的售價當成現場現貨保證。先確認入園日期，再看官方當天販售安排。\n\n3/3\n同一聯名，餐點日期卻不同。10/13限定的章魚燒包與10/14起的聖代，不要和商品開賣日混在一起。章魚燒包另有整理券等條件，不能只憑入園票就當成能直接買。\n\n如果你主要想收商品，先看商品規則；想吃餐點，再逐項核對販售地點與時段。今天轉發給同行粉絲，最有用的就是這個日期差。\n官方詳情：https://www.usj.co.jp/web/ja/jp/news/2026/0930\n切角：消息：ミャクミャク×ハミクマ今天開賣，先分清商品與餐點日期。\n購買限制：有USJ門票，仍不代表一定買得到聯名商品。\n行程：為聯名排USJ前，先把整理券與庫存的不確定性算進去。\n日期差：章魚燒包10/13、聖代10/14：同一聯名不要排成同一天。\n粉絲：想收ミャクミャク×ハミクマ，先看Universal Studios Store的規則。\n配圖：[{\"description\":\"USJ官方聯名商品及餐點主視覺；標出不同販售日期，商用授權未查核。\",\"url\":\"https://www.usj.co.jp/web/ja/jp/news/2026/0930\"}]\n延伸：可延伸商業內容：USJ入園票與附近住宿比較；不把聯名商品庫存當成買票保證。\n獨立分潤留言範本：如果你原本就要排USJ，可以先確認入園日期，再比較門票與附近住宿。入園票不含聯名商品，也不保證有貨或拿得到整理券。\n[待填已確認分潤網址；KKday由網站依設定帶入]\n此為分潤連結，透過連結預訂我可能獲得佣金。\n\nSnoopy穿上洋基與大都會：PLAZA 10/13第二波聯名\n1/3\nSnoopy這次穿洋基，也穿大都會。PLAZA的PEANUTS×MLB「SUBWAY SERIES」第二波，2026/10/13開始。\n\n如果你這幾天在日本，想買帶球隊元素的聯名小物，可以把PLAZA排成順路的一站。這是9月已預告、今天開始的第二波，不是今天才突然公布。\n\n2/3\n官方頁有收納包、衛衣、開襟衫及居家服等品項。想先挑小物，收納包標價為含稅2,530日圓；不同品項請以官方頁與店內標示核對。\n\n先選你喜歡的隊伍與款式，再查目的地附近門市。這裡沒有即時庫存資料，不會用「全店都有」或「一定買得到」讓你白跑。\n\n3/3\n還有門市例外：官方9/25活動公告列出Lazona川崎PLAZA與全部PLAZA OUTLET不在活動範圍，也說活動期間不接受商品預留及調貨。\n\n出發前再看想去門市的說明；照片裡的聯名款，不代表每間店都有同樣庫存。你會先挑洋基，還是大都會？\n系列與照片：https://www.plazastyle.com/contents/peanuts2026/\n門市限制：https://www.plazastyle.com/contents/topics/detail/569\n切角：新款：Snoopy穿洋基也穿大都會，PLAZA第二波今天開始。\n小物：想找日本聯名小物？這次先看2,530日圓的收納包。\n順路購物：不用另排大行程，赴日途中先查附近PLAZA是否適用。\n門市限制：看到PLAZA聯名先別衝Outlet，這波有門市例外。\n選擇：洋基與大都會，你會讓Snoopy穿哪一隊？\n配圖：[{\"description\":\"PLAZA官方Snoopy兩隊款式及收納包照片；素材可找到，不代表可任意商用。\",\"url\":\"https://www.plazastyle.com/contents/peanuts2026/\"}]\n延伸：可延伸PLAZA聯名門市清單；目前不硬接旅遊分潤。\n獨立分潤留言範本：本題不建議硬放分潤連結\n\n6000是點數，不是日圓：關西・北陸3日券今天開始使用\n1/3\n看到「6000、關西北陸3天搭到飽」，先看單位：是WESTER點數，不是6,000日圓。\n\n「WESTERポイント関西・北陸フリーパス」今天10/13開始使用。成人需6,000點、兒童3,000點，連續3天有效；適合本來就持有足額點數的會員，不是任何旅客付現都能買的通票。\n\n2/3\n範圍也不是全日本JR。官方列出的主要路段包括北陸新幹線敦賀～糸魚川、Thunderbird大阪～敦賀，以及Shirasagi米原～敦賀等指定區域。\n\n普通車指定席可使用6次，仍需照規則預約。規劃大阪到北陸行程前，先對照範圍圖與轉乘方式；別用「有新幹線」推論東京或所有新幹線路段都適用。\n\n3/3\n操作順序是：確認WESTER會員與足額點數 → 到e5489申購 → 乘車前領取實體票 → 安排指定席。不能只拿手機訂單就直接搭車。\n\n販售到12/22，使用期間到12/24，最晚12/22開始3天行程。我尚未確認台灣旅客新註冊的完整資格；如果你還不是會員，先向官方確認，不要為了這篇先訂不可退行程。\n官方範圍與規則：https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/\n切角：單位：6000不是日圓：這張關西北陸3日券用WESTER點數換。\n資格：有足額WESTER點數，才開始算這張券值不值得。\n範圍：有新幹線，不代表全線適用：先看敦賀～糸魚川。\n操作：在e5489買好還沒結束，乘車前要先取票。\n行程：3天關西北陸，先對照你的路線再決定兌換。\n配圖：[{\"description\":\"JR官方適用路線圖與點數條件；避免把點數改寫為日圓。\",\"url\":\"https://www.jr-odekake.net/navi/westerpoint_kansai-hokuriku/\"}]\n延伸：可延伸WESTER點數資格與路線比較；平台一般JR Pass不能當同商品推薦。\n獨立分潤留言範本：本題不建議硬放分潤連結\n\n今天星期二，京都國立博物館仍休館：源氏物語展改排日期\n1/3\n今天10/13雖然是星期二，京都國立博物館仍然休館。要看《源氏物語 王朝のかがやき》，今天先別往館內跑。\n\n昨天10/12是假日開館，休館日移到今天；官方10月月曆也標示10/14恢復特別展。這是原本就公告的安排，適合提醒今天正在京都的旅伴。\n\n2/3\n改排其他日期時，再記住兩組時間：一般開館9:00～17:30，最後入場17:00；星期五延長到20:00，最後入場19:30，都是日本時間。\n\n展期10/6～11/29，地點是平成知新館。一般成人當日票2,200日圓；預售期已經結束，別再拿舊文章的預售價當成現在能買到的價格。\n\n3/3\n如果你是為了特定展品而去，還要核對展示日期：展覽分前後期，部分作品會輪替，整體展期不代表每件作品都展到最後一天。\n\n現在先把今天的博物館行程移開，再用官方月曆確認新日期。11/24也有星期二休館安排，秋季行程可以一併留意。\n官方展覽：https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/\n月曆：https://www.kyohaku.go.jp/jp/calendar/2026/10/\n切角：即時提醒：今天星期二，京都國立博物館還是休館。\n連假後：昨天假日開館，今天換休：京都行程別只記星期一。\n時間：17:30閉館不等於17:30還能入場，京博最後入場是17:00。\n票價：源氏物語展預售已結束，現在先看當日票條件。\n展品：展期到11/29，不代表你想看的每件作品都展到11/29。\n配圖：[{\"description\":\"京都國立博物館官方展覽主視覺搭配10月月曆；圖像再利用授權需確認。\",\"url\":\"https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/\"}]\n延伸：可延伸京都展覽休館日與展品輪替攻略；目前沒有核對到同展覽平台票券。\n獨立分潤留言範本：本題不建議硬放分潤連結"
+}
