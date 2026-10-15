@@ -2,6 +2,51 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5WkRoN20xemVCeHpwQ09TZ3hhUW43ZWpNZVFCcHlwY0ZXdks0QmhEUWgxeWt0V0VZa2VzVzdlcVlPUzQwNTVXZWZJdzRGa25LbFRtbmtZREloclpKOEZzdDZZYTnSAWpBVV95cUxNLVQxb0FiVlotWHNtd2VKbWpiT1JDRzFsRWpuRDB4b3FrZFh3ZFlQa3U4SkNsNDR4MncyNWVBR25kMEw1WERGeklwVFFDRDljVi1TdFltXzBpNkNJT0liNG5IMlNjeDlMSnN3?oc=5",
+      "title": "南鐵地下化通車！成大商圈跟著嗨 吃喝購物還能抽日本機票",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5WkRoN20xemVCeHpwQ09TZ3hhUW43ZWpNZVFCcHlwY0ZXdks0QmhEUWgxeWt0V0VZa2VzVzdlcVlPUzQwNTVXZWZJdzRGa25LbFRtbmtZREloclpKOEZzdDZZYTnSAWpBVV95cUxNLVQxb0FiVlotWHNtd2VKbWpiT1JDRzFsRWpuRDB4b3FrZFh3ZFlQa3U4SkNsNDR4MncyNWVBR25kMEw1WERGeklwVFFDRDljVi1TdFltXzBpNkNJT0liNG5IMlNjeDlMSnN3?oc=5",
+      "publisher": "自由時報",
+      "publishedAt": "2026-10-15T02:25:16.000Z",
+      "regions": [
+        "日本"
+      ],
+      "category": "交通",
+      "sourceIds": [
+        "jp-deals"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84eDZycE9fTjZGOGYwUWpsNG5Jc3ZKRnU0ODBULVRSMzVZOUhJTktzM2d4R1VHLVQ2QlEwRXFOWXBZNG03UUR2YUJJMk5ZNkxaNWFZOEhGYVd3UQ?oc=5",
+      "title": "東伊豆町海景第一排熱門住宿推薦",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84eDZycE9fTjZGOGYwUWpsNG5Jc3ZKRnU0ODBULVRSMzVZOUhJTktzM2d4R1VHLVQ2QlEwRXFOWXBZNG03UUR2YUJJMk5ZNkxaNWFZOEhGYVd3UQ?oc=5",
+      "publisher": "中央社 CNA",
+      "publishedAt": "2026-10-15T02:18:06.000Z",
+      "regions": [
+        "日本"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "jp-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://travel.ettoday.net/article/3254923.htm",
+      "title": "艋舺公園10／17重啟　聽紅包場歌廳秀、逛市集還能領消費券",
+      "url": "https://travel.ettoday.net/article/3254923.htm",
+      "publisher": "ETtoday 旅遊雲",
+      "publishedAt": "2026-10-15T02:06:00.000Z",
+      "regions": [
+        "其他／未判定"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "ettoday-travel"
+      ],
+      "sourceKind": "direct"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDl0bm9pSjU3Um1QMVNYcGt5Szdfc1NFOXNodlg0eFI1S0w3NEJSeHNUUHY4eTJKSmtwWGZaVHpLYnBLVjBMejBMQ1dqSG5ZNktaR0tOb3drZjJhR0dod0Vzd3l2Uzg2YnhMVngxU3JKUlBkTkJXSENKSkxQa3p4Z3h1VTY?oc=5",
       "title": "日本賞楓預訂量翻倍！Klook推早鳥8折 今晚訂明早玩",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDl0bm9pSjU3Um1QMVNYcGt5Szdfc1NFOXNodlg0eFI1S0w3NEJSeHNUUHY4eTJKSmtwWGZaVHpLYnBLVjBMejBMQ1dqSG5ZNktaR0tOb3drZjJhR0dod0Vzd3l2Uzg2YnhMVngxU3JKUlBkTkJXSENKSkxQa3p4Z3h1VTY?oc=5",
@@ -15,6 +60,21 @@
         "klook-deals"
       ],
       "sourceKind": "search"
+    },
+    {
+      "id": "https://travel.ettoday.net/article/3248297.htm",
+      "title": "蛋餅、花生厚片都只要15元！台中銅板早餐熱情闆娘超好客",
+      "url": "https://travel.ettoday.net/article/3248297.htm",
+      "publisher": "ETtoday 旅遊雲",
+      "publishedAt": "2026-10-15T02:00:00.000Z",
+      "regions": [
+        "台灣"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "ettoday-travel"
+      ],
+      "sourceKind": "direct"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BaHZFQm9iS2dBMENOWHhWbC0xRFIwQXROVmV1MWZITkNPRHlqV25hVlVPUW53YUFjNnl6eHhlbTFOM2tyb0xJeFFYR291ZFl3dk1GQ1JuN2t3aVRwOU90WWdBTXpvQ3ZvbFhfT3hn?oc=5",
@@ -32,17 +92,17 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSkczcWR2d0dULXJCR3FMRGQ5S25tQXNIelcwSmRrZmxMZ1NsaU9PMldBdDV3dUR3Tmg2RTZyYjY2aEpvOUZGd3Q1QnlNdWJqVGptenJrQ1F3RFJ6cWc?oc=5",
-      "title": "只有七天！2026首爾紫芒節週末登場，數萬坪銀白芒草海免費拍爆、加碼燈光秀與手作市集|旅遊",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSkczcWR2d0dULXJCR3FMRGQ5S25tQXNIelcwSmRrZmxMZ1NsaU9PMldBdDV3dUR3Tmg2RTZyYjY2aEpvOUZGd3Q1QnlNdWJqVGptenJrQ1F3RFJ6cWc?oc=5",
-      "publisher": "WalkerLand 窩客島",
-      "publishedAt": "2026-10-15T01:20:00.000Z",
+      "id": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRHlURjJRY3U5V0ZOTjFfVFRUdWdybEFBbXltRlRzNm5iX3hqdk9BaHowR09sU2dLc3hOMTZ4Z09oaHE2TVZiVkx3NFJyampwSHZ0eFdqWjBnLVlZdGl5V19pVG5ZMmo0QmNnX2VmcFppaERCS0IyNzhQNmVfMmU2SnBReFg3SjBkcjZweV9oWmNqc2IyOVhfRGJncHFsSVYzaVk5ZEtxV24zdWlsYXhyOWVxQ1pIOG1aMHlaLWVpYjFHOHcxR3B4dlFMVDdoeHNGbjRBRXlKWFkxTkFEVFg0R3Y5bDExcnBEUGloeTlvYVZqeWNIV25VVW40YllfY0JVZy16UXVfdjU0QnBxX00zMi03cE92X0pSTk5qMkNaUExBUUlYQ1JTTVVQSEdjYjBsVVhPRVNaS3R4Sy1HNHJhang4RHVzTk1Ua21oeVRxUi1VTXNfc3Y2eUthUUM0YVlm?oc=5",
+      "title": "東京君悅酒店入選《康泰納仕旅行者》2026讀者票選 日本飯店前10名",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRHlURjJRY3U5V0ZOTjFfVFRUdWdybEFBbXltRlRzNm5iX3hqdk9BaHowR09sU2dLc3hOMTZ4Z09oaHE2TVZiVkx3NFJyampwSHZ0eFdqWjBnLVlZdGl5V19pVG5ZMmo0QmNnX2VmcFppaERCS0IyNzhQNmVfMmU2SnBReFg3SjBkcjZweV9oWmNqc2IyOVhfRGJncHFsSVYzaVk5ZEtxV24zdWlsYXhyOWVxQ1pIOG1aMHlaLWVpYjFHOHcxR3B4dlFMVDdoeHNGbjRBRXlKWFkxTkFEVFg0R3Y5bDExcnBEUGloeTlvYVZqeWNIV25VVW40YllfY0JVZy16UXVfdjU0QnBxX00zMi03cE92X0pSTk5qMkNaUExBUUlYQ1JTTVVQSEdjYjBsVVhPRVNaS3R4Sy1HNHJhang4RHVzTk1Ua21oeVRxUi1VTXNfc3Y2eUthUUM0YVlm?oc=5",
+      "publisher": "報新聞",
+      "publishedAt": "2026-10-15T01:37:33.000Z",
       "regions": [
-        "韓國"
+        "日本"
       ],
-      "category": "優惠",
+      "category": "旅遊",
       "sourceIds": [
-        "kr-news"
+        "jp-news"
       ],
       "sourceKind": "search"
     },
@@ -180,6 +240,21 @@
       "sourceIds": [
         "jp-news",
         "jp-deals"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jY0xhWjNJM2I2bXJqUkRDSk9sOGpfbEJhbHdEdDlHVDAtcjdUbjMycGFJYVpPNEVrUTZzN2ZIREFRd1pVbEFkcFN1S180a3BVNVBvcS1VT2VIbE5uVC1KU204cVc?oc=5",
+      "title": "討論牆 | 日本退稅新制將上路！旅日達人籲「先辦卡」",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jY0xhWjNJM2I2bXJqUkRDSk9sOGpfbEJhbHdEdDlHVDAtcjdUbjMycGFJYVpPNEVrUTZzN2ZIREFRd1pVbEFkcFN1S180a3BVNVBvcS1VT2VIbE5uVC1KU204cVc?oc=5",
+      "publisher": "LINE TODAY",
+      "publishedAt": "2026-10-14T15:56:47.000Z",
+      "regions": [
+        "日本"
+      ],
+      "category": "政策",
+      "sourceIds": [
+        "jp-news"
       ],
       "sourceKind": "search"
     },
@@ -678,15 +753,13 @@
       "publisher": "ETtoday 旅遊雲",
       "publishedAt": "2026-10-14T07:34:00.000Z",
       "regions": [
-        "日本",
-        "韓國"
+        "日本"
       ],
       "category": "優惠",
       "sourceIds": [
         "ettoday-travel",
         "jp-news",
-        "jp-deals",
-        "kr-deals"
+        "jp-deals"
       ],
       "sourceKind": "direct"
     },
@@ -954,21 +1027,6 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jbS1GdWFMdndmeWl0aXkyeWhERkJkRllJTU1UX0R3aThmT04xZGRNMFE1VEU5OE1oN1U1OTZoMURvRGRzZkRlelBHQ19jbTQ40gFWQVVfeXFMTkZ3b3lDLTNUYktjdTM5WTVVa2N5NUFuTmF3M0RfaDU2UUllR3d2YjZSeXRjUmZ4Z0JjT3Q4WjMtMTFjREx2RFh2NFBIOTlmYk1vYXlMZkE?oc=5",
-      "title": "搶好康！航空、旅行社雄獅、鳳凰線上旅展陸續開跑",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jbS1GdWFMdndmeWl0aXkyeWhERkJkRllJTU1UX0R3aThmT04xZGRNMFE1VEU5OE1oN1U1OTZoMURvRGRzZkRlelBHQ19jbTQ40gFWQVVfeXFMTkZ3b3lDLTNUYktjdTM5WTVVa2N5NUFuTmF3M0RfaDU2UUllR3d2YjZSeXRjUmZ4Z0JjT3Q4WjMtMTFjREx2RFh2NFBIOTlmYk1vYXlMZkE?oc=5",
-      "publisher": "UDN",
-      "publishedAt": "2026-10-14T05:26:24.000Z",
-      "regions": [
-        "日本"
-      ],
-      "category": "交通",
-      "sourceIds": [
-        "jp-deals"
-      ],
-      "sourceKind": "search"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90RW93TFIyNDRsa1JfSkx4RWRHSWJkUjRyb3I5aGg2RFh4Y09pSkJQRFIwaGFkQWZwOHpad1M0QzgzU2ZQb013eW5EaTdsbllDM3BvRHhiOHdPd3d0NzVFQjdlMUtjR2pSN3ppZXN3d2x1WF9mTUFWYjdR?oc=5",
       "title": "平日折抵加碼抽百萬頂級名湯！ 北市響應國旅祭「臺北Stay．好運Come in」抽大地套房大獎| 台灣好新聞",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90RW93TFIyNDRsa1JfSkx4RWRHSWJkUjRyb3I5aGg2RFh4Y09pSkJQRFIwaGFkQWZwOHpad1M0QzgzU2ZQb013eW5EaTdsbllDM3BvRHhiOHdPd3d0NzVFQjdlMUtjR2pSN3ppZXN3d2x1WF9mTUFWYjdR?oc=5",
@@ -1107,11 +1165,11 @@
       "sourceKind": "direct"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZ0QwZmdmMVJwYnM1dENNbHYtSVFwaGRkTktabjBEX1Z2UlowWmtLYWtqZ3ZuRVNGUU4xYkdqMS1scnNaME1tRGg5REYtQzMzU1JxV1JULTNYZ2pHbjRWYw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QRVo4Q2dmZFpoZUpXd0s4dzBaVEZFNDNkQXRVX1czSGhlTTlKVmc3el9GdUJYbUs2VGZiY2dYbWlWZUM5c21WMWxNYkhQZXhLMGc?oc=5",
       "title": "東京車站周邊展出臺南旅遊文宣 日文散步路線、關子嶺溫泉吸客",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZ0QwZmdmMVJwYnM1dENNbHYtSVFwaGRkTktabjBEX1Z2UlowWmtLYWtqZ3ZuRVNGUU4xYkdqMS1scnNaME1tRGg5REYtQzMzU1JxV1JULTNYZ2pHbjRWYw?oc=5",
-      "publisher": "勁報",
-      "publishedAt": "2026-10-14T03:24:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QRVo4Q2dmZFpoZUpXd0s4dzBaVEZFNDNkQXRVX1czSGhlTTlKVmc3el9GdUJYbUs2VGZiY2dYbWlWZUM5c21WMWxNYkhQZXhLMGc?oc=5",
+      "publisher": "蕃新聞",
+      "publishedAt": "2026-10-14T03:18:00.000Z",
       "regions": [
         "日本"
       ],
@@ -1386,6 +1444,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rY1NtMDZDdVBiSkRIdnVOeUVfN21KWmRoU0hTUm5NU2tBZmVfeEs4bVMyM0JpVGp5eXJTMERmcDF1YmxJaGZVcUx5d1hva3RfOFVCaW81em5mSkcwdU5FeWNkRlNTZDJJTmJPQmRsd1AtV1BhWUZR?oc=5",
+      "title": "臺灣文化祭再現古都觀光魅力！東京車站周邊遇見臺南 | 勁報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rY1NtMDZDdVBiSkRIdnVOeUVfN21KWmRoU0hTUm5NU2tBZmVfeEs4bVMyM0JpVGp5eXJTMERmcDF1YmxJaGZVcUx5d1hva3RfOFVCaW81em5mSkcwdU5FeWNkRlNTZDJJTmJPQmRsd1AtV1BhWUZR?oc=5",
+      "publisher": "LINE TODAY",
+      "publishedAt": "2026-10-13T19:28:52.000Z",
+      "regions": [
+        "台灣"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "tw-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vcW1qenY3VExVVktWdnRsMHg3eGN5N18zdlJ2MFZ6WkZCY3NONFQzcGFmSTJKOUVBQ01TZ2ZzNUVCdHB0cFpN?oc=5",
       "title": "離島運帶動觀光人潮 金門澎湖選手湧入依金那糕餅博物館大手筆採購",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vcW1qenY3VExVVktWdnRsMHg3eGN5N18zdlJ2MFZ6WkZCY3NONFQzcGFmSTJKOUVBQ01TZ2ZzNUVCdHB0cFpN?oc=5",
@@ -1457,21 +1530,6 @@
       "category": "旅遊",
       "sourceIds": [
         "supertaste-search"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rY1NtMDZDdVBiSkRIdnVOeUVfN21KWmRoU0hTUm5NU2tBZmVfeEs4bVMyM0JpVGp5eXJTMERmcDF1YmxJaGZVcUx5d1hva3RfOFVCaW81em5mSkcwdU5FeWNkRlNTZDJJTmJPQmRsd1AtV1BhWUZR?oc=5",
-      "title": "臺灣文化祭再現古都觀光魅力！東京車站周邊遇見臺南 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rY1NtMDZDdVBiSkRIdnVOeUVfN21KWmRoU0hTUm5NU2tBZmVfeEs4bVMyM0JpVGp5eXJTMERmcDF1YmxJaGZVcUx5d1hva3RfOFVCaW81em5mSkcwdU5FeWNkRlNTZDJJTmJPQmRsd1AtV1BhWUZR?oc=5",
-      "publisher": "LINE TODAY",
-      "publishedAt": "2026-10-13T16:29:31.000Z",
-      "regions": [
-        "台灣"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "tw-news"
       ],
       "sourceKind": "search"
     },
@@ -3662,21 +3720,6 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://travel.ettoday.net/article/3253060.htm",
-      "title": "天成集團住宿券2.2折起！可住全台6飯店　送早餐、宵夜",
-      "url": "https://travel.ettoday.net/article/3253060.htm",
-      "publisher": "ETtoday 旅遊雲",
-      "publishedAt": "2026-10-12T02:56:00.000Z",
-      "regions": [
-        "其他／未判定"
-      ],
-      "category": "優惠",
-      "sourceIds": [
-        "ettoday-travel"
-      ],
-      "sourceKind": "direct"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kQ21TOFAtQllWSFZQUWtuWkQ1a29oRUtCYnlrNUNWVXYwaVlfdFFXbl9lbzYycTEwdFFQcFRWOEMxNFZlNmtqbWRLZDVkR0E5Rkp2ZtIBVEFVX3lxTE9kQ21TOFAtQllWSFZQUWtuWkQ1a29oRUtCYnlrNUNWVXYwaVlfdFFXbl9lbzYycTEwdFFQcFRWOEMxNFZlNmtqbWRLZDVkR0E5Rkp2Zg?oc=5",
       "title": "冬季訂單增3成雄獅加碼多項優惠　可樂旅遊推土耳其航空全線88折起 | 生活 | CTWANT",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kQ21TOFAtQllWSFZQUWtuWkQ1a29oRUtCYnlrNUNWVXYwaVlfdFFXbl9lbzYycTEwdFFQcFRWOEMxNFZlNmtqbWRLZDVkR0E5Rkp2ZtIBVEFVX3lxTE9kQ21TOFAtQllWSFZQUWtuWkQ1a29oRUtCYnlrNUNWVXYwaVlfdFFXbl9lbzYycTEwdFFQcFRWOEMxNFZlNmtqbWRLZDVkR0E5Rkp2Zg?oc=5",
@@ -3692,23 +3735,22 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://travel.ettoday.net/article/3253054.htm",
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SjF0Q2dEU1VhS1dDMEVZQjNXdURqMEdRQmswZklzTm9yZFN1clI3STJVMGd6SklpbDNKM0tzdFQ1bTNhbVkyUjd5ajBWRDNTRmhHT1p1azJBQdIBT0FVX3lxTFBtMC0yUmRUQjR2S2N3WDJiRUJCaU5yTnZadmhuNHpJd1RoT2J6YWk0b21Sc0NkN0F0SDgxNU9adlcwSUZEcDF5d1FiTF9ycUE?oc=5",
       "title": "釜山5日2萬有找！線上旅展限時優惠　香港住宿一口價888元",
-      "url": "https://travel.ettoday.net/article/3253054.htm",
-      "publisher": "ETtoday 旅遊雲",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SjF0Q2dEU1VhS1dDMEVZQjNXdURqMEdRQmswZklzTm9yZFN1clI3STJVMGd6SklpbDNKM0tzdFQ1bTNhbVkyUjd5ajBWRDNTRmhHT1p1azJBQdIBT0FVX3lxTFBtMC0yUmRUQjR2S2N3WDJiRUJCaU5yTnZadmhuNHpJd1RoT2J6YWk0b21Sc0NkN0F0SDgxNU9adlcwSUZEcDF5d1FiTF9ycUE?oc=5",
+      "publisher": "ETtoday旅遊雲",
       "publishedAt": "2026-10-12T02:41:00.000Z",
       "regions": [
-        "韓國",
-        "日本"
+        "日本",
+        "韓國"
       ],
       "category": "優惠",
       "sourceIds": [
-        "ettoday-travel",
         "jp-news",
         "jp-deals",
         "kr-deals"
       ],
-      "sourceKind": "direct"
+      "sourceKind": "search"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3bzB0OFB2d3pMTGdKU29jR1NoX1QxVVc4bVExbkFzWEliOW1lbk9VQ2owbDc2MlJrbU92WUczUWVjMkxDallyQWw0WE56aHBIY1NZWU5MWG9Cd9IBT0FVX3lxTE95clcwUGRjVkVuWHdTTnBxd1pCal9fckRJUEdXaG9FREFJaWhSMlpVTGZSV1MxTk9SM3pnUS1NRUprZzhrMUQ0UVhGUUJiRGs?oc=5",
@@ -4015,6 +4057,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZ3IwaDdRbm81TEhXdV9uaTE2V0lGRTBzTlJEaHUtaldBUzFBQmpsOEdmQmhxdmhValdhTi00cFhpNHMyM3pDMVNEWE92Q0ZlWDFDT01tVFlBWGplWUpfTF80aDVTajRHWFBqckUzd3dqUHhxbkotaFd3ajBlelJKOWpnLUl3RHMybTBxbzNxOFN0MkRHN09XbGR2NFFwOEVqdTBjS0ZQYVlmSGZaN2dzaU10VkJ1OVhncWNFd1JLRFpIX0hFVmFlVXdKMlU5QS1RalczekkzZmQ4ODB3UlFTaVVFcERzWDM1cHA2VDBvMDRtUV9uWFV0MWxoTlFzY18xbDZXSXAwdWNsNFVzaTNiSUVmWXBkbnZBSjQwSl95TjNNTTZxOHkwdnBMRkdhTm5OdVdtU2szMnQ?oc=5",
+      "title": "把補助化為停留 花蓮以山海款待深化觀光復甦",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZ3IwaDdRbm81TEhXdV9uaTE2V0lGRTBzTlJEaHUtaldBUzFBQmpsOEdmQmhxdmhValdhTi00cFhpNHMyM3pDMVNEWE92Q0ZlWDFDT01tVFlBWGplWUpfTF80aDVTajRHWFBqckUzd3dqUHhxbkotaFd3ajBlelJKOWpnLUl3RHMybTBxbzNxOFN0MkRHN09XbGR2NFFwOEVqdTBjS0ZQYVlmSGZaN2dzaU10VkJ1OVhncWNFd1JLRFpIX0hFVmFlVXdKMlU5QS1RalczekkzZmQ4ODB3UlFTaVVFcERzWDM1cHA2VDBvMDRtUV9uWFV0MWxoTlFzY18xbDZXSXAwdWNsNFVzaTNiSUVmWXBkbnZBSjQwSl95TjNNTTZxOHkwdnBMRkdhTm5OdVdtU2szMnQ?oc=5",
+      "publisher": "Life 生活網",
+      "publishedAt": "2026-10-11T11:48:42.000Z",
+      "regions": [
+        "台灣"
+      ],
+      "category": "優惠",
+      "sourceIds": [
+        "tw-deals"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTElHN21XWXY2RzRTOTByNzd4ZDU5U2xFZXg3Y295ZG40S3k4czBRUlYtOUhyb2gxSjROUTE3aGZhRml1T1U2enJQT1pFZw?oc=5",
       "title": "影音／電子入境卡反害慘！台人赴日排1小時 「紙本通關」竟秒過",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTElHN21XWXY2RzRTOTByNzd4ZDU5U2xFZXg3Y295ZG40S3k4czBRUlYtOUhyb2gxSjROUTE3aGZhRml1T1U2enJQT1pFZw?oc=5",
@@ -4026,21 +4083,6 @@
       "category": "政策",
       "sourceIds": [
         "jp-news"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ekpwWkZvV2lxRUIxUFIxaFNfN0M3MTlHdHMzNW9OOFFtRVMyalllTDNSbi1fbjBfWVJ2SmR6TjZzQWFaSjhYNEhyNjlxeEI0cFlV?oc=5",
-      "title": "嘉市上半年住宿、旅遊、消費三指標齊創新高 首發國旅自由行補助發威旅宿業再開紅盤",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ekpwWkZvV2lxRUIxUFIxaFNfN0M3MTlHdHMzNW9OOFFtRVMyalllTDNSbi1fbjBfWVJ2SmR6TjZzQWFaSjhYNEhyNjlxeEI0cFlV?oc=5",
-      "publisher": "台灣好報",
-      "publishedAt": "2026-10-11T11:08:55.000Z",
-      "regions": [
-        "台灣"
-      ],
-      "category": "優惠",
-      "sourceIds": [
-        "tw-deals"
       ],
       "sourceKind": "search"
     },
@@ -4392,21 +4434,6 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimAVBVV95cUxOT1lBd3RGX2lJSXVFSXFpUDZ2RnNsU0IxZjBhdjVoYmRlUU84Z0JXVFRLNXlfaURueTdJanl6d19fRTFYYmd5QThpeWE1SGFoc19ESkJEVUtCNmdYY1ZMd1p1cVgyLWhncHp0OXE4QnFud3ZsaHhFZmVNa0ctRkhxQm9uYkdBLXIwbFBxVUk0djJ5WnZvSTd4SWFoU0JNS0xTYzNRZnM4LUNmNUlXblp0XzdrUm5qOThRTmFBejZ6WWVBUkZlazh5WG41ZDkwLVdwN0lLblMtbjlrcnZ3M2lvMlRDWFJ3Mk1XNzVHQXl5V28tUUlWUmRzQzBsMnNhYUNXSkFfRUgxUFJiVTRWRDlrNlk0Skc2OEFWeGJDeC1fSFRkbFF4SG9nU1NES1VieFp3X1FReExuUGFUSkdxRk02clhqek9zZHNFaVRzOTk3b2NReXNsTmlFa3drY1AzaER2UGxXY2xXVjgzb2U5MnJkcjZHNFNJTDBuY2JHOVlhUnVsTXBDbm9URGVfbEZtbHY0blN2RzQ3aXBsSkdWYXlIMVVLMzBTMFhUaVVpX1JxY28zV2RmdWN4RWRUSkpCOENDZTlHUFl0VDBLYlpXOERiclpWODhmS0RUZThkcnY5bVRRLWI1cm1NU0JXUmpvdjdKbk1WR3d4V256SlpiU1pOTDZSRTh3RW16RTU0LW8ya0NVNHRLY2xqTGtibHdHa0EwMnkxM2xxT0NpS2NKWXBnWjcyUW00S1lTaU5PemM4eVU1Y2xQMUNOUFlOcjNsLWhNODY2T1o3TE5EcUZFT0JLRlMxR1BLMmxkWXVud2FSOE14OW9taUdnNGR0OEhBNjhqQlh2TU8zNUZGbTdEOUxUTmlhdmJOMzdN?oc=5",
-      "title": "高雄城市行銷登上東京電視台 聯播觀光特輯引發熱烈迴響 YouTube同步上架 擴大國際宣傳能量",
-      "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxOT1lBd3RGX2lJSXVFSXFpUDZ2RnNsU0IxZjBhdjVoYmRlUU84Z0JXVFRLNXlfaURueTdJanl6d19fRTFYYmd5QThpeWE1SGFoc19ESkJEVUtCNmdYY1ZMd1p1cVgyLWhncHp0OXE4QnFud3ZsaHhFZmVNa0ctRkhxQm9uYkdBLXIwbFBxVUk0djJ5WnZvSTd4SWFoU0JNS0xTYzNRZnM4LUNmNUlXblp0XzdrUm5qOThRTmFBejZ6WWVBUkZlazh5WG41ZDkwLVdwN0lLblMtbjlrcnZ3M2lvMlRDWFJ3Mk1XNzVHQXl5V28tUUlWUmRzQzBsMnNhYUNXSkFfRUgxUFJiVTRWRDlrNlk0Skc2OEFWeGJDeC1fSFRkbFF4SG9nU1NES1VieFp3X1FReExuUGFUSkdxRk02clhqek9zZHNFaVRzOTk3b2NReXNsTmlFa3drY1AzaER2UGxXY2xXVjgzb2U5MnJkcjZHNFNJTDBuY2JHOVlhUnVsTXBDbm9URGVfbEZtbHY0blN2RzQ3aXBsSkdWYXlIMVVLMzBTMFhUaVVpX1JxY28zV2RmdWN4RWRUSkpCOENDZTlHUFl0VDBLYlpXOERiclpWODhmS0RUZThkcnY5bVRRLWI1cm1NU0JXUmpvdjdKbk1WR3d4V256SlpiU1pOTDZSRTh3RW16RTU0LW8ya0NVNHRLY2xqTGtibHdHa0EwMnkxM2xxT0NpS2NKWXBnWjcyUW00S1lTaU5PemM4eVU1Y2xQMUNOUFlOcjNsLWhNODY2T1o3TE5EcUZFT0JLRlMxR1BLMmxkWXVud2FSOE14OW9taUdnNGR0OEhBNjhqQlh2TU8zNUZGbTdEOUxUTmlhdmJOMzdN?oc=5",
-      "publisher": "視傳媒",
-      "publishedAt": "2026-10-10T16:33:30.000Z",
-      "regions": [
-        "日本"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "jp-news"
-      ],
-      "sourceKind": "search"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Idkd3OFp2cnpxSXAxS3RNLXZFZ01YcWFlck9nT0NwWGc4RkxETVZYV29NMFZWcUxCTTRJckNxNW96elZFczhHWkJRWlBWN2N2?oc=5",
       "title": "宴請日本議員 韓國瑜：盼深化情誼促產業觀光交流",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Idkd3OFp2cnpxSXAxS3RNLXZFZ01YcWFlck9nT0NwWGc4RkxETVZYV29NMFZWcUxCTTRJckNxNW96elZFczhHWkJRWlBWN2N2?oc=5",
@@ -4446,21 +4473,6 @@
         "日本"
       ],
       "category": "政策",
-      "sourceIds": [
-        "jp-news"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYlVweGJXM05sVDZrbTJmcGFaYThsU2hGZlpfRHV1MDQ1eWdURGNURmduLUhqQ0xxMEJFVWt3c0lxLU81am1PY2xMc2p2aUHSAVRBVV95cUxPdF9lWkFDLVBrTm5OSzBsaHJuSndWWG5KOEk2M3dlbXNpWGtHNnFGWk9hUHZ2VkY2S3pKdjdsa1JoNG41dldoZDRBeFlTZU1JS211ZTI?oc=5",
-      "title": "沖繩旅遊變台灣同鄉會！　她搭電梯笑到不行 | 生活 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYlVweGJXM05sVDZrbTJmcGFaYThsU2hGZlpfRHV1MDQ1eWdURGNURmduLUhqQ0xxMEJFVWt3c0lxLU81am1PY2xMc2p2aUHSAVRBVV95cUxPdF9lWkFDLVBrTm5OSzBsaHJuSndWWG5KOEk2M3dlbXNpWGtHNnFGWk9hUHZ2VkY2S3pKdjdsa1JoNG41dldoZDRBeFlTZU1JS211ZTI?oc=5",
-      "publisher": "CTWANT",
-      "publishedAt": "2026-10-10T14:03:18.000Z",
-      "regions": [
-        "日本"
-      ],
-      "category": "旅遊",
       "sourceIds": [
         "jp-news"
       ],
@@ -4574,9 +4586,9 @@
       "sourceKind": "search"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHLXNwQmpOYXREby0tX2lwN183czB1aVRHanQzX0JQWFRIN3ZaY3JRUGYxbl9VNHRqOUpkM09CcEc5TkhUZkIzTU9TSXZISnVjclVuTnJ5RmctYVFfVnI4RXNCSnQya0RnSmMwRkhsamFmUjdTaXpBNWtFQQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTVheWJXaFJPTEJLNlRraGlSVmJLdVdIUEtmUDNiLUdqYm9wYWc5YnY4ejUzeVBRQXRGU3FtbzBYYWpCZU1RUVN4endlQkpMSG51eGZCNzRaNEdKTjZpd18wNW5CZ1BFY3I3TVE3VHZzM1VGRmlQWVpXd3BpYlZKOGhfRlBBR1k1NVViejVn?oc=5",
       "title": "1151010《今日觀光旅遊重點新聞》",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHLXNwQmpOYXREby0tX2lwN183czB1aVRHanQzX0JQWFRIN3ZaY3JRUGYxbl9VNHRqOUpkM09CcEc5TkhUZkIzTU9TSXZISnVjclVuTnJ5RmctYVFfVnI4RXNCSnQya0RnSmMwRkhsamFmUjdTaXpBNWtFQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTVheWJXaFJPTEJLNlRraGlSVmJLdVdIUEtmUDNiLUdqYm9wYWc5YnY4ejUzeVBRQXRGU3FtbzBYYWpCZU1RUVN4endlQkpMSG51eGZCNzRaNEdKTjZpd18wNW5CZ1BFY3I3TVE3VHZzM1VGRmlQWVpXd3BpYlZKOGhfRlBBR1k1NVViejVn?oc=5",
       "publisher": "台灣華報",
       "publishedAt": "2026-10-10T07:00:00.000Z",
       "regions": [
@@ -4741,6 +4753,21 @@
       "sourceKind": "search"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sc1FSdnBPTDJiaGNJblp1dXBZOGVXclc4S3ZOYnVzNTl6X19yWDlKN2o1dTVpZnY4b0RmcEk5SVNhWUdQTEphcXFEMVQyZFNrUU44RDFUTk9kOU5IS3FLM2FORWlMdWtrS1JoZmFITQ?oc=5",
+      "title": "中國遊客用腳投票：日本“出局”，韓國“上位”！",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sc1FSdnBPTDJiaGNJblp1dXBZOGVXclc4S3ZOYnVzNTl6X19yWDlKN2o1dTVpZnY4b0RmcEk5SVNhWUdQTEphcXFEMVQyZFNrUU44RDFUTk9kOU5IS3FLM2FORWlMdWtrS1JoZmFITQ?oc=5",
+      "publisher": "www.hkcna.hk",
+      "publishedAt": "2026-10-10T02:27:00.000Z",
+      "regions": [
+        "韓國"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "kr-news"
+      ],
+      "sourceKind": "search"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VS10eVdNV21FQUxNVlVaS2pRSksxTnIyZ08wYi1BZVdQRjJQMDZSNHhheVZYdjIxLUNXT0JISGNmQWYzRGs5NHV0Uy11WXJya240?oc=5",
       "title": "台灣高鐵APP有兩款怎麼選？隱藏省錢密技一次看",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44VS10eVdNV21FQUxNVlVaS2pRSksxTnIyZ08wYi1BZVdQRjJQMDZSNHhheVZYdjIxLUNXT0JISGNmQWYzRGs5NHV0Uy11WXJya240?oc=5",
@@ -4752,6 +4779,21 @@
       "category": "交通",
       "sourceIds": [
         "tw-deals"
+      ],
+      "sourceKind": "search"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPZG5zUVpwaTUxTmhFMkVmWGpfaFc5Y3Q1bUJ5N0M3MkUwbTRndGZqekg4bk5kZm9FV2UwQXhFenA2UHZteGNWN1JwdlRiWEZReUI4VDF6NlRLRy1VbkRuaDNnS2llYzdzQXM0U1JDeW5qdHAwRlZCSF9n?oc=5",
+      "title": "「首爾公園音樂節」首度跨海來高 深化台韓觀光文化交流 | Newtalk",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPZG5zUVpwaTUxTmhFMkVmWGpfaFc5Y3Q1bUJ5N0M3MkUwbTRndGZqekg4bk5kZm9FV2UwQXhFenA2UHZteGNWN1JwdlRiWEZReUI4VDF6NlRLRy1VbkRuaDNnS2llYzdzQXM0U1JDeW5qdHAwRlZCSF9n?oc=5",
+      "publisher": "LINE TODAY",
+      "publishedAt": "2026-10-10T00:06:01.000Z",
+      "regions": [
+        "韓國"
+      ],
+      "category": "旅遊",
+      "sourceIds": [
+        "kr-news"
       ],
       "sourceKind": "search"
     },
@@ -5257,21 +5299,6 @@
       "category": "旅遊",
       "sourceIds": [
         "supertaste-search"
-      ],
-      "sourceKind": "search"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ySnlsSG5HOHlYM29keHdnVERXUFlWSUk0Rlhkckw4dzZwV09BV0d6SzQxeHdNQTVHTTBxZzM5RW1ES3ltTTN3eFBRTU9MREJyOEk2eWFINDRwZUU?oc=5",
-      "title": "「首爾公園音樂節」首度跨海來高深化台韓觀光文化交流| 旅遊",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ySnlsSG5HOHlYM29keHdnVERXUFlWSUk0Rlhkckw4dzZwV09BV0d6SzQxeHdNQTVHTTBxZzM5RW1ES3ltTTN3eFBRTU9MREJyOEk2eWFINDRwZUU?oc=5",
-      "publisher": "Newtalk新聞",
-      "publishedAt": "2026-10-09T08:39:17.000Z",
-      "regions": [
-        "韓國"
-      ],
-      "category": "旅遊",
-      "sourceIds": [
-        "kr-news"
       ],
       "sourceKind": "search"
     },
@@ -6432,8 +6459,8 @@
       "url": "https://news.google.com/rss/search?q=KKday%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.042Z",
-      "latestPublishedAt": "2026-10-14T16:00:18.000Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.093Z",
+      "latestPublishedAt": "2026-10-14T19:47:45.000Z",
       "count": 2
     },
     {
@@ -6443,7 +6470,7 @@
       "url": "https://news.google.com/rss/search?q=(Klook%20OR%20%E5%AE%A2%E8%B7%AF)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.166Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.067Z",
       "latestPublishedAt": "2026-10-15T02:00:00.000Z",
       "count": 8
     },
@@ -6454,8 +6481,8 @@
       "url": "https://news.google.com/rss/search?q=(Booking.com%20OR%20Booking)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.227Z",
-      "latestPublishedAt": "2026-10-14T10:46:12.000Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.148Z",
+      "latestPublishedAt": "2026-10-15T02:33:00.000Z",
       "count": 0
     },
     {
@@ -6465,7 +6492,7 @@
       "url": "https://news.google.com/rss/search?q=(%22Trip.com%22%20OR%20%E6%94%9C%E7%A8%8B)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.034Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.073Z",
       "latestPublishedAt": "2026-10-14T19:47:06.000Z",
       "count": 4
     },
@@ -6476,7 +6503,7 @@
       "url": "https://news.google.com/rss/search?q=(%E6%98%93%E9%81%8A%E7%B6%B2%20OR%20ezTravel)%20(%E5%84%AA%E6%83%A0%20OR%20%E6%8A%98%E6%89%A3%20OR%20%E6%8A%98%E6%89%A3%E7%A2%BC%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E5%9B%9E%E9%A5%8B%20OR%20%E7%89%B9%E5%83%B9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "品牌優惠新聞搜尋，保留原發布媒體；非品牌官方 RSS，也非即時房價或庫存。可能延遲或漏收，優惠條件請查原文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:12.962Z",
+      "lastSuccessAt": "2026-10-15T02:49:50.998Z",
       "latestPublishedAt": "2026-10-14T08:16:54.000Z",
       "count": 1
     },
@@ -6487,8 +6514,8 @@
       "url": "https://feeds.feedburner.com/ettoday/travel",
       "note": "ETtoday 官方訂閱頁提供的旅遊 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:12.895Z",
-      "latestPublishedAt": "2026-10-14T10:48:00.000Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.152Z",
+      "latestPublishedAt": "2026-10-15T02:06:00.000Z",
       "count": 50
     },
     {
@@ -6498,7 +6525,7 @@
       "url": "https://www.jnto.go.jp/news/rss.xml",
       "note": "日文官方公告，包含統計、活動、招募等；不等同日本觀光廳或國稅廳的政策公告。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:12.940Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.062Z",
       "latestPublishedAt": "2026-10-13T00:54:00.000Z",
       "count": 5
     },
@@ -6509,7 +6536,7 @@
       "url": "https://www.cw.com.tw/RSS/cw_content.xml",
       "note": "2026/09/23 驗證時最新文章為 2021/09/29；保留狀態檢查，舊文不列入最新消息。",
       "status": "inactive",
-      "lastSuccessAt": "2026-10-15T02:25:13.084Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.072Z",
       "latestPublishedAt": "2021-09-29T07:23:13.000Z",
       "count": 0
     },
@@ -6520,7 +6547,7 @@
       "url": "https://news.google.com/rss/search?q=site%3Asupertaste.tvbs.com.tw%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "尚未驗證官方 RSS，使用 Google 新聞網站限定索引，可能延遲或漏收。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.230Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.275Z",
       "latestPublishedAt": "2026-10-14T14:30:00.000Z",
       "count": 100
     },
@@ -6531,7 +6558,7 @@
       "url": "https://news.google.com/rss/search?q=site%3Awww.cw.com.tw%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%84%AA%E6%83%A0%20OR%20%E4%BA%A4%E9%80%9A%20OR%20%E5%85%A5%E5%A2%83)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "舊 RSS 目前無近期文章，透過 Google 新聞補充旅遊相關標題，不讀取付費全文。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.122Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.105Z",
       "latestPublishedAt": "2026-10-14T21:25:00.000Z",
       "count": 3
     },
@@ -6542,9 +6569,9 @@
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E9%80%80%E7%A8%85%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.304Z",
-      "latestPublishedAt": "2026-10-15T01:51:37.000Z",
-      "count": 77
+      "lastSuccessAt": "2026-10-15T02:49:51.305Z",
+      "latestPublishedAt": "2026-10-15T02:18:06.000Z",
+      "count": 78
     },
     {
       "id": "jp-deals",
@@ -6553,8 +6580,8 @@
       "url": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E6%96%B0%E5%B9%B9%E7%B7%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.277Z",
-      "latestPublishedAt": "2026-10-15T01:07:00.000Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.300Z",
+      "latestPublishedAt": "2026-10-15T02:25:16.000Z",
       "count": 54
     },
     {
@@ -6564,9 +6591,9 @@
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E5%9C%8B%E6%97%85)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.260Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.265Z",
       "latestPublishedAt": "2026-10-15T01:13:00.000Z",
-      "count": 79
+      "count": 80
     },
     {
       "id": "tw-deals",
@@ -6575,7 +6602,7 @@
       "url": "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%20(%E6%97%85%E9%81%8A%20OR%20%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E9%AB%98%E9%90%B5)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E8%A3%9C%E5%8A%A9)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.205Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.221Z",
       "latestPublishedAt": "2026-10-15T00:59:47.000Z",
       "count": 42
     },
@@ -6586,8 +6613,8 @@
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%97%85%E9%81%8A%20OR%20%E8%A7%80%E5%85%89%20OR%20%E5%85%A5%E5%A2%83%20OR%20%E9%80%80%E7%A8%85%20OR%20%E7%B0%BD%E8%AD%89)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.161Z",
-      "latestPublishedAt": "2026-10-15T01:20:00.000Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.158Z",
+      "latestPublishedAt": "2026-10-14T10:57:03.000Z",
       "count": 32
     },
     {
@@ -6597,10 +6624,10 @@
       "url": "https://news.google.com/rss/search?q=%E9%9F%93%E5%9C%8B%20(%E6%A9%9F%E7%A5%A8%20OR%20%E9%A3%AF%E5%BA%97%20OR%20%E4%BD%8F%E5%AE%BF%20OR%20%E4%BA%A4%E9%80%9A)%20(%E5%84%AA%E6%83%A0%20OR%20%E4%BF%83%E9%8A%B7%20OR%20%E7%89%B9%E5%83%B9%20OR%20%E5%85%8D%E8%B2%BB%20OR%20%E6%96%B0%E5%88%B6)%20when%3A7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "note": "Google 新聞地區查詢頻道，並非媒體官方 RSS。",
       "status": "ok",
-      "lastSuccessAt": "2026-10-15T02:25:13.236Z",
+      "lastSuccessAt": "2026-10-15T02:49:51.280Z",
       "latestPublishedAt": "2026-10-14T22:21:02.000Z",
-      "count": 36
+      "count": 35
     }
   ],
-  "checkedAt": "2026-10-15T02:25:12.578Z"
+  "checkedAt": "2026-10-15T02:49:50.637Z"
 }
