@@ -1,0 +1,2078 @@
+{
+  "date": "2026-10-15",
+  "cutoff": "2026-10-15 10:13:35 Asia/Taipei（日本11:13:35 JST）",
+  "trends": [
+    "本期比較15個不同候選，選5題；其餘有時效、資格、原文與交叉查證限制，不湊滿10題。",
+    "日本氣象協會10/14更新紅葉預測，預測、現場葉況與點燈日期要分開看。",
+    "迪士尼日本郵輪命名，預計2029年春就航，並非現在開賣。",
+    "函館香雪園明天點燈；舊公告因即將開始例外納入，不宣稱已全紅。",
+    "千葉受災區臨時單車昨天實施，免費條件只適用指定站點。",
+    "新居浜大生院今天開始祭典，其他主要區域明天開始。",
+    "熊本Yahoo補助平台資格仍待確認，不推成所有台灣旅客可直接使用。",
+    "沒有合格社群互動樣本，無法建立實測熱榜；以下是編輯評估順序。"
+  ],
+  "top10": [
+    {
+      "id": "jwa-autumn-second",
+      "title": "賞楓別照去年排：第二次預測已更新，預測不是實況",
+      "region": "全日本／北海道、東北、關東、北陸、中部、關西、中國、四國、九州",
+      "category": "季節情報",
+      "announcementDate": "原文10/2；10/14發布第二次預測",
+      "eventDate": "2026秋季，各地見頃預測不同",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 4,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "why": "直接幫近期赴日旅客調整景點順序，區分預測與現場觀測。",
+      "sources": [
+        {
+          "label": "日本氣象協會預測",
+          "url": "https://tenki.jp/kouyou/expectation.html"
+        },
+        {
+          "label": "官方更新日期",
+          "url": "https://weather-jwa.jp/news/info/post16176"
+        },
+        {
+          "label": "茅野市獨立葉況觀測",
+          "url": "https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "48小時；公告未標時刻，不精確宣稱24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "兩個氣象協會頁屬同一套預測；茅野市是獨立實況來源，不是預測背書。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "有11月住宿與行程預訂需求；不可保證見頃。",
+        "products": [
+          "賞楓地區住宿",
+          "確認日期的秋季行程"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "正在安排秋季日本行，可以先比較住宿位置與取消條件；紅葉是預測，行程最好保留調整空間。",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "紅葉 2026 10月14日 site:x.com",
+          "紅葉 2026 site:threads.com",
+          "紅葉 2026 site:dcard.tw",
+          "紅葉 2026 site:ptt.cc"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已核對嵐山住宿列表，只作選品入口。",
+          "pages": [
+            {
+              "title": "京都嵐山附近住宿",
+              "url": "https://tw.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/",
+              "kind": "住宿列表",
+              "reason": "供11月京都行比較位置。",
+              "checks": "列表也含較遠酒店；輸入入住日核對地圖和取消條件，不保證見頃。",
+              "checkedAt": "2026-10-15T10:05:55+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "京都車站列表正文未完整讀取，不列已確認推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀186764京都秋季團，但2026出發日期未確認，不帶入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀183500京都夜楓團，頁面顯示No passes found，不確認本季供應。",
+          "pages": []
+        }
+      ],
+      "affiliateResearch": [
+        {
+          "url": "https://www.booking.com/district/jp/kyoto/kyotostation.en-gb.html",
+          "result": "正文不足",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        },
+        {
+          "url": "https://www.kkday.com/zh-tw/product/186764",
+          "result": "秋季路線符合但2026日期未確認",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        },
+        {
+          "url": "https://www.klook.com/en-US/activity/183500-kyoto-night-maple-arashiyama-train-day-tour/",
+          "result": "未顯示可選方案",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        }
+      ],
+      "draft": {
+        "threads": [
+          "秋天去日本，別把去年的賞楓日期直接搬進今年行程。日本氣象協會10/14更新第二次紅葉預測，平地和山區的進度不能一起看。\n\n這是2026年秋季預測，不是各地今天已經滿紅。已訂好機票的人，更值得調整的是每天景點的先後順序，不必只為一個預測日期改掉整趟旅行。",
+          "這次預測表列出的見頃起點，白川鄉是10/31起、京都嵐山11/13起、宮島11/18起。這些是行程參考，不保證當天每棵樹都到高峰。\n\n還要補看有日期的實際葉況：例如茅野市記錄御射鹿池10/13為三至五分紅，不能拿這筆資料說今天已經全紅，更不能拿長野的進度推算京都。",
+          "出發前依序查目的地預測、最新實況、當天天氣，再調整行程。訂賞楓團要看實際年份與出發日；有漂亮紅葉照片，不代表本季還有名額。\n\n夜間點燈日期也不是自然紅葉見頃的保證。把旅行日期和地點放在一起查，比存沒有年份的賞楓表實用。\n預測：https://tenki.jp/kouyou/expectation.html\n葉況：https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html"
+        ],
+        "angles": [
+          {
+            "name": "避雷",
+            "opening": "賞楓日期不能照抄去年，預測與實況要分開。"
+          },
+          {
+            "name": "行程",
+            "opening": "京都、白川鄉、宮島，不是同一個紅葉時間帶。"
+          },
+          {
+            "name": "訂房",
+            "opening": "追楓訂房，取消條件和地點一樣重要。"
+          },
+          {
+            "name": "實況",
+            "opening": "10/13的葉況，不是今天滿紅的保證。"
+          },
+          {
+            "name": "工具",
+            "opening": "查預測再看實況，比沒有年份的賞楓圖可靠。"
+          }
+        ],
+        "images": [
+          {
+            "description": "自行製作預測與實況查詢流程卡；不直接重製官方商用圖表。",
+            "url": "https://tenki.jp/kouyou/expectation.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：賞楓住宿位置、取消條件及交通攻略，不保證見頃。"
+        ]
+      }
+    },
+    {
+      "id": "disney-imagination",
+      "title": "日本迪士尼郵輪正式命名，預計2029年春就航",
+      "region": "關東／東京國際郵輪碼頭",
+      "category": "旅遊／動漫IP",
+      "announcementDate": "10/14官方；記者會報導13:54 JST",
+      "eventDate": "2028年度後半，即2029年春",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 15,
+        "實用性": 8,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "迪士尼與親子讀者容易標記旅伴；關鍵是公布船名不等於開賣。",
+      "sources": [
+        {
+          "label": "官方公告",
+          "url": "https://www.orientallandcruise.co.jp/.assets/20261014.pdf"
+        },
+        {
+          "label": "Travel Watch現場採訪",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147989.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 5
+      },
+      "risk": "低",
+      "freshness": "48小時；官方只有日期",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "船名、發着點與預計2029年春已交叉核對；不承諾正式航次與開賣日期。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "未就航，不能用新加坡郵輪或樂園票冒充本船商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ディズニー イマジネーション site:x.com",
+          "ディズニー イマジネーション 2026 site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "想從東京出發搭迪士尼郵輪，可以記下新船名：Disney Imagination。\n\n10/14官方正式公布，預計2029年春就航，也就是日本的「2028年度後半」。看到年度別以為2028年內就能搭；這次是船名消息，還不是現在可以買票出發。",
+          "主要發着據點規劃在東京國際郵輪碼頭，船尾裝飾是《小美人魚》的愛麗兒和賽巴斯丁。\n\n官方也公布超過1,300席的劇場、三個主餐廳及約30處餐飲設施。這些是船舶規劃，官方配圖屬於示意圖，不能當成已完工實拍。",
+          "現在先追正式航次、開賣時間和票價，不用急著為它訂不可退機票或住宿。等條件公開，再確認登船規定、孩子年齡及取消辦法。\n\n也別把其他國家出發的迪士尼郵輪商品，當成這艘日本航次。你會想把它當整趟旅行主角，還是東京行的延伸？\n官方：https://www.orientallandcruise.co.jp/.assets/20261014.pdf"
+        ],
+        "angles": [
+          {
+            "name": "消息",
+            "opening": "日本迪士尼郵輪有名字了：Disney Imagination。"
+          },
+          {
+            "name": "日期",
+            "opening": "2028年度後半，其實是預計2029年春。"
+          },
+          {
+            "name": "親子",
+            "opening": "東京出發的迪士尼郵輪，先看規劃再等正式航次。"
+          },
+          {
+            "name": "視覺",
+            "opening": "愛麗兒和賽巴斯丁將出現在郵輪船尾。"
+          },
+          {
+            "name": "預訂",
+            "opening": "公布船名不是開賣，別急著訂不可退住宿。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方船舶與船尾角色示意圖，須標示示意並另查授權。",
+            "url": "https://www.orientallandcruise.co.jp/.assets/20261014.pdf"
+          }
+        ],
+        "extensions": [
+          "本期以資訊服務為主，不硬放商業商品。"
+        ]
+      }
+    },
+    {
+      "id": "hakodate-momig",
+      "title": "函館香雪園明天點燈：免費入場，不等於紅葉已全滿",
+      "region": "北海道／函館見晴公園香雪園",
+      "category": "活動／季節情報",
+      "announcementDate": "官方9/25更新；地方媒體10/8",
+      "eventDate": "10/16–11/8，16:00–21:00 JST",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "對已在道南的旅客有即時行程價值，點燈與葉況須分開看。",
+      "sources": [
+        {
+          "label": "函館官方觀光",
+          "url": "https://www.hakobura.jp/events/352"
+        },
+        {
+          "label": "地方活動報導",
+          "url": "https://hakodate.8agarage.co.jp/hakodate-momig-festa-events-2026/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；明天開始例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "日期、時間、地點交叉相符；免費與免預約由官方確認，尚未確認今日紅葉比例。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "明天開始，多數人已訂住宿；仍可比較住宿區域，免費入園不用買票。",
+        "products": [
+          "函館住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "MOMI-G 2026 site:x.com",
+          "MOMI-G 2026 site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "香雪園附近住宿列表，亦有距離較遠的飯店。",
+          "pages": [
+            {
+              "title": "函館香雪園附近住宿",
+              "url": "https://tw.trip.com/hotels/hakodate-hakodate-kosetsuen/hotels-c800m21795848/",
+              "kind": "住宿列表",
+              "reason": "比較函館住宿與夜間回程距離。",
+              "checks": "部分距離4至6公里以上，不是全可步行；查實際日期、空房與退款。",
+              "checkedAt": "2026-10-15T10:13:35+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已核對湯之川溫泉住宿區域。",
+          "pages": [
+            {
+              "title": "函館湯之川溫泉住宿",
+              "url": "https://www.booking.com/district/jp/hakodate/yunokawaonsen.html",
+              "kind": "住宿列表",
+              "reason": "供道南行程選品參考。",
+              "checks": "非園內住宿或接駁套票；核對地圖、日期與取消規則。",
+              "checkedAt": "2026-10-15T10:13:35+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "150516香雪園紅葉3小時包車顯示已售罄，不自動帶入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "187426函館包車未確認香雪園夜間停留，不當作點燈專案。",
+          "pages": []
+        }
+      ],
+      "affiliateResearch": [
+        {
+          "url": "https://www.kkday.com/zh-tw/product/150516",
+          "result": "已售罄",
+          "checkedAt": "2026-10-15T10:13:35+08:00"
+        },
+        {
+          "url": "https://www.klook.com/zh-TW/activity/187426-5-5-10/",
+          "result": "未確認香雪園夜間適用",
+          "checkedAt": "2026-10-15T10:13:35+08:00"
+        }
+      ],
+      "draft": {
+        "threads": [
+          "這週在函館，可以留一晚給香雪園：10/16起，約100公尺的楓樹步道點燈，入場免費。\n\n2026年MOMI-G Festa到11/8，每天16:00～21:00，日本時間。明天是活動開幕，不代表紅葉已經全滿；點燈和葉況是兩件事。",
+          "地點是見晴公園內香雪園，函館市見晴町56。官方列免預約、免費入場；另外安排的部分體驗要付費，不能理解成全部活動免費。\n\n可查巴士「香雪園」站，下車步行約1分鐘。官方提醒停車場可能擁擠，用大眾交通的人，去程與回程都先核對當日班表。",
+          "21:00是點燈結束，不是巴士末班時間。想拍到晚上，先查回飯店的交通再決定待多久；本篇沒有確認各線末班，不給可能讓你錯過車的時刻。\n\n這是已公布活動的開幕提醒，出門前再查異動。往年照片請當資料照，不當成今年滿紅實況。\n函館官方：https://www.hakobura.jp/events/352"
+        ],
+        "angles": [
+          {
+            "name": "免費",
+            "opening": "函館香雪園10/16點燈，入場免費。"
+          },
+          {
+            "name": "交通",
+            "opening": "點燈到21:00，不等於巴士也開到21:00。"
+          },
+          {
+            "name": "葉況",
+            "opening": "點燈開幕日，不是紅葉滿開保證。"
+          },
+          {
+            "name": "攻略",
+            "opening": "香雪園夜間怎麼排？先查回程再安排拍照。"
+          },
+          {
+            "name": "費用",
+            "opening": "免費入園和另付費體驗，要分開看。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺及位置圖，舊葉況照片標資料照；商用授權另查。",
+            "url": "https://www.hakobura.jp/events/352"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：函館住宿與夜間回程攻略，不販售免費入園票。"
+        ]
+      }
+    },
+    {
+      "id": "uchibo-cycle",
+      "title": "內房線受災區臨時單車：12小時免費，只限指定站點",
+      "region": "關東／千葉姉ケ崎、長浦站周邊",
+      "category": "交通／JR",
+      "announcementDate": "縣府10/9發布、10/12更新；業者10/14",
+      "eventDate": "10/14 06:00 JST起暫行，結束日待定",
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 9,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 5,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "保留重要行前提醒，避免把緊急移動措施誤寫全縣觀光優惠。",
+      "sources": [
+        {
+          "label": "千葉縣規則與路線",
+          "url": "https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html"
+        },
+        {
+          "label": "營運商費用與操作",
+          "url": "https://www.openstreet.co.jp/news/chiba2026oct"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "原公告7天內；昨天實施、重大交通影響例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "範圍、費用與開始日已由政府和業者核對；不承諾確定復駛日。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "災後交通資訊，與分潤商品無自然關係。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "内房線 2026 10月14日 site:x.com",
+          "内房線 シェアサイクル site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "最近行程會經過千葉姉ケ崎、長浦，先重新查交通。這段內房線受災停駛期間，10/14起新增臨時共享單車措施。\n\n12小時內免費只限指定實證站點之間，不是全千葉HELLO CYCLING都免費，也不是帶大行李旅客必須改騎單車。",
+          "先在HELLO CYCLING註冊，查指定站點、可借車和還車條件。超過12小時後，每12小時收2,500日圓，不能因前段免費就留車過夜。\n\n官方要求自行準備並配戴安全帽，依公布的可通行路線行駛。這是緊急地方移動措施，封閉道路不能騎進去。",
+          "只是經過這一帶的人，先查鐵路、代行交通和轉乘，再判斷單車適不適合。帶孩子、行李或趕車的人，尤其別只看免費兩字。\n\n實施結束日依復舊狀況決定；官方復駛時間是估計，不是保證。\n縣府：https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html\n業者：https://www.openstreet.co.jp/news/chiba2026oct"
+        ],
+        "angles": [
+          {
+            "name": "交通",
+            "opening": "內房線受災區10/14新增臨時單車。"
+          },
+          {
+            "name": "條件",
+            "opening": "12小時免費，不能套用全千葉。"
+          },
+          {
+            "name": "費用",
+            "opening": "免費時段後，每12小時2,500日圓。"
+          },
+          {
+            "name": "行前",
+            "opening": "帶行李經過這段，先查代行交通。"
+          },
+          {
+            "name": "範圍",
+            "opening": "緊急地方移動措施，不是觀光優惠。"
+          }
+        ],
+        "images": [
+          {
+            "description": "縣府指定站點與路線圖，使用條款另確認。",
+            "url": "https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html"
+          }
+        ],
+        "extensions": [
+          "本期以資訊服務為主，不硬放商業商品。"
+        ]
+      }
+    },
+    {
+      "id": "niihama-taiko",
+      "title": "新居浜太鼓祭分區登場：大生院今天、其他主要區域明天",
+      "region": "四國／愛媛新居浜市",
+      "category": "祭典／活動",
+      "announcementDate": "市府9/29更新；地方媒體9/28、9/30更新",
+      "eventDate": "大生院10/15–17；川西、川東、上部10/16–18",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "已在四國的人可照分區安排，不能只看整體檔期。",
+      "sources": [
+        {
+          "label": "新居浜市運行表",
+          "url": "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
+        },
+        {
+          "label": "地方分區日程",
+          "url": "https://niihama.mypl.net/article/taikomatsuri_niihama/110230"
+        },
+        {
+          "label": "愛媛觀光局",
+          "url": "https://www.iyokannet.jp/event/2553"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；今天／明天開始例外",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "分區日程與官方運行表入口交叉核對；當日臨時異動未保證。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "活動已開始，臨時訂房需求有限，不推未確認觀覽席。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "新居浜太鼓祭り 2026 site:x.com",
+          "新居浜太鼓祭り 2026 site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "到四國看新居浜太鼓祭，先把地區寫進行程：大生院今天10/15開始，其他主要地區明天10/16開始。\n\n2026大生院日程10/15～17；川西、川東、上部是10/16～18。只記整體10/15～18，可能到了才發現想看的活動不是那天。",
+          "用日期、地區、會場三件事對照官方運行表，再安排車站到會場的移動。太鼓台會移動，不是整天固定在同一個位置。\n\n別把宣傳照片的位置當成隨時都能看的定點表演。跟著現場引導，在觀覽範圍內觀看；想換場次，也先留足交通時間。",
+          "原日程9月就已公布，這篇是開幕行前提醒。已在四國的人現在查分區時間最實用；還沒訂交通，先確認散場後回程再決定待多久。\n\n本篇不宣稱即時空位、觀覽席或臨時加班車，出發前再查當日異動。\n市府運行表入口：https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
+        ],
+        "angles": [
+          {
+            "name": "日期",
+            "opening": "新居浜太鼓祭，不同地區差一天開始。"
+          },
+          {
+            "name": "攻略",
+            "opening": "看太鼓祭先定日期、地區和會場。"
+          },
+          {
+            "name": "提醒",
+            "opening": "今天有祭典，不代表每個地區都登場。"
+          },
+          {
+            "name": "攝影",
+            "opening": "宣傳照的位置，不是整天固定表演。"
+          },
+          {
+            "name": "回程",
+            "opening": "先查散場交通，再決定看到幾點。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方分日運行表與會場交通圖，區域日期不可混寫。",
+            "url": "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
+          }
+        ],
+        "extensions": [
+          "本期以資訊服務為主，不硬放商業商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "jwa-autumn-second",
+      "title": "賞楓別照去年排：第二次預測已更新，預測不是實況",
+      "region": "全日本／北海道、東北、關東、北陸、中部、關西、中國、四國、九州",
+      "category": "季節情報",
+      "announcementDate": "原文10/2；10/14發布第二次預測",
+      "eventDate": "2026秋季，各地見頃預測不同",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 4,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "why": "直接幫近期赴日旅客調整景點順序，區分預測與現場觀測。",
+      "sources": [
+        {
+          "label": "日本氣象協會預測",
+          "url": "https://tenki.jp/kouyou/expectation.html"
+        },
+        {
+          "label": "官方更新日期",
+          "url": "https://weather-jwa.jp/news/info/post16176"
+        },
+        {
+          "label": "茅野市獨立葉況觀測",
+          "url": "https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "48小時；公告未標時刻，不精確宣稱24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "兩個氣象協會頁屬同一套預測；茅野市是獨立實況來源，不是預測背書。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "有11月住宿與行程預訂需求；不可保證見頃。",
+        "products": [
+          "賞楓地區住宿",
+          "確認日期的秋季行程"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "正在安排秋季日本行，可以先比較住宿位置與取消條件；紅葉是預測，行程最好保留調整空間。",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "紅葉 2026 10月14日 site:x.com",
+          "紅葉 2026 site:threads.com",
+          "紅葉 2026 site:dcard.tw",
+          "紅葉 2026 site:ptt.cc"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已核對嵐山住宿列表，只作選品入口。",
+          "pages": [
+            {
+              "title": "京都嵐山附近住宿",
+              "url": "https://tw.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/",
+              "kind": "住宿列表",
+              "reason": "供11月京都行比較位置。",
+              "checks": "列表也含較遠酒店；輸入入住日核對地圖和取消條件，不保證見頃。",
+              "checkedAt": "2026-10-15T10:05:55+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "京都車站列表正文未完整讀取，不列已確認推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀186764京都秋季團，但2026出發日期未確認，不帶入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀183500京都夜楓團，頁面顯示No passes found，不確認本季供應。",
+          "pages": []
+        }
+      ],
+      "affiliateResearch": [
+        {
+          "url": "https://www.booking.com/district/jp/kyoto/kyotostation.en-gb.html",
+          "result": "正文不足",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        },
+        {
+          "url": "https://www.kkday.com/zh-tw/product/186764",
+          "result": "秋季路線符合但2026日期未確認",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        },
+        {
+          "url": "https://www.klook.com/en-US/activity/183500-kyoto-night-maple-arashiyama-train-day-tour/",
+          "result": "未顯示可選方案",
+          "checkedAt": "2026-10-15T10:05:55+08:00"
+        }
+      ]
+    },
+    {
+      "id": "disney-imagination",
+      "title": "日本迪士尼郵輪正式命名，預計2029年春就航",
+      "region": "關東／東京國際郵輪碼頭",
+      "category": "旅遊／動漫IP",
+      "announcementDate": "10/14官方；記者會報導13:54 JST",
+      "eventDate": "2028年度後半，即2029年春",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 15,
+        "實用性": 8,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "迪士尼與親子讀者容易標記旅伴；關鍵是公布船名不等於開賣。",
+      "sources": [
+        {
+          "label": "官方公告",
+          "url": "https://www.orientallandcruise.co.jp/.assets/20261014.pdf"
+        },
+        {
+          "label": "Travel Watch現場採訪",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147989.html"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 5
+      },
+      "risk": "低",
+      "freshness": "48小時；官方只有日期",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "船名、發着點與預計2029年春已交叉核對；不承諾正式航次與開賣日期。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "未就航，不能用新加坡郵輪或樂園票冒充本船商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ディズニー イマジネーション site:x.com",
+          "ディズニー イマジネーション 2026 site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ]
+    },
+    {
+      "id": "hakodate-momig",
+      "title": "函館香雪園明天點燈：免費入場，不等於紅葉已全滿",
+      "region": "北海道／函館見晴公園香雪園",
+      "category": "活動／季節情報",
+      "announcementDate": "官方9/25更新；地方媒體10/8",
+      "eventDate": "10/16–11/8，16:00–21:00 JST",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "對已在道南的旅客有即時行程價值，點燈與葉況須分開看。",
+      "sources": [
+        {
+          "label": "函館官方觀光",
+          "url": "https://www.hakobura.jp/events/352"
+        },
+        {
+          "label": "地方活動報導",
+          "url": "https://hakodate.8agarage.co.jp/hakodate-momig-festa-events-2026/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；明天開始例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "日期、時間、地點交叉相符；免費與免預約由官方確認，尚未確認今日紅葉比例。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "明天開始，多數人已訂住宿；仍可比較住宿區域，免費入園不用買票。",
+        "products": [
+          "函館住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "MOMI-G 2026 site:x.com",
+          "MOMI-G 2026 site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "香雪園附近住宿列表，亦有距離較遠的飯店。",
+          "pages": [
+            {
+              "title": "函館香雪園附近住宿",
+              "url": "https://tw.trip.com/hotels/hakodate-hakodate-kosetsuen/hotels-c800m21795848/",
+              "kind": "住宿列表",
+              "reason": "比較函館住宿與夜間回程距離。",
+              "checks": "部分距離4至6公里以上，不是全可步行；查實際日期、空房與退款。",
+              "checkedAt": "2026-10-15T10:13:35+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已核對湯之川溫泉住宿區域。",
+          "pages": [
+            {
+              "title": "函館湯之川溫泉住宿",
+              "url": "https://www.booking.com/district/jp/hakodate/yunokawaonsen.html",
+              "kind": "住宿列表",
+              "reason": "供道南行程選品參考。",
+              "checks": "非園內住宿或接駁套票；核對地圖、日期與取消規則。",
+              "checkedAt": "2026-10-15T10:13:35+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "150516香雪園紅葉3小時包車顯示已售罄，不自動帶入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "187426函館包車未確認香雪園夜間停留，不當作點燈專案。",
+          "pages": []
+        }
+      ],
+      "affiliateResearch": [
+        {
+          "url": "https://www.kkday.com/zh-tw/product/150516",
+          "result": "已售罄",
+          "checkedAt": "2026-10-15T10:13:35+08:00"
+        },
+        {
+          "url": "https://www.klook.com/zh-TW/activity/187426-5-5-10/",
+          "result": "未確認香雪園夜間適用",
+          "checkedAt": "2026-10-15T10:13:35+08:00"
+        }
+      ]
+    },
+    {
+      "id": "uchibo-cycle",
+      "title": "內房線受災區臨時單車：12小時免費，只限指定站點",
+      "region": "關東／千葉姉ケ崎、長浦站周邊",
+      "category": "交通／JR",
+      "announcementDate": "縣府10/9發布、10/12更新；業者10/14",
+      "eventDate": "10/14 06:00 JST起暫行，結束日待定",
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 9,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 5,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "保留重要行前提醒，避免把緊急移動措施誤寫全縣觀光優惠。",
+      "sources": [
+        {
+          "label": "千葉縣規則與路線",
+          "url": "https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html"
+        },
+        {
+          "label": "營運商費用與操作",
+          "url": "https://www.openstreet.co.jp/news/chiba2026oct"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "原公告7天內；昨天實施、重大交通影響例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "範圍、費用與開始日已由政府和業者核對；不承諾確定復駛日。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "災後交通資訊，與分潤商品無自然關係。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "内房線 2026 10月14日 site:x.com",
+          "内房線 シェアサイクル site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ]
+    },
+    {
+      "id": "niihama-taiko",
+      "title": "新居浜太鼓祭分區登場：大生院今天、其他主要區域明天",
+      "region": "四國／愛媛新居浜市",
+      "category": "祭典／活動",
+      "announcementDate": "市府9/29更新；地方媒體9/28、9/30更新",
+      "eventDate": "大生院10/15–17；川西、川東、上部10/16–18",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "已在四國的人可照分區安排，不能只看整體檔期。",
+      "sources": [
+        {
+          "label": "新居浜市運行表",
+          "url": "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
+        },
+        {
+          "label": "地方分區日程",
+          "url": "https://niihama.mypl.net/article/taikomatsuri_niihama/110230"
+        },
+        {
+          "label": "愛媛觀光局",
+          "url": "https://www.iyokannet.jp/event/2553"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；今天／明天開始例外",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "分區日程與官方運行表入口交叉核對；當日臨時異動未保證。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "活動已開始，臨時訂房需求有限，不推未確認觀覽席。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "新居浜太鼓祭り 2026 site:x.com",
+          "新居浜太鼓祭り 2026 site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ]
+    },
+    {
+      "id": "kumamoto-yahoo",
+      "title": "Yahoo熊本補助今天開放",
+      "region": "九州／熊本",
+      "category": "政策／住宿",
+      "announcementDate": "預告原日未標；媒體10/15",
+      "eventDate": "10/15正午JST開訂至12/25正午",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 13,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://travel.yahoo.co.jp/feature/kyushuouen/"
+        },
+        {
+          "label": "觀光廳制度",
+          "url": "https://www.mlit.go.jp/kankocho/page13_00002.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "今天開放",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "直接訂房需求但方案資格未確認，不附一般住宿頁冒充補助。",
+        "products": [
+          "函館住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "熊本 2026 10月15日 site:x.com",
+          "Yahoo 熊本 2026 site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。"
+    },
+    {
+      "id": "willer-navi",
+      "title": "WILLER乘車導航重新介紹",
+      "region": "全日本",
+      "category": "交通",
+      "announcementDate": "官方10/13、媒體10/14",
+      "eventDate": "既有功能，首次上線日未確認",
+      "score": 65,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 8,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.willer.co.jp/news/press/2026/1013_7259"
+        },
+        {
+          "label": "媒體新功能標題，與官方原文比對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2147953.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天內，無今日大量討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。"
+    },
+    {
+      "id": "pooh-kyoto",
+      "title": "京都伊勢丹小熊維尼活動",
+      "region": "京都",
+      "category": "購物／IP",
+      "announcementDate": "10/7",
+      "eventDate": "10/14–25",
+      "score": 66,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 8,
+        "稀缺性": 4,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "原公告超過7天，昨日開幕但今日無新進展或爆紅證據。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.mistore.jp/store/kyoto/event_calendar/winnie_the_pooh.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "超過7天，未採例外",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；原公告超過7天，昨日開幕但今日無新進展或爆紅證據。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "原公告超過7天，昨日開幕但今日無新進展或爆紅證據。"
+    },
+    {
+      "id": "komeda",
+      "title": "Komeda焦糖限定新品",
+      "region": "全日本",
+      "category": "美食",
+      "announcementDate": "10/7",
+      "eventDate": "10/14起",
+      "score": 64,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 10,
+        "實用性": 8,
+        "稀缺性": 3,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.atpress.ne.jp/news/636353"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "超過7天，未採例外",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。"
+    },
+    {
+      "id": "kenodo",
+      "title": "圏央道11月夜間施工",
+      "region": "關東",
+      "category": "交通",
+      "announcementDate": "NEXCO10/9；媒體10/15",
+      "eventDate": "11/9起分區夜間封閉",
+      "score": 56,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 6,
+        "實用性": 12,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.e-nexco.co.jp/pressroom/kanto/2026/1009/00016705.html"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148032.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "7天內，無今日大量討論證據",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。"
+    },
+    {
+      "id": "ibaraki-food",
+      "title": "東京茨城食材美食活動",
+      "region": "關東／丸之內等",
+      "category": "美食／活動",
+      "announcementDate": "9/30原活動；10/14現場報導",
+      "eventDate": "10/14–11/3",
+      "score": 61,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 8,
+        "實用性": 9,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148004.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "原活動超過7天",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。"
+    },
+    {
+      "id": "nago-lime",
+      "title": "名護Lime服務計畫",
+      "region": "沖繩／名護",
+      "category": "交通",
+      "announcementDate": "合作10/6",
+      "eventDate": "2026年度內規劃",
+      "score": 53,
+      "scoreBreakdown": {
+        "即時性": 8,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 7,
+        "實用性": 8,
+        "稀缺性": 6,
+        "視覺吸引力": 5,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.li.me/ja-jp/blog"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "超過7天，未採例外",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。"
+    },
+    {
+      "id": "perfectone",
+      "title": "Perfect One夜霜改版上市",
+      "region": "全日本",
+      "category": "藥妝",
+      "announcementDate": "品牌10/7",
+      "eventDate": "10/15上市",
+      "score": 57,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 9,
+        "社群討論潛力": 6,
+        "實用性": 5,
+        "稀缺性": 5,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://corporate.shinnihonseiyaku.co.jp/release/archives/11005"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "今天上市；舊公告例外候選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。"
+    },
+    {
+      "id": "aeon-tohoku",
+      "title": "AEON東北秋季優惠線索",
+      "region": "東北",
+      "category": "購物／超市",
+      "announcementDate": "官方索引10/14",
+      "eventDate": "細則待確認",
+      "score": 51,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 9,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "僅完成索引查閱，日期、店別與優惠資格尚未完全確認。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://aeontohoku.co.jp/company/news"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "48小時日期線索",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；僅完成索引查閱，日期、店別與優惠資格尚未完全確認。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "僅完成索引查閱，日期、店別與優惠資格尚未完全確認。"
+    },
+    {
+      "id": "vjw-queue",
+      "title": "紙本入境比VJW快的社群說法",
+      "region": "日本各機場",
+      "category": "社群話題",
+      "announcementDate": "媒體10/13–14",
+      "eventDate": "原貼時間與情境待確認",
+      "score": 71,
+      "scoreBreakdown": {
+        "即時性": 13,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 9,
+        "稀缺性": 3,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。",
+      "sources": [
+        {
+          "label": "查核來源或待查入口",
+          "url": "https://www.mirrormedia.mg/story/20261013hea01"
+        },
+        {
+          "label": "另一篇媒體引述，不當獨立確認",
+          "url": "https://www.ftvnews.com.tw/news/detail/2026A14W0536"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "高",
+      "freshness": "48小時媒體引述",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核後再判斷",
+      "verification": "尚未完成可發布查核；未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期無自然且已核對的預訂商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。",
+        "assessedOn": "2026-10-15"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-15T10:13:35+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。",
+          "pages": []
+        }
+      ],
+      "exclusionReason": "未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。"
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-15T10:13:35+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 9,
+    "qualifiedTopicCount": 0,
+    "limitation": "主要對9題做社群關鍵字搜尋；未完成全部15題原始貼文核對。無兩位不同作者及可核對時間、讚與留言的48小時樣本。不以新聞篇數冒充熱度。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "X",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "Facebook",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "Instagram",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "Dcard",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "PTT",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      },
+      {
+        "platform": "TikTok",
+        "status": "搜尋受robots限制，無可計分樣本。"
+      },
+      {
+        "platform": "YouTube",
+        "status": "搜尋未取得符合時間、主題及雙作者門檻的原始互動樣本。"
+      }
+    ]
+  },
+  "choice": {
+    "id": "jwa-autumn-second",
+    "title": "賞楓別照去年排：第二次預測已更新，預測不是實況",
+    "score": 90,
+    "reason": "近期赴日讀者可立即調整景點順序；預測不是實況的切角能解決行程疑問，適合收藏及傳給旅伴，亦能留言比較旅行日期。",
+    "versusSecond": "郵輪視覺話題性高，但預計2029年才就航；紅葉對近期行程更有可執行價值。這是編輯判斷，不是實測觀看量。",
+    "publishAt": "台灣12:00（編輯建議）",
+    "audience": "10至11月赴日自由行與親子旅客，已有機票、正在排日程。",
+    "lifecycle": "1個月以上，每次使用重查更新日期。"
+  },
+  "followups": [
+    {
+      "title": "香雪園10/16開幕及葉況",
+      "next": "查是否如期、當日天氣與有日期的現場影像，不保證滿紅。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.hakobura.jp/events/352"
+        }
+      ]
+    },
+    {
+      "title": "新居浜10/16主要區域活動",
+      "next": "查當日運行與交通異動，不將計畫表當現場實況。",
+      "sources": [
+        {
+          "label": "市府",
+          "url": "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
+        }
+      ]
+    },
+    {
+      "title": "Yahoo熊本開放後資格",
+      "next": "確認台灣帳號、支付與實際折扣適用，不保證剩餘名額。",
+      "sources": [
+        {
+          "label": "平台",
+          "url": "https://travel.yahoo.co.jp/feature/kyushuouen/"
+        }
+      ]
+    },
+    {
+      "title": "內房線臨時交通",
+      "next": "追10/16預定增車是否實現，計畫不先寫成已完成。",
+      "sources": [
+        {
+          "label": "業者",
+          "url": "https://www.openstreet.co.jp/news/chiba2026oct"
+        }
+      ]
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-15\n搜尋截止：2026-10-15 10:13:35 Asia/Taipei（日本11:13:35 JST）\n\n【今天日本發生什麼？】\n本期比較15個不同候選，選5題；其餘有時效、資格、原文與交叉查證限制，不湊滿10題。\n日本氣象協會10/14更新紅葉預測，預測、現場葉況與點燈日期要分開看。\n迪士尼日本郵輪命名，預計2029年春就航，並非現在開賣。\n函館香雪園明天點燈；舊公告因即將開始例外納入，不宣稱已全紅。\n千葉受災區臨時單車昨天實施，免費條件只適用指定站點。\n新居浜大生院今天開始祭典，其他主要區域明天開始。\n熊本Yahoo補助平台資格仍待確認，不推成所有台灣旅客可直接使用。\n沒有合格社群互動樣本，無法建立實測熱榜；以下是編輯評估順序。\n\n【候選池與評分紀錄】\n八項滿分依序20/20/15/15/10/10/5/5；分數及三種星等均為編輯預估，非已驗證熱度。先比較15題的日期、來源與旅客價值，再選5題；未入選分數只是初評，不等於通過查核。第4題交通提醒雖低於第5題分數，因旅客即時移動影響優先。第2、3同分，優先新公布且適合較廣受眾的郵輪消息。\n\n{\n  \"id\": \"jwa-autumn-second\",\n  \"title\": \"賞楓別照去年排：第二次預測已更新，預測不是實況\",\n  \"region\": \"全日本／北海道、東北、關東、北陸、中部、關西、中國、四國、九州\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"原文10/2；10/14發布第二次預測\",\n  \"eventDate\": \"2026秋季，各地見頃預測不同\",\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 13,\n    \"實用性\": 15,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"直接幫近期赴日旅客調整景點順序，區分預測與現場觀測。\",\n  \"sources\": [\n    {\n      \"label\": \"日本氣象協會預測\",\n      \"url\": \"https://tenki.jp/kouyou/expectation.html\"\n    },\n    {\n      \"label\": \"官方更新日期\",\n      \"url\": \"https://weather-jwa.jp/news/info/post16176\"\n    },\n    {\n      \"label\": \"茅野市獨立葉況觀測\",\n      \"url\": \"https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 5\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；公告未標時刻，不精確宣稱24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"兩個氣象協會頁屬同一套預測；茅野市是獨立實況來源，不是預測背書。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"有11月住宿與行程預訂需求；不可保證見頃。\",\n    \"products\": [\n      \"賞楓地區住宿\",\n      \"確認日期的秋季行程\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"正在安排秋季日本行，可以先比較住宿位置與取消條件；紅葉是預測，行程最好保留調整空間。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"紅葉 2026 10月14日 site:x.com\",\n      \"紅葉 2026 site:threads.com\",\n      \"紅葉 2026 site:dcard.tw\",\n      \"紅葉 2026 site:ptt.cc\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已核對嵐山住宿列表，只作選品入口。\",\n      \"pages\": [\n        {\n          \"title\": \"京都嵐山附近住宿\",\n          \"url\": \"https://tw.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"供11月京都行比較位置。\",\n          \"checks\": \"列表也含較遠酒店；輸入入住日核對地圖和取消條件，不保證見頃。\",\n          \"checkedAt\": \"2026-10-15T10:05:55+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"京都車站列表正文未完整讀取，不列已確認推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已讀186764京都秋季團，但2026出發日期未確認，不帶入。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已讀183500京都夜楓團，頁面顯示No passes found，不確認本季供應。\",\n      \"pages\": []\n    }\n  ],\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://www.booking.com/district/jp/kyoto/kyotostation.en-gb.html\",\n      \"result\": \"正文不足\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    },\n    {\n      \"url\": \"https://www.kkday.com/zh-tw/product/186764\",\n      \"result\": \"秋季路線符合但2026日期未確認\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    },\n    {\n      \"url\": \"https://www.klook.com/en-US/activity/183500-kyoto-night-maple-arashiyama-train-day-tour/\",\n      \"result\": \"未顯示可選方案\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    }\n  ]\n}\n\n{\n  \"id\": \"disney-imagination\",\n  \"title\": \"日本迪士尼郵輪正式命名，預計2029年春就航\",\n  \"region\": \"關東／東京國際郵輪碼頭\",\n  \"category\": \"旅遊／動漫IP\",\n  \"announcementDate\": \"10/14官方；記者會報導13:54 JST\",\n  \"eventDate\": \"2028年度後半，即2029年春\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 15,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"迪士尼與親子讀者容易標記旅伴；關鍵是公布船名不等於開賣。\",\n  \"sources\": [\n    {\n      \"label\": \"官方公告\",\n      \"url\": \"https://www.orientallandcruise.co.jp/.assets/20261014.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch現場採訪\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2147989.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 3,\n    \"share\": 5\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；官方只有日期\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:30（編輯建議）\",\n  \"verification\": \"船名、發着點與預計2029年春已交叉核對；不承諾正式航次與開賣日期。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"未就航，不能用新加坡郵輪或樂園票冒充本船商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ディズニー イマジネーション site:x.com\",\n      \"ディズニー イマジネーション 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"hakodate-momig\",\n  \"title\": \"函館香雪園明天點燈：免費入場，不等於紅葉已全滿\",\n  \"region\": \"北海道／函館見晴公園香雪園\",\n  \"category\": \"活動／季節情報\",\n  \"announcementDate\": \"官方9/25更新；地方媒體10/8\",\n  \"eventDate\": \"10/16–11/8，16:00–21:00 JST\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 14,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"對已在道南的旅客有即時行程價值，點燈與葉況須分開看。\",\n  \"sources\": [\n    {\n      \"label\": \"函館官方觀光\",\n      \"url\": \"https://www.hakobura.jp/events/352\"\n    },\n    {\n      \"label\": \"地方活動報導\",\n      \"url\": \"https://hakodate.8agarage.co.jp/hakodate-momig-festa-events-2026/\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；明天開始例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"日期、時間、地點交叉相符；免費與免預約由官方確認，尚未確認今日紅葉比例。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"明天開始，多數人已訂住宿；仍可比較住宿區域，免費入園不用買票。\",\n    \"products\": [\n      \"函館住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"MOMI-G 2026 site:x.com\",\n      \"MOMI-G 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"香雪園附近住宿列表，亦有距離較遠的飯店。\",\n      \"pages\": [\n        {\n          \"title\": \"函館香雪園附近住宿\",\n          \"url\": \"https://tw.trip.com/hotels/hakodate-hakodate-kosetsuen/hotels-c800m21795848/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較函館住宿與夜間回程距離。\",\n          \"checks\": \"部分距離4至6公里以上，不是全可步行；查實際日期、空房與退款。\",\n          \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已核對湯之川溫泉住宿區域。\",\n      \"pages\": [\n        {\n          \"title\": \"函館湯之川溫泉住宿\",\n          \"url\": \"https://www.booking.com/district/jp/hakodate/yunokawaonsen.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"供道南行程選品參考。\",\n          \"checks\": \"非園內住宿或接駁套票；核對地圖、日期與取消規則。\",\n          \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"150516香雪園紅葉3小時包車顯示已售罄，不自動帶入。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"187426函館包車未確認香雪園夜間停留，不當作點燈專案。\",\n      \"pages\": []\n    }\n  ],\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://www.kkday.com/zh-tw/product/150516\",\n      \"result\": \"已售罄\",\n      \"checkedAt\": \"2026-10-15T10:13:35+08:00\"\n    },\n    {\n      \"url\": \"https://www.klook.com/zh-TW/activity/187426-5-5-10/\",\n      \"result\": \"未確認香雪園夜間適用\",\n      \"checkedAt\": \"2026-10-15T10:13:35+08:00\"\n    }\n  ]\n}\n\n{\n  \"id\": \"uchibo-cycle\",\n  \"title\": \"內房線受災區臨時單車：12小時免費，只限指定站點\",\n  \"region\": \"關東／千葉姉ケ崎、長浦站周邊\",\n  \"category\": \"交通／JR\",\n  \"announcementDate\": \"縣府10/9發布、10/12更新；業者10/14\",\n  \"eventDate\": \"10/14 06:00 JST起暫行，結束日待定\",\n  \"score\": 75,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"保留重要行前提醒，避免把緊急移動措施誤寫全縣觀光優惠。\",\n  \"sources\": [\n    {\n      \"label\": \"千葉縣規則與路線\",\n      \"url\": \"https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html\"\n    },\n    {\n      \"label\": \"營運商費用與操作\",\n      \"url\": \"https://www.openstreet.co.jp/news/chiba2026oct\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"原公告7天內；昨天實施、重大交通影響例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"範圍、費用與開始日已由政府和業者核對；不承諾確定復駛日。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"災後交通資訊，與分潤商品無自然關係。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"内房線 2026 10月14日 site:x.com\",\n      \"内房線 シェアサイクル site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"niihama-taiko\",\n  \"title\": \"新居浜太鼓祭分區登場：大生院今天、其他主要區域明天\",\n  \"region\": \"四國／愛媛新居浜市\",\n  \"category\": \"祭典／活動\",\n  \"announcementDate\": \"市府9/29更新；地方媒體9/28、9/30更新\",\n  \"eventDate\": \"大生院10/15–17；川西、川東、上部10/16–18\",\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 13,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"已在四國的人可照分區安排，不能只看整體檔期。\",\n  \"sources\": [\n    {\n      \"label\": \"新居浜市運行表\",\n      \"url\": \"https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\"\n    },\n    {\n      \"label\": \"地方分區日程\",\n      \"url\": \"https://niihama.mypl.net/article/taikomatsuri_niihama/110230\"\n    },\n    {\n      \"label\": \"愛媛觀光局\",\n      \"url\": \"https://www.iyokannet.jp/event/2553\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；今天／明天開始例外\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"分區日程與官方運行表入口交叉核對；當日臨時異動未保證。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"活動已開始，臨時訂房需求有限，不推未確認觀覽席。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"新居浜太鼓祭り 2026 site:x.com\",\n      \"新居浜太鼓祭り 2026 site:facebook.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"kumamoto-yahoo\",\n  \"title\": \"Yahoo熊本補助今天開放\",\n  \"region\": \"九州／熊本\",\n  \"category\": \"政策／住宿\",\n  \"announcementDate\": \"預告原日未標；媒體10/15\",\n  \"eventDate\": \"10/15正午JST開訂至12/25正午\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 13,\n    \"實用性\": 13,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://travel.yahoo.co.jp/feature/kyushuouen/\"\n    },\n    {\n      \"label\": \"觀光廳制度\",\n      \"url\": \"https://www.mlit.go.jp/kankocho/page13_00002.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天開放\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"直接訂房需求但方案資格未確認，不附一般住宿頁冒充補助。\",\n    \"products\": [\n      \"函館住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"熊本 2026 10月15日 site:x.com\",\n      \"Yahoo 熊本 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\"\n}\n\n{\n  \"id\": \"willer-navi\",\n  \"title\": \"WILLER乘車導航重新介紹\",\n  \"region\": \"全日本\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"官方10/13、媒體10/14\",\n  \"eventDate\": \"既有功能，首次上線日未確認\",\n  \"score\": 65,\n  \"scoreBreakdown\": {\n    \"即時性\": 12,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 8,\n    \"實用性\": 13,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.willer.co.jp/news/press/2026/1013_7259\"\n    },\n    {\n      \"label\": \"媒體新功能標題，與官方原文比對\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2147953.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"7天內，無今日大量討論證據\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\"\n}\n\n{\n  \"id\": \"pooh-kyoto\",\n  \"title\": \"京都伊勢丹小熊維尼活動\",\n  \"region\": \"京都\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"10/7\",\n  \"eventDate\": \"10/14–25\",\n  \"score\": 66,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 11,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.mistore.jp/store/kyoto/event_calendar/winnie_the_pooh.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\"\n}\n\n{\n  \"id\": \"komeda\",\n  \"title\": \"Komeda焦糖限定新品\",\n  \"region\": \"全日本\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"10/7\",\n  \"eventDate\": \"10/14起\",\n  \"score\": 64,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 10,\n    \"實用性\": 8,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.atpress.ne.jp/news/636353\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\"\n}\n\n{\n  \"id\": \"kenodo\",\n  \"title\": \"圏央道11月夜間施工\",\n  \"region\": \"關東\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"NEXCO10/9；媒體10/15\",\n  \"eventDate\": \"11/9起分區夜間封閉\",\n  \"score\": 56,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 6,\n    \"實用性\": 12,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.e-nexco.co.jp/pressroom/kanto/2026/1009/00016705.html\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148032.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"7天內，無今日大量討論證據\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\"\n}\n\n{\n  \"id\": \"ibaraki-food\",\n  \"title\": \"東京茨城食材美食活動\",\n  \"region\": \"關東／丸之內等\",\n  \"category\": \"美食／活動\",\n  \"announcementDate\": \"9/30原活動；10/14現場報導\",\n  \"eventDate\": \"10/14–11/3\",\n  \"score\": 61,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 8,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148004.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"原活動超過7天\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\"\n}\n\n{\n  \"id\": \"nago-lime\",\n  \"title\": \"名護Lime服務計畫\",\n  \"region\": \"沖繩／名護\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"合作10/6\",\n  \"eventDate\": \"2026年度內規劃\",\n  \"score\": 53,\n  \"scoreBreakdown\": {\n    \"即時性\": 8,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.li.me/ja-jp/blog\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\"\n}\n\n{\n  \"id\": \"perfectone\",\n  \"title\": \"Perfect One夜霜改版上市\",\n  \"region\": \"全日本\",\n  \"category\": \"藥妝\",\n  \"announcementDate\": \"品牌10/7\",\n  \"eventDate\": \"10/15上市\",\n  \"score\": 57,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 9,\n    \"社群討論潛力\": 6,\n    \"實用性\": 5,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://corporate.shinnihonseiyaku.co.jp/release/archives/11005\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天上市；舊公告例外候選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\"\n}\n\n{\n  \"id\": \"aeon-tohoku\",\n  \"title\": \"AEON東北秋季優惠線索\",\n  \"region\": \"東北\",\n  \"category\": \"購物／超市\",\n  \"announcementDate\": \"官方索引10/14\",\n  \"eventDate\": \"細則待確認\",\n  \"score\": 51,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 9,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://aeontohoku.co.jp/company/news\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時日期線索\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\"\n}\n\n{\n  \"id\": \"vjw-queue\",\n  \"title\": \"紙本入境比VJW快的社群說法\",\n  \"region\": \"日本各機場\",\n  \"category\": \"社群話題\",\n  \"announcementDate\": \"媒體10/13–14\",\n  \"eventDate\": \"原貼時間與情境待確認\",\n  \"score\": 71,\n  \"scoreBreakdown\": {\n    \"即時性\": 13,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 9,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.mirrormedia.mg/story/20261013hea01\"\n    },\n    {\n      \"label\": \"另一篇媒體引述，不當獨立確認\",\n      \"url\": \"https://www.ftvnews.com.tw/news/detail/2026A14W0536\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"高\",\n  \"freshness\": \"48小時媒體引述\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\"\n}\n\n【今日首選】\n{\n  \"id\": \"jwa-autumn-second\",\n  \"title\": \"賞楓別照去年排：第二次預測已更新，預測不是實況\",\n  \"score\": 90,\n  \"reason\": \"近期赴日讀者可立即調整景點順序；預測不是實況的切角能解決行程疑問，適合收藏及傳給旅伴，亦能留言比較旅行日期。\",\n  \"versusSecond\": \"郵輪視覺話題性高，但預計2029年才就航；紅葉對近期行程更有可執行價值。這是編輯判斷，不是實測觀看量。\",\n  \"publishAt\": \"台灣12:00（編輯建議）\",\n  \"audience\": \"10至11月赴日自由行與親子旅客，已有機票、正在排日程。\",\n  \"lifecycle\": \"1個月以上，每次使用重查更新日期。\"\n}\n\n【明天追蹤】\n[\n  {\n    \"title\": \"香雪園10/16開幕及葉況\",\n    \"next\": \"查是否如期、當日天氣與有日期的現場影像，不保證滿紅。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.hakobura.jp/events/352\"\n      }\n    ]\n  },\n  {\n    \"title\": \"新居浜10/16主要區域活動\",\n    \"next\": \"查當日運行與交通異動，不將計畫表當現場實況。\",\n    \"sources\": [\n      {\n        \"label\": \"市府\",\n        \"url\": \"https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"Yahoo熊本開放後資格\",\n    \"next\": \"確認台灣帳號、支付與實際折扣適用，不保證剩餘名額。\",\n    \"sources\": [\n      {\n        \"label\": \"平台\",\n        \"url\": \"https://travel.yahoo.co.jp/feature/kyushuouen/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"內房線臨時交通\",\n    \"next\": \"追10/16預定增車是否實現，計畫不先寫成已完成。\",\n    \"sources\": [\n      {\n        \"label\": \"業者\",\n        \"url\": \"https://www.openstreet.co.jp/news/chiba2026oct\"\n      }\n    ]\n  }\n]\n\n【限制】\n日文優先，另查英文Japan travel October 15 2026 news及繁體中文平台與社群。各地廣泛掃描但不湊地域；沖繩仍是未確認線索。前期已刊鹿兒島補助、名古屋祭、QR紙票、神威岬等，無新進展不重複。兩個氣象協會頁是同一預測，茅野市實況只用於說明觀測日期與預測不可混用。沒有合格社群樣本，稀缺性非平台普查。部分平台頁為搜尋引擎快取，無法確認即時庫存，不引用快取價格。已售罄與未確認2026日期的商品不帶入；圖片可找到不代表商用授權。分潤高低不代表收入，主文與分潤留言分開。",
+  "fullText": "日本每日內容雷達\n日期：2026-10-15\n搜尋截止：2026-10-15 10:13:35 Asia/Taipei（日本11:13:35 JST）\n\n【今天日本發生什麼？】\n本期比較15個不同候選，選5題；其餘有時效、資格、原文與交叉查證限制，不湊滿10題。\n日本氣象協會10/14更新紅葉預測，預測、現場葉況與點燈日期要分開看。\n迪士尼日本郵輪命名，預計2029年春就航，並非現在開賣。\n函館香雪園明天點燈；舊公告因即將開始例外納入，不宣稱已全紅。\n千葉受災區臨時單車昨天實施，免費條件只適用指定站點。\n新居浜大生院今天開始祭典，其他主要區域明天開始。\n熊本Yahoo補助平台資格仍待確認，不推成所有台灣旅客可直接使用。\n沒有合格社群互動樣本，無法建立實測熱榜；以下是編輯評估順序。\n\n【候選池與評分紀錄】\n八項滿分依序20/20/15/15/10/10/5/5；分數及三種星等均為編輯預估，非已驗證熱度。先比較15題的日期、來源與旅客價值，再選5題；未入選分數只是初評，不等於通過查核。第4題交通提醒雖低於第5題分數，因旅客即時移動影響優先。第2、3同分，優先新公布且適合較廣受眾的郵輪消息。\n\n{\n  \"id\": \"jwa-autumn-second\",\n  \"title\": \"賞楓別照去年排：第二次預測已更新，預測不是實況\",\n  \"region\": \"全日本／北海道、東北、關東、北陸、中部、關西、中國、四國、九州\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"原文10/2；10/14發布第二次預測\",\n  \"eventDate\": \"2026秋季，各地見頃預測不同\",\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 13,\n    \"實用性\": 15,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"直接幫近期赴日旅客調整景點順序，區分預測與現場觀測。\",\n  \"sources\": [\n    {\n      \"label\": \"日本氣象協會預測\",\n      \"url\": \"https://tenki.jp/kouyou/expectation.html\"\n    },\n    {\n      \"label\": \"官方更新日期\",\n      \"url\": \"https://weather-jwa.jp/news/info/post16176\"\n    },\n    {\n      \"label\": \"茅野市獨立葉況觀測\",\n      \"url\": \"https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 5\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；公告未標時刻，不精確宣稱24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"兩個氣象協會頁屬同一套預測；茅野市是獨立實況來源，不是預測背書。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"有11月住宿與行程預訂需求；不可保證見頃。\",\n    \"products\": [\n      \"賞楓地區住宿\",\n      \"確認日期的秋季行程\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"正在安排秋季日本行，可以先比較住宿位置與取消條件；紅葉是預測，行程最好保留調整空間。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"紅葉 2026 10月14日 site:x.com\",\n      \"紅葉 2026 site:threads.com\",\n      \"紅葉 2026 site:dcard.tw\",\n      \"紅葉 2026 site:ptt.cc\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已核對嵐山住宿列表，只作選品入口。\",\n      \"pages\": [\n        {\n          \"title\": \"京都嵐山附近住宿\",\n          \"url\": \"https://tw.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"供11月京都行比較位置。\",\n          \"checks\": \"列表也含較遠酒店；輸入入住日核對地圖和取消條件，不保證見頃。\",\n          \"checkedAt\": \"2026-10-15T10:05:55+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"京都車站列表正文未完整讀取，不列已確認推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已讀186764京都秋季團，但2026出發日期未確認，不帶入。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已讀183500京都夜楓團，頁面顯示No passes found，不確認本季供應。\",\n      \"pages\": []\n    }\n  ],\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://www.booking.com/district/jp/kyoto/kyotostation.en-gb.html\",\n      \"result\": \"正文不足\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    },\n    {\n      \"url\": \"https://www.kkday.com/zh-tw/product/186764\",\n      \"result\": \"秋季路線符合但2026日期未確認\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    },\n    {\n      \"url\": \"https://www.klook.com/en-US/activity/183500-kyoto-night-maple-arashiyama-train-day-tour/\",\n      \"result\": \"未顯示可選方案\",\n      \"checkedAt\": \"2026-10-15T10:05:55+08:00\"\n    }\n  ]\n}\n\n{\n  \"id\": \"disney-imagination\",\n  \"title\": \"日本迪士尼郵輪正式命名，預計2029年春就航\",\n  \"region\": \"關東／東京國際郵輪碼頭\",\n  \"category\": \"旅遊／動漫IP\",\n  \"announcementDate\": \"10/14官方；記者會報導13:54 JST\",\n  \"eventDate\": \"2028年度後半，即2029年春\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 15,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"迪士尼與親子讀者容易標記旅伴；關鍵是公布船名不等於開賣。\",\n  \"sources\": [\n    {\n      \"label\": \"官方公告\",\n      \"url\": \"https://www.orientallandcruise.co.jp/.assets/20261014.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch現場採訪\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2147989.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 3,\n    \"share\": 5\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；官方只有日期\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:30（編輯建議）\",\n  \"verification\": \"船名、發着點與預計2029年春已交叉核對；不承諾正式航次與開賣日期。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"未就航，不能用新加坡郵輪或樂園票冒充本船商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ディズニー イマジネーション site:x.com\",\n      \"ディズニー イマジネーション 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"hakodate-momig\",\n  \"title\": \"函館香雪園明天點燈：免費入場，不等於紅葉已全滿\",\n  \"region\": \"北海道／函館見晴公園香雪園\",\n  \"category\": \"活動／季節情報\",\n  \"announcementDate\": \"官方9/25更新；地方媒體10/8\",\n  \"eventDate\": \"10/16–11/8，16:00–21:00 JST\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 14,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"對已在道南的旅客有即時行程價值，點燈與葉況須分開看。\",\n  \"sources\": [\n    {\n      \"label\": \"函館官方觀光\",\n      \"url\": \"https://www.hakobura.jp/events/352\"\n    },\n    {\n      \"label\": \"地方活動報導\",\n      \"url\": \"https://hakodate.8agarage.co.jp/hakodate-momig-festa-events-2026/\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；明天開始例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"日期、時間、地點交叉相符；免費與免預約由官方確認，尚未確認今日紅葉比例。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"明天開始，多數人已訂住宿；仍可比較住宿區域，免費入園不用買票。\",\n    \"products\": [\n      \"函館住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"MOMI-G 2026 site:x.com\",\n      \"MOMI-G 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"香雪園附近住宿列表，亦有距離較遠的飯店。\",\n      \"pages\": [\n        {\n          \"title\": \"函館香雪園附近住宿\",\n          \"url\": \"https://tw.trip.com/hotels/hakodate-hakodate-kosetsuen/hotels-c800m21795848/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較函館住宿與夜間回程距離。\",\n          \"checks\": \"部分距離4至6公里以上，不是全可步行；查實際日期、空房與退款。\",\n          \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已核對湯之川溫泉住宿區域。\",\n      \"pages\": [\n        {\n          \"title\": \"函館湯之川溫泉住宿\",\n          \"url\": \"https://www.booking.com/district/jp/hakodate/yunokawaonsen.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"供道南行程選品參考。\",\n          \"checks\": \"非園內住宿或接駁套票；核對地圖、日期與取消規則。\",\n          \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"150516香雪園紅葉3小時包車顯示已售罄，不自動帶入。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"187426函館包車未確認香雪園夜間停留，不當作點燈專案。\",\n      \"pages\": []\n    }\n  ],\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://www.kkday.com/zh-tw/product/150516\",\n      \"result\": \"已售罄\",\n      \"checkedAt\": \"2026-10-15T10:13:35+08:00\"\n    },\n    {\n      \"url\": \"https://www.klook.com/zh-TW/activity/187426-5-5-10/\",\n      \"result\": \"未確認香雪園夜間適用\",\n      \"checkedAt\": \"2026-10-15T10:13:35+08:00\"\n    }\n  ]\n}\n\n{\n  \"id\": \"uchibo-cycle\",\n  \"title\": \"內房線受災區臨時單車：12小時免費，只限指定站點\",\n  \"region\": \"關東／千葉姉ケ崎、長浦站周邊\",\n  \"category\": \"交通／JR\",\n  \"announcementDate\": \"縣府10/9發布、10/12更新；業者10/14\",\n  \"eventDate\": \"10/14 06:00 JST起暫行，結束日待定\",\n  \"score\": 75,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"保留重要行前提醒，避免把緊急移動措施誤寫全縣觀光優惠。\",\n  \"sources\": [\n    {\n      \"label\": \"千葉縣規則與路線\",\n      \"url\": \"https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html\"\n    },\n    {\n      \"label\": \"營運商費用與操作\",\n      \"url\": \"https://www.openstreet.co.jp/news/chiba2026oct\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"原公告7天內；昨天實施、重大交通影響例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"範圍、費用與開始日已由政府和業者核對；不承諾確定復駛日。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"災後交通資訊，與分潤商品無自然關係。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"内房線 2026 10月14日 site:x.com\",\n      \"内房線 シェアサイクル site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"niihama-taiko\",\n  \"title\": \"新居浜太鼓祭分區登場：大生院今天、其他主要區域明天\",\n  \"region\": \"四國／愛媛新居浜市\",\n  \"category\": \"祭典／活動\",\n  \"announcementDate\": \"市府9/29更新；地方媒體9/28、9/30更新\",\n  \"eventDate\": \"大生院10/15–17；川西、川東、上部10/16–18\",\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 13,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"已在四國的人可照分區安排，不能只看整體檔期。\",\n  \"sources\": [\n    {\n      \"label\": \"新居浜市運行表\",\n      \"url\": \"https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\"\n    },\n    {\n      \"label\": \"地方分區日程\",\n      \"url\": \"https://niihama.mypl.net/article/taikomatsuri_niihama/110230\"\n    },\n    {\n      \"label\": \"愛媛觀光局\",\n      \"url\": \"https://www.iyokannet.jp/event/2553\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；今天／明天開始例外\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"分區日程與官方運行表入口交叉核對；當日臨時異動未保證。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"活動已開始，臨時訂房需求有限，不推未確認觀覽席。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"新居浜太鼓祭り 2026 site:x.com\",\n      \"新居浜太鼓祭り 2026 site:facebook.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ]\n}\n\n{\n  \"id\": \"kumamoto-yahoo\",\n  \"title\": \"Yahoo熊本補助今天開放\",\n  \"region\": \"九州／熊本\",\n  \"category\": \"政策／住宿\",\n  \"announcementDate\": \"預告原日未標；媒體10/15\",\n  \"eventDate\": \"10/15正午JST開訂至12/25正午\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 13,\n    \"實用性\": 13,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://travel.yahoo.co.jp/feature/kyushuouen/\"\n    },\n    {\n      \"label\": \"觀光廳制度\",\n      \"url\": \"https://www.mlit.go.jp/kankocho/page13_00002.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天開放\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"直接訂房需求但方案資格未確認，不附一般住宿頁冒充補助。\",\n    \"products\": [\n      \"函館住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"熊本 2026 10月15日 site:x.com\",\n      \"Yahoo 熊本 2026 site:threads.com\"\n    ]\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"制度與平台檔期已讀，台灣帳號支付及方案資格尚未完全確認，不列可直接購買精選。\"\n}\n\n{\n  \"id\": \"willer-navi\",\n  \"title\": \"WILLER乘車導航重新介紹\",\n  \"region\": \"全日本\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"官方10/13、媒體10/14\",\n  \"eventDate\": \"既有功能，首次上線日未確認\",\n  \"score\": 65,\n  \"scoreBreakdown\": {\n    \"即時性\": 12,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 8,\n    \"實用性\": 13,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.willer.co.jp/news/press/2026/1013_7259\"\n    },\n    {\n      \"label\": \"媒體新功能標題，與官方原文比對\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2147953.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"7天內，無今日大量討論證據\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"官方是重新介紹已提供功能，不能照媒體標題寫成昨天上線。\"\n}\n\n{\n  \"id\": \"pooh-kyoto\",\n  \"title\": \"京都伊勢丹小熊維尼活動\",\n  \"region\": \"京都\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"10/7\",\n  \"eventDate\": \"10/14–25\",\n  \"score\": 66,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 11,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.mistore.jp/store/kyoto/event_calendar/winnie_the_pooh.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"原公告超過7天，昨日開幕但今日無新進展或爆紅證據。\"\n}\n\n{\n  \"id\": \"komeda\",\n  \"title\": \"Komeda焦糖限定新品\",\n  \"region\": \"全日本\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"10/7\",\n  \"eventDate\": \"10/14起\",\n  \"score\": 64,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 10,\n    \"實用性\": 8,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.atpress.ne.jp/news/636353\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"已讀公司原稿，原公告超過7天且昨日上市；未完成今日新進展與第二來源。\"\n}\n\n{\n  \"id\": \"kenodo\",\n  \"title\": \"圏央道11月夜間施工\",\n  \"region\": \"關東\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"NEXCO10/9；媒體10/15\",\n  \"eventDate\": \"11/9起分區夜間封閉\",\n  \"score\": 56,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 6,\n    \"實用性\": 12,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.e-nexco.co.jp/pressroom/kanto/2026/1009/00016705.html\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148032.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"7天內，無今日大量討論證據\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"不是今天新公告，距實施仍數週；留待逐區間整理，不靠媒體轉載日期充新。\"\n}\n\n{\n  \"id\": \"ibaraki-food\",\n  \"title\": \"東京茨城食材美食活動\",\n  \"region\": \"關東／丸之內等\",\n  \"category\": \"美食／活動\",\n  \"announcementDate\": \"9/30原活動；10/14現場報導\",\n  \"eventDate\": \"10/14–11/3\",\n  \"score\": 61,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 8,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148004.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"原活動超過7天\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"未完成逐店菜單與原始活動專頁雙重確認，不用報導摘要產生推薦。\"\n}\n\n{\n  \"id\": \"nago-lime\",\n  \"title\": \"名護Lime服務計畫\",\n  \"region\": \"沖繩／名護\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"合作10/6\",\n  \"eventDate\": \"2026年度內規劃\",\n  \"score\": 53,\n  \"scoreBreakdown\": {\n    \"即時性\": 8,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.li.me/ja-jp/blog\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天，未採例外\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"原始文章讀取失敗，開站日與條件未確認；索引僅為查找線索，不是已上線證據。\"\n}\n\n{\n  \"id\": \"perfectone\",\n  \"title\": \"Perfect One夜霜改版上市\",\n  \"region\": \"全日本\",\n  \"category\": \"藥妝\",\n  \"announcementDate\": \"品牌10/7\",\n  \"eventDate\": \"10/15上市\",\n  \"score\": 57,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 9,\n    \"社群討論潛力\": 6,\n    \"實用性\": 5,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://corporate.shinnihonseiyaku.co.jp/release/archives/11005\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天上市；舊公告例外候選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"僅品牌來源，未獨立確認通路庫存，不將功效宣傳當成證實結果。\"\n}\n\n{\n  \"id\": \"aeon-tohoku\",\n  \"title\": \"AEON東北秋季優惠線索\",\n  \"region\": \"東北\",\n  \"category\": \"購物／超市\",\n  \"announcementDate\": \"官方索引10/14\",\n  \"eventDate\": \"細則待確認\",\n  \"score\": 51,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 9,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://aeontohoku.co.jp/company/news\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時日期線索\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"僅完成索引查閱，日期、店別與優惠資格尚未完全確認。\"\n}\n\n{\n  \"id\": \"vjw-queue\",\n  \"title\": \"紙本入境比VJW快的社群說法\",\n  \"region\": \"日本各機場\",\n  \"category\": \"社群話題\",\n  \"announcementDate\": \"媒體10/13–14\",\n  \"eventDate\": \"原貼時間與情境待確認\",\n  \"score\": 71,\n  \"scoreBreakdown\": {\n    \"即時性\": 13,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 9,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\",\n  \"sources\": [\n    {\n      \"label\": \"查核來源或待查入口\",\n      \"url\": \"https://www.mirrormedia.mg/story/20261013hea01\"\n    },\n    {\n      \"label\": \"另一篇媒體引述，不當獨立確認\",\n      \"url\": \"https://www.ftvnews.com.tw/news/detail/2026A14W0536\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"高\",\n  \"freshness\": \"48小時媒體引述\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核後再判斷\",\n  \"verification\": \"尚未完成可發布查核；未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期無自然且已核對的預訂商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"確認實際日期、地點、包含內容、取消條件與分潤資格；不保證庫存或見頃。\",\n    \"assessedOn\": \"2026-10-15\"\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-15T10:13:35+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者及可核對發布時間、讚數和留言數的原始自然貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"無已核對可自然銜接的商品，不硬放連結；不代表平台完全沒有商品。\",\n      \"pages\": []\n    }\n  ],\n  \"exclusionReason\": \"未取得原始貼文與互動數；媒體多次轉述不是獨立確認，不能說紙本必然更快。\"\n}\n\n【今日首選】\n{\n  \"id\": \"jwa-autumn-second\",\n  \"title\": \"賞楓別照去年排：第二次預測已更新，預測不是實況\",\n  \"score\": 90,\n  \"reason\": \"近期赴日讀者可立即調整景點順序；預測不是實況的切角能解決行程疑問，適合收藏及傳給旅伴，亦能留言比較旅行日期。\",\n  \"versusSecond\": \"郵輪視覺話題性高，但預計2029年才就航；紅葉對近期行程更有可執行價值。這是編輯判斷，不是實測觀看量。\",\n  \"publishAt\": \"台灣12:00（編輯建議）\",\n  \"audience\": \"10至11月赴日自由行與親子旅客，已有機票、正在排日程。\",\n  \"lifecycle\": \"1個月以上，每次使用重查更新日期。\"\n}\n\n【明天追蹤】\n[\n  {\n    \"title\": \"香雪園10/16開幕及葉況\",\n    \"next\": \"查是否如期、當日天氣與有日期的現場影像，不保證滿紅。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.hakobura.jp/events/352\"\n      }\n    ]\n  },\n  {\n    \"title\": \"新居浜10/16主要區域活動\",\n    \"next\": \"查當日運行與交通異動，不將計畫表當現場實況。\",\n    \"sources\": [\n      {\n        \"label\": \"市府\",\n        \"url\": \"https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"Yahoo熊本開放後資格\",\n    \"next\": \"確認台灣帳號、支付與實際折扣適用，不保證剩餘名額。\",\n    \"sources\": [\n      {\n        \"label\": \"平台\",\n        \"url\": \"https://travel.yahoo.co.jp/feature/kyushuouen/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"內房線臨時交通\",\n    \"next\": \"追10/16預定增車是否實現，計畫不先寫成已完成。\",\n    \"sources\": [\n      {\n        \"label\": \"業者\",\n        \"url\": \"https://www.openstreet.co.jp/news/chiba2026oct\"\n      }\n    ]\n  }\n]\n\n【限制】\n日文優先，另查英文Japan travel October 15 2026 news及繁體中文平台與社群。各地廣泛掃描但不湊地域；沖繩仍是未確認線索。前期已刊鹿兒島補助、名古屋祭、QR紙票、神威岬等，無新進展不重複。兩個氣象協會頁是同一預測，茅野市實況只用於說明觀測日期與預測不可混用。沒有合格社群樣本，稀缺性非平台普查。部分平台頁為搜尋引擎快取，無法確認即時庫存，不引用快取價格。已售罄與未確認2026日期的商品不帶入；圖片可找到不代表商用授權。分潤高低不代表收入，主文與分潤留言分開。\n\n【各題串文】\n賞楓別照去年排：第二次預測已更新，預測不是實況\n1/3\n秋天去日本，別把去年的賞楓日期直接搬進今年行程。日本氣象協會10/14更新第二次紅葉預測，平地和山區的進度不能一起看。\n\n這是2026年秋季預測，不是各地今天已經滿紅。已訂好機票的人，更值得調整的是每天景點的先後順序，不必只為一個預測日期改掉整趟旅行。\n\n2/3\n這次預測表列出的見頃起點，白川鄉是10/31起、京都嵐山11/13起、宮島11/18起。這些是行程參考，不保證當天每棵樹都到高峰。\n\n還要補看有日期的實際葉況：例如茅野市記錄御射鹿池10/13為三至五分紅，不能拿這筆資料說今天已經全紅，更不能拿長野的進度推算京都。\n\n3/3\n出發前依序查目的地預測、最新實況、當天天氣，再調整行程。訂賞楓團要看實際年份與出發日；有漂亮紅葉照片，不代表本季還有名額。\n\n夜間點燈日期也不是自然紅葉見頃的保證。把旅行日期和地點放在一起查，比存沒有年份的賞楓表實用。\n預測：https://tenki.jp/kouyou/expectation.html\n葉況：https://www.city.chino.lg.jp/site/chinomiryoku/iroduki2026.html\n切角與配圖：{\"angles\":[{\"name\":\"避雷\",\"opening\":\"賞楓日期不能照抄去年，預測與實況要分開。\"},{\"name\":\"行程\",\"opening\":\"京都、白川鄉、宮島，不是同一個紅葉時間帶。\"},{\"name\":\"訂房\",\"opening\":\"追楓訂房，取消條件和地點一樣重要。\"},{\"name\":\"實況\",\"opening\":\"10/13的葉況，不是今天滿紅的保證。\"},{\"name\":\"工具\",\"opening\":\"查預測再看實況，比沒有年份的賞楓圖可靠。\"}],\"images\":[{\"description\":\"自行製作預測與實況查詢流程卡；不直接重製官方商用圖表。\",\"url\":\"https://tenki.jp/kouyou/expectation.html\"}],\"extensions\":[\"可延伸商業內容：賞楓住宿位置、取消條件及交通攻略，不保證見頃。\"]}\n留言：正在安排秋季日本行，可以先比較住宿位置與取消條件；紅葉是預測，行程最好保留調整空間。\n【範本／待填分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n日本迪士尼郵輪正式命名，預計2029年春就航\n1/3\n想從東京出發搭迪士尼郵輪，可以記下新船名：Disney Imagination。\n\n10/14官方正式公布，預計2029年春就航，也就是日本的「2028年度後半」。看到年度別以為2028年內就能搭；這次是船名消息，還不是現在可以買票出發。\n\n2/3\n主要發着據點規劃在東京國際郵輪碼頭，船尾裝飾是《小美人魚》的愛麗兒和賽巴斯丁。\n\n官方也公布超過1,300席的劇場、三個主餐廳及約30處餐飲設施。這些是船舶規劃，官方配圖屬於示意圖，不能當成已完工實拍。\n\n3/3\n現在先追正式航次、開賣時間和票價，不用急著為它訂不可退機票或住宿。等條件公開，再確認登船規定、孩子年齡及取消辦法。\n\n也別把其他國家出發的迪士尼郵輪商品，當成這艘日本航次。你會想把它當整趟旅行主角，還是東京行的延伸？\n官方：https://www.orientallandcruise.co.jp/.assets/20261014.pdf\n切角與配圖：{\"angles\":[{\"name\":\"消息\",\"opening\":\"日本迪士尼郵輪有名字了：Disney Imagination。\"},{\"name\":\"日期\",\"opening\":\"2028年度後半，其實是預計2029年春。\"},{\"name\":\"親子\",\"opening\":\"東京出發的迪士尼郵輪，先看規劃再等正式航次。\"},{\"name\":\"視覺\",\"opening\":\"愛麗兒和賽巴斯丁將出現在郵輪船尾。\"},{\"name\":\"預訂\",\"opening\":\"公布船名不是開賣，別急著訂不可退住宿。\"}],\"images\":[{\"description\":\"官方船舶與船尾角色示意圖，須標示示意並另查授權。\",\"url\":\"https://www.orientallandcruise.co.jp/.assets/20261014.pdf\"}],\"extensions\":[\"本期以資訊服務為主，不硬放商業商品。\"]}\n留言：本題不硬放分潤留言。\n\n函館香雪園明天點燈：免費入場，不等於紅葉已全滿\n1/3\n這週在函館，可以留一晚給香雪園：10/16起，約100公尺的楓樹步道點燈，入場免費。\n\n2026年MOMI-G Festa到11/8，每天16:00～21:00，日本時間。明天是活動開幕，不代表紅葉已經全滿；點燈和葉況是兩件事。\n\n2/3\n地點是見晴公園內香雪園，函館市見晴町56。官方列免預約、免費入場；另外安排的部分體驗要付費，不能理解成全部活動免費。\n\n可查巴士「香雪園」站，下車步行約1分鐘。官方提醒停車場可能擁擠，用大眾交通的人，去程與回程都先核對當日班表。\n\n3/3\n21:00是點燈結束，不是巴士末班時間。想拍到晚上，先查回飯店的交通再決定待多久；本篇沒有確認各線末班，不給可能讓你錯過車的時刻。\n\n這是已公布活動的開幕提醒，出門前再查異動。往年照片請當資料照，不當成今年滿紅實況。\n函館官方：https://www.hakobura.jp/events/352\n切角與配圖：{\"angles\":[{\"name\":\"免費\",\"opening\":\"函館香雪園10/16點燈，入場免費。\"},{\"name\":\"交通\",\"opening\":\"點燈到21:00，不等於巴士也開到21:00。\"},{\"name\":\"葉況\",\"opening\":\"點燈開幕日，不是紅葉滿開保證。\"},{\"name\":\"攻略\",\"opening\":\"香雪園夜間怎麼排？先查回程再安排拍照。\"},{\"name\":\"費用\",\"opening\":\"免費入園和另付費體驗，要分開看。\"}],\"images\":[{\"description\":\"官方活動主視覺及位置圖，舊葉況照片標資料照；商用授權另查。\",\"url\":\"https://www.hakobura.jp/events/352\"}],\"extensions\":[\"可延伸商業內容：函館住宿與夜間回程攻略，不販售免費入園票。\"]}\n留言：香雪園點燈免費，不用買入園票。還沒訂函館住宿的人，可比較位置和夜間回程交通；住宿不代表包含接駁。\n【範本／待填分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n內房線受災區臨時單車：12小時免費，只限指定站點\n1/3\n最近行程會經過千葉姉ケ崎、長浦，先重新查交通。這段內房線受災停駛期間，10/14起新增臨時共享單車措施。\n\n12小時內免費只限指定實證站點之間，不是全千葉HELLO CYCLING都免費，也不是帶大行李旅客必須改騎單車。\n\n2/3\n先在HELLO CYCLING註冊，查指定站點、可借車和還車條件。超過12小時後，每12小時收2,500日圓，不能因前段免費就留車過夜。\n\n官方要求自行準備並配戴安全帽，依公布的可通行路線行駛。這是緊急地方移動措施，封閉道路不能騎進去。\n\n3/3\n只是經過這一帶的人，先查鐵路、代行交通和轉乘，再判斷單車適不適合。帶孩子、行李或趕車的人，尤其別只看免費兩字。\n\n實施結束日依復舊狀況決定；官方復駛時間是估計，不是保證。\n縣府：https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html\n業者：https://www.openstreet.co.jp/news/chiba2026oct\n切角與配圖：{\"angles\":[{\"name\":\"交通\",\"opening\":\"內房線受災區10/14新增臨時單車。\"},{\"name\":\"條件\",\"opening\":\"12小時免費，不能套用全千葉。\"},{\"name\":\"費用\",\"opening\":\"免費時段後，每12小時2,500日圓。\"},{\"name\":\"行前\",\"opening\":\"帶行李經過這段，先查代行交通。\"},{\"name\":\"範圍\",\"opening\":\"緊急地方移動措施，不是觀光優惠。\"}],\"images\":[{\"description\":\"縣府指定站點與路線圖，使用條款另確認。\",\"url\":\"https://www.pref.chiba.lg.jp/doukei/press/2026/r8sharecycle.html\"}],\"extensions\":[\"本期以資訊服務為主，不硬放商業商品。\"]}\n留言：本題不硬放分潤留言。\n\n新居浜太鼓祭分區登場：大生院今天、其他主要區域明天\n1/3\n到四國看新居浜太鼓祭，先把地區寫進行程：大生院今天10/15開始，其他主要地區明天10/16開始。\n\n2026大生院日程10/15～17；川西、川東、上部是10/16～18。只記整體10/15～18，可能到了才發現想看的活動不是那天。\n\n2/3\n用日期、地區、會場三件事對照官方運行表，再安排車站到會場的移動。太鼓台會移動，不是整天固定在同一個位置。\n\n別把宣傳照片的位置當成隨時都能看的定點表演。跟著現場引導，在觀覽範圍內觀看；想換場次，也先留足交通時間。\n\n3/3\n原日程9月就已公布，這篇是開幕行前提醒。已在四國的人現在查分區時間最實用；還沒訂交通，先確認散場後回程再決定待多久。\n\n本篇不宣稱即時空位、觀覽席或臨時加班車，出發前再查當日異動。\n市府運行表入口：https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\n切角與配圖：{\"angles\":[{\"name\":\"日期\",\"opening\":\"新居浜太鼓祭，不同地區差一天開始。\"},{\"name\":\"攻略\",\"opening\":\"看太鼓祭先定日期、地區和會場。\"},{\"name\":\"提醒\",\"opening\":\"今天有祭典，不代表每個地區都登場。\"},{\"name\":\"攝影\",\"opening\":\"宣傳照的位置，不是整天固定表演。\"},{\"name\":\"回程\",\"opening\":\"先查散場交通，再決定看到幾點。\"}],\"images\":[{\"description\":\"官方分日運行表與會場交通圖，區域日期不可混寫。\",\"url\":\"https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html\"}],\"extensions\":[\"本期以資訊服務為主，不硬放商業商品。\"]}\n留言：本題不硬放分潤留言。"
+}
