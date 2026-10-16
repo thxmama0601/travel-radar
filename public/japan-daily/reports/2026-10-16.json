@@ -1,0 +1,1609 @@
+{
+  "date": "2026-10-16",
+  "cutoff": "2026-10-16 10:03 Asia/Taipei（日本11:03 JST）",
+  "trends": [
+    "本期整理10個可具體追查的候選、交付5個選題；未達15候選與10入選目標，因部分原文、資格或日期未完成確認，不拿搜尋摘要湊數。",
+    "吉伊卡哇×ANA商品10/23起販售，指定門市首三天預約今天開放。",
+    "ANA燃油費表10/15更新；11–12月購票分仍標政府認可申請中，旅行開始國影響適用表格。",
+    "NOHGA新宿御苑已開放官方預約，開幕在2027/7/15。",
+    "宮崎Daiwa Roynet10/26才開放訂房，2027/3/8開幕。",
+    "首都高新富町與銀座出入口10/18夜變更，屬舊公告的行前提醒。",
+    "5題均無合格近期社群互動樣本；本期是編輯排序，不能建立Threads實測熱榜。"
+  ],
+  "top10": [
+    {
+      "id": "ana-chiikawa-goods",
+      "title": "吉伊卡哇×ANA：指定機場店首三天須預約，今天開放",
+      "region": "全日本／指定機場及網路通路",
+      "category": "購物／動漫IP",
+      "announcementDate": "10/15 11:00 JST",
+      "eventDate": "預約10/16 11:00 JST；商品10/23起分通路販售",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "今天有預約動作，且首賣與預約日容易混淆；適合近期赴日的角色粉絲收藏。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000035055.html"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148315.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "查閱預約頁後立即發布（台灣時間；不保證剩餘名額）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。預約11:00來自公司原始公告；A-style細則頁讀取失敗，四店完整名單、海外手機註冊與剩餘名額未確認，不在草稿中補造。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "周邊商品與住宿票券關聯弱，不為買玩偶硬推機票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわ ANA グッズ 10月23日 2026 site:x.com",
+          "ANA ちいかわ site:threads.com 予約",
+          "ちいかわ ANA site:dcard.tw OR site:ptt.cc OR site:facebook.com",
+          "ちいかわ ANA 2026 10月15日 site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "想買吉伊卡哇×ANA周邊，先別只記10/23開賣：指定機場店首三天要事先預約，10/16日本11:00開放，也就是台灣今天10:00。\n\n這是指定4間ANA FESTA非搭機區門市的入店安排，不是所有販售通路都要預約。打算在10/23～25前往的人，先確認自己要去的店適用哪一種規則。",
+          "第一波商品10/23起分通路推出，包含A-style、ANA Mall及吉伊卡哇官方相關通路；各通路品項和販售安排可能不同。\n\n羽田第2航廈B1禮品店也在首三天預約對象內。國際線機上面對面販售則11/1才開始，別把10/23套用到所有航班；有些機場店位於管制區，沒有搭機行程不能直接進去。",
+          "要去門市：從官方公告進A-style專頁，先核對店名、日期和入店預約方式，再安排交通。\n\n本次未能完整讀取預約細則，海外電話註冊條件與剩餘名額尚未確認；預約入店也不等於保證買到指定商品。不要只為未確認的名額先買不可退機票。\n公司公告：https://prtimes.jp/main/html/rd/p/000000018.000035055.html"
+        ],
+        "angles": [
+          {
+            "name": "預約",
+            "opening": "10/23開賣之前，今天先確認指定門市入店預約。"
+          },
+          {
+            "name": "通路",
+            "opening": "不搭飛機也能買？先看門市是否位於管制區。"
+          },
+          {
+            "name": "日期",
+            "opening": "10/23和11/1，是不同通路的販售時間。"
+          },
+          {
+            "name": "行前",
+            "opening": "去羽田買吉伊卡哇，先核對航廈和預約規則。"
+          },
+          {
+            "name": "避雷",
+            "opening": "預約入店，不等於保證買到指定款。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。",
+            "url": "https://prtimes.jp/main/html/rd/p/000000018.000035055.html"
+          }
+        ],
+        "extensions": [
+          "本題以資訊服務為主，不硬放分潤。"
+        ]
+      }
+    },
+    {
+      "id": "ana-fuel-november",
+      "title": "ANA燃油新表：11/1看開票日期，還要看旅行開始國",
+      "region": "全日本／國際航空",
+      "category": "航空／票價",
+      "announcementDate": "官方10/15更新",
+      "eventDate": "11/1–12/31購票分；政府認可申請中",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 4,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "釐清開票日、旅行開始國與申請中狀態，避免台灣讀者直接套用日本出發金額。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148470.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。官方明載政府認可申請中，不當成已核准定案。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。",
+        "products": [
+          "航空票價比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1776909951.A.8E0.html",
+            "label": "搜尋到4月ANA促銷貼文",
+            "reason": "非10月本次公告，超過48小時，不能計分。"
+          }
+        ],
+        "queries": [
+          "ANA 燃油 2026 10月15日 site:threads.com OR site:facebook.com OR site:ptt.cc"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "看到ANA燃油附加費11月調整，先看兩件事：機票哪天開，以及整段旅行從哪個國家開始。\n\nANA 10/15更新的是2026/11/1～12/31購票分，並非「11月起飛全部套同一價格」。官方目前仍標示政府認可申請中，不能把公告寫成已核准定案。",
+          "日本開始的行程，日本—東亞（韓國除外）表列每人每單程區間15,100日圓；9～10月購票分為14,300日圓，相差800日圓。\n\n但台灣開始的行程不能直接套這張日圓表。官方另列日本以外開始的行程，還有各國例外與轉機條件；購票網站在哪個國家，也不等於旅行開始國。",
+          "比價時把含稅總價、行李、退改條件和實際開票期限放在一起看；只比較燃油這一項，未必就是整張票比較便宜。\n\n已買票後若要改票或重新開票，先問出票航空公司或旅行社，不自行推定一定補收或不補收。訂購前再看核准狀態與最新費表。\nANA官方：https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/"
+        ],
+        "angles": [
+          {
+            "name": "日期",
+            "opening": "11/1先看開票日，不是只看起飛日。"
+          },
+          {
+            "name": "資格",
+            "opening": "台灣出發，不要直接套日本開始旅行的日圓表。"
+          },
+          {
+            "name": "金額",
+            "opening": "日本出發東亞線表列增加800日圓，適用範圍要一起讀。"
+          },
+          {
+            "name": "比價",
+            "opening": "比機票要看總價，不只燃油一項。"
+          },
+          {
+            "name": "狀態",
+            "opening": "ANA新費表仍標示政府認可申請中。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。",
+            "url": "https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。"
+        ]
+      }
+    },
+    {
+      "id": "nohga-shinjuku-gyoen",
+      "title": "NOHGA新宿御苑2027/7/15開幕，官方已開放預訂",
+      "region": "關東／東京新宿御苑",
+      "category": "住宿／新飯店",
+      "announcementDate": "官方10/15；媒體10/16報導",
+      "eventDate": "10/15開放預訂；2027/7/15開幕",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "why": "明年東京住宿可開始規劃，但必須分清地鐵新宿御苑前與JR新宿。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.nohgahotel.com/shinjuku-gyoen/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148558.html"
+        },
+        {
+          "label": "品牌原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000056.000080570.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。",
+        "products": [
+          "住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "周邊住宿比較，不是本館預訂頁。",
+          "pages": [
+            {
+              "title": "新宿御苑周邊住宿比較（非NOHGA本館）",
+              "url": "https://tw.trip.com/hotels/tokyo-shinjuku-gyoen-national-garden/hotels-c228m6788903/",
+              "kind": "住宿列表",
+              "reason": "比較新宿御苑周邊其他飯店的位置與條件。",
+              "checks": "本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。",
+              "checkedAt": "2026-10-16T10:03:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "周邊住宿比較，不是本館預訂頁。",
+          "pages": [
+            {
+              "title": "新宿御苑周邊住宿比較（非NOHGA本館）",
+              "url": "https://www.booking.com/landmark/jp/shinjuku-gyoen-national-garden.ja.html",
+              "kind": "住宿列表",
+              "reason": "比較新宿御苑周邊其他飯店的位置與條件。",
+              "checks": "本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。",
+              "checkedAt": "2026-10-16T10:03:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ノーガ 新宿御苑 site:x.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "想住新宿御苑旁、房間有陽台的新飯店，可以先存NOHGA SHINJUKU GYOEN：預定2027/7/15開幕，官方10/15已開放預訂。\n\n這是明年住宿選項，不是現在去東京就能入住。飯店規劃72間客房、全房附陽台，宣傳畫面要當開幕前示意，不能當成實住心得。",
+          "地點在新宿1丁目，官方標示從丸之內線「新宿御苑前」站步行約2分鐘。這個2分鐘不是JR新宿站到飯店的距離。\n\n規劃包含屋頂酒吧、餐廳、咖啡與烘焙空間。帶孩子或長輩的人，先看房型人數、床型、進出車站路線，比只看「新宿」兩字更有用。",
+          "想訂本館，先從官方網站進預約入口，輸入2027/7/15以後的實際日期，核對早餐、入住人數和取消條件；本篇不保證最低房價或空房。\n\n目前未確認四大平台的本館商品。若看周邊住宿列表，只能作其他飯店比較，不能說訂到的是這間NOHGA。\n官方：https://www.nohgahotel.com/shinjuku-gyoen/"
+        ],
+        "angles": [
+          {
+            "name": "新飯店",
+            "opening": "新宿御苑旁全房有陽台的新飯店，明年7/15開幕。"
+          },
+          {
+            "name": "預訂",
+            "opening": "NOHGA新宿御苑已開放官方預訂，入住是明年。"
+          },
+          {
+            "name": "交通",
+            "opening": "步行2分鐘指新宿御苑前站，不是JR新宿。"
+          },
+          {
+            "name": "選房",
+            "opening": "帶孩子先看床型人數，再看陽台照片。"
+          },
+          {
+            "name": "比較",
+            "opening": "周邊住宿列表，不代表已上架這間新NOHGA。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。",
+            "url": "https://www.nohgahotel.com/shinjuku-gyoen/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。"
+        ]
+      }
+    },
+    {
+      "id": "shutoko-ginza",
+      "title": "10/18夜起：新富町出口永久廢止、銀座內環入口長期封閉",
+      "region": "關東／東京首都高速",
+      "category": "交通",
+      "announcementDate": "原始7/17；10/16媒體提醒",
+      "eventDate": "10/18 23:00 JST起",
+      "score": 72,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 9,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "即將影響租車及計程車進出路線；永久廢止和暫時封閉不同。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148497.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；兩天後實施、行前交通提醒例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "行車路線提醒，不適合硬塞接送商品或保證車程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "新富町 10月18日 site:x.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "10/18晚上之後在東京開車，導航目的地若經過新富町出口或銀座入口，先重查路線。\n\n日本時間23:00起，新富町出口內、外環都永久廢止；銀座入口則是內環方向長期封閉，預計約3年。兩者不是同一種管制，也不是銀座整區都不能進出。",
+          "這是首都高速道路的出入口變更，不是東京地鐵銀座站關閉。搭大眾交通的人別看到「銀座封閉」就誤改整天行程。\n\n租車自駕、搭計程車或預訂接送的人，應把實際上下車地址、行車日期交給駕駛或業者確認，改用可通行出入口；本篇不提供未經查核的固定繞路時間。",
+          "原公告7/17就已公布，今天整理是因為兩天後開始實施，並非今天才宣布。\n\n出發前再看首都高官方交通資訊和管制圖；若用舊旅遊文章或離線地圖，別沿用原出口指示。趕飛機的人也請重新核對業者的接送安排。\n官方：https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+        ],
+        "angles": [
+          {
+            "name": "行前",
+            "opening": "10/18夜起，別再沿用新富町出口舊路線。"
+          },
+          {
+            "name": "範圍",
+            "opening": "封閉的是高速出入口，不是地鐵銀座站。"
+          },
+          {
+            "name": "差別",
+            "opening": "新富町永久廢止，銀座內環入口預計封閉約3年。"
+          },
+          {
+            "name": "接送",
+            "opening": "訂了接送也要核對管制後路線。"
+          },
+          {
+            "name": "日期",
+            "opening": "7月公告、10月實施，這篇是行前提醒。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。",
+            "url": "https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+          }
+        ],
+        "extensions": [
+          "本題以資訊服務為主，不硬放分潤。"
+        ]
+      }
+    },
+    {
+      "id": "daiwa-miyazaki",
+      "title": "宮崎新Daiwa Roynet：10/26才開放訂房，明年3/8開幕",
+      "region": "九州／宮崎市",
+      "category": "住宿／新飯店",
+      "announcementDate": "官方10/15；媒體10/16報導",
+      "eventDate": "2026/10/26預約開始；2027/3/8開幕",
+      "score": 76,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 9,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "why": "南九州新住宿選項，預約日與開幕日都清楚，值得先存日期。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.daiwaroynet.jp/miyazaki/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148546.html"
+        },
+        {
+          "label": "大和集團原始公告",
+          "url": "https://www.daiwahouse.co.jp/about/release/group/20261015103259.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。",
+        "products": [
+          "住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ダイワロイネット 宮崎 2026 site:x.com OR site:instagram.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "明年去宮崎又多一間新飯店可追：Daiwa Roynet宮崎預定2027/3/8開幕，但訂房要等2026/10/26才開放。\n\n今天看到新聞，不等於現在已經能下訂。對正在排南九州行程的人，先把這兩個日期分開記，尤其不要排成2月就能入住。",
+          "飯店在宮崎市橘通西4丁目，官方標示JR宮崎站西口步行約12分鐘，規劃212間客房，設有大浴場與三溫暖。\n\n帶孩子同行先查房型可住人數、兒童與共床規則；有大浴場不代表每種家庭組合都適用。本篇尚未確認兒童細則，不補上猜測的免費年齡。",
+          "10/26再從官方預約入口查看你的實際入住日、餐食、取消條件與開幕安排。目前未確認Trip、Booking、KKday或Klook的本館可訂商品。\n\n先收進行程備選即可；現階段不拿其他宮崎飯店連結當成本館，也不宣稱開幕價或剩餘房數。\n官方：https://www.daiwaroynet.jp/miyazaki/"
+        ],
+        "angles": [
+          {
+            "name": "預約",
+            "opening": "宮崎新飯店10/26開放預約，今天先存日期。"
+          },
+          {
+            "name": "開幕",
+            "opening": "2027/3/8才開幕，2月行程不能排入住。"
+          },
+          {
+            "name": "交通",
+            "opening": "JR宮崎站西口步行約12分鐘，先看行李移動路線。"
+          },
+          {
+            "name": "親子",
+            "opening": "有大浴場之外，孩子入住條件也要查。"
+          },
+          {
+            "name": "商品",
+            "opening": "未確認本館平台上架，不拿別間飯店冒充。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。",
+            "url": "https://www.daiwaroynet.jp/miyazaki/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "ana-chiikawa-goods",
+      "title": "吉伊卡哇×ANA：指定機場店首三天須預約，今天開放",
+      "region": "全日本／指定機場及網路通路",
+      "category": "購物／動漫IP",
+      "announcementDate": "10/15 11:00 JST",
+      "eventDate": "預約10/16 11:00 JST；商品10/23起分通路販售",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "今天有預約動作，且首賣與預約日容易混淆；適合近期赴日的角色粉絲收藏。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000035055.html"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148315.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "查閱預約頁後立即發布（台灣時間；不保證剩餘名額）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。預約11:00來自公司原始公告；A-style細則頁讀取失敗，四店完整名單、海外手機註冊與剩餘名額未確認，不在草稿中補造。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "周邊商品與住宿票券關聯弱，不為買玩偶硬推機票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわ ANA グッズ 10月23日 2026 site:x.com",
+          "ANA ちいかわ site:threads.com 予約",
+          "ちいかわ ANA site:dcard.tw OR site:ptt.cc OR site:facebook.com",
+          "ちいかわ ANA 2026 10月15日 site:tiktok.com OR site:youtube.com"
+        ]
+      }
+    },
+    {
+      "id": "ana-fuel-november",
+      "title": "ANA燃油新表：11/1看開票日期，還要看旅行開始國",
+      "region": "全日本／國際航空",
+      "category": "航空／票價",
+      "announcementDate": "官方10/15更新",
+      "eventDate": "11/1–12/31購票分；政府認可申請中",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 4,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "釐清開票日、旅行開始國與申請中狀態，避免台灣讀者直接套用日本出發金額。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148470.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。官方明載政府認可申請中，不當成已核准定案。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。",
+        "products": [
+          "航空票價比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1776909951.A.8E0.html",
+            "label": "搜尋到4月ANA促銷貼文",
+            "reason": "非10月本次公告，超過48小時，不能計分。"
+          }
+        ],
+        "queries": [
+          "ANA 燃油 2026 10月15日 site:threads.com OR site:facebook.com OR site:ptt.cc"
+        ]
+      }
+    },
+    {
+      "id": "nohga-shinjuku-gyoen",
+      "title": "NOHGA新宿御苑2027/7/15開幕，官方已開放預訂",
+      "region": "關東／東京新宿御苑",
+      "category": "住宿／新飯店",
+      "announcementDate": "官方10/15；媒體10/16報導",
+      "eventDate": "10/15開放預訂；2027/7/15開幕",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "why": "明年東京住宿可開始規劃，但必須分清地鐵新宿御苑前與JR新宿。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.nohgahotel.com/shinjuku-gyoen/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148558.html"
+        },
+        {
+          "label": "品牌原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000056.000080570.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。",
+        "products": [
+          "住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "周邊住宿比較，不是本館預訂頁。",
+          "pages": [
+            {
+              "title": "新宿御苑周邊住宿比較（非NOHGA本館）",
+              "url": "https://tw.trip.com/hotels/tokyo-shinjuku-gyoen-national-garden/hotels-c228m6788903/",
+              "kind": "住宿列表",
+              "reason": "比較新宿御苑周邊其他飯店的位置與條件。",
+              "checks": "本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。",
+              "checkedAt": "2026-10-16T10:03:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "周邊住宿比較，不是本館預訂頁。",
+          "pages": [
+            {
+              "title": "新宿御苑周邊住宿比較（非NOHGA本館）",
+              "url": "https://www.booking.com/landmark/jp/shinjuku-gyoen-national-garden.ja.html",
+              "kind": "住宿列表",
+              "reason": "比較新宿御苑周邊其他飯店的位置與條件。",
+              "checks": "本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。",
+              "checkedAt": "2026-10-16T10:03:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ノーガ 新宿御苑 site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "shutoko-ginza",
+      "title": "10/18夜起：新富町出口永久廢止、銀座內環入口長期封閉",
+      "region": "關東／東京首都高速",
+      "category": "交通",
+      "announcementDate": "原始7/17；10/16媒體提醒",
+      "eventDate": "10/18 23:00 JST起",
+      "score": 72,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 9,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "即將影響租車及計程車進出路線；永久廢止和暫時封閉不同。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148497.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天；兩天後實施、行前交通提醒例外",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "行車路線提醒，不適合硬塞接送商品或保證車程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題缺乏自然預訂關係，不硬放商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "新富町 10月18日 site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "daiwa-miyazaki",
+      "title": "宮崎新Daiwa Roynet：10/26才開放訂房，明年3/8開幕",
+      "region": "九州／宮崎市",
+      "category": "住宿／新飯店",
+      "announcementDate": "官方10/15；媒體10/16報導",
+      "eventDate": "2026/10/26預約開始；2027/3/8開幕",
+      "score": 76,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 9,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "why": "南九州新住宿選項，預約日與開幕日都清楚，值得先存日期。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.daiwaroynet.jp/miyazaki/"
+        },
+        {
+          "label": "Travel Watch交叉核對（非第二次獨立採訪）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148546.html"
+        },
+        {
+          "label": "大和集團原始公告",
+          "url": "https://www.daiwahouse.co.jp/about/release/group/20261015103259.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告只有日期者不推定精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。",
+        "products": [
+          "住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ダイワロイネット 宮崎 2026 site:x.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "hokuriku-etc",
+      "title": "北陸道5收費站ETC專用化",
+      "region": "北陸／石川富山",
+      "category": "交通",
+      "announcementDate": "媒體10/16",
+      "eventDate": "11月至12月分階段",
+      "score": 69,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 8,
+        "實用性": 14,
+        "稀缺性": 4,
+        "視覺吸引力": 4,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "未完成商品需求與資格查核。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148527.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "日期線索待完整核對，不列已確認即時新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核再判斷",
+      "verification": "尚未完全確認：逐站實施時刻與官方原文尚未完成雙重核對。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成商品需求與資格查核。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "未完成本題原始社群貼文查核，不計分。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "逐站實施時刻與官方原文尚未完成雙重核對。"
+    },
+    {
+      "id": "tochigi-winter",
+      "title": "栃木冬季平日住宿活動",
+      "region": "關東／栃木",
+      "category": "補助／住宿",
+      "announcementDate": "媒體10/15",
+      "eventDate": "12/1–2027/2/26，另有除外日",
+      "score": 76,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "未完成商品需求與資格查核。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148430.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "日期線索待完整核對，不列已確認即時新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核再判斷",
+      "verification": "尚未完全確認：台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成商品需求與資格查核。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "未完成本題原始社群貼文查核，不計分。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。"
+    },
+    {
+      "id": "lawson-sapporo",
+      "title": "LAWSON札幌站周邊新店",
+      "region": "北海道／札幌",
+      "category": "便利商店",
+      "announcementDate": "官方新店列表",
+      "eventDate": "10/15開店線索",
+      "score": 44,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 8,
+        "社群討論潛力": 4,
+        "實用性": 6,
+        "稀缺性": 2,
+        "視覺吸引力": 4,
+        "標題吸引力": 2,
+        "延伸內容價值": 1
+      },
+      "why": "未完成商品需求與資格查核。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.lawson.co.jp/newstore/smt/hokkaidou.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "日期線索待完整核對，不列已確認即時新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核再判斷",
+      "verification": "尚未完全確認：一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成商品需求與資格查核。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "未完成本題原始社群貼文查核，不計分。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。"
+    },
+    {
+      "id": "hachinohe-richmond",
+      "title": "八戶Richmond新館線索",
+      "region": "東北／八戶",
+      "category": "住宿",
+      "announcementDate": "地方開店列表",
+      "eventDate": "10/15開幕線索",
+      "score": 59,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 11,
+        "社群討論潛力": 6,
+        "實用性": 8,
+        "稀缺性": 4,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 4
+      },
+      "why": "未完成商品需求與資格查核。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://aomori-join.com/shinkikaiten/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "日期線索待完整核對，不列已確認即時新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核再判斷",
+      "verification": "尚未完全確認：僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成商品需求與資格查核。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "未完成本題原始社群貼文查核，不計分。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。"
+    },
+    {
+      "id": "okinawa-soba",
+      "title": "沖繩麵日活動線索",
+      "region": "沖繩",
+      "category": "美食／活動",
+      "announcementDate": "觀光活動列表，原公告待查",
+      "eventDate": "10月活動，逐場日期待查",
+      "score": 57,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 8,
+        "實用性": 8,
+        "稀缺性": 4,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "未完成商品需求與資格查核。",
+      "sources": [
+        {
+          "label": "官方原始資料",
+          "url": "https://www.okinawastory.jp/event/list?area=26/1000"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "日期線索待完整核對，不列已確認即時新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補完查核再判斷",
+      "verification": "尚未完全確認：索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成商品需求與資格查核。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。",
+        "assessedOn": "2026-10-16"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-16T10:03:00+08:00",
+        "summary": "未完成本題原始社群貼文查核，不計分。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。"
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-16T10:03:00+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 5,
+    "qualifiedTopicCount": 0,
+    "limitation": "只對5個入選事件完成社群關鍵字搜尋，其餘候選未完成逐題原文查核。搜尋多為無關或舊文，沒有可計分雙作者樣本；未量測觀看、收藏或成長速度。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "Facebook",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "Instagram",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "Dcard",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "PTT",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "X",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      },
+      {
+        "platform": "TikTok",
+        "status": "robots限制，另有舊文索引但非本題"
+      },
+      {
+        "platform": "YouTube",
+        "status": "搜尋未取得符合主題、48小時與雙作者指標門檻的樣本"
+      }
+    ]
+  },
+  "choice": {
+    "id": "ana-chiikawa-goods",
+    "title": "吉伊卡哇×ANA：指定機場店首三天須預約，今天開放",
+    "score": 91,
+    "reason": "今天有具體預約動作，通路差異能解決赴日粉絲疑問；停下來看的是日期鉤子，收藏分享價值是門市規則。不是已驗證爆紅。",
+    "versusSecond": "燃油費也實用，但適用國別與尚待認可需更多條件；今天入店預約的行動時點更近。",
+    "publishAt": "查閱預約頁後立即發布（台灣時間；不保證剩餘名額）",
+    "audience": "近期赴日、想購買吉伊卡哇ANA周邊的讀者",
+    "lifecycle": "1週"
+  },
+  "followups": [
+    {
+      "title": "吉伊卡哇入店預約",
+      "next": "未來24小時追官方剩餘名額與完整門市規則，不猜售罄。",
+      "sources": [
+        {
+          "label": "公司原文",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000035055.html"
+        }
+      ]
+    },
+    {
+      "title": "首都高10/18管制",
+      "next": "未來48–72小時確認實施與最新交通圖。",
+      "sources": [
+        {
+          "label": "首都高",
+          "url": "https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+        }
+      ]
+    },
+    {
+      "title": "栃木冬季活動資格",
+      "next": "查台灣帳號與國籍居住地限制，尚未確認不作優惠承諾。",
+      "sources": [
+        {
+          "label": "官方活動入口",
+          "url": "https://tochigitabicp.pref.tochigi.lg.jp/"
+        }
+      ]
+    },
+    {
+      "title": "ANA燃油認可狀態",
+      "next": "觀察官方是否更新申請狀態，不保證72小時內有進展。",
+      "sources": [
+        {
+          "label": "ANA",
+          "url": "https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/"
+        }
+      ]
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-16\n搜尋截止：2026-10-16 10:03 Asia/Taipei（日本11:03 JST）\n\n【今天日本發生什麼？】\n本期整理10個可具體追查的候選、交付5個選題；未達15候選與10入選目標，因部分原文、資格或日期未完成確認，不拿搜尋摘要湊數。\n吉伊卡哇×ANA商品10/23起販售，指定門市首三天預約今天開放。\nANA燃油費表10/15更新；11–12月購票分仍標政府認可申請中，旅行開始國影響適用表格。\nNOHGA新宿御苑已開放官方預約，開幕在2027/7/15。\n宮崎Daiwa Roynet10/26才開放訂房，2027/3/8開幕。\n首都高新富町與銀座出入口10/18夜變更，屬舊公告的行前提醒。\n5題均無合格近期社群互動樣本；本期是編輯排序，不能建立Threads實測熱榜。\n\n【候選池與評分紀錄】\n八項滿分20/20/15/15/10/10/5/5；分數及星等皆編輯預估。先比較候選日期、價值和查核程度，再選5題；第2題燃油雖低於第3題分數，因近期開票決策影響優先；第4題交通提醒雖分數較低，因兩天後實施優先。未入選分數只是初評，並非已完成查核。來源媒體整理與原始公告交叉比對，不冒稱兩次獨立採訪。公告轉載本身不另算來源。\n\n{\n  \"id\": \"ana-chiikawa-goods\",\n  \"title\": \"吉伊卡哇×ANA：指定機場店首三天須預約，今天開放\",\n  \"region\": \"全日本／指定機場及網路通路\",\n  \"category\": \"購物／動漫IP\",\n  \"announcementDate\": \"10/15 11:00 JST\",\n  \"eventDate\": \"預約10/16 11:00 JST；商品10/23起分通路販售\",\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 14,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"今天有預約動作，且首賣與預約日容易混淆；適合近期赴日的角色粉絲收藏。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000018.000035055.html\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148315.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"查閱預約頁後立即發布（台灣時間；不保證剩餘名額）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。預約11:00來自公司原始公告；A-style細則頁讀取失敗，四店完整名單、海外手機註冊與剩餘名額未確認，不在草稿中補造。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"周邊商品與住宿票券關聯弱，不為買玩偶硬推機票。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ちいかわ ANA グッズ 10月23日 2026 site:x.com\",\n      \"ANA ちいかわ site:threads.com 予約\",\n      \"ちいかわ ANA site:dcard.tw OR site:ptt.cc OR site:facebook.com\",\n      \"ちいかわ ANA 2026 10月15日 site:tiktok.com OR site:youtube.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"ana-fuel-november\",\n  \"title\": \"ANA燃油新表：11/1看開票日期，還要看旅行開始國\",\n  \"region\": \"全日本／國際航空\",\n  \"category\": \"航空／票價\",\n  \"announcementDate\": \"官方10/15更新\",\n  \"eventDate\": \"11/1–12/31購票分；政府認可申請中\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"釐清開票日、旅行開始國與申請中狀態，避免台灣讀者直接套用日本出發金額。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148470.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。官方明載政府認可申請中，不當成已核准定案。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。\",\n    \"products\": [\n      \"航空票價比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1776909951.A.8E0.html\",\n        \"label\": \"搜尋到4月ANA促銷貼文\",\n        \"reason\": \"非10月本次公告，超過48小時，不能計分。\"\n      }\n    ],\n    \"queries\": [\n      \"ANA 燃油 2026 10月15日 site:threads.com OR site:facebook.com OR site:ptt.cc\"\n    ]\n  }\n}\n\n{\n  \"id\": \"nohga-shinjuku-gyoen\",\n  \"title\": \"NOHGA新宿御苑2027/7/15開幕，官方已開放預訂\",\n  \"region\": \"關東／東京新宿御苑\",\n  \"category\": \"住宿／新飯店\",\n  \"announcementDate\": \"官方10/15；媒體10/16報導\",\n  \"eventDate\": \"10/15開放預訂；2027/7/15開幕\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 11,\n    \"實用性\": 12,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"明年東京住宿可開始規劃，但必須分清地鐵新宿御苑前與JR新宿。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.nohgahotel.com/shinjuku-gyoen/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148558.html\"\n    },\n    {\n      \"label\": \"品牌原始公告\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000056.000080570.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。\",\n    \"products\": [\n      \"住宿比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"周邊住宿比較，不是本館預訂頁。\",\n      \"pages\": [\n        {\n          \"title\": \"新宿御苑周邊住宿比較（非NOHGA本館）\",\n          \"url\": \"https://tw.trip.com/hotels/tokyo-shinjuku-gyoen-national-garden/hotels-c228m6788903/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較新宿御苑周邊其他飯店的位置與條件。\",\n          \"checks\": \"本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。\",\n          \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"周邊住宿比較，不是本館預訂頁。\",\n      \"pages\": [\n        {\n          \"title\": \"新宿御苑周邊住宿比較（非NOHGA本館）\",\n          \"url\": \"https://www.booking.com/landmark/jp/shinjuku-gyoen-national-garden.ja.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較新宿御苑周邊其他飯店的位置與條件。\",\n          \"checks\": \"本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。\",\n          \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ノーガ 新宿御苑 site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"shutoko-ginza\",\n  \"title\": \"10/18夜起：新富町出口永久廢止、銀座內環入口長期封閉\",\n  \"region\": \"關東／東京首都高速\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"原始7/17；10/16媒體提醒\",\n  \"eventDate\": \"10/18 23:00 JST起\",\n  \"score\": 72,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"即將影響租車及計程車進出路線；永久廢止和暫時封閉不同。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148497.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；兩天後實施、行前交通提醒例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"行車路線提醒，不適合硬塞接送商品或保證車程。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"新富町 10月18日 site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"daiwa-miyazaki\",\n  \"title\": \"宮崎新Daiwa Roynet：10/26才開放訂房，明年3/8開幕\",\n  \"region\": \"九州／宮崎市\",\n  \"category\": \"住宿／新飯店\",\n  \"announcementDate\": \"官方10/15；媒體10/16報導\",\n  \"eventDate\": \"2026/10/26預約開始；2027/3/8開幕\",\n  \"score\": 76,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 9,\n    \"實用性\": 12,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"南九州新住宿選項，預約日與開幕日都清楚，值得先存日期。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.daiwaroynet.jp/miyazaki/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148546.html\"\n    },\n    {\n      \"label\": \"大和集團原始公告\",\n      \"url\": \"https://www.daiwahouse.co.jp/about/release/group/20261015103259.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。\",\n    \"products\": [\n      \"住宿比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ダイワロイネット 宮崎 2026 site:x.com OR site:instagram.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"hokuriku-etc\",\n  \"title\": \"北陸道5收費站ETC專用化\",\n  \"region\": \"北陸／石川富山\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"11月至12月分階段\",\n  \"score\": 69,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 8,\n    \"實用性\": 14,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148527.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：逐站實施時刻與官方原文尚未完成雙重核對。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"逐站實施時刻與官方原文尚未完成雙重核對。\"\n}\n\n{\n  \"id\": \"tochigi-winter\",\n  \"title\": \"栃木冬季平日住宿活動\",\n  \"region\": \"關東／栃木\",\n  \"category\": \"補助／住宿\",\n  \"announcementDate\": \"媒體10/15\",\n  \"eventDate\": \"12/1–2027/2/26，另有除外日\",\n  \"score\": 76,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 10,\n    \"實用性\": 12,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148430.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。\"\n}\n\n{\n  \"id\": \"lawson-sapporo\",\n  \"title\": \"LAWSON札幌站周邊新店\",\n  \"region\": \"北海道／札幌\",\n  \"category\": \"便利商店\",\n  \"announcementDate\": \"官方新店列表\",\n  \"eventDate\": \"10/15開店線索\",\n  \"score\": 44,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 8,\n    \"社群討論潛力\": 4,\n    \"實用性\": 6,\n    \"稀缺性\": 2,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 1\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.lawson.co.jp/newstore/smt/hokkaidou.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。\"\n}\n\n{\n  \"id\": \"hachinohe-richmond\",\n  \"title\": \"八戶Richmond新館線索\",\n  \"region\": \"東北／八戶\",\n  \"category\": \"住宿\",\n  \"announcementDate\": \"地方開店列表\",\n  \"eventDate\": \"10/15開幕線索\",\n  \"score\": 59,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 11,\n    \"社群討論潛力\": 6,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://aomori-join.com/shinkikaiten/\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。\"\n}\n\n{\n  \"id\": \"okinawa-soba\",\n  \"title\": \"沖繩麵日活動線索\",\n  \"region\": \"沖繩\",\n  \"category\": \"美食／活動\",\n  \"announcementDate\": \"觀光活動列表，原公告待查\",\n  \"eventDate\": \"10月活動，逐場日期待查\",\n  \"score\": 57,\n  \"scoreBreakdown\": {\n    \"即時性\": 12,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 8,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.okinawastory.jp/event/list?area=26/1000\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。\"\n}\n\n【今日首選】\n{\n  \"id\": \"ana-chiikawa-goods\",\n  \"title\": \"吉伊卡哇×ANA：指定機場店首三天須預約，今天開放\",\n  \"score\": 91,\n  \"reason\": \"今天有具體預約動作，通路差異能解決赴日粉絲疑問；停下來看的是日期鉤子，收藏分享價值是門市規則。不是已驗證爆紅。\",\n  \"versusSecond\": \"燃油費也實用，但適用國別與尚待認可需更多條件；今天入店預約的行動時點更近。\",\n  \"publishAt\": \"查閱預約頁後立即發布（台灣時間；不保證剩餘名額）\",\n  \"audience\": \"近期赴日、想購買吉伊卡哇ANA周邊的讀者\",\n  \"lifecycle\": \"1週\"\n}\n\n【追蹤】\n[\n  {\n    \"title\": \"吉伊卡哇入店預約\",\n    \"next\": \"未來24小時追官方剩餘名額與完整門市規則，不猜售罄。\",\n    \"sources\": [\n      {\n        \"label\": \"公司原文\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000018.000035055.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"首都高10/18管制\",\n    \"next\": \"未來48–72小時確認實施與最新交通圖。\",\n    \"sources\": [\n      {\n        \"label\": \"首都高\",\n        \"url\": \"https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"栃木冬季活動資格\",\n    \"next\": \"查台灣帳號與國籍居住地限制，尚未確認不作優惠承諾。\",\n    \"sources\": [\n      {\n        \"label\": \"官方活動入口\",\n        \"url\": \"https://tochigitabicp.pref.tochigi.lg.jp/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"ANA燃油認可狀態\",\n    \"next\": \"觀察官方是否更新申請狀態，不保證72小時內有進展。\",\n    \"sources\": [\n      {\n        \"label\": \"ANA\",\n        \"url\": \"https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\"\n      }\n    ]\n  }\n]\n\n【限制與研究範圍】\n日文優先，輔以繁中社群與平台查詢；英文NOHGA頁讀取失敗。廣泛掃描北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩，未每區都找到合格新題。昨天函館點燈、新居浜祭與賞楓預測已刊，未用同一公告重複補足數量。本次未取得15個可完整比較的不同事件，保留10個具體候選，不聲稱完整普查。社群平台未找到樣本不代表無人討論。入店預約系統細則讀取受阻，海外註冊及庫存未知。四平台無對應商品不硬填；NOHGA的Trip/Booking頁只是周邊飯店比較，KKday/Klook沒有已驗證本館商品，宮崎亦未取得可核對頁。低適合度題目不推商品。平台頁可能為快取，不引用即時價。圖片商用權利另查。",
+  "fullText": "日本每日內容雷達\n日期：2026-10-16\n搜尋截止：2026-10-16 10:03 Asia/Taipei（日本11:03 JST）\n\n【今天日本發生什麼？】\n本期整理10個可具體追查的候選、交付5個選題；未達15候選與10入選目標，因部分原文、資格或日期未完成確認，不拿搜尋摘要湊數。\n吉伊卡哇×ANA商品10/23起販售，指定門市首三天預約今天開放。\nANA燃油費表10/15更新；11–12月購票分仍標政府認可申請中，旅行開始國影響適用表格。\nNOHGA新宿御苑已開放官方預約，開幕在2027/7/15。\n宮崎Daiwa Roynet10/26才開放訂房，2027/3/8開幕。\n首都高新富町與銀座出入口10/18夜變更，屬舊公告的行前提醒。\n5題均無合格近期社群互動樣本；本期是編輯排序，不能建立Threads實測熱榜。\n\n【候選池與評分紀錄】\n八項滿分20/20/15/15/10/10/5/5；分數及星等皆編輯預估。先比較候選日期、價值和查核程度，再選5題；第2題燃油雖低於第3題分數，因近期開票決策影響優先；第4題交通提醒雖分數較低，因兩天後實施優先。未入選分數只是初評，並非已完成查核。來源媒體整理與原始公告交叉比對，不冒稱兩次獨立採訪。公告轉載本身不另算來源。\n\n{\n  \"id\": \"ana-chiikawa-goods\",\n  \"title\": \"吉伊卡哇×ANA：指定機場店首三天須預約，今天開放\",\n  \"region\": \"全日本／指定機場及網路通路\",\n  \"category\": \"購物／動漫IP\",\n  \"announcementDate\": \"10/15 11:00 JST\",\n  \"eventDate\": \"預約10/16 11:00 JST；商品10/23起分通路販售\",\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 14,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"今天有預約動作，且首賣與預約日容易混淆；適合近期赴日的角色粉絲收藏。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000018.000035055.html\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148315.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"查閱預約頁後立即發布（台灣時間；不保證剩餘名額）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。預約11:00來自公司原始公告；A-style細則頁讀取失敗，四店完整名單、海外手機註冊與剩餘名額未確認，不在草稿中補造。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"周邊商品與住宿票券關聯弱，不為買玩偶硬推機票。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ちいかわ ANA グッズ 10月23日 2026 site:x.com\",\n      \"ANA ちいかわ site:threads.com 予約\",\n      \"ちいかわ ANA site:dcard.tw OR site:ptt.cc OR site:facebook.com\",\n      \"ちいかわ ANA 2026 10月15日 site:tiktok.com OR site:youtube.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"ana-fuel-november\",\n  \"title\": \"ANA燃油新表：11/1看開票日期，還要看旅行開始國\",\n  \"region\": \"全日本／國際航空\",\n  \"category\": \"航空／票價\",\n  \"announcementDate\": \"官方10/15更新\",\n  \"eventDate\": \"11/1–12/31購票分；政府認可申請中\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"釐清開票日、旅行開始國與申請中狀態，避免台灣讀者直接套用日本出發金額。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148470.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。官方明載政府認可申請中，不當成已核准定案。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。\",\n    \"products\": [\n      \"航空票價比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1776909951.A.8E0.html\",\n        \"label\": \"搜尋到4月ANA促銷貼文\",\n        \"reason\": \"非10月本次公告，超過48小時，不能計分。\"\n      }\n    ],\n    \"queries\": [\n      \"ANA 燃油 2026 10月15日 site:threads.com OR site:facebook.com OR site:ptt.cc\"\n    ]\n  }\n}\n\n{\n  \"id\": \"nohga-shinjuku-gyoen\",\n  \"title\": \"NOHGA新宿御苑2027/7/15開幕，官方已開放預訂\",\n  \"region\": \"關東／東京新宿御苑\",\n  \"category\": \"住宿／新飯店\",\n  \"announcementDate\": \"官方10/15；媒體10/16報導\",\n  \"eventDate\": \"10/15開放預訂；2027/7/15開幕\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 11,\n    \"實用性\": 12,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"明年東京住宿可開始規劃，但必須分清地鐵新宿御苑前與JR新宿。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.nohgahotel.com/shinjuku-gyoen/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148558.html\"\n    },\n    {\n      \"label\": \"品牌原始公告\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000056.000080570.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。\",\n    \"products\": [\n      \"住宿比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"周邊住宿比較，不是本館預訂頁。\",\n      \"pages\": [\n        {\n          \"title\": \"新宿御苑周邊住宿比較（非NOHGA本館）\",\n          \"url\": \"https://tw.trip.com/hotels/tokyo-shinjuku-gyoen-national-garden/hotels-c228m6788903/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較新宿御苑周邊其他飯店的位置與條件。\",\n          \"checks\": \"本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。\",\n          \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"周邊住宿比較，不是本館預訂頁。\",\n      \"pages\": [\n        {\n          \"title\": \"新宿御苑周邊住宿比較（非NOHGA本館）\",\n          \"url\": \"https://www.booking.com/landmark/jp/shinjuku-gyoen-national-garden.ja.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較新宿御苑周邊其他飯店的位置與條件。\",\n          \"checks\": \"本館未確認上架；列表也含較遠飯店。重選入住日期核對空房、地圖與取消條件，不引用快取價格。\",\n          \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"搜尋未取得新宿御苑本館可核對商品；不以秋葉原或上野NOHGA代替。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ノーガ 新宿御苑 site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"shutoko-ginza\",\n  \"title\": \"10/18夜起：新富町出口永久廢止、銀座內環入口長期封閉\",\n  \"region\": \"關東／東京首都高速\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"原始7/17；10/16媒體提醒\",\n  \"eventDate\": \"10/18 23:00 JST起\",\n  \"score\": 72,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"即將影響租車及計程車進出路線；永久廢止和暫時封閉不同。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148497.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天；兩天後實施、行前交通提醒例外\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"行車路線提醒，不適合硬塞接送商品或保證車程。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題缺乏自然預訂關係，不硬放商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"新富町 10月18日 site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"daiwa-miyazaki\",\n  \"title\": \"宮崎新Daiwa Roynet：10/26才開放訂房，明年3/8開幕\",\n  \"region\": \"九州／宮崎市\",\n  \"category\": \"住宿／新飯店\",\n  \"announcementDate\": \"官方10/15；媒體10/16報導\",\n  \"eventDate\": \"2026/10/26預約開始；2027/3/8開幕\",\n  \"score\": 76,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 9,\n    \"實用性\": 12,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 5\n  },\n  \"why\": \"南九州新住宿選項，預約日與開幕日都清楚，值得先存日期。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.daiwaroynet.jp/miyazaki/\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對（非第二次獨立採訪）\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148546.html\"\n    },\n    {\n      \"label\": \"大和集團原始公告\",\n      \"url\": \"https://www.daiwahouse.co.jp/about/release/group/20261015103259.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告只有日期者不推定精確24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體交叉核對核心日期；媒體是公告整理，不當成獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。\",\n    \"products\": [\n      \"住宿比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"尚未取得宮崎新館可核對商品，官方10/26才開始預約；不猜上架或空房。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位不同作者、時間與讚數留言均可核對的原始貼文。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ダイワロイネット 宮崎 2026 site:x.com OR site:instagram.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"hokuriku-etc\",\n  \"title\": \"北陸道5收費站ETC專用化\",\n  \"region\": \"北陸／石川富山\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"11月至12月分階段\",\n  \"score\": 69,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 8,\n    \"實用性\": 14,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148527.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：逐站實施時刻與官方原文尚未完成雙重核對。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"逐站實施時刻與官方原文尚未完成雙重核對。\"\n}\n\n{\n  \"id\": \"tochigi-winter\",\n  \"title\": \"栃木冬季平日住宿活動\",\n  \"region\": \"關東／栃木\",\n  \"category\": \"補助／住宿\",\n  \"announcementDate\": \"媒體10/15\",\n  \"eventDate\": \"12/1–2027/2/26，另有除外日\",\n  \"score\": 76,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 10,\n    \"實用性\": 12,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148430.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"台灣旅客資格、平台帳號與每券條件未完全確認，抽獎不可寫成保證折扣。\"\n}\n\n{\n  \"id\": \"lawson-sapporo\",\n  \"title\": \"LAWSON札幌站周邊新店\",\n  \"region\": \"北海道／札幌\",\n  \"category\": \"便利商店\",\n  \"announcementDate\": \"官方新店列表\",\n  \"eventDate\": \"10/15開店線索\",\n  \"score\": 44,\n  \"scoreBreakdown\": {\n    \"即時性\": 17,\n    \"台灣旅客相關性\": 8,\n    \"社群討論潛力\": 4,\n    \"實用性\": 6,\n    \"稀缺性\": 2,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 1\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.lawson.co.jp/newstore/smt/hokkaidou.html\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"一般門市開店，對台灣旅客資訊增益不足；無獨立交叉確認。\"\n}\n\n{\n  \"id\": \"hachinohe-richmond\",\n  \"title\": \"八戶Richmond新館線索\",\n  \"region\": \"東北／八戶\",\n  \"category\": \"住宿\",\n  \"announcementDate\": \"地方開店列表\",\n  \"eventDate\": \"10/15開幕線索\",\n  \"score\": 59,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 11,\n    \"社群討論潛力\": 6,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://aomori-join.com/shinkikaiten/\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"僅完成地方列表查閱，本館官方開幕與方案未完成交叉核對。\"\n}\n\n{\n  \"id\": \"okinawa-soba\",\n  \"title\": \"沖繩麵日活動線索\",\n  \"region\": \"沖繩\",\n  \"category\": \"美食／活動\",\n  \"announcementDate\": \"觀光活動列表，原公告待查\",\n  \"eventDate\": \"10月活動，逐場日期待查\",\n  \"score\": 57,\n  \"scoreBreakdown\": {\n    \"即時性\": 12,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 8,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"未完成商品需求與資格查核。\",\n  \"sources\": [\n    {\n      \"label\": \"官方原始資料\",\n      \"url\": \"https://www.okinawastory.jp/event/list?area=26/1000\"\n    }\n  ],\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"日期線索待完整核對，不列已確認即時新聞\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補完查核再判斷\",\n  \"verification\": \"尚未完全確認：索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未完成商品需求與資格查核。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對日期、實際飯店／航線、包含內容、空房或座位、取消條件及分潤資格；不保證最低價。\",\n    \"assessedOn\": \"2026-10-16\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題精準商品的已驗證頁面，不代表平台完全沒有販售。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-16T10:03:00+08:00\",\n    \"summary\": \"未完成本題原始社群貼文查核，不計分。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"索引不能當作已查核活動，未確認場次、費用與外國旅客參加條件。\"\n}\n\n【今日首選】\n{\n  \"id\": \"ana-chiikawa-goods\",\n  \"title\": \"吉伊卡哇×ANA：指定機場店首三天須預約，今天開放\",\n  \"score\": 91,\n  \"reason\": \"今天有具體預約動作，通路差異能解決赴日粉絲疑問；停下來看的是日期鉤子，收藏分享價值是門市規則。不是已驗證爆紅。\",\n  \"versusSecond\": \"燃油費也實用，但適用國別與尚待認可需更多條件；今天入店預約的行動時點更近。\",\n  \"publishAt\": \"查閱預約頁後立即發布（台灣時間；不保證剩餘名額）\",\n  \"audience\": \"近期赴日、想購買吉伊卡哇ANA周邊的讀者\",\n  \"lifecycle\": \"1週\"\n}\n\n【追蹤】\n[\n  {\n    \"title\": \"吉伊卡哇入店預約\",\n    \"next\": \"未來24小時追官方剩餘名額與完整門市規則，不猜售罄。\",\n    \"sources\": [\n      {\n        \"label\": \"公司原文\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000018.000035055.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"首都高10/18管制\",\n    \"next\": \"未來48–72小時確認實施與最新交通圖。\",\n    \"sources\": [\n      {\n        \"label\": \"首都高\",\n        \"url\": \"https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"栃木冬季活動資格\",\n    \"next\": \"查台灣帳號與國籍居住地限制，尚未確認不作優惠承諾。\",\n    \"sources\": [\n      {\n        \"label\": \"官方活動入口\",\n        \"url\": \"https://tochigitabicp.pref.tochigi.lg.jp/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"ANA燃油認可狀態\",\n    \"next\": \"觀察官方是否更新申請狀態，不保證72小時內有進展。\",\n    \"sources\": [\n      {\n        \"label\": \"ANA\",\n        \"url\": \"https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\"\n      }\n    ]\n  }\n]\n\n【限制與研究範圍】\n日文優先，輔以繁中社群與平台查詢；英文NOHGA頁讀取失敗。廣泛掃描北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩，未每區都找到合格新題。昨天函館點燈、新居浜祭與賞楓預測已刊，未用同一公告重複補足數量。本次未取得15個可完整比較的不同事件，保留10個具體候選，不聲稱完整普查。社群平台未找到樣本不代表無人討論。入店預約系統細則讀取受阻，海外註冊及庫存未知。四平台無對應商品不硬填；NOHGA的Trip/Booking頁只是周邊飯店比較，KKday/Klook沒有已驗證本館商品，宮崎亦未取得可核對頁。低適合度題目不推商品。平台頁可能為快取，不引用即時價。圖片商用權利另查。\n\n【各題串文】\n吉伊卡哇×ANA：指定機場店首三天須預約，今天開放\n1/3\n想買吉伊卡哇×ANA周邊，先別只記10/23開賣：指定機場店首三天要事先預約，10/16日本11:00開放，也就是台灣今天10:00。\n\n這是指定4間ANA FESTA非搭機區門市的入店安排，不是所有販售通路都要預約。打算在10/23～25前往的人，先確認自己要去的店適用哪一種規則。\n\n2/3\n第一波商品10/23起分通路推出，包含A-style、ANA Mall及吉伊卡哇官方相關通路；各通路品項和販售安排可能不同。\n\n羽田第2航廈B1禮品店也在首三天預約對象內。國際線機上面對面販售則11/1才開始，別把10/23套用到所有航班；有些機場店位於管制區，沒有搭機行程不能直接進去。\n\n3/3\n要去門市：從官方公告進A-style專頁，先核對店名、日期和入店預約方式，再安排交通。\n\n本次未能完整讀取預約細則，海外電話註冊條件與剩餘名額尚未確認；預約入店也不等於保證買到指定商品。不要只為未確認的名額先買不可退機票。\n公司公告：https://prtimes.jp/main/html/rd/p/000000018.000035055.html\n{\"angles\":[{\"name\":\"預約\",\"opening\":\"10/23開賣之前，今天先確認指定門市入店預約。\"},{\"name\":\"通路\",\"opening\":\"不搭飛機也能買？先看門市是否位於管制區。\"},{\"name\":\"日期\",\"opening\":\"10/23和11/1，是不同通路的販售時間。\"},{\"name\":\"行前\",\"opening\":\"去羽田買吉伊卡哇，先核對航廈和預約規則。\"},{\"name\":\"避雷\",\"opening\":\"預約入店，不等於保證買到指定款。\"}],\"images\":[{\"description\":\"官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。\",\"url\":\"https://prtimes.jp/main/html/rd/p/000000018.000035055.html\"}],\"extensions\":[\"本題以資訊服務為主，不硬放分潤。\"]}\n留言：無自然相關商品，不硬放分潤。\n\nANA燃油新表：11/1看開票日期，還要看旅行開始國\n1/3\n看到ANA燃油附加費11月調整，先看兩件事：機票哪天開，以及整段旅行從哪個國家開始。\n\nANA 10/15更新的是2026/11/1～12/31購票分，並非「11月起飛全部套同一價格」。官方目前仍標示政府認可申請中，不能把公告寫成已核准定案。\n\n2/3\n日本開始的行程，日本—東亞（韓國除外）表列每人每單程區間15,100日圓；9～10月購票分為14,300日圓，相差800日圓。\n\n但台灣開始的行程不能直接套這張日圓表。官方另列日本以外開始的行程，還有各國例外與轉機條件；購票網站在哪個國家，也不等於旅行開始國。\n\n3/3\n比價時把含稅總價、行李、退改條件和實際開票期限放在一起看；只比較燃油這一項，未必就是整張票比較便宜。\n\n已買票後若要改票或重新開票，先問出票航空公司或旅行社，不自行推定一定補收或不補收。訂購前再看核准狀態與最新費表。\nANA官方：https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\n{\"angles\":[{\"name\":\"日期\",\"opening\":\"11/1先看開票日，不是只看起飛日。\"},{\"name\":\"資格\",\"opening\":\"台灣出發，不要直接套日本開始旅行的日圓表。\"},{\"name\":\"金額\",\"opening\":\"日本出發東亞線表列增加800日圓，適用範圍要一起讀。\"},{\"name\":\"比價\",\"opening\":\"比機票要看總價，不只燃油一項。\"},{\"name\":\"狀態\",\"opening\":\"ANA新費表仍標示政府認可申請中。\"}],\"images\":[{\"description\":\"官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。\",\"url\":\"https://www.ana.co.jp/ja/jp/guide/plan/charge/fuelsurcharge/\"}],\"extensions\":[\"可延伸商業內容：可延伸機票總價比較，但必須核對出發國、開票日期與退改規則。\"]}\n留言：想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\n【範本／待填分潤網址】\n透過連結預訂，我可能獲得佣金。\n\nNOHGA新宿御苑2027/7/15開幕，官方已開放預訂\n1/3\n想住新宿御苑旁、房間有陽台的新飯店，可以先存NOHGA SHINJUKU GYOEN：預定2027/7/15開幕，官方10/15已開放預訂。\n\n這是明年住宿選項，不是現在去東京就能入住。飯店規劃72間客房、全房附陽台，宣傳畫面要當開幕前示意，不能當成實住心得。\n\n2/3\n地點在新宿1丁目，官方標示從丸之內線「新宿御苑前」站步行約2分鐘。這個2分鐘不是JR新宿站到飯店的距離。\n\n規劃包含屋頂酒吧、餐廳、咖啡與烘焙空間。帶孩子或長輩的人，先看房型人數、床型、進出車站路線，比只看「新宿」兩字更有用。\n\n3/3\n想訂本館，先從官方網站進預約入口，輸入2027/7/15以後的實際日期，核對早餐、入住人數和取消條件；本篇不保證最低房價或空房。\n\n目前未確認四大平台的本館商品。若看周邊住宿列表，只能作其他飯店比較，不能說訂到的是這間NOHGA。\n官方：https://www.nohgahotel.com/shinjuku-gyoen/\n{\"angles\":[{\"name\":\"新飯店\",\"opening\":\"新宿御苑旁全房有陽台的新飯店，明年7/15開幕。\"},{\"name\":\"預訂\",\"opening\":\"NOHGA新宿御苑已開放官方預訂，入住是明年。\"},{\"name\":\"交通\",\"opening\":\"步行2分鐘指新宿御苑前站，不是JR新宿。\"},{\"name\":\"選房\",\"opening\":\"帶孩子先看床型人數，再看陽台照片。\"},{\"name\":\"比較\",\"opening\":\"周邊住宿列表，不代表已上架這間新NOHGA。\"}],\"images\":[{\"description\":\"官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。\",\"url\":\"https://www.nohgahotel.com/shinjuku-gyoen/\"}],\"extensions\":[\"可延伸商業內容：有新飯店預訂需求，但四平台本館商品未確認；周邊住宿只能當比較備案。\"]}\n留言：想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\n【範本／待填分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n10/18夜起：新富町出口永久廢止、銀座內環入口長期封閉\n1/3\n10/18晚上之後在東京開車，導航目的地若經過新富町出口或銀座入口，先重查路線。\n\n日本時間23:00起，新富町出口內、外環都永久廢止；銀座入口則是內環方向長期封閉，預計約3年。兩者不是同一種管制，也不是銀座整區都不能進出。\n\n2/3\n這是首都高速道路的出入口變更，不是東京地鐵銀座站關閉。搭大眾交通的人別看到「銀座封閉」就誤改整天行程。\n\n租車自駕、搭計程車或預訂接送的人，應把實際上下車地址、行車日期交給駕駛或業者確認，改用可通行出入口；本篇不提供未經查核的固定繞路時間。\n\n3/3\n原公告7/17就已公布，今天整理是因為兩天後開始實施，並非今天才宣布。\n\n出發前再看首都高官方交通資訊和管制圖；若用舊旅遊文章或離線地圖，別沿用原出口指示。趕飛機的人也請重新核對業者的接送安排。\n官方：https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\n{\"angles\":[{\"name\":\"行前\",\"opening\":\"10/18夜起，別再沿用新富町出口舊路線。\"},{\"name\":\"範圍\",\"opening\":\"封閉的是高速出入口，不是地鐵銀座站。\"},{\"name\":\"差別\",\"opening\":\"新富町永久廢止，銀座內環入口預計封閉約3年。\"},{\"name\":\"接送\",\"opening\":\"訂了接送也要核對管制後路線。\"},{\"name\":\"日期\",\"opening\":\"7月公告、10月實施，這篇是行前提醒。\"}],\"images\":[{\"description\":\"官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。\",\"url\":\"https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/\"}],\"extensions\":[\"本題以資訊服務為主，不硬放分潤。\"]}\n留言：無自然相關商品，不硬放分潤。\n\n宮崎新Daiwa Roynet：10/26才開放訂房，明年3/8開幕\n1/3\n明年去宮崎又多一間新飯店可追：Daiwa Roynet宮崎預定2027/3/8開幕，但訂房要等2026/10/26才開放。\n\n今天看到新聞，不等於現在已經能下訂。對正在排南九州行程的人，先把這兩個日期分開記，尤其不要排成2月就能入住。\n\n2/3\n飯店在宮崎市橘通西4丁目，官方標示JR宮崎站西口步行約12分鐘，規劃212間客房，設有大浴場與三溫暖。\n\n帶孩子同行先查房型可住人數、兒童與共床規則；有大浴場不代表每種家庭組合都適用。本篇尚未確認兒童細則，不補上猜測的免費年齡。\n\n3/3\n10/26再從官方預約入口查看你的實際入住日、餐食、取消條件與開幕安排。目前未確認Trip、Booking、KKday或Klook的本館可訂商品。\n\n先收進行程備選即可；現階段不拿其他宮崎飯店連結當成本館，也不宣稱開幕價或剩餘房數。\n官方：https://www.daiwaroynet.jp/miyazaki/\n{\"angles\":[{\"name\":\"預約\",\"opening\":\"宮崎新飯店10/26開放預約，今天先存日期。\"},{\"name\":\"開幕\",\"opening\":\"2027/3/8才開幕，2月行程不能排入住。\"},{\"name\":\"交通\",\"opening\":\"JR宮崎站西口步行約12分鐘，先看行李移動路線。\"},{\"name\":\"親子\",\"opening\":\"有大浴場之外，孩子入住條件也要查。\"},{\"name\":\"商品\",\"opening\":\"未確認本館平台上架，不拿別間飯店冒充。\"}],\"images\":[{\"description\":\"官方商品／設施／交通示意及日期對照卡；可找到素材不代表可商用，另確認授權，未開幕飯店標示示意圖。\",\"url\":\"https://www.daiwaroynet.jp/miyazaki/\"}],\"extensions\":[\"可延伸商業內容：明年住宿需求可延伸，但還沒開放預約，不能宣稱平台已可訂。\"]}\n留言：想比較行程成本，可以先核對實際日期、適用商品與取消規則；不同飯店或方案不能當成新聞中的同一商品。\n【範本／待填分潤網址】\n透過連結預訂，我可能獲得佣金。"
+}
