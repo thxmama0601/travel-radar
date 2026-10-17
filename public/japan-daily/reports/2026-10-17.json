@@ -1,0 +1,1847 @@
+{
+  "date": "2026-10-17",
+  "cutoff": "2026-10-17 10:01 Asia/Taipei（日本11:01 JST）",
+  "trends": [
+    "本期比較15個候選，完整交付4題；其餘日期、交叉查核、活動時刻矛盾或重複消息未過關，不湊10題。",
+    "新幹線調價為10/16新公告，但指定席與綠色車廂使用不同生效基準。",
+    "大阪今天花火交通管制，部分區域日本13時起，非所有道路同時封閉。",
+    "ANA國內線促銷已開始，需把選位、行李、改退條件一起比較。",
+    "S0新幹線預定2029年7月上路，GOA2仍有駕駛，不是已營運無人列車。",
+    "大沼花火兩來源時刻有差異，主辦海報讀取未成功，暫列待追不推薦確定時刻。",
+    "沒有取得合格近期雙作者社群互動樣本；本期是編輯排序，無法建立Threads實測熱榜。"
+  ],
+  "top10": [
+    {
+      "id": "shinkansen-fare-2027",
+      "title": "新幹線明年調價：指定席看購買日，綠色車廂看乘車日",
+      "region": "關東、中部、關西、中國、九州／東海道山陽新幹線",
+      "category": "交通／票券",
+      "announcementDate": "官方2026/10/16；媒體15:45 JST",
+      "eventDate": "指定席2027/7/1購買起；綠色車廂2027/12/15乘車起",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "JR東海與JR西日本聯合公告",
+          "url": "https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148818.html"
+        }
+      ],
+      "why": "範圍及兩種日期基準容易誤讀，適合收藏給明年行程使用。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接路線與票種比較，但明年生效，不催促買尚未開賣的車票。",
+        "products": [
+          "交通比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "正在排日本交通的人，可比較實際路線、日期與票種；新聞中的未來調整不代表現在就能購買未來日期車票，也不保證任何平台最低價。",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀東京→新大阪頁，但部分內容出現錯誤站名Paris；不列確定推薦，勿依快取班表安排。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為鐵路調價，沒有自然必要的住宿商品，不硬放Booking住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。",
+          "pages": [
+            {
+              "title": "東京→新大阪車票查詢（非保證2027可售）",
+              "url": "https://www.kkday.com/zh-tw/transportation/japan-rail/shinkansen/jp-tokyo-rail-to-jp-shin-osaka-rail",
+              "kind": "交通查詢",
+              "reason": "供讀者依真正旅行日期比較票種，不是未來價格保證。",
+              "checks": "頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。",
+              "checkedAt": "2026-10-17T10:01:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。",
+          "pages": [
+            {
+              "title": "東京→新大阪車票查詢（非保證2027可售）",
+              "url": "https://www.klook.com/zh-TW/japan-rail/shinkansen/28-tokyo/29-osaka/",
+              "kind": "交通查詢",
+              "reason": "供讀者依真正旅行日期比較票種，不是未來價格保證。",
+              "checks": "頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。",
+              "checkedAt": "2026-10-17T10:01:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "新幹線 値上げ 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "新幹線 値上げ 2026年10月16日 site:facebook.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "draft": {
+        "threads": [
+          "明年搭東京—新大阪新幹線，先分清楚兩個日期：指定席特急料金調整看「購買日」，綠色車廂調整看「乘車日」。\n\nJR東海與JR西日本10/16公告：前者2027/7/1購入分起，後者2027/12/15乘車分起。這不是今天就漲價，也不是所有新幹線、所有票種一起調整。",
+          "這次指定席特急料金調整對象是東海道、山陽新幹線的Nozomi與Mizuho；東京—新大阪的調整額為成人單程700日圓。普通車自由席的特急料金此次不調整。\n\n綠色車廂費用則涉及這兩條新幹線的全部列車。不要把「自由席不調整」理解成所有列車都有自由席，更不能當作保證有座位。",
+          "正在排2027行程，把購買日、乘車日、車種、座位等級一起核對，再比較總價。周遊券、優惠票和平台方案各有條件，不直接拿一般票價表推算。\n\n本次公告也不代表現在就能鎖定所有明年車票；等你的日期開放販售，再核對實際方案。先把這張日期提醒傳給負責交通的旅伴。\n官方：https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+        ],
+        "angles": [
+          {
+            "name": "日期",
+            "opening": "新幹線明年調價，兩個生效日期不能混寫。"
+          },
+          {
+            "name": "範圍",
+            "opening": "Nozomi指定席調整，不等於全日本新幹線一起漲。"
+          },
+          {
+            "name": "預算",
+            "opening": "東京—新大阪單程調整700日圓，先看適用票種。"
+          },
+          {
+            "name": "選位",
+            "opening": "自由席此次不調整，也不保證每班有自由席。"
+          },
+          {
+            "name": "行程",
+            "opening": "2027交通預算，先把購票日和乘車日拆開。"
+          }
+        ],
+        "images": [
+          {
+            "description": "自行整理兩種生效日期；引用費表須保留票種、單位及官方來源，商用權另查。",
+            "url": "https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：交通方案比較，不能承諾未來票價或平台促銷適用。"
+        ]
+      },
+      "affiliateResearch": [
+        {
+          "url": "https://tw.trip.com/trains/japan/route/tokyo-to-shin-osaka/",
+          "checkedAt": "2026-10-17T10:01:00+08:00",
+          "result": "路線頁部分站名異常，不採推薦"
+        }
+      ]
+    },
+    {
+      "id": "yodogawa-traffic-today",
+      "title": "大阪今天看花火，也要看下午起的交通管制",
+      "region": "關西／大阪十三、塚本、梅田周邊",
+      "category": "交通／花火",
+      "announcementDate": "警方頁未標原公告日；媒體10/16 16:30 JST",
+      "eventDate": "2026/10/17約16–23時，部分13時起（JST）",
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "大阪府警交通公告",
+          "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148521.html"
+        }
+      ],
+      "why": "已在大阪的旅客今天就受影響，優先提醒避免趕車誤判。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天實施；原公告日期不明，非今天新宣布",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當日交通提醒，不能為了分潤推未確認觀覽席或接送時效。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "淀川花火 2026 site:threads.com OR site:instagram.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "draft": {
+        "threads": [
+          "今天10/17在大阪，就算不看淀川花火，也要留意十三、塚本及梅田周邊交通。\n\n大阪府警公告，日本時間約16:00～23:00管制，部分區域13:00就開始。這是道路管制時段，不是花火施放時間，也不代表每條路都同時封閉。",
+          "會場周邊道路禁止停車，警方請旅客不要開私家車前往；國道2號、176號及淀川通也可能壅塞。\n\n十三大橋不能停下來看花火。租車或搭計程車的人，先把上下車位置與路線交給駕駛確認；搭鐵路則查車站公告，別把平常的轉乘時間當成今天一定做得到。",
+          "今晚要趕飛機、長途列車或有訂位的人，現在就重查出發時間及集合地點。管制可依現場情況調整，不能把23:00理解成保證立刻暢通。\n\n本篇是交通提醒，不保證觀覽席或臨時車次。看警方管制圖並跟隨現場引導，比照舊遊記走更可靠。\n警方公告：https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        ],
+        "angles": [
+          {
+            "name": "行前",
+            "opening": "今天不看花火，也可能遇到大阪交通管制。"
+          },
+          {
+            "name": "範圍",
+            "opening": "16點管制不是花火開始時間，部分區域13點已開始。"
+          },
+          {
+            "name": "自駕",
+            "opening": "今晚開車去十三，先看管制圖再出發。"
+          },
+          {
+            "name": "回程",
+            "opening": "23點不是保證道路立刻恢復暢通。"
+          },
+          {
+            "name": "觀覽",
+            "opening": "十三大橋不能停下看花火，別照舊遊記走。"
+          }
+        ],
+        "images": [
+          {
+            "description": "警方管制圖；標示日期、區域與時間，圖片使用規則另查。",
+            "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+          }
+        ],
+        "extensions": [
+          "本期不硬推分潤商品。"
+        ]
+      }
+    },
+    {
+      "id": "ana-domestic-oct-sale",
+      "title": "ANA日本國內線促銷：有23kg行李，但不能提前選位或改票",
+      "region": "全日本／日本國內航空",
+      "category": "航空／優惠",
+      "announcementDate": "促銷10/16開始；媒體10/16 12:03 JST，原預告日未確認",
+      "eventDate": "售票10/16–22 23:59 JST；搭乘12/1–2027/3/27",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "ANA活動條件",
+          "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148705.html"
+        }
+      ],
+      "why": "把價格與親子選位限制一起說清楚，幫冬季日本多城旅客判斷。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸國內線與鐵路總成本比較；ANA官網促銷不等於其他平台同價。",
+        "products": [
+          "交通比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若正在比較日本國內移動，請把託運行李、機場接駁和取消條件一起計算；其他平台不保證適用ANA官網促銷。",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "ANA タイムセール 10月16日 site:threads.com OR site:x.com",
+          "ANA タイムセール 2026 site:instagram.com OR site:youtube.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "draft": {
+        "threads": [
+          "冬天想在日本多玩一個城市，ANA國內線促銷可以比較，但親子同行先看選位規則：這個促銷票不能事先選位，也不能改票。\n\n販售到10/22日本23:59，適用搭乘日為2026/12/1～2027/3/27。這是日本國內線，不能當作台灣飛日本的國際線優惠。",
+          "票種包含1件、每件23kg的免費託運行李；選位從出發前24小時線上報到時，依剩餘座位選擇，不保證家人一定坐一起。\n\n退款須付費，預約後付款期限是當天23:59。日期、路線和班次有限，不是期間內每班都有促銷座位；本篇不保證你查詢時仍有最低票價。",
+          "先在ANA活動頁輸入確定日期與人數，看最後總價和退票費，再與鐵路及機場接駁成本比較。需要彈性改行程或保證相鄰座位的人，尤其要比較其他票種。\n\n活動是官網限定，其他平台出現同航班不代表同樣促銷條件。海外信用卡與旅客資料請依訂購頁確認，不先假設一定付款成功。\n官方：https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        ],
+        "angles": [
+          {
+            "name": "親子",
+            "opening": "ANA促銷票有行李，但不能提前選相鄰座位。"
+          },
+          {
+            "name": "時間",
+            "opening": "10/22售票截止，搭乘是12月到明年3月。"
+          },
+          {
+            "name": "彈性",
+            "opening": "不能改票，低票價適不適合要看行程確定度。"
+          },
+          {
+            "name": "成本",
+            "opening": "日本國內線與鐵路比價，別漏機場接駁。"
+          },
+          {
+            "name": "通路",
+            "opening": "同航班不同通路，不代表同促銷條件。"
+          }
+        ],
+        "images": [
+          {
+            "description": "售票與搭乘日期對照、行李及選位條件卡；官網圖使用權另查。",
+            "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：交通方案比較，不能承諾未來票價或平台促銷適用。"
+        ]
+      }
+    },
+    {
+      "id": "jr-s0-2029",
+      "title": "新幹線S0系公布：2029年7月預定上路，自動運轉仍有駕駛",
+      "region": "關東、中部、關西、中國、九州／東海道山陽新幹線",
+      "category": "交通／新設施",
+      "announcementDate": "官方10/16；媒體10/16 16:49 JST",
+      "eventDate": "2028/8試驗車；2029/7預定營運",
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 14,
+        "實用性": 9,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "JR東海原始公告",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046070.pdf"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148855.html"
+        }
+      ],
+      "why": "車頭與車內規劃有視覺吸引力，須說清楚是未來新車。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "2029年預定新車，不能把現有車票當成S0體驗。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "S0系 site:threads.com OR site:x.com",
+          "S0 新幹線 2026 10月16日 site:facebook.com OR site:youtube.com OR site:tiktok.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "draft": {
+        "threads": [
+          "新幹線下一代車型叫S0系，預定2029年7月開始營運。現在看到新車照片，還不能排進這次日本行。\n\nJR東海10/16公布計畫，2028年8月先投入確認試驗車。官方說的自動運轉是GOA2，仍有駕駛在駕駛室值勤，不是完全無人列車。",
+          "對帶行李或孩子的旅客，值得看的不只有車頭：計畫把車廂出入口行李置放處由6處增加至9處，擴大行李架，並在加大的女性廁所內設置嬰兒床。\n\n綠色車廂也規劃不同座椅類型、整理儀容空間與通訊改善。這些是新車規劃，不能當成今天所有N700系列都已有的設備。",
+          "新車預計分批投入，不是2029年7月起每一班都換成S0。想專程搭乘，等正式運用列車、訂票方式與設備規則公布再安排行程。\n\n現有車票不保證搭到S0，宣傳圖片也請標示示意。你更在意新車外型，還是行李空間和親子設備？\nJR東海：https://jr-central.co.jp/news/release/_pdf/000046070.pdf"
+        ],
+        "angles": [
+          {
+            "name": "消息",
+            "opening": "S0系新幹線公布，預定2029年7月營運。"
+          },
+          {
+            "name": "釐清",
+            "opening": "自動運轉仍有駕駛，不是無人新幹線。"
+          },
+          {
+            "name": "行李",
+            "opening": "新車規劃增加行李置放處，帶行李旅客可追。"
+          },
+          {
+            "name": "親子",
+            "opening": "比新車外型更實用的，是親子與廁所設備規劃。"
+          },
+          {
+            "name": "訂票",
+            "opening": "現在買票不能保證搭S0，先等正式列車資訊。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方車型與設備示意圖，標示預計導入年份及示意，商用權另查。",
+            "url": "https://jr-central.co.jp/news/release/_pdf/000046070.pdf"
+          }
+        ],
+        "extensions": [
+          "本期不硬推分潤商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "shinkansen-fare-2027",
+      "title": "新幹線明年調價：指定席看購買日，綠色車廂看乘車日",
+      "region": "關東、中部、關西、中國、九州／東海道山陽新幹線",
+      "category": "交通／票券",
+      "announcementDate": "官方2026/10/16；媒體15:45 JST",
+      "eventDate": "指定席2027/7/1購買起；綠色車廂2027/12/15乘車起",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "JR東海與JR西日本聯合公告",
+          "url": "https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148818.html"
+        }
+      ],
+      "why": "範圍及兩種日期基準容易誤讀，適合收藏給明年行程使用。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接路線與票種比較，但明年生效，不催促買尚未開賣的車票。",
+        "products": [
+          "交通比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "正在排日本交通的人，可比較實際路線、日期與票種；新聞中的未來調整不代表現在就能購買未來日期車票，也不保證任何平台最低價。",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀東京→新大阪頁，但部分內容出現錯誤站名Paris；不列確定推薦，勿依快取班表安排。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為鐵路調價，沒有自然必要的住宿商品，不硬放Booking住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。",
+          "pages": [
+            {
+              "title": "東京→新大阪車票查詢（非保證2027可售）",
+              "url": "https://www.kkday.com/zh-tw/transportation/japan-rail/shinkansen/jp-tokyo-rail-to-jp-shin-osaka-rail",
+              "kind": "交通查詢",
+              "reason": "供讀者依真正旅行日期比較票種，不是未來價格保證。",
+              "checks": "頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。",
+              "checkedAt": "2026-10-17T10:01:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。",
+          "pages": [
+            {
+              "title": "東京→新大阪車票查詢（非保證2027可售）",
+              "url": "https://www.klook.com/zh-TW/japan-rail/shinkansen/28-tokyo/29-osaka/",
+              "kind": "交通查詢",
+              "reason": "供讀者依真正旅行日期比較票種，不是未來價格保證。",
+              "checks": "頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。",
+              "checkedAt": "2026-10-17T10:01:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "新幹線 値上げ 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "新幹線 値上げ 2026年10月16日 site:facebook.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "affiliateResearch": [
+        {
+          "url": "https://tw.trip.com/trains/japan/route/tokyo-to-shin-osaka/",
+          "checkedAt": "2026-10-17T10:01:00+08:00",
+          "result": "路線頁部分站名異常，不採推薦"
+        }
+      ]
+    },
+    {
+      "id": "yodogawa-traffic-today",
+      "title": "大阪今天看花火，也要看下午起的交通管制",
+      "region": "關西／大阪十三、塚本、梅田周邊",
+      "category": "交通／花火",
+      "announcementDate": "警方頁未標原公告日；媒體10/16 16:30 JST",
+      "eventDate": "2026/10/17約16–23時，部分13時起（JST）",
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "大阪府警交通公告",
+          "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148521.html"
+        }
+      ],
+      "why": "已在大阪的旅客今天就受影響，優先提醒避免趕車誤判。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天實施；原公告日期不明，非今天新宣布",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當日交通提醒，不能為了分潤推未確認觀覽席或接送時效。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "淀川花火 2026 site:threads.com OR site:instagram.com"
+        ],
+        "evidence": [],
+        "leads": []
+      }
+    },
+    {
+      "id": "ana-domestic-oct-sale",
+      "title": "ANA日本國內線促銷：有23kg行李，但不能提前選位或改票",
+      "region": "全日本／日本國內航空",
+      "category": "航空／優惠",
+      "announcementDate": "促銷10/16開始；媒體10/16 12:03 JST，原預告日未確認",
+      "eventDate": "售票10/16–22 23:59 JST；搭乘12/1–2027/3/27",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "ANA活動條件",
+          "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148705.html"
+        }
+      ],
+      "why": "把價格與親子選位限制一起說清楚，幫冬季日本多城旅客判斷。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸國內線與鐵路總成本比較；ANA官網促銷不等於其他平台同價。",
+        "products": [
+          "交通比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若正在比較日本國內移動，請把託運行李、機場接駁和取消條件一起計算；其他平台不保證適用ANA官網促銷。",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "ANA タイムセール 10月16日 site:threads.com OR site:x.com",
+          "ANA タイムセール 2026 site:instagram.com OR site:youtube.com"
+        ],
+        "evidence": [],
+        "leads": []
+      }
+    },
+    {
+      "id": "jr-s0-2029",
+      "title": "新幹線S0系公布：2029年7月預定上路，自動運轉仍有駕駛",
+      "region": "關東、中部、關西、中國、九州／東海道山陽新幹線",
+      "category": "交通／新設施",
+      "announcementDate": "官方10/16；媒體10/16 16:49 JST",
+      "eventDate": "2028/8試驗車；2029/7預定營運",
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 14,
+        "實用性": 9,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "JR東海原始公告",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046070.pdf"
+        },
+        {
+          "label": "Travel Watch整理",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148855.html"
+        }
+      ],
+      "why": "車頭與車內規劃有視覺吸引力，須說清楚是未來新車。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時；原公告未標時刻者不精確推定24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（編輯建議）",
+      "verification": "官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "2029年預定新車，不能把現有車票當成S0體驗。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。",
+        "queries": [
+          "S0系 site:threads.com OR site:x.com",
+          "S0 新幹線 2026 10月16日 site:facebook.com OR site:youtube.com OR site:tiktok.com"
+        ],
+        "evidence": [],
+        "leads": []
+      }
+    },
+    {
+      "id": "onuma-halloween",
+      "title": "大沼紅葉萬聖夜",
+      "region": "北海道／七飯",
+      "category": "活動",
+      "announcementDate": "官方9/16；地方媒體10/15、16",
+      "eventDate": "10/17–18",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 11,
+        "實用性": 11,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.ohnumakotsu.com/blog/archives/1990"
+        },
+        {
+          "label": "官方觀光頁（18:00）",
+          "url": "https://www.hakobura.jp/events/243"
+        },
+        {
+          "label": "地方媒體（17:30）",
+          "url": "https://hakodate-event.com/2026/10/archives/49593"
+        }
+      ],
+      "why": "官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [
+          "大沼 2026 ハロウィン site:instagram.com OR site:facebook.com"
+        ],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。"
+    },
+    {
+      "id": "kazuno-guide",
+      "title": "八幡平大沼免費導覽",
+      "region": "東北／鹿角",
+      "category": "季節情報",
+      "announcementDate": "原公告日未標",
+      "eventDate": "10/17 9:30–15:00 JST",
+      "score": 62,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 6,
+        "實用性": 10,
+        "稀缺性": 4,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 1
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://explorekazuno.jp/event/onuma-guide202610/"
+        }
+      ],
+      "why": "只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。"
+    },
+    {
+      "id": "eggs-halloween",
+      "title": "Eggs n Things萬聖節鬆餅",
+      "region": "各地／含名古屋",
+      "category": "美食",
+      "announcementDate": "10/8",
+      "eventDate": "10/16–31",
+      "score": 63,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 9,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.eggsnthingsjapan.com/mozo/news/261008.html"
+        }
+      ],
+      "why": "公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。"
+    },
+    {
+      "id": "quil-anniversary",
+      "title": "Quil Fait Bon35周年甜點",
+      "region": "各地／京都大阪仙台名古屋福岡等",
+      "category": "美食",
+      "announcementDate": "官方頁原發布日待確認",
+      "eventDate": "10/16–11/15",
+      "score": 64,
+      "scoreBreakdown": {
+        "即時性": 11,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 9,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.quil-fait-bon.com/blogs/news/35e-anniversaire"
+        }
+      ],
+      "why": "昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。"
+    },
+    {
+      "id": "uniqlo-peanuts",
+      "title": "UNIQLO史努比冬季服飾",
+      "region": "全日本",
+      "category": "購物／IP",
+      "announcementDate": "媒體10/16",
+      "eventDate": "12月，詳細日期待核",
+      "score": 63,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 9,
+        "實用性": 8,
+        "稀缺性": 4,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148731.html"
+        }
+      ],
+      "why": "尚未完整核對品牌原始上市頁與各品項日期。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：尚未完整核對品牌原始上市頁與各品項日期。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "尚未完整核對品牌原始上市頁與各品項日期。"
+    },
+    {
+      "id": "disney-monsters",
+      "title": "迪士尼商店怪獸電力公司25周年商品",
+      "region": "全日本／指定通路",
+      "category": "購物／IP",
+      "announcementDate": "媒體10/16",
+      "eventDate": "販售細節待官方核對",
+      "score": 67,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 10,
+        "實用性": 8,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148687.html"
+        }
+      ],
+      "why": "未完成品牌官方日期、通路與庫存交叉查核。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：未完成品牌官方日期、通路與庫存交叉查核。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "未完成品牌官方日期、通路與庫存交叉查核。"
+    },
+    {
+      "id": "alohaisai",
+      "title": "沖繩ALOHAISAI",
+      "region": "沖繩",
+      "category": "活動",
+      "announcementDate": "官方7月公告",
+      "eventDate": "10/16–18",
+      "score": 55,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 7,
+        "實用性": 8,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://kariyushi-oceanspa.jp/topics/2026/07/event-5959/"
+        }
+      ],
+      "why": "已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。"
+    },
+    {
+      "id": "kochi-immersive",
+      "title": "Immersive Museum Kochi開幕線索",
+      "region": "四國／高知",
+      "category": "展覽",
+      "announcementDate": "原公告日未確認",
+      "eventDate": "10/17–12/6線索",
+      "score": 73,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 10,
+        "實用性": 9,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.kochi-tabi.jp/search_event.html?id=18818"
+        }
+      ],
+      "why": "官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "關鍵事實未讀取，暫不評估。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用的已確認商品；不以平台首頁代替。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用的已確認商品；不以平台首頁代替。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用的已確認商品；不以平台首頁代替。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用的已確認商品；不以平台首頁代替。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。"
+    },
+    {
+      "id": "nagoya-festival",
+      "title": "名古屋祭今日開始",
+      "region": "中部／名古屋",
+      "category": "祭典",
+      "announcementDate": "之前已刊；本次讀官方索引",
+      "eventDate": "10/17–18",
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 4,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.nagoya-info.jp/event/"
+        }
+      ],
+      "why": "10/14已選過；今日未核實額外進展，不重複佔名額。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：10/14已選過；今日未核實額外進展，不重複佔名額。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "10/14已選過；今日未核實額外進展，不重複佔名額。"
+    },
+    {
+      "id": "family-socks",
+      "title": "FamilyMart聯名襪子與手帕",
+      "region": "全日本／網路",
+      "category": "便利商店／購物",
+      "announcementDate": "官方索引10/16",
+      "eventDate": "10/16網路販售線索",
+      "score": 50,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 8,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 4,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 1
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://www.family.co.jp/company/news_releases/2026.html"
+        }
+      ],
+      "why": "只有公司新聞索引，未核對商品頁與外國旅客收貨條件。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：只有公司新聞索引，未核對商品頁與外國旅客收貨條件。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "只有公司新聞索引，未核對商品頁與外國旅客收貨條件。"
+    },
+    {
+      "id": "hokuriku-etc",
+      "title": "北陸高速5站ETC專用化",
+      "region": "北陸／石川富山",
+      "category": "交通",
+      "announcementDate": "媒體10/16",
+      "eventDate": "11–12月",
+      "score": 63,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 7,
+        "實用性": 13,
+        "稀缺性": 4,
+        "視覺吸引力": 3,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀來源或讀取受限的查找入口",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2148527.html"
+        }
+      ],
+      "why": "昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "依上述公告日期；未通過本期時效／查核篩選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或新進展再判斷",
+      "verification": "尚未達可發布查核：昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。",
+        "assessedOn": "2026-10-17"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題以消息或行前提醒為主，無自然且已確認的預訂商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-17T10:01:00+08:00",
+        "summary": "本題尚未取得可計分原始社群樣本。",
+        "queries": [],
+        "evidence": [],
+        "leads": []
+      },
+      "exclusionReason": "昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。"
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-17T10:01:00+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 5,
+    "qualifiedTopicCount": 0,
+    "limitation": "對4個入選題及大沼活動查社群；未完成其餘10題逐題原始貼文查核。搜尋未取得可核對兩作者時間、讚與留言的樣本；不能稱全網沒人討論。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "Facebook",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "Instagram",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "Dcard",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "PTT",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "X",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      },
+      {
+        "platform": "TikTok",
+        "status": "robots限制，無可計分原始數據"
+      },
+      {
+        "platform": "YouTube",
+        "status": "關鍵字搜尋未取得符合事件與時間門檻的完整互動樣本"
+      }
+    ]
+  },
+  "choice": {
+    "id": "shinkansen-fare-2027",
+    "title": "新幹線明年調價：指定席看購買日，綠色車廂看乘車日",
+    "score": 88,
+    "reason": "日期基準差異是具體資訊鉤子，台灣跨城旅客可收藏或轉給旅伴；費用與票種也有討論空間。這是編輯預估，不保證流量。",
+    "versusSecond": "大阪交通題今天非常急，適合上午先發；新幹線費用涉及更廣行程和較長生命週期，推薦作當日主要內容。",
+    "publishAt": "台灣12:00（編輯建議）",
+    "audience": "規劃2027年日本跨城行程的自由行與親子旅客",
+    "lifecycle": "1個月以上"
+  },
+  "followups": [
+    {
+      "title": "淀川花火散場及交通",
+      "next": "今天晚間至明天看官方解除與車站公告，不預測一定延誤。",
+      "sources": [
+        {
+          "label": "警方",
+          "url": "https://www.police.pref.osaka.lg.jp/topics/24860.html"
+        }
+      ]
+    },
+    {
+      "title": "大沼10/18活動時間",
+      "next": "確認主辦最終時間與是否異動，未解決18:00／17:30差異前不作行程承諾。",
+      "sources": [
+        {
+          "label": "主辦窗口公告",
+          "url": "https://www.ohnumakotsu.com/blog/archives/1990"
+        }
+      ]
+    },
+    {
+      "title": "新幹線平台票價規則",
+      "next": "觀察平台有無公布2027適用條件，不把一般查詢頁當已確認新票價。",
+      "sources": [
+        {
+          "label": "JR原文",
+          "url": "https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+        }
+      ]
+    },
+    {
+      "title": "ANA促銷餘位與條件",
+      "next": "10/22截止前依實際日期重新查詢，不保證最低價庫存。",
+      "sources": [
+        {
+          "label": "ANA",
+          "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        }
+      ]
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-17\n截止：2026-10-17 10:01 Asia/Taipei（日本11:01 JST）\n\n【今天日本發生什麼？】\n本期比較15個候選，完整交付4題；其餘日期、交叉查核、活動時刻矛盾或重複消息未過關，不湊10題。\n新幹線調價為10/16新公告，但指定席與綠色車廂使用不同生效基準。\n大阪今天花火交通管制，部分區域日本13時起，非所有道路同時封閉。\nANA國內線促銷已開始，需把選位、行李、改退條件一起比較。\nS0新幹線預定2029年7月上路，GOA2仍有駕駛，不是已營運無人列車。\n大沼花火兩來源時刻有差異，主辦海報讀取未成功，暫列待追不推薦確定時刻。\n沒有取得合格近期雙作者社群互動樣本；本期是編輯排序，無法建立Threads實測熱榜。\n\n【候選池與評分紀錄】\n八項滿分依序20/20/15/15/10/10/5/5；星等與分數均編輯預估。先比15題的來源、時效與用途，再選4題；未入選者只是初評，不等於已完成事實查核。排序除分數亦考慮行動急迫：大阪當日管制優先於未來新車。媒體整理不是第二次獨立採訪，同稿轉載不計獨立證據。\n\n{\n  \"id\": \"shinkansen-fare-2027\",\n  \"title\": \"新幹線明年調價：指定席看購買日，綠色車廂看乘車日\",\n  \"region\": \"關東、中部、關西、中國、九州／東海道山陽新幹線\",\n  \"category\": \"交通／票券\",\n  \"announcementDate\": \"官方2026/10/16；媒體15:45 JST\",\n  \"eventDate\": \"指定席2027/7/1購買起；綠色車廂2027/12/15乘車起\",\n  \"score\": 88,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"JR東海與JR西日本聯合公告\",\n      \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148818.html\"\n    }\n  ],\n  \"why\": \"範圍及兩種日期基準容易誤讀，適合收藏給明年行程使用。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可銜接路線與票種比較，但明年生效，不催促買尚未開賣的車票。\",\n    \"products\": [\n      \"交通比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"正在排日本交通的人，可比較實際路線、日期與票種；新聞中的未來調整不代表現在就能購買未來日期車票，也不保證任何平台最低價。\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀東京→新大阪頁，但部分內容出現錯誤站名Paris；不列確定推薦，勿依快取班表安排。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題為鐵路調價，沒有自然必要的住宿商品，不硬放Booking住宿。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。\",\n      \"pages\": [\n        {\n          \"title\": \"東京→新大阪車票查詢（非保證2027可售）\",\n          \"url\": \"https://www.kkday.com/zh-tw/transportation/japan-rail/shinkansen/jp-tokyo-rail-to-jp-shin-osaka-rail\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"供讀者依真正旅行日期比較票種，不是未來價格保證。\",\n          \"checks\": \"頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。\",\n          \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。\",\n      \"pages\": [\n        {\n          \"title\": \"東京→新大阪車票查詢（非保證2027可售）\",\n          \"url\": \"https://www.klook.com/zh-TW/japan-rail/shinkansen/28-tokyo/29-osaka/\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"供讀者依真正旅行日期比較票種，不是未來價格保證。\",\n          \"checks\": \"頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。\",\n          \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"新幹線 値上げ 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"新幹線 値上げ 2026年10月16日 site:facebook.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://tw.trip.com/trains/japan/route/tokyo-to-shin-osaka/\",\n      \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n      \"result\": \"路線頁部分站名異常，不採推薦\"\n    }\n  ]\n}\n\n{\n  \"id\": \"yodogawa-traffic-today\",\n  \"title\": \"大阪今天看花火，也要看下午起的交通管制\",\n  \"region\": \"關西／大阪十三、塚本、梅田周邊\",\n  \"category\": \"交通／花火\",\n  \"announcementDate\": \"警方頁未標原公告日；媒體10/16 16:30 JST\",\n  \"eventDate\": \"2026/10/17約16–23時，部分13時起（JST）\",\n  \"score\": 84,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"大阪府警交通公告\",\n      \"url\": \"https://www.police.pref.osaka.lg.jp/topics/24860.html\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148521.html\"\n    }\n  ],\n  \"why\": \"已在大阪的旅客今天就受影響，優先提醒避免趕車誤判。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天實施；原公告日期不明，非今天新宣布\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當日交通提醒，不能為了分潤推未確認觀覽席或接送時效。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"淀川花火 2026 site:threads.com OR site:instagram.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"ana-domestic-oct-sale\",\n  \"title\": \"ANA日本國內線促銷：有23kg行李，但不能提前選位或改票\",\n  \"region\": \"全日本／日本國內航空\",\n  \"category\": \"航空／優惠\",\n  \"announcementDate\": \"促銷10/16開始；媒體10/16 12:03 JST，原預告日未確認\",\n  \"eventDate\": \"售票10/16–22 23:59 JST；搭乘12/1–2027/3/27\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"ANA活動條件\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148705.html\"\n    }\n  ],\n  \"why\": \"把價格與親子選位限制一起說清楚，幫冬季日本多城旅客判斷。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸國內線與鐵路總成本比較；ANA官網促銷不等於其他平台同價。\",\n    \"products\": [\n      \"交通比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"若正在比較日本國內移動，請把託運行李、機場接駁和取消條件一起計算；其他平台不保證適用ANA官網促銷。\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"ANA タイムセール 10月16日 site:threads.com OR site:x.com\",\n      \"ANA タイムセール 2026 site:instagram.com OR site:youtube.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"jr-s0-2029\",\n  \"title\": \"新幹線S0系公布：2029年7月預定上路，自動運轉仍有駕駛\",\n  \"region\": \"關東、中部、關西、中國、九州／東海道山陽新幹線\",\n  \"category\": \"交通／新設施\",\n  \"announcementDate\": \"官方10/16；媒體10/16 16:49 JST\",\n  \"eventDate\": \"2028/8試驗車；2029/7預定營運\",\n  \"score\": 84,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 14,\n    \"實用性\": 9,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"JR東海原始公告\",\n      \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046070.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148855.html\"\n    }\n  ],\n  \"why\": \"車頭與車內規劃有視覺吸引力，須說清楚是未來新車。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:30（編輯建議）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"2029年預定新車，不能把現有車票當成S0體驗。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"S0系 site:threads.com OR site:x.com\",\n      \"S0 新幹線 2026 10月16日 site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"onuma-halloween\",\n  \"title\": \"大沼紅葉萬聖夜\",\n  \"region\": \"北海道／七飯\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"官方9/16；地方媒體10/15、16\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 11,\n    \"實用性\": 11,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.ohnumakotsu.com/blog/archives/1990\"\n    },\n    {\n      \"label\": \"官方觀光頁（18:00）\",\n      \"url\": \"https://www.hakobura.jp/events/243\"\n    },\n    {\n      \"label\": \"地方媒體（17:30）\",\n      \"url\": \"https://hakodate-event.com/2026/10/archives/49593\"\n    }\n  ],\n  \"why\": \"官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [\n      \"大沼 2026 ハロウィン site:instagram.com OR site:facebook.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\"\n}\n\n{\n  \"id\": \"kazuno-guide\",\n  \"title\": \"八幡平大沼免費導覽\",\n  \"region\": \"東北／鹿角\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"原公告日未標\",\n  \"eventDate\": \"10/17 9:30–15:00 JST\",\n  \"score\": 62,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 6,\n    \"實用性\": 10,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 1\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://explorekazuno.jp/event/onuma-guide202610/\"\n    }\n  ],\n  \"why\": \"只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\"\n}\n\n{\n  \"id\": \"eggs-halloween\",\n  \"title\": \"Eggs n Things萬聖節鬆餅\",\n  \"region\": \"各地／含名古屋\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"10/8\",\n  \"eventDate\": \"10/16–31\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.eggsnthingsjapan.com/mozo/news/261008.html\"\n    }\n  ],\n  \"why\": \"公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\"\n}\n\n{\n  \"id\": \"quil-anniversary\",\n  \"title\": \"Quil Fait Bon35周年甜點\",\n  \"region\": \"各地／京都大阪仙台名古屋福岡等\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"官方頁原發布日待確認\",\n  \"eventDate\": \"10/16–11/15\",\n  \"score\": 64,\n  \"scoreBreakdown\": {\n    \"即時性\": 11,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.quil-fait-bon.com/blogs/news/35e-anniversaire\"\n    }\n  ],\n  \"why\": \"昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\"\n}\n\n{\n  \"id\": \"uniqlo-peanuts\",\n  \"title\": \"UNIQLO史努比冬季服飾\",\n  \"region\": \"全日本\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"12月，詳細日期待核\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 9,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148731.html\"\n    }\n  ],\n  \"why\": \"尚未完整核對品牌原始上市頁與各品項日期。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：尚未完整核對品牌原始上市頁與各品項日期。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"尚未完整核對品牌原始上市頁與各品項日期。\"\n}\n\n{\n  \"id\": \"disney-monsters\",\n  \"title\": \"迪士尼商店怪獸電力公司25周年商品\",\n  \"region\": \"全日本／指定通路\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"販售細節待官方核對\",\n  \"score\": 67,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 10,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148687.html\"\n    }\n  ],\n  \"why\": \"未完成品牌官方日期、通路與庫存交叉查核。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：未完成品牌官方日期、通路與庫存交叉查核。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"未完成品牌官方日期、通路與庫存交叉查核。\"\n}\n\n{\n  \"id\": \"alohaisai\",\n  \"title\": \"沖繩ALOHAISAI\",\n  \"region\": \"沖繩\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"官方7月公告\",\n  \"eventDate\": \"10/16–18\",\n  \"score\": 55,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://kariyushi-oceanspa.jp/topics/2026/07/event-5959/\"\n    }\n  ],\n  \"why\": \"已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\"\n}\n\n{\n  \"id\": \"kochi-immersive\",\n  \"title\": \"Immersive Museum Kochi開幕線索\",\n  \"region\": \"四國／高知\",\n  \"category\": \"展覽\",\n  \"announcementDate\": \"原公告日未確認\",\n  \"eventDate\": \"10/17–12/6線索\",\n  \"score\": 73,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.kochi-tabi.jp/search_event.html?id=18818\"\n    }\n  ],\n  \"why\": \"官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"關鍵事實未讀取，暫不評估。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\"\n}\n\n{\n  \"id\": \"nagoya-festival\",\n  \"title\": \"名古屋祭今日開始\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"祭典\",\n  \"announcementDate\": \"之前已刊；本次讀官方索引\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 75,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 12,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.nagoya-info.jp/event/\"\n    }\n  ],\n  \"why\": \"10/14已選過；今日未核實額外進展，不重複佔名額。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：10/14已選過；今日未核實額外進展，不重複佔名額。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"10/14已選過；今日未核實額外進展，不重複佔名額。\"\n}\n\n{\n  \"id\": \"family-socks\",\n  \"title\": \"FamilyMart聯名襪子與手帕\",\n  \"region\": \"全日本／網路\",\n  \"category\": \"便利商店／購物\",\n  \"announcementDate\": \"官方索引10/16\",\n  \"eventDate\": \"10/16網路販售線索\",\n  \"score\": 50,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 8,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 1\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.family.co.jp/company/news_releases/2026.html\"\n    }\n  ],\n  \"why\": \"只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\"\n}\n\n{\n  \"id\": \"hokuriku-etc\",\n  \"title\": \"北陸高速5站ETC專用化\",\n  \"region\": \"北陸／石川富山\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"11–12月\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 15,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 7,\n    \"實用性\": 13,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 3,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148527.html\"\n    }\n  ],\n  \"why\": \"昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\"\n}\n\n【今日首選】\n{\n  \"id\": \"shinkansen-fare-2027\",\n  \"title\": \"新幹線明年調價：指定席看購買日，綠色車廂看乘車日\",\n  \"score\": 88,\n  \"reason\": \"日期基準差異是具體資訊鉤子，台灣跨城旅客可收藏或轉給旅伴；費用與票種也有討論空間。這是編輯預估，不保證流量。\",\n  \"versusSecond\": \"大阪交通題今天非常急，適合上午先發；新幹線費用涉及更廣行程和較長生命週期，推薦作當日主要內容。\",\n  \"publishAt\": \"台灣12:00（編輯建議）\",\n  \"audience\": \"規劃2027年日本跨城行程的自由行與親子旅客\",\n  \"lifecycle\": \"1個月以上\"\n}\n\n【明天追蹤】\n[\n  {\n    \"title\": \"淀川花火散場及交通\",\n    \"next\": \"今天晚間至明天看官方解除與車站公告，不預測一定延誤。\",\n    \"sources\": [\n      {\n        \"label\": \"警方\",\n        \"url\": \"https://www.police.pref.osaka.lg.jp/topics/24860.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"大沼10/18活動時間\",\n    \"next\": \"確認主辦最終時間與是否異動，未解決18:00／17:30差異前不作行程承諾。\",\n    \"sources\": [\n      {\n        \"label\": \"主辦窗口公告\",\n        \"url\": \"https://www.ohnumakotsu.com/blog/archives/1990\"\n      }\n    ]\n  },\n  {\n    \"title\": \"新幹線平台票價規則\",\n    \"next\": \"觀察平台有無公布2027適用條件，不把一般查詢頁當已確認新票價。\",\n    \"sources\": [\n      {\n        \"label\": \"JR原文\",\n        \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n      }\n    ]\n  },\n  {\n    \"title\": \"ANA促銷餘位與條件\",\n    \"next\": \"10/22截止前依實際日期重新查詢，不保證最低價庫存。\",\n    \"sources\": [\n      {\n        \"label\": \"ANA\",\n        \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n      }\n    ]\n  }\n]\n\n【研究限制】\n日文優先；亦搜尋英文Japan travel October 16 2026 news shinkansen及繁中平台與社群。掃描北海道、東北、關東、北陸、中部、關西、中國四國、九州沖繩，未每區取得可發布事件。ANA官方未列國籍限制，但未實測海外卡支付，不保證所有使用者成功。原公告未標時間者不推算精確24小時。淀川警方頁未標原公布日期，依今天實施例外納入。大沼主辦海報無法讀取，不選一個衝突時間當真。部分平台頁為快取：KKday與Klook只核對路線入口，不引用舊日期價格、不保證2027開賣；Trip頁異常站名不採推薦。Booking無自然必要商品不硬填。各候選分潤判斷不代表收入，尚未評估不當作低。草稿與分潤留言分離；有唯一已核對KKday入口時由既有網站程式依使用者授權帶入cid=25165，不改研究原始網址。",
+  "fullText": "日本每日內容雷達\n日期：2026-10-17\n截止：2026-10-17 10:01 Asia/Taipei（日本11:01 JST）\n\n【今天日本發生什麼？】\n本期比較15個候選，完整交付4題；其餘日期、交叉查核、活動時刻矛盾或重複消息未過關，不湊10題。\n新幹線調價為10/16新公告，但指定席與綠色車廂使用不同生效基準。\n大阪今天花火交通管制，部分區域日本13時起，非所有道路同時封閉。\nANA國內線促銷已開始，需把選位、行李、改退條件一起比較。\nS0新幹線預定2029年7月上路，GOA2仍有駕駛，不是已營運無人列車。\n大沼花火兩來源時刻有差異，主辦海報讀取未成功，暫列待追不推薦確定時刻。\n沒有取得合格近期雙作者社群互動樣本；本期是編輯排序，無法建立Threads實測熱榜。\n\n【候選池與評分紀錄】\n八項滿分依序20/20/15/15/10/10/5/5；星等與分數均編輯預估。先比15題的來源、時效與用途，再選4題；未入選者只是初評，不等於已完成事實查核。排序除分數亦考慮行動急迫：大阪當日管制優先於未來新車。媒體整理不是第二次獨立採訪，同稿轉載不計獨立證據。\n\n{\n  \"id\": \"shinkansen-fare-2027\",\n  \"title\": \"新幹線明年調價：指定席看購買日，綠色車廂看乘車日\",\n  \"region\": \"關東、中部、關西、中國、九州／東海道山陽新幹線\",\n  \"category\": \"交通／票券\",\n  \"announcementDate\": \"官方2026/10/16；媒體15:45 JST\",\n  \"eventDate\": \"指定席2027/7/1購買起；綠色車廂2027/12/15乘車起\",\n  \"score\": 88,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"JR東海與JR西日本聯合公告\",\n      \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148818.html\"\n    }\n  ],\n  \"why\": \"範圍及兩種日期基準容易誤讀，適合收藏給明年行程使用。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可銜接路線與票種比較，但明年生效，不催促買尚未開賣的車票。\",\n    \"products\": [\n      \"交通比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"正在排日本交通的人，可比較實際路線、日期與票種；新聞中的未來調整不代表現在就能購買未來日期車票，也不保證任何平台最低價。\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀東京→新大阪頁，但部分內容出現錯誤站名Paris；不列確定推薦，勿依快取班表安排。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題為鐵路調價，沒有自然必要的住宿商品，不硬放Booking住宿。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。\",\n      \"pages\": [\n        {\n          \"title\": \"東京→新大阪車票查詢（非保證2027可售）\",\n          \"url\": \"https://www.kkday.com/zh-tw/transportation/japan-rail/shinkansen/jp-tokyo-rail-to-jp-shin-osaka-rail\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"供讀者依真正旅行日期比較票種，不是未來價格保證。\",\n          \"checks\": \"頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。\",\n          \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已核對起訖站的查詢入口，不引用快取價格，不代表所有日期開賣。\",\n      \"pages\": [\n        {\n          \"title\": \"東京→新大阪車票查詢（非保證2027可售）\",\n          \"url\": \"https://www.klook.com/zh-TW/japan-rail/shinkansen/28-tokyo/29-osaka/\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"供讀者依真正旅行日期比較票種，不是未來價格保證。\",\n          \"checks\": \"頁面含快取日期與範例價格，需重選乘車日；核對車種、座席、退改、服務費及分潤資格。不能承諾2027可售。\",\n          \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"新幹線 値上げ 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"新幹線 値上げ 2026年10月16日 site:facebook.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"affiliateResearch\": [\n    {\n      \"url\": \"https://tw.trip.com/trains/japan/route/tokyo-to-shin-osaka/\",\n      \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n      \"result\": \"路線頁部分站名異常，不採推薦\"\n    }\n  ]\n}\n\n{\n  \"id\": \"yodogawa-traffic-today\",\n  \"title\": \"大阪今天看花火，也要看下午起的交通管制\",\n  \"region\": \"關西／大阪十三、塚本、梅田周邊\",\n  \"category\": \"交通／花火\",\n  \"announcementDate\": \"警方頁未標原公告日；媒體10/16 16:30 JST\",\n  \"eventDate\": \"2026/10/17約16–23時，部分13時起（JST）\",\n  \"score\": 84,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"大阪府警交通公告\",\n      \"url\": \"https://www.police.pref.osaka.lg.jp/topics/24860.html\"\n    },\n    {\n      \"label\": \"Travel Watch交叉核對\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148521.html\"\n    }\n  ],\n  \"why\": \"已在大阪的旅客今天就受影響，優先提醒避免趕車誤判。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天實施；原公告日期不明，非今天新宣布\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當日交通提醒，不能為了分潤推未確認觀覽席或接送時效。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"淀川花火 2026 site:threads.com OR site:instagram.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"ana-domestic-oct-sale\",\n  \"title\": \"ANA日本國內線促銷：有23kg行李，但不能提前選位或改票\",\n  \"region\": \"全日本／日本國內航空\",\n  \"category\": \"航空／優惠\",\n  \"announcementDate\": \"促銷10/16開始；媒體10/16 12:03 JST，原預告日未確認\",\n  \"eventDate\": \"售票10/16–22 23:59 JST；搭乘12/1–2027/3/27\",\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"ANA活動條件\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148705.html\"\n    }\n  ],\n  \"why\": \"把價格與親子選位限制一起說清楚，幫冬季日本多城旅客判斷。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸國內線與鐵路總成本比較；ANA官網促銷不等於其他平台同價。\",\n    \"products\": [\n      \"交通比較\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"若正在比較日本國內移動，請把託運行李、機場接駁和取消條件一起計算；其他平台不保證適用ANA官網促銷。\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得能確認適用本次ANA官網促銷的商品，不將一般航班或住宿頁當促銷連結。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"ANA タイムセール 10月16日 site:threads.com OR site:x.com\",\n      \"ANA タイムセール 2026 site:instagram.com OR site:youtube.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"jr-s0-2029\",\n  \"title\": \"新幹線S0系公布：2029年7月預定上路，自動運轉仍有駕駛\",\n  \"region\": \"關東、中部、關西、中國、九州／東海道山陽新幹線\",\n  \"category\": \"交通／新設施\",\n  \"announcementDate\": \"官方10/16；媒體10/16 16:49 JST\",\n  \"eventDate\": \"2028/8試驗車；2029/7預定營運\",\n  \"score\": 84,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 14,\n    \"實用性\": 9,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"JR東海原始公告\",\n      \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046070.pdf\"\n    },\n    {\n      \"label\": \"Travel Watch整理\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148855.html\"\n    }\n  ],\n  \"why\": \"車頭與車內規劃有視覺吸引力，須說清楚是未來新車。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時；原公告未標時刻者不精確推定24小時\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:30（編輯建議）\",\n  \"verification\": \"官方原文與媒體交叉核對；媒體公告整理不當成第二次獨立採訪。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"2029年預定新車，不能把現有車票當成S0體驗。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"熱度未確認：未取得48小時內兩位不同作者、發布時間及讚與留言均可核對的自然貼文。\",\n    \"queries\": [\n      \"S0系 site:threads.com OR site:x.com\",\n      \"S0 新幹線 2026 10月16日 site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  }\n}\n\n{\n  \"id\": \"onuma-halloween\",\n  \"title\": \"大沼紅葉萬聖夜\",\n  \"region\": \"北海道／七飯\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"官方9/16；地方媒體10/15、16\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 11,\n    \"實用性\": 11,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.ohnumakotsu.com/blog/archives/1990\"\n    },\n    {\n      \"label\": \"官方觀光頁（18:00）\",\n      \"url\": \"https://www.hakobura.jp/events/243\"\n    },\n    {\n      \"label\": \"地方媒體（17:30）\",\n      \"url\": \"https://hakodate-event.com/2026/10/archives/49593\"\n    }\n  ],\n  \"why\": \"官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [\n      \"大沼 2026 ハロウィン site:instagram.com OR site:facebook.com\"\n    ],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"官方觀光頁花火18:00、地方媒體17:30有衝突；主辦海報無法讀取，暫不產生可發布草稿。\"\n}\n\n{\n  \"id\": \"kazuno-guide\",\n  \"title\": \"八幡平大沼免費導覽\",\n  \"region\": \"東北／鹿角\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"原公告日未標\",\n  \"eventDate\": \"10/17 9:30–15:00 JST\",\n  \"score\": 62,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 6,\n    \"實用性\": 10,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 1\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://explorekazuno.jp/event/onuma-guide202610/\"\n    }\n  ],\n  \"why\": \"只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"只有官方來源；當日20名先到、已開始，剩餘名額與語言服務未確認。\"\n}\n\n{\n  \"id\": \"eggs-halloween\",\n  \"title\": \"Eggs n Things萬聖節鬆餅\",\n  \"region\": \"各地／含名古屋\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"10/8\",\n  \"eventDate\": \"10/16–31\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.eggsnthingsjapan.com/mozo/news/261008.html\"\n    }\n  ],\n  \"why\": \"公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"公告超過7天、昨日開始，無今天新進展或可驗證社群爆紅，依嚴格時效不入選。\"\n}\n\n{\n  \"id\": \"quil-anniversary\",\n  \"title\": \"Quil Fait Bon35周年甜點\",\n  \"region\": \"各地／京都大阪仙台名古屋福岡等\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"官方頁原發布日待確認\",\n  \"eventDate\": \"10/16–11/15\",\n  \"score\": 64,\n  \"scoreBreakdown\": {\n    \"即時性\": 11,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.quil-fait-bon.com/blogs/news/35e-anniversaire\"\n    }\n  ],\n  \"why\": \"昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"昨日開跑但原公告日期與逐品價目未完整核對，不把網頁抓取日期當公布日。\"\n}\n\n{\n  \"id\": \"uniqlo-peanuts\",\n  \"title\": \"UNIQLO史努比冬季服飾\",\n  \"region\": \"全日本\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"12月，詳細日期待核\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 9,\n    \"實用性\": 8,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148731.html\"\n    }\n  ],\n  \"why\": \"尚未完整核對品牌原始上市頁與各品項日期。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：尚未完整核對品牌原始上市頁與各品項日期。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"尚未完整核對品牌原始上市頁與各品項日期。\"\n}\n\n{\n  \"id\": \"disney-monsters\",\n  \"title\": \"迪士尼商店怪獸電力公司25周年商品\",\n  \"region\": \"全日本／指定通路\",\n  \"category\": \"購物／IP\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"販售細節待官方核對\",\n  \"score\": 67,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 10,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148687.html\"\n    }\n  ],\n  \"why\": \"未完成品牌官方日期、通路與庫存交叉查核。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：未完成品牌官方日期、通路與庫存交叉查核。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"未完成品牌官方日期、通路與庫存交叉查核。\"\n}\n\n{\n  \"id\": \"alohaisai\",\n  \"title\": \"沖繩ALOHAISAI\",\n  \"region\": \"沖繩\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"官方7月公告\",\n  \"eventDate\": \"10/16–18\",\n  \"score\": 55,\n  \"scoreBreakdown\": {\n    \"即時性\": 10,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://kariyushi-oceanspa.jp/topics/2026/07/event-5959/\"\n    }\n  ],\n  \"why\": \"已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"已讀官方但未完成第二來源與參與資格核對；舊公告不包裝新消息。\"\n}\n\n{\n  \"id\": \"kochi-immersive\",\n  \"title\": \"Immersive Museum Kochi開幕線索\",\n  \"region\": \"四國／高知\",\n  \"category\": \"展覽\",\n  \"announcementDate\": \"原公告日未確認\",\n  \"eventDate\": \"10/17–12/6線索\",\n  \"score\": 73,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 10,\n    \"實用性\": 9,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.kochi-tabi.jp/search_event.html?id=18818\"\n    }\n  ],\n  \"why\": \"官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"關鍵事實未讀取，暫不評估。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本題適用的已確認商品；不以平台首頁代替。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"官方及另一活動頁正文讀取失敗，只有索引，不製造票價或售票資訊。\"\n}\n\n{\n  \"id\": \"nagoya-festival\",\n  \"title\": \"名古屋祭今日開始\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"祭典\",\n  \"announcementDate\": \"之前已刊；本次讀官方索引\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 75,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 12,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.nagoya-info.jp/event/\"\n    }\n  ],\n  \"why\": \"10/14已選過；今日未核實額外進展，不重複佔名額。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：10/14已選過；今日未核實額外進展，不重複佔名額。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"10/14已選過；今日未核實額外進展，不重複佔名額。\"\n}\n\n{\n  \"id\": \"family-socks\",\n  \"title\": \"FamilyMart聯名襪子與手帕\",\n  \"region\": \"全日本／網路\",\n  \"category\": \"便利商店／購物\",\n  \"announcementDate\": \"官方索引10/16\",\n  \"eventDate\": \"10/16網路販售線索\",\n  \"score\": 50,\n  \"scoreBreakdown\": {\n    \"即時性\": 16,\n    \"台灣旅客相關性\": 8,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 1\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://www.family.co.jp/company/news_releases/2026.html\"\n    }\n  ],\n  \"why\": \"只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"只有公司新聞索引，未核對商品頁與外國旅客收貨條件。\"\n}\n\n{\n  \"id\": \"hokuriku-etc\",\n  \"title\": \"北陸高速5站ETC專用化\",\n  \"region\": \"北陸／石川富山\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"媒體10/16\",\n  \"eventDate\": \"11–12月\",\n  \"score\": 63,\n  \"scoreBreakdown\": {\n    \"即時性\": 15,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 7,\n    \"實用性\": 13,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 3,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀來源或讀取受限的查找入口\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2148527.html\"\n    }\n  ],\n  \"why\": \"昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依上述公告日期；未通過本期時效／查核篩選\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或新進展再判斷\",\n  \"verification\": \"尚未達可發布查核：昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"本期與直接預訂關係薄弱，活動已開始或商品條件未確認，不硬推。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對可售日期、起訖站、票種、服務費、退款與分潤資格；不保證餘位或價格。\",\n    \"assessedOn\": \"2026-10-17\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"本題以消息或行前提醒為主，無自然且已確認的預訂商品。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-17T10:01:00+08:00\",\n    \"summary\": \"本題尚未取得可計分原始社群樣本。\",\n    \"queries\": [],\n    \"evidence\": [],\n    \"leads\": []\n  },\n  \"exclusionReason\": \"昨日候選仍未補齊逐站實施時間與官方原文；不宣稱已完成。\"\n}\n\n【今日首選】\n{\n  \"id\": \"shinkansen-fare-2027\",\n  \"title\": \"新幹線明年調價：指定席看購買日，綠色車廂看乘車日\",\n  \"score\": 88,\n  \"reason\": \"日期基準差異是具體資訊鉤子，台灣跨城旅客可收藏或轉給旅伴；費用與票種也有討論空間。這是編輯預估，不保證流量。\",\n  \"versusSecond\": \"大阪交通題今天非常急，適合上午先發；新幹線費用涉及更廣行程和較長生命週期，推薦作當日主要內容。\",\n  \"publishAt\": \"台灣12:00（編輯建議）\",\n  \"audience\": \"規劃2027年日本跨城行程的自由行與親子旅客\",\n  \"lifecycle\": \"1個月以上\"\n}\n\n【明天追蹤】\n[\n  {\n    \"title\": \"淀川花火散場及交通\",\n    \"next\": \"今天晚間至明天看官方解除與車站公告，不預測一定延誤。\",\n    \"sources\": [\n      {\n        \"label\": \"警方\",\n        \"url\": \"https://www.police.pref.osaka.lg.jp/topics/24860.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"大沼10/18活動時間\",\n    \"next\": \"確認主辦最終時間與是否異動，未解決18:00／17:30差異前不作行程承諾。\",\n    \"sources\": [\n      {\n        \"label\": \"主辦窗口公告\",\n        \"url\": \"https://www.ohnumakotsu.com/blog/archives/1990\"\n      }\n    ]\n  },\n  {\n    \"title\": \"新幹線平台票價規則\",\n    \"next\": \"觀察平台有無公布2027適用條件，不把一般查詢頁當已確認新票價。\",\n    \"sources\": [\n      {\n        \"label\": \"JR原文\",\n        \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n      }\n    ]\n  },\n  {\n    \"title\": \"ANA促銷餘位與條件\",\n    \"next\": \"10/22截止前依實際日期重新查詢，不保證最低價庫存。\",\n    \"sources\": [\n      {\n        \"label\": \"ANA\",\n        \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n      }\n    ]\n  }\n]\n\n【研究限制】\n日文優先；亦搜尋英文Japan travel October 16 2026 news shinkansen及繁中平台與社群。掃描北海道、東北、關東、北陸、中部、關西、中國四國、九州沖繩，未每區取得可發布事件。ANA官方未列國籍限制，但未實測海外卡支付，不保證所有使用者成功。原公告未標時間者不推算精確24小時。淀川警方頁未標原公布日期，依今天實施例外納入。大沼主辦海報無法讀取，不選一個衝突時間當真。部分平台頁為快取：KKday與Klook只核對路線入口，不引用舊日期價格、不保證2027開賣；Trip頁異常站名不採推薦。Booking無自然必要商品不硬填。各候選分潤判斷不代表收入，尚未評估不當作低。草稿與分潤留言分離；有唯一已核對KKday入口時由既有網站程式依使用者授權帶入cid=25165，不改研究原始網址。\n\n【各題完整草稿】\n新幹線明年調價：指定席看購買日，綠色車廂看乘車日\n1/3\n明年搭東京—新大阪新幹線，先分清楚兩個日期：指定席特急料金調整看「購買日」，綠色車廂調整看「乘車日」。\n\nJR東海與JR西日本10/16公告：前者2027/7/1購入分起，後者2027/12/15乘車分起。這不是今天就漲價，也不是所有新幹線、所有票種一起調整。\n\n2/3\n這次指定席特急料金調整對象是東海道、山陽新幹線的Nozomi與Mizuho；東京—新大阪的調整額為成人單程700日圓。普通車自由席的特急料金此次不調整。\n\n綠色車廂費用則涉及這兩條新幹線的全部列車。不要把「自由席不調整」理解成所有列車都有自由席，更不能當作保證有座位。\n\n3/3\n正在排2027行程，把購買日、乘車日、車種、座位等級一起核對，再比較總價。周遊券、優惠票和平台方案各有條件，不直接拿一般票價表推算。\n\n本次公告也不代表現在就能鎖定所有明年車票；等你的日期開放販售，再核對實際方案。先把這張日期提醒傳給負責交通的旅伴。\n官方：https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\n{\"angles\":[{\"name\":\"日期\",\"opening\":\"新幹線明年調價，兩個生效日期不能混寫。\"},{\"name\":\"範圍\",\"opening\":\"Nozomi指定席調整，不等於全日本新幹線一起漲。\"},{\"name\":\"預算\",\"opening\":\"東京—新大阪單程調整700日圓，先看適用票種。\"},{\"name\":\"選位\",\"opening\":\"自由席此次不調整，也不保證每班有自由席。\"},{\"name\":\"行程\",\"opening\":\"2027交通預算，先把購票日和乘車日拆開。\"}],\"images\":[{\"description\":\"自行整理兩種生效日期；引用費表須保留票種、單位及官方來源，商用權另查。\",\"url\":\"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"}],\"extensions\":[\"可延伸商業內容：交通方案比較，不能承諾未來票價或平台促銷適用。\"]}\n分潤留言：正在排日本交通的人，可比較實際路線、日期與票種；新聞中的未來調整不代表現在就能購買未來日期車票，也不保證任何平台最低價。\n【範本／待填或選擇實際分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n大阪今天看花火，也要看下午起的交通管制\n1/3\n今天10/17在大阪，就算不看淀川花火，也要留意十三、塚本及梅田周邊交通。\n\n大阪府警公告，日本時間約16:00～23:00管制，部分區域13:00就開始。這是道路管制時段，不是花火施放時間，也不代表每條路都同時封閉。\n\n2/3\n會場周邊道路禁止停車，警方請旅客不要開私家車前往；國道2號、176號及淀川通也可能壅塞。\n\n十三大橋不能停下來看花火。租車或搭計程車的人，先把上下車位置與路線交給駕駛確認；搭鐵路則查車站公告，別把平常的轉乘時間當成今天一定做得到。\n\n3/3\n今晚要趕飛機、長途列車或有訂位的人，現在就重查出發時間及集合地點。管制可依現場情況調整，不能把23:00理解成保證立刻暢通。\n\n本篇是交通提醒，不保證觀覽席或臨時車次。看警方管制圖並跟隨現場引導，比照舊遊記走更可靠。\n警方公告：https://www.police.pref.osaka.lg.jp/topics/24860.html\n{\"angles\":[{\"name\":\"行前\",\"opening\":\"今天不看花火，也可能遇到大阪交通管制。\"},{\"name\":\"範圍\",\"opening\":\"16點管制不是花火開始時間，部分區域13點已開始。\"},{\"name\":\"自駕\",\"opening\":\"今晚開車去十三，先看管制圖再出發。\"},{\"name\":\"回程\",\"opening\":\"23點不是保證道路立刻恢復暢通。\"},{\"name\":\"觀覽\",\"opening\":\"十三大橋不能停下看花火，別照舊遊記走。\"}],\"images\":[{\"description\":\"警方管制圖；標示日期、區域與時間，圖片使用規則另查。\",\"url\":\"https://www.police.pref.osaka.lg.jp/topics/24860.html\"}],\"extensions\":[\"本期不硬推分潤商品。\"]}\n分潤留言：不硬加分潤留言。\n\nANA日本國內線促銷：有23kg行李，但不能提前選位或改票\n1/3\n冬天想在日本多玩一個城市，ANA國內線促銷可以比較，但親子同行先看選位規則：這個促銷票不能事先選位，也不能改票。\n\n販售到10/22日本23:59，適用搭乘日為2026/12/1～2027/3/27。這是日本國內線，不能當作台灣飛日本的國際線優惠。\n\n2/3\n票種包含1件、每件23kg的免費託運行李；選位從出發前24小時線上報到時，依剩餘座位選擇，不保證家人一定坐一起。\n\n退款須付費，預約後付款期限是當天23:59。日期、路線和班次有限，不是期間內每班都有促銷座位；本篇不保證你查詢時仍有最低票價。\n\n3/3\n先在ANA活動頁輸入確定日期與人數，看最後總價和退票費，再與鐵路及機場接駁成本比較。需要彈性改行程或保證相鄰座位的人，尤其要比較其他票種。\n\n活動是官網限定，其他平台出現同航班不代表同樣促銷條件。海外信用卡與旅客資料請依訂購頁確認，不先假設一定付款成功。\n官方：https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\n{\"angles\":[{\"name\":\"親子\",\"opening\":\"ANA促銷票有行李，但不能提前選相鄰座位。\"},{\"name\":\"時間\",\"opening\":\"10/22售票截止，搭乘是12月到明年3月。\"},{\"name\":\"彈性\",\"opening\":\"不能改票，低票價適不適合要看行程確定度。\"},{\"name\":\"成本\",\"opening\":\"日本國內線與鐵路比價，別漏機場接駁。\"},{\"name\":\"通路\",\"opening\":\"同航班不同通路，不代表同促銷條件。\"}],\"images\":[{\"description\":\"售票與搭乘日期對照、行李及選位條件卡；官網圖使用權另查。\",\"url\":\"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"}],\"extensions\":[\"可延伸商業內容：交通方案比較，不能承諾未來票價或平台促銷適用。\"]}\n分潤留言：若正在比較日本國內移動，請把託運行李、機場接駁和取消條件一起計算；其他平台不保證適用ANA官網促銷。\n【範本／待填或選擇實際分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n新幹線S0系公布：2029年7月預定上路，自動運轉仍有駕駛\n1/3\n新幹線下一代車型叫S0系，預定2029年7月開始營運。現在看到新車照片，還不能排進這次日本行。\n\nJR東海10/16公布計畫，2028年8月先投入確認試驗車。官方說的自動運轉是GOA2，仍有駕駛在駕駛室值勤，不是完全無人列車。\n\n2/3\n對帶行李或孩子的旅客，值得看的不只有車頭：計畫把車廂出入口行李置放處由6處增加至9處，擴大行李架，並在加大的女性廁所內設置嬰兒床。\n\n綠色車廂也規劃不同座椅類型、整理儀容空間與通訊改善。這些是新車規劃，不能當成今天所有N700系列都已有的設備。\n\n3/3\n新車預計分批投入，不是2029年7月起每一班都換成S0。想專程搭乘，等正式運用列車、訂票方式與設備規則公布再安排行程。\n\n現有車票不保證搭到S0，宣傳圖片也請標示示意。你更在意新車外型，還是行李空間和親子設備？\nJR東海：https://jr-central.co.jp/news/release/_pdf/000046070.pdf\n{\"angles\":[{\"name\":\"消息\",\"opening\":\"S0系新幹線公布，預定2029年7月營運。\"},{\"name\":\"釐清\",\"opening\":\"自動運轉仍有駕駛，不是無人新幹線。\"},{\"name\":\"行李\",\"opening\":\"新車規劃增加行李置放處，帶行李旅客可追。\"},{\"name\":\"親子\",\"opening\":\"比新車外型更實用的，是親子與廁所設備規劃。\"},{\"name\":\"訂票\",\"opening\":\"現在買票不能保證搭S0，先等正式列車資訊。\"}],\"images\":[{\"description\":\"官方車型與設備示意圖，標示預計導入年份及示意，商用權另查。\",\"url\":\"https://jr-central.co.jp/news/release/_pdf/000046070.pdf\"}],\"extensions\":[\"本期不硬推分潤商品。\"]}\n分潤留言：不硬加分潤留言。"
+}
