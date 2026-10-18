@@ -1,0 +1,1963 @@
+{
+  "date": "2026-10-18",
+  "cutoff": "2026-10-18 10:12 Asia/Taipei（日本11:12 JST）",
+  "trends": [
+    "已查證：定山溪10/18觀測多處褪色，賞楓預測不能代替今日現況。",
+    "已查證：名古屋10/18免費開放有場館及展覽範圍限制，停車不一併免費。",
+    "已查證：熊本機場列出台中線10/25–31每日班次；後續日期訂票時重查。",
+    "已查證：那覇國際通今天10–22時管制，住宿接送需確認入口。",
+    "編輯觀察：今日以即時行程修正為主，商業延伸最自然的是熊本交通，其次定山溪泡湯。",
+    "研究限制：15個候選中僅4題完成可發布查核，不湊10題；其他為初評或重複消息。",
+    "社群限制：無合格雙作者近期互動樣本，無法建立本期實測熱榜；目前是編輯內容排序。"
+  ],
+  "top10": [
+    {
+      "id": "jozankei-leaves-oct18",
+      "title": "定山溪10/18葉況已褪色，先看實況再排賞楓",
+      "region": "北海道／札幌定山溪",
+      "category": "季節情報",
+      "announcementDate": "觀光協會葉況更新10/18；原頁建立日未確認",
+      "eventDate": "10/18葉況觀測",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "定山溪觀光協會當日葉況",
+          "url": "https://jozankei.jp/news/kouyouinfo2026/"
+        },
+        {
+          "label": "Weathernews 10/17觀測",
+          "url": "https://www.weathernews.jp/koyo/spot/21408/"
+        }
+      ],
+      "why": "對近期賞楓行程直接有用，避免把預測日期當成今日現況。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天觀測更新，非今天首度公告",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 協會10/18溫泉街、豐平峽、奧定山溪、八劍山小金湯列褪色，札幌國際列落葉開始；Weathernews10/17是另一日期且引用地方回報，不視為完全獨立調查。照片有10/16等日期，不說全為今天拍攝。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接泡湯與住宿替代安排，但旅客可能已訂行程，不能承諾商品仍有滿山紅葉。",
+        "products": [
+          "溫泉餐食體驗",
+          "定山溪住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果把定山溪改排成泡湯與用餐行程，可以比較這些方案；先確認日期、餐食和接送，紅葉景觀不在保證範圍。",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪溫泉飯店比較列表",
+              "url": "https://sg.trip.com/toplist/tripbest/recommend/jozankei-onsen/best-hot-spring-hotels/100200321138/",
+              "kind": "住宿列表",
+              "reason": "同地區泡湯住宿替代安排",
+              "checks": "不引用快取排名或價格；查實際日期、餐食、接送與取消條件。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪溫泉住宿列表",
+              "url": "https://www.booking.com/onsen/city/jp/jozankei-jp.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "比較定山溪住宿位置",
+              "checks": "附近地區也可能混列，逐間核對地址；不保證有房或含餐。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "森之歌溫泉、午餐自助餐與交通方案",
+              "url": "https://www.kkday.com/zh-tw/product/24191-mori-no-uta-hotel-onsen-experience-with-lunch-buffet-transportation-hokkaido",
+              "kind": "商品頁",
+              "reason": "適合未來日期泡湯備案",
+              "checks": "頁列2026/4/1–2027/3/31；確認需兩日、不可取消及換券。今天9:35出發時間已過，不推今天即買即用。查實際餘位。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪森之歌溫泉與餐食方案",
+              "url": "https://www.klook.com/zh-CN/activity/120500-jozankei-natural-hot-spring-experience-in-hokkaido-with-dinner/",
+              "kind": "商品頁",
+              "reason": "同地區溫泉餐食比較",
+              "checks": "頁面標題附晚餐、內文鍋物方案；用餐時段依選案確認，公共巴士自費，不能當作與KKday午餐接送相同。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "定山溪 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc",
+          "定山溪 紅葉 site:facebook.com OR site:instagram.com 2026",
+          "定山渓 紅葉 2026 10月17 site:x.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "這週去定山溪，先看10/18的葉況，再決定把多少時間留給賞楓。\n\n定山溪觀光協會今天已把溫泉街、豐平峽水壩等地列為「褪色進行中」，札幌國際滑雪場則是「開始落葉」。這是當地當日回報，不是「接下來正要進入最盛期」的預測。",
+          "不要把定山溪當成一整片同步變色的森林。不同高度與地點會有差異，觀光協會的指標也是管理者觀察，不能換算成精確剩餘百分比。\n\n另一個葉況頁Weathernews在10/17已列落葉中；兩頁日期與尺度不同，不能混成同一次調查。官網照片也有10/16等拍攝日期，不全是今天的畫面。",
+          "已訂好行程的人，可以保留散步，再把泡湯或用餐當備案，不必只為「滿山紅葉」把時間排滿。出發前看最新照片、天氣與交通，纜車或巴士另查當日運行。\n\n這份提醒只針對定山溪一帶，不代表全北海道賞楓都結束。訂任何體驗，也先確認日期、餐食與接送是否包含。\n官方葉況：https://jozankei.jp/news/kouyouinfo2026/"
+        ],
+        "angles": [
+          {
+            "name": "現況",
+            "opening": "定山溪10/18已列褪色，這週賞楓先看實況。"
+          },
+          {
+            "name": "避雷",
+            "opening": "官網照片不是每張都今天拍，日期也要一起看。"
+          },
+          {
+            "name": "行程",
+            "opening": "已訂定山溪，賞楓之外可以怎麼留備案？"
+          },
+          {
+            "name": "區域差異",
+            "opening": "一處開始落葉，不等於整個北海道都結束。"
+          },
+          {
+            "name": "閱讀資訊",
+            "opening": "賞楓預測與當日觀測，不能當成同一件事。"
+          }
+        ],
+        "images": [
+          {
+            "description": "來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。",
+            "url": "https://jozankei.jp/news/kouyouinfo2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：泡湯與住宿備案，不能承諾紅葉景觀。"
+        ]
+      }
+    },
+    {
+      "id": "nagoya-free-oct18",
+      "title": "名古屋今天多處免費：常設展、特展與停車費要分開",
+      "region": "中部／名古屋",
+      "category": "活動／票券",
+      "announcementDate": "市府10/10更新、觀光局10/9更新；東山10/1公告",
+      "eventDate": "10/18限定免費；名古屋城等10/17–18",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "名古屋市免費設施清單",
+          "url": "https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html"
+        },
+        {
+          "label": "名古屋觀光局交叉清單",
+          "url": "https://www.nagoya-info.jp/news/detail/1437/"
+        },
+        {
+          "label": "白鳥庭園時間",
+          "url": "https://www.shirotori-garden.jp/calendar/nagoyamatsuri/index.html"
+        },
+        {
+          "label": "東山免費及停車限制",
+          "url": "https://www.higashiyama.city.nagoya.jp/news/2026/10/-81018.html"
+        }
+      ],
+      "why": "今天實施的免費場館比兩日免費清單更廣，適合已在當地的人。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：今天正式實施；10/14已介紹兩日活動，本期聚焦10/18限定場館",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 白鳥9–17、最後入園16:30 JST；東山停車仍收費；科學館與美術館限常設展。公告未列國籍或居住地限制，特殊活動另依規則。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當日免費入場不適合銜接一般付費門票；不為分潤推重複支出。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1789575132.A.C8A.html",
+            "label": "不同活動線索",
+            "reason": "亞運相關舊活動，不能套用名古屋祭免費日。"
+          }
+        ],
+        "queries": [
+          "名古屋 無料 2026 site:x.com OR site:threads.com",
+          "名古屋 無料開放 10月18 2026 site:facebook.com OR site:instagram.com OR site:ptt.cc",
+          "名古屋まつり 無料開放 2026 site:youtube.com OR site:dcard.tw"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天10/18在名古屋，東山動植物園、白鳥庭園等設施有免費開放。先看清楚範圍：科學館與美術館是常設展免費，不是所有展覽都免錢。\n\n名古屋城等是10/17、18兩天免費，另一些場館只有今天。不要把這份清單套到明天的行程。",
+          "如果想去白鳥庭園，今天日本時間9:00～17:00開園，最後入園16:30；園內茶會等另外收費或需依活動預約規則。\n\n東山動植物園與天空塔也列在今天免費範圍，但停車場仍收費。開放時間、最後入場與特殊活動各有規則，別因為免費就把所有場館排在同一個下午。",
+          "先選一兩個最想去的地方，再核對官網交通及入園時間。公告沒有列國籍或居住地限制；特殊活動、特展與停車仍依各自規定。\n\n這是名古屋祭的當日實施提醒，不是今天才宣布的新優惠。人在附近可直接調整路線，還沒到名古屋的人不用為了一天免費硬改跨城行程。\n市府清單：https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html"
+        ],
+        "angles": [
+          {
+            "name": "當日實用",
+            "opening": "名古屋今天多處免費，但不是所有展覽都免錢。"
+          },
+          {
+            "name": "花費範圍",
+            "opening": "東山今天免費入園，停車仍要付費。"
+          },
+          {
+            "name": "時間",
+            "opening": "白鳥庭園17點關園，16:30是最後入園。"
+          },
+          {
+            "name": "路線",
+            "opening": "一天免費清單很長，先挑一兩處就好。"
+          },
+          {
+            "name": "日期",
+            "opening": "名古屋10/18限定免費，不要排到明天。"
+          }
+        ],
+        "images": [
+          {
+            "description": "來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。",
+            "url": "https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html"
+          }
+        ],
+        "extensions": [
+          "以當日行前提醒為主，不硬塞付費商品。"
+        ]
+      }
+    },
+    {
+      "id": "taichung-kumamoto-winter2026",
+      "title": "台中—熊本10/25增為每日：先確認日期與兩地時間",
+      "region": "九州／熊本；台灣台中",
+      "category": "航空／交通",
+      "announcementDate": "KKT報導10/16 12:54 JST；增班最初公告日未確認",
+      "eventDate": "10/25起增班；機場已列10/25–31每日",
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "熊本機場國際線時刻表",
+          "url": "https://www.kumamoto-airport.co.jp/timetable-int/"
+        },
+        {
+          "label": "KKT原報導轉載（只計一則）",
+          "url": "https://news.livedoor.com/article/detail/32580961/"
+        },
+        {
+          "label": "航空公司路線訂票",
+          "url": "https://www.starlux-airlines.com/flights/zh/flights-from-taichung-to-kumamoto"
+        },
+        {
+          "label": "冬季班表交叉資料",
+          "url": "https://www.colatour.com.tw/webDM/airline/jx/tkt_starlux.html"
+        }
+      ],
+      "why": "每日班次對九州行程組合實用，但不是新航線，也不等於每日都有促銷價。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時內媒體再確認；原增班公告日期未確認，不稱首次宣布",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:00（編輯建議）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 機場10月表列JX316台中15:05→熊本18:15、317熊本19:15→台中21:05（各地時間）；10/25–31每日。可樂冬季表列至2027/3/27，但後續日期仍以航空公司實際班表為準。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "讀者可直接查航班與到達熊本後的接駁，仍有規劃時間；票價及接送條件需逐日確認。",
+        "products": [
+          "航班查詢",
+          "熊本機場接駁"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "班機日期確定後，再比較熊本機場進市區的交通；請核對上下車點、入境緩衝時間與票券效期。",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀台中—熊本航班查詢頁，但內文快取日期與班次描述有矛盾，不列已確認推薦；新聞班表以機場及航空公司為準。查找：https://tw.trip.com/flights/taichung-to-kumamoto/airfares-rmq-kmj/",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已嘗試熊本住宿列表，但正文僅JavaScript提示，未完成核對。查找：https://www.booking.com/city/jp/kumamoto.ja.html",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "熊本KMJ機場接送查詢",
+              "url": "https://www.kkday.com/zh-tw/trans/airport_transfer/airport/kmj-kumamoto-airport",
+              "kind": "交通查詢",
+              "reason": "確認機場進市區接送路線",
+              "checks": "依日期、飯店、乘客及行李重新報價；航班抵達後需入境時間，確認延誤等候規則。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "熊本機場往返巴士與Wakuwaku一日券",
+              "url": "https://www.klook.com/zh-TW/activity/142010-aso-kumamoto-airport-kumamoto-city-shuttle-bus-ticket-with-wakuwaku-1-day-pass/",
+              "kind": "商品頁",
+              "reason": "可比較公共交通組合",
+              "checks": "機場往返券與市內一日券效期不同；頁列機場券兌換後10日、市內券1日，方案區域另核對，不能當10日市區無限搭乘。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1787197480.A.BF4.html",
+            "label": "舊增班討論線索",
+            "reason": "搜尋為舊文，原文讀取失敗，不符48小時且無可核對互動。"
+          }
+        ],
+        "queries": [
+          "台中 熊本 site:threads.com OR site:ptt.cc OR site:dcard.tw 2026",
+          "熊本 台中 増便 2026 site:x.com OR site:facebook.com OR site:youtube.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "從台中出發玩九州，10/25起熊本線增為每日航班，排旅程不用只圍著每週三班安排。\n\n這是既有航線增班，不是新開航。熊本機場目前公布的10月班表，已列出10/25～31每日飛航；更後面的日期，訂票時再查航空公司的實際班表。",
+          "機場表列JX316台中15:05出發、熊本18:15抵達；回程JX317熊本19:15出發、台中21:05抵達。以上都是各地時間，日本比台灣快一小時。\n\n不能直接用兩個鐘面相減當飛行時間。晚間抵達也要把入境、領行李與進市區的時間算進去，再決定第一晚住哪裡。",
+          "查票時把來回日期、行李、改退條件與總價一起比較；每日有班機，不代表每天同價或仍有座位。班表也可能調整。\n\n需要預訂機場接駁的人，確認集合點、航班延誤處理與等候時間，不把18:15當成已能走出機場的時間。先決定落地當晚怎麼進市區，再接後面的阿蘇或熊本行程。\n官方班表：https://www.kumamoto-airport.co.jp/timetable-int/"
+        ],
+        "angles": [
+          {
+            "name": "航班彈性",
+            "opening": "台中—熊本10/25增每日，九州行程多一點彈性。"
+          },
+          {
+            "name": "時間",
+            "opening": "日本比台灣快一小時，班表不能只看鐘面相減。"
+          },
+          {
+            "name": "第一晚",
+            "opening": "18:15落地熊本，第一晚先想好怎麼進市區。"
+          },
+          {
+            "name": "訂票",
+            "opening": "每天飛，不代表每天同價。"
+          },
+          {
+            "name": "訊息辨識",
+            "opening": "這次是熊本線增班，不是新開航。"
+          }
+        ],
+        "images": [
+          {
+            "description": "來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。",
+            "url": "https://www.kumamoto-airport.co.jp/timetable-int/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：航班、機場進市區交通及第一晚住宿，逐日核對。"
+        ]
+      }
+    },
+    {
+      "id": "naha-eisa-traffic-oct18",
+      "title": "那覇國際通今天10:00–22:00管制，接送先改集合點",
+      "region": "沖繩／那覇國際通",
+      "category": "交通／活動",
+      "announcementDate": "JAL City酒店10/16公告；地方媒體10/17 06:36 JST",
+      "eventDate": "10/18 10:00–22:00 JST交通管制",
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "JAL City那覇原始交通提醒",
+          "url": "https://www.naha.jalcity.co.jp/6750/"
+        },
+        {
+          "label": "Hotel Collective接送提醒",
+          "url": "https://hotelcollective.jp/info/45663/"
+        },
+        {
+          "label": "地方媒體活動核對",
+          "url": "https://naha.goguynet.jp/2026/10/17/10000eisa/"
+        }
+      ],
+      "why": "即使不看Eisa，住國際通或今天去機場也會受影響。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "依公布與觀測日期，未標時刻不假定精確24小時",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 管制為縣廳北口至さいおん橋。媒體演出14–21與道路10–22不同；主活動官網讀取失敗，不延伸未確認節目。個別酒店可引導車輛，不推論所有旅館完全不能到。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當天管制提醒不適合直接推未確認上下車點的接送；多數旅客已訂住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "一万人 2026 site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天10/18住那覇國際通，就算不看Eisa，也先確認飯店接送與去機場的路線。\n\n酒店公告的道路交通管制是日本時間10:00～22:00，範圍從縣廳北口到さいおん橋。這是交通管制時段，不能當成演出時間或電車末班時間。",
+          "租車、計程車或接送車可能需要改走路線及調整上下車點。個別酒店有引導車輛進出的安排，但不能直接套用到整條國際通每一家飯店。\n\n今天退房的人，把飯店名稱、行李數量與航班時間告訴接送方，請對方確認能到的入口及集合位置；別只傳平常使用的地址就等車。",
+          "搭巴士也先查今天的最新改道公告，不照去年的活動資訊推算站點。若改搭單軌電車，仍要核對步行距離、行李與實際班次。\n\n管制結束也不等於道路立即完全暢通。需要趕飛機或訂位的人，現在就跟飯店確認備案，比到了街口才找車更安心。\n酒店交通公告：https://www.naha.jalcity.co.jp/6750/"
+        ],
+        "angles": [
+          {
+            "name": "接送",
+            "opening": "今天國際通管制到22點，先確認車在哪裡接。"
+          },
+          {
+            "name": "退房",
+            "opening": "住國際通今天退房，先把集合點問清楚。"
+          },
+          {
+            "name": "時間",
+            "opening": "道路管制與演出時間不同，別混在一起。"
+          },
+          {
+            "name": "交通",
+            "opening": "不看Eisa也可能遇到改道，去機場先重查。"
+          },
+          {
+            "name": "行動",
+            "opening": "把飯店與航班時間給接送方，確認能到的入口。"
+          }
+        ],
+        "images": [
+          {
+            "description": "來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。",
+            "url": "https://www.naha.jalcity.co.jp/6750/"
+          }
+        ],
+        "extensions": [
+          "以當日行前提醒為主，不硬塞付費商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "jozankei-leaves-oct18",
+      "title": "定山溪10/18葉況已褪色，先看實況再排賞楓",
+      "region": "北海道／札幌定山溪",
+      "category": "季節情報",
+      "announcementDate": "觀光協會葉況更新10/18；原頁建立日未確認",
+      "eventDate": "10/18葉況觀測",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "定山溪觀光協會當日葉況",
+          "url": "https://jozankei.jp/news/kouyouinfo2026/"
+        },
+        {
+          "label": "Weathernews 10/17觀測",
+          "url": "https://www.weathernews.jp/koyo/spot/21408/"
+        }
+      ],
+      "why": "對近期賞楓行程直接有用，避免把預測日期當成今日現況。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天觀測更新，非今天首度公告",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 協會10/18溫泉街、豐平峽、奧定山溪、八劍山小金湯列褪色，札幌國際列落葉開始；Weathernews10/17是另一日期且引用地方回報，不視為完全獨立調查。照片有10/16等日期，不說全為今天拍攝。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接泡湯與住宿替代安排，但旅客可能已訂行程，不能承諾商品仍有滿山紅葉。",
+        "products": [
+          "溫泉餐食體驗",
+          "定山溪住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果把定山溪改排成泡湯與用餐行程，可以比較這些方案；先確認日期、餐食和接送，紅葉景觀不在保證範圍。",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪溫泉飯店比較列表",
+              "url": "https://sg.trip.com/toplist/tripbest/recommend/jozankei-onsen/best-hot-spring-hotels/100200321138/",
+              "kind": "住宿列表",
+              "reason": "同地區泡湯住宿替代安排",
+              "checks": "不引用快取排名或價格；查實際日期、餐食、接送與取消條件。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪溫泉住宿列表",
+              "url": "https://www.booking.com/onsen/city/jp/jozankei-jp.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "比較定山溪住宿位置",
+              "checks": "附近地區也可能混列，逐間核對地址；不保證有房或含餐。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "森之歌溫泉、午餐自助餐與交通方案",
+              "url": "https://www.kkday.com/zh-tw/product/24191-mori-no-uta-hotel-onsen-experience-with-lunch-buffet-transportation-hokkaido",
+              "kind": "商品頁",
+              "reason": "適合未來日期泡湯備案",
+              "checks": "頁列2026/4/1–2027/3/31；確認需兩日、不可取消及換券。今天9:35出發時間已過，不推今天即買即用。查實際餘位。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "定山溪森之歌溫泉與餐食方案",
+              "url": "https://www.klook.com/zh-CN/activity/120500-jozankei-natural-hot-spring-experience-in-hokkaido-with-dinner/",
+              "kind": "商品頁",
+              "reason": "同地區溫泉餐食比較",
+              "checks": "頁面標題附晚餐、內文鍋物方案；用餐時段依選案確認，公共巴士自費，不能當作與KKday午餐接送相同。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "定山溪 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc",
+          "定山溪 紅葉 site:facebook.com OR site:instagram.com 2026",
+          "定山渓 紅葉 2026 10月17 site:x.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      }
+    },
+    {
+      "id": "nagoya-free-oct18",
+      "title": "名古屋今天多處免費：常設展、特展與停車費要分開",
+      "region": "中部／名古屋",
+      "category": "活動／票券",
+      "announcementDate": "市府10/10更新、觀光局10/9更新；東山10/1公告",
+      "eventDate": "10/18限定免費；名古屋城等10/17–18",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "名古屋市免費設施清單",
+          "url": "https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html"
+        },
+        {
+          "label": "名古屋觀光局交叉清單",
+          "url": "https://www.nagoya-info.jp/news/detail/1437/"
+        },
+        {
+          "label": "白鳥庭園時間",
+          "url": "https://www.shirotori-garden.jp/calendar/nagoyamatsuri/index.html"
+        },
+        {
+          "label": "東山免費及停車限制",
+          "url": "https://www.higashiyama.city.nagoya.jp/news/2026/10/-81018.html"
+        }
+      ],
+      "why": "今天實施的免費場館比兩日免費清單更廣，適合已在當地的人。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：今天正式實施；10/14已介紹兩日活動，本期聚焦10/18限定場館",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 白鳥9–17、最後入園16:30 JST；東山停車仍收費；科學館與美術館限常設展。公告未列國籍或居住地限制，特殊活動另依規則。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當日免費入場不適合銜接一般付費門票；不為分潤推重複支出。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1789575132.A.C8A.html",
+            "label": "不同活動線索",
+            "reason": "亞運相關舊活動，不能套用名古屋祭免費日。"
+          }
+        ],
+        "queries": [
+          "名古屋 無料 2026 site:x.com OR site:threads.com",
+          "名古屋 無料開放 10月18 2026 site:facebook.com OR site:instagram.com OR site:ptt.cc",
+          "名古屋まつり 無料開放 2026 site:youtube.com OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "taichung-kumamoto-winter2026",
+      "title": "台中—熊本10/25增為每日：先確認日期與兩地時間",
+      "region": "九州／熊本；台灣台中",
+      "category": "航空／交通",
+      "announcementDate": "KKT報導10/16 12:54 JST；增班最初公告日未確認",
+      "eventDate": "10/25起增班；機場已列10/25–31每日",
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "熊本機場國際線時刻表",
+          "url": "https://www.kumamoto-airport.co.jp/timetable-int/"
+        },
+        {
+          "label": "KKT原報導轉載（只計一則）",
+          "url": "https://news.livedoor.com/article/detail/32580961/"
+        },
+        {
+          "label": "航空公司路線訂票",
+          "url": "https://www.starlux-airlines.com/flights/zh/flights-from-taichung-to-kumamoto"
+        },
+        {
+          "label": "冬季班表交叉資料",
+          "url": "https://www.colatour.com.tw/webDM/airline/jx/tkt_starlux.html"
+        }
+      ],
+      "why": "每日班次對九州行程組合實用，但不是新航線，也不等於每日都有促銷價。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "48小時內媒體再確認；原增班公告日期未確認，不稱首次宣布",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:00（編輯建議）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 機場10月表列JX316台中15:05→熊本18:15、317熊本19:15→台中21:05（各地時間）；10/25–31每日。可樂冬季表列至2027/3/27，但後續日期仍以航空公司實際班表為準。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "讀者可直接查航班與到達熊本後的接駁，仍有規劃時間；票價及接送條件需逐日確認。",
+        "products": [
+          "航班查詢",
+          "熊本機場接駁"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "班機日期確定後，再比較熊本機場進市區的交通；請核對上下車點、入境緩衝時間與票券效期。",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀台中—熊本航班查詢頁，但內文快取日期與班次描述有矛盾，不列已確認推薦；新聞班表以機場及航空公司為準。查找：https://tw.trip.com/flights/taichung-to-kumamoto/airfares-rmq-kmj/",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已嘗試熊本住宿列表，但正文僅JavaScript提示，未完成核對。查找：https://www.booking.com/city/jp/kumamoto.ja.html",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "熊本KMJ機場接送查詢",
+              "url": "https://www.kkday.com/zh-tw/trans/airport_transfer/airport/kmj-kumamoto-airport",
+              "kind": "交通查詢",
+              "reason": "確認機場進市區接送路線",
+              "checks": "依日期、飯店、乘客及行李重新報價；航班抵達後需入境時間，確認延誤等候規則。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。",
+          "pages": [
+            {
+              "title": "熊本機場往返巴士與Wakuwaku一日券",
+              "url": "https://www.klook.com/zh-TW/activity/142010-aso-kumamoto-airport-kumamoto-city-shuttle-bus-ticket-with-wakuwaku-1-day-pass/",
+              "kind": "商品頁",
+              "reason": "可比較公共交通組合",
+              "checks": "機場往返券與市內一日券效期不同；頁列機場券兌換後10日、市內券1日，方案區域另核對，不能當10日市區無限搭乘。",
+              "checkedAt": "2026-10-18T10:12:00+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1787197480.A.BF4.html",
+            "label": "舊增班討論線索",
+            "reason": "搜尋為舊文，原文讀取失敗，不符48小時且無可核對互動。"
+          }
+        ],
+        "queries": [
+          "台中 熊本 site:threads.com OR site:ptt.cc OR site:dcard.tw 2026",
+          "熊本 台中 増便 2026 site:x.com OR site:facebook.com OR site:youtube.com"
+        ]
+      }
+    },
+    {
+      "id": "naha-eisa-traffic-oct18",
+      "title": "那覇國際通今天10:00–22:00管制，接送先改集合點",
+      "region": "沖繩／那覇國際通",
+      "category": "交通／活動",
+      "announcementDate": "JAL City酒店10/16公告；地方媒體10/17 06:36 JST",
+      "eventDate": "10/18 10:00–22:00 JST交通管制",
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "JAL City那覇原始交通提醒",
+          "url": "https://www.naha.jalcity.co.jp/6750/"
+        },
+        {
+          "label": "Hotel Collective接送提醒",
+          "url": "https://hotelcollective.jp/info/45663/"
+        },
+        {
+          "label": "地方媒體活動核對",
+          "url": "https://naha.goguynet.jp/2026/10/17/10000eisa/"
+        }
+      ],
+      "why": "即使不看Eisa，住國際通或今天去機場也會受影響。",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "依公布與觀測日期，未標時刻不假定精確24小時",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+      "verification": "已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 管制為縣廳北口至さいおん橋。媒體演出14–21與道路10–22不同；主活動官網讀取失敗，不延伸未確認節目。個別酒店可引導車輛，不推論所有旅館完全不能到。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當天管制提醒不適合直接推未確認上下車點的接送；多數旅客已訂住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "一万人 2026 site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "hotai",
+      "title": "法體瀑布紅葉祭",
+      "region": "東北／秋田",
+      "category": "活動",
+      "announcementDate": "原公布日未確認",
+      "eventDate": "10/17–25；主活動10/18",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://yurihonjo-kanko.jp/event/%E7%AC%AC49%E5%9B%9E%E6%B3%95%E4%BD%93%E3%81%AE%E6%BB%9D%E7%B4%85%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A/"
+        }
+      ],
+      "why": "已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。"
+    },
+    {
+      "id": "korokan",
+      "title": "福岡鴻臚館巴士行程",
+      "region": "九州／福岡",
+      "category": "活動",
+      "announcementDate": "10/9",
+      "eventDate": "10/17–18",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.welcome-fukuoka.or.jp/blog/archives/12567"
+        }
+      ],
+      "why": "已讀官方，今天10點出發已過，需預約且無剩餘名額確認。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀官方，今天10點出發已過，需預約且無剩餘名額確認。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "已讀官方，今天10點出發已過，需預約且無剩餘名額確認。"
+    },
+    {
+      "id": "meguru",
+      "title": "MEGURU NAGOYA集章兌獎",
+      "region": "中部／名古屋",
+      "category": "活動",
+      "announcementDate": "原公布日未確認",
+      "eventDate": "活動9/5–10/24；兌獎10/18–24",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://aichinow.pref.aichi.jp/events/detail/4153/"
+        }
+      ],
+      "why": "已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。"
+    },
+    {
+      "id": "yonago",
+      "title": "米子城三之丸開放活動",
+      "region": "中國地方／鳥取",
+      "category": "活動",
+      "announcementDate": "原公布日未確認",
+      "eventDate": "10/18活動線索",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.city.yonago.lg.jp/item/62682.htm"
+        }
+      ],
+      "why": "已讀市府，完整當日節目及現場變更未核完，保留線索。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀市府，完整當日節目及現場變更未核完，保留線索。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com"
+        ]
+      },
+      "exclusionReason": "已讀市府，完整當日節目及現場變更未核完，保留線索。"
+    },
+    {
+      "id": "kyoto",
+      "title": "京都秋季特別參拜",
+      "region": "關西／京都",
+      "category": "活動",
+      "announcementDate": "未取得近期新公告",
+      "eventDate": "2026秋季各方案不同",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://souda-kyoto.jp/other/autumn2026/"
+        }
+      ],
+      "why": "已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "京都 特別拝観 2026 site:dcard.tw OR site:ptt.cc"
+        ]
+      },
+      "exclusionReason": "已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。"
+    },
+    {
+      "id": "ishizuchi",
+      "title": "石鎚山紅葉線索",
+      "region": "四國／愛媛",
+      "category": "季節情報",
+      "announcementDate": "索引紅葉文章為2025；非2026新公告",
+      "eventDate": "2026現況未確認",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.city.saijo.ehime.jp/soshiki/kanko/aki-ishizuchi-tozan.html"
+        }
+      ],
+      "why": "只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com"
+        ]
+      },
+      "exclusionReason": "只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。"
+    },
+    {
+      "id": "kanazawa",
+      "title": "金澤美味嘉年華",
+      "region": "北陸／石川",
+      "category": "美食",
+      "announcementDate": "原公布日未確認",
+      "eventDate": "10/17–18 10–16 JST",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.hot-ishikawa.jp/event/detail_30626.html"
+        }
+      ],
+      "why": "已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com"
+        ]
+      },
+      "exclusionReason": "已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。"
+    },
+    {
+      "id": "ana-repeat",
+      "title": "ANA國內線促銷追蹤",
+      "region": "全日本",
+      "category": "航空",
+      "announcementDate": "10/16；昨日已選",
+      "eventDate": "10/22截止",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        }
+      ],
+      "why": "比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。"
+    },
+    {
+      "id": "s0-repeat",
+      "title": "S0新幹線追蹤",
+      "region": "關東至九州",
+      "category": "交通",
+      "announcementDate": "10/16；昨日已選",
+      "eventDate": "2029/7預定",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046070.pdf"
+        }
+      ],
+      "why": "比對昨日紀錄，無新進展；不把未來列車當近期商品。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "比對昨日紀錄，無新進展；不把未來列車當近期商品。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "比對昨日紀錄，無新進展；不把未來列車當近期商品。"
+    },
+    {
+      "id": "fare-repeat",
+      "title": "新幹線調價追蹤",
+      "region": "關東至九州",
+      "category": "交通",
+      "announcementDate": "10/16；昨日已選",
+      "eventDate": "2027生效",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf"
+        }
+      ],
+      "why": "比對昨日紀錄，無新進展；未取得平台新票種規則。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "比對昨日紀錄，無新進展；未取得平台新票種規則。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com"
+        ]
+      },
+      "exclusionReason": "比對昨日紀錄，無新進展；未取得平台新票種規則。"
+    },
+    {
+      "id": "passport",
+      "title": "羽田護照160周年活動線索",
+      "region": "關東／東京羽田",
+      "category": "活動",
+      "announcementDate": "媒體10/17索引",
+      "eventDate": "10/17已結束",
+      "score": 38,
+      "scoreBreakdown": {
+        "即時性": 5,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 5,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "sources": [
+        {
+          "label": "已讀頁面或尚待核對線索（詳查核狀態）",
+          "url": "https://news.livedoor.com/article/detail/32591014/"
+        }
+      ],
+      "why": "只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。",
+      "stars": {
+        "viral": 2,
+        "save": 2,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未通過本期時效或完整查核；見日期",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "補足查核或有新進展再判斷",
+      "verification": "只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未過可發布查核或沒有新進展，本期不作商品推薦。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。",
+        "assessedOn": "2026-10-18"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-18T10:12:00+08:00",
+        "summary": "熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      },
+      "exclusionReason": "只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。"
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-18T10:12:00+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 14,
+    "qualifiedTopicCount": 0,
+    "limitation": "入選4題個別查詢，其餘10題以合併關鍵字查詢；護照線索未查社群。未取得可計分原文與互動，不代表沒有討論。搜尋索引不是原始證據。",
+    "platformAccess": [
+      "Threads、Facebook、Dcard、X、YouTube：未取得合格近期原始雙作者樣本。",
+      "Instagram：索引與嵌入貼文讀取未成功，無可核對指標。",
+      "PTT：舊文或不同事件；台中熊本原文讀取失敗。",
+      "TikTok：搜尋回報robots限制。"
+    ]
+  },
+  "choice": {
+    "id": "jozankei-leaves-oct18",
+    "title": "定山溪10/18葉況已褪色，先看實況再排賞楓",
+    "score": 90,
+    "reason": "今日觀測直接修正賞楓行程，讀者能立即採取行動；僅編輯推薦，網站不預選。",
+    "versusSecond": "比名古屋當日免費更能幫助未來數天赴北海道旅客，資訊生命週期較長。熊本分數也高但留到晚間規劃時段。",
+    "publishAt": "台灣上午立即發（編輯建議，無帳號歷史數據）",
+    "audience": "這幾天準備前往札幌與定山溪的自由行旅客",
+    "lifecycle": "3天"
+  },
+  "followups": [
+    {
+      "title": "定山溪後續葉況及纜車營業",
+      "next": "未來24–48小時重查葉況與10/20前營運異動；不承諾天氣或景觀。",
+      "sources": [
+        {
+          "label": "觀光協會",
+          "url": "https://jozankei.jp/news/kouyouinfo2026/"
+        }
+      ]
+    },
+    {
+      "title": "那覇活動後交通恢復",
+      "next": "今天晚間至明天確認酒店及道路恢復，不把22時視為保證立即暢通。",
+      "sources": [
+        {
+          "label": "酒店提醒",
+          "url": "https://www.naha.jalcity.co.jp/6750/"
+        }
+      ]
+    },
+    {
+      "title": "ANA促銷截止前票價條件",
+      "next": "未來72小時查實際行程餘位與10/22截止條件；無新進展不重複推文。",
+      "sources": [
+        {
+          "label": "ANA",
+          "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/"
+        }
+      ]
+    },
+    {
+      "title": "熊本增班前交通搭配",
+      "next": "未來48–72小時再查晚間到達接駁與航空公司後續日期班表，不預測一定加開巴士。",
+      "sources": [
+        {
+          "label": "機場班表",
+          "url": "https://www.kumamoto-airport.co.jp/timetable-int/"
+        }
+      ]
+    }
+  ],
+  "researchText": "日本每日內容雷達\n日期：2026-10-18\n搜尋截止：2026-10-18 10:12 Asia/Taipei（日本11:12 JST）\n\n已查證：定山溪10/18觀測多處褪色，賞楓預測不能代替今日現況。\n已查證：名古屋10/18免費開放有場館及展覽範圍限制，停車不一併免費。\n已查證：熊本機場列出台中線10/25–31每日班次；後續日期訂票時重查。\n已查證：那覇國際通今天10–22時管制，住宿接送需確認入口。\n編輯觀察：今日以即時行程修正為主，商業延伸最自然的是熊本交通，其次定山溪泡湯。\n研究限制：15個候選中僅4題完成可發布查核，不湊10題；其他為初評或重複消息。\n社群限制：無合格雙作者近期互動樣本，無法建立本期實測熱榜；目前是編輯內容排序。\n\n【候選池與評分紀錄】\n八項滿分20/20/15/15/10/10/5/5，分數及星等為編輯預估，不是實測熱度或流量保證。先比較15題再選4題；非入選題分數是線索初評，不代表事實已核實。定山溪以當日觀測及實用性優先；名古屋因今天免費截止排在熊本前。未合格社群樣本不填0分。\n{\n  \"id\": \"jozankei-leaves-oct18\",\n  \"title\": \"定山溪10/18葉況已褪色，先看實況再排賞楓\",\n  \"region\": \"北海道／札幌定山溪\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"觀光協會葉況更新10/18；原頁建立日未確認\",\n  \"eventDate\": \"10/18葉況觀測\",\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"定山溪觀光協會當日葉況\",\n      \"url\": \"https://jozankei.jp/news/kouyouinfo2026/\"\n    },\n    {\n      \"label\": \"Weathernews 10/17觀測\",\n      \"url\": \"https://www.weathernews.jp/koyo/spot/21408/\"\n    }\n  ],\n  \"why\": \"對近期賞楓行程直接有用，避免把預測日期當成今日現況。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天觀測更新，非今天首度公告\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 協會10/18溫泉街、豐平峽、奧定山溪、八劍山小金湯列褪色，札幌國際列落葉開始；Weathernews10/17是另一日期且引用地方回報，不視為完全獨立調查。照片有10/16等日期，不說全為今天拍攝。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可銜接泡湯與住宿替代安排，但旅客可能已訂行程，不能承諾商品仍有滿山紅葉。\",\n    \"products\": [\n      \"溫泉餐食體驗\",\n      \"定山溪住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"如果把定山溪改排成泡湯與用餐行程，可以比較這些方案；先確認日期、餐食和接送，紅葉景觀不在保證範圍。\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪溫泉飯店比較列表\",\n          \"url\": \"https://sg.trip.com/toplist/tripbest/recommend/jozankei-onsen/best-hot-spring-hotels/100200321138/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"同地區泡湯住宿替代安排\",\n          \"checks\": \"不引用快取排名或價格；查實際日期、餐食、接送與取消條件。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪溫泉住宿列表\",\n          \"url\": \"https://www.booking.com/onsen/city/jp/jozankei-jp.zh-tw.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較定山溪住宿位置\",\n          \"checks\": \"附近地區也可能混列，逐間核對地址；不保證有房或含餐。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"森之歌溫泉、午餐自助餐與交通方案\",\n          \"url\": \"https://www.kkday.com/zh-tw/product/24191-mori-no-uta-hotel-onsen-experience-with-lunch-buffet-transportation-hokkaido\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"適合未來日期泡湯備案\",\n          \"checks\": \"頁列2026/4/1–2027/3/31；確認需兩日、不可取消及換券。今天9:35出發時間已過，不推今天即買即用。查實際餘位。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪森之歌溫泉與餐食方案\",\n          \"url\": \"https://www.klook.com/zh-CN/activity/120500-jozankei-natural-hot-spring-experience-in-hokkaido-with-dinner/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"同地區溫泉餐食比較\",\n          \"checks\": \"頁面標題附晚餐、內文鍋物方案；用餐時段依選案確認，公共巴士自費，不能當作與KKday午餐接送相同。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"定山溪 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc\",\n      \"定山溪 紅葉 site:facebook.com OR site:instagram.com 2026\",\n      \"定山渓 紅葉 2026 10月17 site:x.com OR site:youtube.com OR site:tiktok.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"nagoya-free-oct18\",\n  \"title\": \"名古屋今天多處免費：常設展、特展與停車費要分開\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動／票券\",\n  \"announcementDate\": \"市府10/10更新、觀光局10/9更新；東山10/1公告\",\n  \"eventDate\": \"10/18限定免費；名古屋城等10/17–18\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"名古屋市免費設施清單\",\n      \"url\": \"https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html\"\n    },\n    {\n      \"label\": \"名古屋觀光局交叉清單\",\n      \"url\": \"https://www.nagoya-info.jp/news/detail/1437/\"\n    },\n    {\n      \"label\": \"白鳥庭園時間\",\n      \"url\": \"https://www.shirotori-garden.jp/calendar/nagoyamatsuri/index.html\"\n    },\n    {\n      \"label\": \"東山免費及停車限制\",\n      \"url\": \"https://www.higashiyama.city.nagoya.jp/news/2026/10/-81018.html\"\n    }\n  ],\n  \"why\": \"今天實施的免費場館比兩日免費清單更廣，適合已在當地的人。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天例外：今天正式實施；10/14已介紹兩日活動，本期聚焦10/18限定場館\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 白鳥9–17、最後入園16:30 JST；東山停車仍收費；科學館與美術館限常設展。公告未列國籍或居住地限制，特殊活動另依規則。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當日免費入場不適合銜接一般付費門票；不為分潤推重複支出。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1789575132.A.C8A.html\",\n        \"label\": \"不同活動線索\",\n        \"reason\": \"亞運相關舊活動，不能套用名古屋祭免費日。\"\n      }\n    ],\n    \"queries\": [\n      \"名古屋 無料 2026 site:x.com OR site:threads.com\",\n      \"名古屋 無料開放 10月18 2026 site:facebook.com OR site:instagram.com OR site:ptt.cc\",\n      \"名古屋まつり 無料開放 2026 site:youtube.com OR site:dcard.tw\"\n    ]\n  }\n}\n\n{\n  \"id\": \"taichung-kumamoto-winter2026\",\n  \"title\": \"台中—熊本10/25增為每日：先確認日期與兩地時間\",\n  \"region\": \"九州／熊本；台灣台中\",\n  \"category\": \"航空／交通\",\n  \"announcementDate\": \"KKT報導10/16 12:54 JST；增班最初公告日未確認\",\n  \"eventDate\": \"10/25起增班；機場已列10/25–31每日\",\n  \"score\": 87,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"熊本機場國際線時刻表\",\n      \"url\": \"https://www.kumamoto-airport.co.jp/timetable-int/\"\n    },\n    {\n      \"label\": \"KKT原報導轉載（只計一則）\",\n      \"url\": \"https://news.livedoor.com/article/detail/32580961/\"\n    },\n    {\n      \"label\": \"航空公司路線訂票\",\n      \"url\": \"https://www.starlux-airlines.com/flights/zh/flights-from-taichung-to-kumamoto\"\n    },\n    {\n      \"label\": \"冬季班表交叉資料\",\n      \"url\": \"https://www.colatour.com.tw/webDM/airline/jx/tkt_starlux.html\"\n    }\n  ],\n  \"why\": \"每日班次對九州行程組合實用，但不是新航線，也不等於每日都有促銷價。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時內媒體再確認；原增班公告日期未確認，不稱首次宣布\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:00（編輯建議）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 機場10月表列JX316台中15:05→熊本18:15、317熊本19:15→台中21:05（各地時間）；10/25–31每日。可樂冬季表列至2027/3/27，但後續日期仍以航空公司實際班表為準。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"讀者可直接查航班與到達熊本後的接駁，仍有規劃時間；票價及接送條件需逐日確認。\",\n    \"products\": [\n      \"航班查詢\",\n      \"熊本機場接駁\"\n    ],\n    \"platforms\": [\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"班機日期確定後，再比較熊本機場進市區的交通；請核對上下車點、入境緩衝時間與票券效期。\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀台中—熊本航班查詢頁，但內文快取日期與班次描述有矛盾，不列已確認推薦；新聞班表以機場及航空公司為準。查找：https://tw.trip.com/flights/taichung-to-kumamoto/airfares-rmq-kmj/\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已嘗試熊本住宿列表，但正文僅JavaScript提示，未完成核對。查找：https://www.booking.com/city/jp/kumamoto.ja.html\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"熊本KMJ機場接送查詢\",\n          \"url\": \"https://www.kkday.com/zh-tw/trans/airport_transfer/airport/kmj-kumamoto-airport\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"確認機場進市區接送路線\",\n          \"checks\": \"依日期、飯店、乘客及行李重新報價；航班抵達後需入境時間，確認延誤等候規則。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"熊本機場往返巴士與Wakuwaku一日券\",\n          \"url\": \"https://www.klook.com/zh-TW/activity/142010-aso-kumamoto-airport-kumamoto-city-shuttle-bus-ticket-with-wakuwaku-1-day-pass/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"可比較公共交通組合\",\n          \"checks\": \"機場往返券與市內一日券效期不同；頁列機場券兌換後10日、市內券1日，方案區域另核對，不能當10日市區無限搭乘。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1787197480.A.BF4.html\",\n        \"label\": \"舊增班討論線索\",\n        \"reason\": \"搜尋為舊文，原文讀取失敗，不符48小時且無可核對互動。\"\n      }\n    ],\n    \"queries\": [\n      \"台中 熊本 site:threads.com OR site:ptt.cc OR site:dcard.tw 2026\",\n      \"熊本 台中 増便 2026 site:x.com OR site:facebook.com OR site:youtube.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"naha-eisa-traffic-oct18\",\n  \"title\": \"那覇國際通今天10:00–22:00管制，接送先改集合點\",\n  \"region\": \"沖繩／那覇國際通\",\n  \"category\": \"交通／活動\",\n  \"announcementDate\": \"JAL City酒店10/16公告；地方媒體10/17 06:36 JST\",\n  \"eventDate\": \"10/18 10:00–22:00 JST交通管制\",\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"JAL City那覇原始交通提醒\",\n      \"url\": \"https://www.naha.jalcity.co.jp/6750/\"\n    },\n    {\n      \"label\": \"Hotel Collective接送提醒\",\n      \"url\": \"https://hotelcollective.jp/info/45663/\"\n    },\n    {\n      \"label\": \"地方媒體活動核對\",\n      \"url\": \"https://naha.goguynet.jp/2026/10/17/10000eisa/\"\n    }\n  ],\n  \"why\": \"即使不看Eisa，住國際通或今天去機場也會受影響。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依公布與觀測日期，未標時刻不假定精確24小時\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 管制為縣廳北口至さいおん橋。媒體演出14–21與道路10–22不同；主活動官網讀取失敗，不延伸未確認節目。個別酒店可引導車輛，不推論所有旅館完全不能到。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當天管制提醒不適合直接推未確認上下車點的接送；多數旅客已訂住宿。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"一万人 2026 site:threads.com OR site:instagram.com OR site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"hotai\",\n  \"title\": \"法體瀑布紅葉祭\",\n  \"region\": \"東北／秋田\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/17–25；主活動10/18\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://yurihonjo-kanko.jp/event/%E7%AC%AC49%E5%9B%9E%E6%B3%95%E4%BD%93%E3%81%AE%E6%BB%9D%E7%B4%85%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A/\"\n    }\n  ],\n  \"why\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\"\n}\n\n{\n  \"id\": \"korokan\",\n  \"title\": \"福岡鴻臚館巴士行程\",\n  \"region\": \"九州／福岡\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"10/9\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.welcome-fukuoka.or.jp/blog/archives/12567\"\n    }\n  ],\n  \"why\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\"\n}\n\n{\n  \"id\": \"meguru\",\n  \"title\": \"MEGURU NAGOYA集章兌獎\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"活動9/5–10/24；兌獎10/18–24\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://aichinow.pref.aichi.jp/events/detail/4153/\"\n    }\n  ],\n  \"why\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\"\n}\n\n{\n  \"id\": \"yonago\",\n  \"title\": \"米子城三之丸開放活動\",\n  \"region\": \"中國地方／鳥取\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/18活動線索\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.city.yonago.lg.jp/item/62682.htm\"\n    }\n  ],\n  \"why\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\"\n}\n\n{\n  \"id\": \"kyoto\",\n  \"title\": \"京都秋季特別參拜\",\n  \"region\": \"關西／京都\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"未取得近期新公告\",\n  \"eventDate\": \"2026秋季各方案不同\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://souda-kyoto.jp/other/autumn2026/\"\n    }\n  ],\n  \"why\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"京都 特別拝観 2026 site:dcard.tw OR site:ptt.cc\"\n    ]\n  },\n  \"exclusionReason\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\"\n}\n\n{\n  \"id\": \"ishizuchi\",\n  \"title\": \"石鎚山紅葉線索\",\n  \"region\": \"四國／愛媛\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"索引紅葉文章為2025；非2026新公告\",\n  \"eventDate\": \"2026現況未確認\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.city.saijo.ehime.jp/soshiki/kanko/aki-ishizuchi-tozan.html\"\n    }\n  ],\n  \"why\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\"\n}\n\n{\n  \"id\": \"kanazawa\",\n  \"title\": \"金澤美味嘉年華\",\n  \"region\": \"北陸／石川\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/17–18 10–16 JST\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.hot-ishikawa.jp/event/detail_30626.html\"\n    }\n  ],\n  \"why\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\"\n}\n\n{\n  \"id\": \"ana-repeat\",\n  \"title\": \"ANA國內線促銷追蹤\",\n  \"region\": \"全日本\",\n  \"category\": \"航空\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"10/22截止\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n    }\n  ],\n  \"why\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\"\n}\n\n{\n  \"id\": \"s0-repeat\",\n  \"title\": \"S0新幹線追蹤\",\n  \"region\": \"關東至九州\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"2029/7預定\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046070.pdf\"\n    }\n  ],\n  \"why\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\"\n}\n\n{\n  \"id\": \"fare-repeat\",\n  \"title\": \"新幹線調價追蹤\",\n  \"region\": \"關東至九州\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"2027生效\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n    }\n  ],\n  \"why\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\"\n}\n\n{\n  \"id\": \"passport\",\n  \"title\": \"羽田護照160周年活動線索\",\n  \"region\": \"關東／東京羽田\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"媒體10/17索引\",\n  \"eventDate\": \"10/17已結束\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://news.livedoor.com/article/detail/32591014/\"\n    }\n  ],\n  \"why\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\"\n}\n\n【推薦與追蹤】\n{\n  \"choice\": {\n    \"id\": \"jozankei-leaves-oct18\",\n    \"title\": \"定山溪10/18葉況已褪色，先看實況再排賞楓\",\n    \"score\": 90,\n    \"reason\": \"今日觀測直接修正賞楓行程，讀者能立即採取行動；僅編輯推薦，網站不預選。\",\n    \"versusSecond\": \"比名古屋當日免費更能幫助未來數天赴北海道旅客，資訊生命週期較長。熊本分數也高但留到晚間規劃時段。\",\n    \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"這幾天準備前往札幌與定山溪的自由行旅客\",\n    \"lifecycle\": \"3天\"\n  },\n  \"followups\": [\n    {\n      \"title\": \"定山溪後續葉況及纜車營業\",\n      \"next\": \"未來24–48小時重查葉況與10/20前營運異動；不承諾天氣或景觀。\",\n      \"sources\": [\n        {\n          \"label\": \"觀光協會\",\n          \"url\": \"https://jozankei.jp/news/kouyouinfo2026/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"那覇活動後交通恢復\",\n      \"next\": \"今天晚間至明天確認酒店及道路恢復，不把22時視為保證立即暢通。\",\n      \"sources\": [\n        {\n          \"label\": \"酒店提醒\",\n          \"url\": \"https://www.naha.jalcity.co.jp/6750/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"ANA促銷截止前票價條件\",\n      \"next\": \"未來72小時查實際行程餘位與10/22截止條件；無新進展不重複推文。\",\n      \"sources\": [\n        {\n          \"label\": \"ANA\",\n          \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"熊本增班前交通搭配\",\n      \"next\": \"未來48–72小時再查晚間到達接駁與航空公司後續日期班表，不預測一定加開巴士。\",\n      \"sources\": [\n        {\n          \"label\": \"機場班表\",\n          \"url\": \"https://www.kumamoto-airport.co.jp/timetable-int/\"\n        }\n      ]\n    }\n  ]\n}\n\n【查找限制】\n以日文日期與旅遊、紅葉、運休、活動、開店等字組掃描北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩；英文Japan travel October 17 2026及繁中社群輔助。部分只得到舊曆表，未強補地區。札幌觀光搜尋顯示新日期但開頁為10/9資料，已排除。那覇活動主官網讀取失敗，改以兩家酒店交通原文核對；未採2025巴士PDF或有矛盾演出時刻。商品頁核對截至2026-10-18T10:12:00+08:00，不延後新聞截止；來源可找到不代表圖片商用授權。平台頁僅推薦查詢，不保證價格、庫存或分潤資格。KKday研究網址為乾淨網址，由既有網站依授權另加cid=25165；不混入主文。",
+  "fullText": "日本每日內容雷達\n日期：2026-10-18\n搜尋截止：2026-10-18 10:12 Asia/Taipei（日本11:12 JST）\n\n已查證：定山溪10/18觀測多處褪色，賞楓預測不能代替今日現況。\n已查證：名古屋10/18免費開放有場館及展覽範圍限制，停車不一併免費。\n已查證：熊本機場列出台中線10/25–31每日班次；後續日期訂票時重查。\n已查證：那覇國際通今天10–22時管制，住宿接送需確認入口。\n編輯觀察：今日以即時行程修正為主，商業延伸最自然的是熊本交通，其次定山溪泡湯。\n研究限制：15個候選中僅4題完成可發布查核，不湊10題；其他為初評或重複消息。\n社群限制：無合格雙作者近期互動樣本，無法建立本期實測熱榜；目前是編輯內容排序。\n\n【候選池與評分紀錄】\n八項滿分20/20/15/15/10/10/5/5，分數及星等為編輯預估，不是實測熱度或流量保證。先比較15題再選4題；非入選題分數是線索初評，不代表事實已核實。定山溪以當日觀測及實用性優先；名古屋因今天免費截止排在熊本前。未合格社群樣本不填0分。\n{\n  \"id\": \"jozankei-leaves-oct18\",\n  \"title\": \"定山溪10/18葉況已褪色，先看實況再排賞楓\",\n  \"region\": \"北海道／札幌定山溪\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"觀光協會葉況更新10/18；原頁建立日未確認\",\n  \"eventDate\": \"10/18葉況觀測\",\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"定山溪觀光協會當日葉況\",\n      \"url\": \"https://jozankei.jp/news/kouyouinfo2026/\"\n    },\n    {\n      \"label\": \"Weathernews 10/17觀測\",\n      \"url\": \"https://www.weathernews.jp/koyo/spot/21408/\"\n    }\n  ],\n  \"why\": \"對近期賞楓行程直接有用，避免把預測日期當成今日現況。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"今天觀測更新，非今天首度公告\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 協會10/18溫泉街、豐平峽、奧定山溪、八劍山小金湯列褪色，札幌國際列落葉開始；Weathernews10/17是另一日期且引用地方回報，不視為完全獨立調查。照片有10/16等日期，不說全為今天拍攝。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可銜接泡湯與住宿替代安排，但旅客可能已訂行程，不能承諾商品仍有滿山紅葉。\",\n    \"products\": [\n      \"溫泉餐食體驗\",\n      \"定山溪住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\",\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"如果把定山溪改排成泡湯與用餐行程，可以比較這些方案；先確認日期、餐食和接送，紅葉景觀不在保證範圍。\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪溫泉飯店比較列表\",\n          \"url\": \"https://sg.trip.com/toplist/tripbest/recommend/jozankei-onsen/best-hot-spring-hotels/100200321138/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"同地區泡湯住宿替代安排\",\n          \"checks\": \"不引用快取排名或價格；查實際日期、餐食、接送與取消條件。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪溫泉住宿列表\",\n          \"url\": \"https://www.booking.com/onsen/city/jp/jozankei-jp.zh-tw.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"比較定山溪住宿位置\",\n          \"checks\": \"附近地區也可能混列，逐間核對地址；不保證有房或含餐。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"森之歌溫泉、午餐自助餐與交通方案\",\n          \"url\": \"https://www.kkday.com/zh-tw/product/24191-mori-no-uta-hotel-onsen-experience-with-lunch-buffet-transportation-hokkaido\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"適合未來日期泡湯備案\",\n          \"checks\": \"頁列2026/4/1–2027/3/31；確認需兩日、不可取消及換券。今天9:35出發時間已過，不推今天即買即用。查實際餘位。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"定山溪森之歌溫泉與餐食方案\",\n          \"url\": \"https://www.klook.com/zh-CN/activity/120500-jozankei-natural-hot-spring-experience-in-hokkaido-with-dinner/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"同地區溫泉餐食比較\",\n          \"checks\": \"頁面標題附晚餐、內文鍋物方案；用餐時段依選案確認，公共巴士自費，不能當作與KKday午餐接送相同。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"定山溪 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc\",\n      \"定山溪 紅葉 site:facebook.com OR site:instagram.com 2026\",\n      \"定山渓 紅葉 2026 10月17 site:x.com OR site:youtube.com OR site:tiktok.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"nagoya-free-oct18\",\n  \"title\": \"名古屋今天多處免費：常設展、特展與停車費要分開\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動／票券\",\n  \"announcementDate\": \"市府10/10更新、觀光局10/9更新；東山10/1公告\",\n  \"eventDate\": \"10/18限定免費；名古屋城等10/17–18\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"名古屋市免費設施清單\",\n      \"url\": \"https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html\"\n    },\n    {\n      \"label\": \"名古屋觀光局交叉清單\",\n      \"url\": \"https://www.nagoya-info.jp/news/detail/1437/\"\n    },\n    {\n      \"label\": \"白鳥庭園時間\",\n      \"url\": \"https://www.shirotori-garden.jp/calendar/nagoyamatsuri/index.html\"\n    },\n    {\n      \"label\": \"東山免費及停車限制\",\n      \"url\": \"https://www.higashiyama.city.nagoya.jp/news/2026/10/-81018.html\"\n    }\n  ],\n  \"why\": \"今天實施的免費場館比兩日免費清單更廣，適合已在當地的人。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天例外：今天正式實施；10/14已介紹兩日活動，本期聚焦10/18限定場館\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 白鳥9–17、最後入園16:30 JST；東山停車仍收費；科學館與美術館限常設展。公告未列國籍或居住地限制，特殊活動另依規則。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當日免費入場不適合銜接一般付費門票；不為分潤推重複支出。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1789575132.A.C8A.html\",\n        \"label\": \"不同活動線索\",\n        \"reason\": \"亞運相關舊活動，不能套用名古屋祭免費日。\"\n      }\n    ],\n    \"queries\": [\n      \"名古屋 無料 2026 site:x.com OR site:threads.com\",\n      \"名古屋 無料開放 10月18 2026 site:facebook.com OR site:instagram.com OR site:ptt.cc\",\n      \"名古屋まつり 無料開放 2026 site:youtube.com OR site:dcard.tw\"\n    ]\n  }\n}\n\n{\n  \"id\": \"taichung-kumamoto-winter2026\",\n  \"title\": \"台中—熊本10/25增為每日：先確認日期與兩地時間\",\n  \"region\": \"九州／熊本；台灣台中\",\n  \"category\": \"航空／交通\",\n  \"announcementDate\": \"KKT報導10/16 12:54 JST；增班最初公告日未確認\",\n  \"eventDate\": \"10/25起增班；機場已列10/25–31每日\",\n  \"score\": 87,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"熊本機場國際線時刻表\",\n      \"url\": \"https://www.kumamoto-airport.co.jp/timetable-int/\"\n    },\n    {\n      \"label\": \"KKT原報導轉載（只計一則）\",\n      \"url\": \"https://news.livedoor.com/article/detail/32580961/\"\n    },\n    {\n      \"label\": \"航空公司路線訂票\",\n      \"url\": \"https://www.starlux-airlines.com/flights/zh/flights-from-taichung-to-kumamoto\"\n    },\n    {\n      \"label\": \"冬季班表交叉資料\",\n      \"url\": \"https://www.colatour.com.tw/webDM/airline/jx/tkt_starlux.html\"\n    }\n  ],\n  \"why\": \"每日班次對九州行程組合實用，但不是新航線，也不等於每日都有促銷價。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"48小時內媒體再確認；原增班公告日期未確認，不稱首次宣布\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"台灣20:00（編輯建議）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 機場10月表列JX316台中15:05→熊本18:15、317熊本19:15→台中21:05（各地時間）；10/25–31每日。可樂冬季表列至2027/3/27，但後續日期仍以航空公司實際班表為準。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"讀者可直接查航班與到達熊本後的接駁，仍有規劃時間；票價及接送條件需逐日確認。\",\n    \"products\": [\n      \"航班查詢\",\n      \"熊本機場接駁\"\n    ],\n    \"platforms\": [\n      \"KKday\",\n      \"Klook\"\n    ],\n    \"commentOpening\": \"班機日期確定後，再比較熊本機場進市區的交通；請核對上下車點、入境緩衝時間與票券效期。\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀台中—熊本航班查詢頁，但內文快取日期與班次描述有矛盾，不列已確認推薦；新聞班表以機場及航空公司為準。查找：https://tw.trip.com/flights/taichung-to-kumamoto/airfares-rmq-kmj/\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已嘗試熊本住宿列表，但正文僅JavaScript提示，未完成核對。查找：https://www.booking.com/city/jp/kumamoto.ja.html\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"熊本KMJ機場接送查詢\",\n          \"url\": \"https://www.kkday.com/zh-tw/trans/airport_transfer/airport/kmj-kumamoto-airport\",\n          \"kind\": \"交通查詢\",\n          \"reason\": \"確認機場進市區接送路線\",\n          \"checks\": \"依日期、飯店、乘客及行李重新報價；航班抵達後需入境時間，確認延誤等候規則。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟核對主題與地區；不保證庫存、即時價格或分潤資格。\",\n      \"pages\": [\n        {\n          \"title\": \"熊本機場往返巴士與Wakuwaku一日券\",\n          \"url\": \"https://www.klook.com/zh-TW/activity/142010-aso-kumamoto-airport-kumamoto-city-shuttle-bus-ticket-with-wakuwaku-1-day-pass/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"可比較公共交通組合\",\n          \"checks\": \"機場往返券與市內一日券效期不同；頁列機場券兌換後10日、市內券1日，方案區域另核對，不能當10日市區無限搭乘。\",\n          \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1787197480.A.BF4.html\",\n        \"label\": \"舊增班討論線索\",\n        \"reason\": \"搜尋為舊文，原文讀取失敗，不符48小時且無可核對互動。\"\n      }\n    ],\n    \"queries\": [\n      \"台中 熊本 site:threads.com OR site:ptt.cc OR site:dcard.tw 2026\",\n      \"熊本 台中 増便 2026 site:x.com OR site:facebook.com OR site:youtube.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"naha-eisa-traffic-oct18\",\n  \"title\": \"那覇國際通今天10:00–22:00管制，接送先改集合點\",\n  \"region\": \"沖繩／那覇國際通\",\n  \"category\": \"交通／活動\",\n  \"announcementDate\": \"JAL City酒店10/16公告；地方媒體10/17 06:36 JST\",\n  \"eventDate\": \"10/18 10:00–22:00 JST交通管制\",\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 11,\n    \"實用性\": 15,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"JAL City那覇原始交通提醒\",\n      \"url\": \"https://www.naha.jalcity.co.jp/6750/\"\n    },\n    {\n      \"label\": \"Hotel Collective接送提醒\",\n      \"url\": \"https://hotelcollective.jp/info/45663/\"\n    },\n    {\n      \"label\": \"地方媒體活動核對\",\n      \"url\": \"https://naha.goguynet.jp/2026/10/17/10000eisa/\"\n    }\n  ],\n  \"why\": \"即使不看Eisa，住國際通或今天去機場也會受影響。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"依公布與觀測日期，未標時刻不假定精確24小時\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"已讀原始來源及交叉頁面；各日期與限制分開記錄，媒體整理不當獨立採訪。 管制為縣廳北口至さいおん橋。媒體演出14–21與道路10–22不同；主活動官網讀取失敗，不延伸未確認節目。個別酒店可引導車輛，不推論所有旅館完全不能到。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"當天管制提醒不適合直接推未確認上下車點的接送；多數旅客已訂住宿。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"一万人 2026 site:threads.com OR site:instagram.com OR site:x.com\"\n    ]\n  }\n}\n\n{\n  \"id\": \"hotai\",\n  \"title\": \"法體瀑布紅葉祭\",\n  \"region\": \"東北／秋田\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/17–25；主活動10/18\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://yurihonjo-kanko.jp/event/%E7%AC%AC49%E5%9B%9E%E6%B3%95%E4%BD%93%E3%81%AE%E6%BB%9D%E7%B4%85%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A/\"\n    }\n  ],\n  \"why\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方，未補第二來源與當日贈券剩餘數；不推薦確定能領。\"\n}\n\n{\n  \"id\": \"korokan\",\n  \"title\": \"福岡鴻臚館巴士行程\",\n  \"region\": \"九州／福岡\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"10/9\",\n  \"eventDate\": \"10/17–18\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.welcome-fukuoka.or.jp/blog/archives/12567\"\n    }\n  ],\n  \"why\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方，今天10點出發已過，需預約且無剩餘名額確認。\"\n}\n\n{\n  \"id\": \"meguru\",\n  \"title\": \"MEGURU NAGOYA集章兌獎\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"活動9/5–10/24；兌獎10/18–24\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://aichinow.pref.aichi.jp/events/detail/4153/\"\n    }\n  ],\n  \"why\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"法体の滝 OR 鴻臚館 OR MEGURU NAGOYA 2026 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀官方；今天是兌獎開始，不是集章新開跑；未核對語言與帳號條件。\"\n}\n\n{\n  \"id\": \"yonago\",\n  \"title\": \"米子城三之丸開放活動\",\n  \"region\": \"中國地方／鳥取\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/18活動線索\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.city.yonago.lg.jp/item/62682.htm\"\n    }\n  ],\n  \"why\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀市府，完整當日節目及現場變更未核完，保留線索。\"\n}\n\n{\n  \"id\": \"kyoto\",\n  \"title\": \"京都秋季特別參拜\",\n  \"region\": \"關西／京都\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"未取得近期新公告\",\n  \"eventDate\": \"2026秋季各方案不同\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://souda-kyoto.jp/other/autumn2026/\"\n    }\n  ],\n  \"why\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"京都 特別拝観 2026 site:dcard.tw OR site:ptt.cc\"\n    ]\n  },\n  \"exclusionReason\": \"已讀方案入口，部分需會員，未確認海外旅客資格及近期新進展。\"\n}\n\n{\n  \"id\": \"ishizuchi\",\n  \"title\": \"石鎚山紅葉線索\",\n  \"region\": \"四國／愛媛\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"索引紅葉文章為2025；非2026新公告\",\n  \"eventDate\": \"2026現況未確認\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.city.saijo.ehime.jp/soshiki/kanko/aki-ishizuchi-tozan.html\"\n    }\n  ],\n  \"why\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"只取得舊季節資料與網站攝影機更新，不能用攝影機時間冒充新紅葉報告。\"\n}\n\n{\n  \"id\": \"kanazawa\",\n  \"title\": \"金澤美味嘉年華\",\n  \"region\": \"北陸／石川\",\n  \"category\": \"美食\",\n  \"announcementDate\": \"原公布日未確認\",\n  \"eventDate\": \"10/17–18 10–16 JST\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.hot-ishikawa.jp/event/detail_30626.html\"\n    }\n  ],\n  \"why\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"米子城 OR 石鎚山 OR おいしいフェスタ 2026 site:instagram.com OR site:facebook.com\"\n    ]\n  },\n  \"exclusionReason\": \"已讀觀光頁，攤位價格與體驗預約未核對，當日規劃時間短，未列精選。\"\n}\n\n{\n  \"id\": \"ana-repeat\",\n  \"title\": \"ANA國內線促銷追蹤\",\n  \"region\": \"全日本\",\n  \"category\": \"航空\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"10/22截止\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n    }\n  ],\n  \"why\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日已核實紀錄，本期未取得新進展，不重複選入；未重測餘位。\"\n}\n\n{\n  \"id\": \"s0-repeat\",\n  \"title\": \"S0新幹線追蹤\",\n  \"region\": \"關東至九州\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"2029/7預定\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046070.pdf\"\n    }\n  ],\n  \"why\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日紀錄，無新進展；不把未來列車當近期商品。\"\n}\n\n{\n  \"id\": \"fare-repeat\",\n  \"title\": \"新幹線調價追蹤\",\n  \"region\": \"關東至九州\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/16；昨日已選\",\n  \"eventDate\": \"2027生效\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://www.westjr.co.jp/press/article/2026/10/16/items/261016_00_press_shinkansen_ryoukin.pdf\"\n    }\n  ],\n  \"why\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"ANA OR S0系 OR 新幹線 値上げ 10月17日 site:threads.com OR site:x.com\"\n    ]\n  },\n  \"exclusionReason\": \"比對昨日紀錄，無新進展；未取得平台新票種規則。\"\n}\n\n{\n  \"id\": \"passport\",\n  \"title\": \"羽田護照160周年活動線索\",\n  \"region\": \"關東／東京羽田\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"媒體10/17索引\",\n  \"eventDate\": \"10/17已結束\",\n  \"score\": 38,\n  \"scoreBreakdown\": {\n    \"即時性\": 5,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 5,\n    \"實用性\": 6,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 2,\n    \"延伸內容價值\": 2\n  },\n  \"sources\": [\n    {\n      \"label\": \"已讀頁面或尚待核對線索（詳查核狀態）\",\n      \"url\": \"https://news.livedoor.com/article/detail/32591014/\"\n    }\n  ],\n  \"why\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\",\n  \"stars\": {\n    \"viral\": 2,\n    \"save\": 2,\n    \"share\": 2\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"未通過本期時效或完整查核；見日期\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"publishAt\": \"補足查核或有新進展再判斷\",\n  \"verification\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"未過可發布查核或沒有新進展，本期不作商品推薦。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"核對適用日期、包含內容、取消規則、庫存與自身分潤資格，不保證價格或佣金。\",\n    \"assessedOn\": \"2026-10-18\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已評估本題銜接：當日免費或交通提醒不硬推付費商品；未取得適合且完整核對的推薦頁。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-18T10:12:00+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內兩位作者的原文、發布時間、讚與留言完整樣本。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  },\n  \"exclusionReason\": \"只讀搜尋線索，活動已結束，旅客資格未確認，不適合今日推薦。\"\n}\n\n【推薦與追蹤】\n{\n  \"choice\": {\n    \"id\": \"jozankei-leaves-oct18\",\n    \"title\": \"定山溪10/18葉況已褪色，先看實況再排賞楓\",\n    \"score\": 90,\n    \"reason\": \"今日觀測直接修正賞楓行程，讀者能立即採取行動；僅編輯推薦，網站不預選。\",\n    \"versusSecond\": \"比名古屋當日免費更能幫助未來數天赴北海道旅客，資訊生命週期較長。熊本分數也高但留到晚間規劃時段。\",\n    \"publishAt\": \"台灣上午立即發（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"這幾天準備前往札幌與定山溪的自由行旅客\",\n    \"lifecycle\": \"3天\"\n  },\n  \"followups\": [\n    {\n      \"title\": \"定山溪後續葉況及纜車營業\",\n      \"next\": \"未來24–48小時重查葉況與10/20前營運異動；不承諾天氣或景觀。\",\n      \"sources\": [\n        {\n          \"label\": \"觀光協會\",\n          \"url\": \"https://jozankei.jp/news/kouyouinfo2026/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"那覇活動後交通恢復\",\n      \"next\": \"今天晚間至明天確認酒店及道路恢復，不把22時視為保證立即暢通。\",\n      \"sources\": [\n        {\n          \"label\": \"酒店提醒\",\n          \"url\": \"https://www.naha.jalcity.co.jp/6750/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"ANA促銷截止前票價條件\",\n      \"next\": \"未來72小時查實際行程餘位與10/22截止條件；無新進展不重複推文。\",\n      \"sources\": [\n        {\n          \"label\": \"ANA\",\n          \"url\": \"https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"熊本增班前交通搭配\",\n      \"next\": \"未來48–72小時再查晚間到達接駁與航空公司後續日期班表，不預測一定加開巴士。\",\n      \"sources\": [\n        {\n          \"label\": \"機場班表\",\n          \"url\": \"https://www.kumamoto-airport.co.jp/timetable-int/\"\n        }\n      ]\n    }\n  ]\n}\n\n【查找限制】\n以日文日期與旅遊、紅葉、運休、活動、開店等字組掃描北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩；英文Japan travel October 17 2026及繁中社群輔助。部分只得到舊曆表，未強補地區。札幌觀光搜尋顯示新日期但開頁為10/9資料，已排除。那覇活動主官網讀取失敗，改以兩家酒店交通原文核對；未採2025巴士PDF或有矛盾演出時刻。商品頁核對截至2026-10-18T10:12:00+08:00，不延後新聞截止；來源可找到不代表圖片商用授權。平台頁僅推薦查詢，不保證價格、庫存或分潤資格。KKday研究網址為乾淨網址，由既有網站依授權另加cid=25165；不混入主文。\n\n【各題完整草稿】\n定山溪10/18葉況已褪色，先看實況再排賞楓\n1/3\n這週去定山溪，先看10/18的葉況，再決定把多少時間留給賞楓。\n\n定山溪觀光協會今天已把溫泉街、豐平峽水壩等地列為「褪色進行中」，札幌國際滑雪場則是「開始落葉」。這是當地當日回報，不是「接下來正要進入最盛期」的預測。\n\n2/3\n不要把定山溪當成一整片同步變色的森林。不同高度與地點會有差異，觀光協會的指標也是管理者觀察，不能換算成精確剩餘百分比。\n\n另一個葉況頁Weathernews在10/17已列落葉中；兩頁日期與尺度不同，不能混成同一次調查。官網照片也有10/16等拍攝日期，不全是今天的畫面。\n\n3/3\n已訂好行程的人，可以保留散步，再把泡湯或用餐當備案，不必只為「滿山紅葉」把時間排滿。出發前看最新照片、天氣與交通，纜車或巴士另查當日運行。\n\n這份提醒只針對定山溪一帶，不代表全北海道賞楓都結束。訂任何體驗，也先確認日期、餐食與接送是否包含。\n官方葉況：https://jozankei.jp/news/kouyouinfo2026/\n{\"threads\":[\"這週去定山溪，先看10/18的葉況，再決定把多少時間留給賞楓。\\n\\n定山溪觀光協會今天已把溫泉街、豐平峽水壩等地列為「褪色進行中」，札幌國際滑雪場則是「開始落葉」。這是當地當日回報，不是「接下來正要進入最盛期」的預測。\",\"不要把定山溪當成一整片同步變色的森林。不同高度與地點會有差異，觀光協會的指標也是管理者觀察，不能換算成精確剩餘百分比。\\n\\n另一個葉況頁Weathernews在10/17已列落葉中；兩頁日期與尺度不同，不能混成同一次調查。官網照片也有10/16等拍攝日期，不全是今天的畫面。\",\"已訂好行程的人，可以保留散步，再把泡湯或用餐當備案，不必只為「滿山紅葉」把時間排滿。出發前看最新照片、天氣與交通，纜車或巴士另查當日運行。\\n\\n這份提醒只針對定山溪一帶，不代表全北海道賞楓都結束。訂任何體驗，也先確認日期、餐食與接送是否包含。\\n官方葉況：https://jozankei.jp/news/kouyouinfo2026/\"],\"angles\":[{\"name\":\"現況\",\"opening\":\"定山溪10/18已列褪色，這週賞楓先看實況。\"},{\"name\":\"避雷\",\"opening\":\"官網照片不是每張都今天拍，日期也要一起看。\"},{\"name\":\"行程\",\"opening\":\"已訂定山溪，賞楓之外可以怎麼留備案？\"},{\"name\":\"區域差異\",\"opening\":\"一處開始落葉，不等於整個北海道都結束。\"},{\"name\":\"閱讀資訊\",\"opening\":\"賞楓預測與當日觀測，不能當成同一件事。\"}],\"images\":[{\"description\":\"來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。\",\"url\":\"https://jozankei.jp/news/kouyouinfo2026/\"}],\"extensions\":[\"可延伸商業內容：泡湯與住宿備案，不能承諾紅葉景觀。\"]}\n分潤留言：如果把定山溪改排成泡湯與用餐行程，可以比較這些方案；先確認日期、餐食和接送，紅葉景觀不在保證範圍。\n【範本／待填或選擇實際分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n名古屋今天多處免費：常設展、特展與停車費要分開\n1/3\n今天10/18在名古屋，東山動植物園、白鳥庭園等設施有免費開放。先看清楚範圍：科學館與美術館是常設展免費，不是所有展覽都免錢。\n\n名古屋城等是10/17、18兩天免費，另一些場館只有今天。不要把這份清單套到明天的行程。\n\n2/3\n如果想去白鳥庭園，今天日本時間9:00～17:00開園，最後入園16:30；園內茶會等另外收費或需依活動預約規則。\n\n東山動植物園與天空塔也列在今天免費範圍，但停車場仍收費。開放時間、最後入場與特殊活動各有規則，別因為免費就把所有場館排在同一個下午。\n\n3/3\n先選一兩個最想去的地方，再核對官網交通及入園時間。公告沒有列國籍或居住地限制；特殊活動、特展與停車仍依各自規定。\n\n這是名古屋祭的當日實施提醒，不是今天才宣布的新優惠。人在附近可直接調整路線，還沒到名古屋的人不用為了一天免費硬改跨城行程。\n市府清單：https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html\n{\"threads\":[\"今天10/18在名古屋，東山動植物園、白鳥庭園等設施有免費開放。先看清楚範圍：科學館與美術館是常設展免費，不是所有展覽都免錢。\\n\\n名古屋城等是10/17、18兩天免費，另一些場館只有今天。不要把這份清單套到明天的行程。\",\"如果想去白鳥庭園，今天日本時間9:00～17:00開園，最後入園16:30；園內茶會等另外收費或需依活動預約規則。\\n\\n東山動植物園與天空塔也列在今天免費範圍，但停車場仍收費。開放時間、最後入場與特殊活動各有規則，別因為免費就把所有場館排在同一個下午。\",\"先選一兩個最想去的地方，再核對官網交通及入園時間。公告沒有列國籍或居住地限制；特殊活動、特展與停車仍依各自規定。\\n\\n這是名古屋祭的當日實施提醒，不是今天才宣布的新優惠。人在附近可直接調整路線，還沒到名古屋的人不用為了一天免費硬改跨城行程。\\n市府清單：https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html\"],\"angles\":[{\"name\":\"當日實用\",\"opening\":\"名古屋今天多處免費，但不是所有展覽都免錢。\"},{\"name\":\"花費範圍\",\"opening\":\"東山今天免費入園，停車仍要付費。\"},{\"name\":\"時間\",\"opening\":\"白鳥庭園17點關園，16:30是最後入園。\"},{\"name\":\"路線\",\"opening\":\"一天免費清單很長，先挑一兩處就好。\"},{\"name\":\"日期\",\"opening\":\"名古屋10/18限定免費，不要排到明天。\"}],\"images\":[{\"description\":\"來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。\",\"url\":\"https://www.city.nagoya.jp/shisei/kouhou/1017531/1017619/1017620/1054481.html\"}],\"extensions\":[\"以當日行前提醒為主，不硬塞付費商品。\"]}\n分潤留言：不硬加分潤留言。\n\n台中—熊本10/25增為每日：先確認日期與兩地時間\n1/3\n從台中出發玩九州，10/25起熊本線增為每日航班，排旅程不用只圍著每週三班安排。\n\n這是既有航線增班，不是新開航。熊本機場目前公布的10月班表，已列出10/25～31每日飛航；更後面的日期，訂票時再查航空公司的實際班表。\n\n2/3\n機場表列JX316台中15:05出發、熊本18:15抵達；回程JX317熊本19:15出發、台中21:05抵達。以上都是各地時間，日本比台灣快一小時。\n\n不能直接用兩個鐘面相減當飛行時間。晚間抵達也要把入境、領行李與進市區的時間算進去，再決定第一晚住哪裡。\n\n3/3\n查票時把來回日期、行李、改退條件與總價一起比較；每日有班機，不代表每天同價或仍有座位。班表也可能調整。\n\n需要預訂機場接駁的人，確認集合點、航班延誤處理與等候時間，不把18:15當成已能走出機場的時間。先決定落地當晚怎麼進市區，再接後面的阿蘇或熊本行程。\n官方班表：https://www.kumamoto-airport.co.jp/timetable-int/\n{\"threads\":[\"從台中出發玩九州，10/25起熊本線增為每日航班，排旅程不用只圍著每週三班安排。\\n\\n這是既有航線增班，不是新開航。熊本機場目前公布的10月班表，已列出10/25～31每日飛航；更後面的日期，訂票時再查航空公司的實際班表。\",\"機場表列JX316台中15:05出發、熊本18:15抵達；回程JX317熊本19:15出發、台中21:05抵達。以上都是各地時間，日本比台灣快一小時。\\n\\n不能直接用兩個鐘面相減當飛行時間。晚間抵達也要把入境、領行李與進市區的時間算進去，再決定第一晚住哪裡。\",\"查票時把來回日期、行李、改退條件與總價一起比較；每日有班機，不代表每天同價或仍有座位。班表也可能調整。\\n\\n需要預訂機場接駁的人，確認集合點、航班延誤處理與等候時間，不把18:15當成已能走出機場的時間。先決定落地當晚怎麼進市區，再接後面的阿蘇或熊本行程。\\n官方班表：https://www.kumamoto-airport.co.jp/timetable-int/\"],\"angles\":[{\"name\":\"航班彈性\",\"opening\":\"台中—熊本10/25增每日，九州行程多一點彈性。\"},{\"name\":\"時間\",\"opening\":\"日本比台灣快一小時，班表不能只看鐘面相減。\"},{\"name\":\"第一晚\",\"opening\":\"18:15落地熊本，第一晚先想好怎麼進市區。\"},{\"name\":\"訂票\",\"opening\":\"每天飛，不代表每天同價。\"},{\"name\":\"訊息辨識\",\"opening\":\"這次是熊本線增班，不是新開航。\"}],\"images\":[{\"description\":\"來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。\",\"url\":\"https://www.kumamoto-airport.co.jp/timetable-int/\"}],\"extensions\":[\"可延伸商業內容：航班、機場進市區交通及第一晚住宿，逐日核對。\"]}\n分潤留言：班機日期確定後，再比較熊本機場進市區的交通；請核對上下車點、入境緩衝時間與票券效期。\n【範本／待填或選擇實際分潤網址】\n透過連結預訂，我可能獲得佣金。\n\n那覇國際通今天10:00–22:00管制，接送先改集合點\n1/3\n今天10/18住那覇國際通，就算不看Eisa，也先確認飯店接送與去機場的路線。\n\n酒店公告的道路交通管制是日本時間10:00～22:00，範圍從縣廳北口到さいおん橋。這是交通管制時段，不能當成演出時間或電車末班時間。\n\n2/3\n租車、計程車或接送車可能需要改走路線及調整上下車點。個別酒店有引導車輛進出的安排，但不能直接套用到整條國際通每一家飯店。\n\n今天退房的人，把飯店名稱、行李數量與航班時間告訴接送方，請對方確認能到的入口及集合位置；別只傳平常使用的地址就等車。\n\n3/3\n搭巴士也先查今天的最新改道公告，不照去年的活動資訊推算站點。若改搭單軌電車，仍要核對步行距離、行李與實際班次。\n\n管制結束也不等於道路立即完全暢通。需要趕飛機或訂位的人，現在就跟飯店確認備案，比到了街口才找車更安心。\n酒店交通公告：https://www.naha.jalcity.co.jp/6750/\n{\"threads\":[\"今天10/18住那覇國際通，就算不看Eisa，也先確認飯店接送與去機場的路線。\\n\\n酒店公告的道路交通管制是日本時間10:00～22:00，範圍從縣廳北口到さいおん橋。這是交通管制時段，不能當成演出時間或電車末班時間。\",\"租車、計程車或接送車可能需要改走路線及調整上下車點。個別酒店有引導車輛進出的安排，但不能直接套用到整條國際通每一家飯店。\\n\\n今天退房的人，把飯店名稱、行李數量與航班時間告訴接送方，請對方確認能到的入口及集合位置；別只傳平常使用的地址就等車。\",\"搭巴士也先查今天的最新改道公告，不照去年的活動資訊推算站點。若改搭單軌電車，仍要核對步行距離、行李與實際班次。\\n\\n管制結束也不等於道路立即完全暢通。需要趕飛機或訂位的人，現在就跟飯店確認備案，比到了街口才找車更安心。\\n酒店交通公告：https://www.naha.jalcity.co.jp/6750/\"],\"angles\":[{\"name\":\"接送\",\"opening\":\"今天國際通管制到22點，先確認車在哪裡接。\"},{\"name\":\"退房\",\"opening\":\"住國際通今天退房，先把集合點問清楚。\"},{\"name\":\"時間\",\"opening\":\"道路管制與演出時間不同，別混在一起。\"},{\"name\":\"交通\",\"opening\":\"不看Eisa也可能遇到改道，去機場先重查。\"},{\"name\":\"行動\",\"opening\":\"把飯店與航班時間給接送方，確認能到的入口。\"}],\"images\":[{\"description\":\"來源頁內葉況照片、活動清單或交通圖可供查找；圖片可找到不等於有商用授權，使用前另確認權利。\",\"url\":\"https://www.naha.jalcity.co.jp/6750/\"}],\"extensions\":[\"以當日行前提醒為主，不硬塞付費商品。\"]}\n分潤留言：不硬加分潤留言。"
+}
