@@ -1,0 +1,2228 @@
+{
+  "date": "2026-10-21",
+  "cutoff": "2026-10-21 10:05:48 Asia/Taipei（日本11:05:48 Asia/Tokyo）",
+  "trends": [
+    "已查證：Skyliner11月新增上野05:20出發班次，旅客須以新班表實施日區分。",
+    "已查證：壽司郎布丁狗第二波今天開售；合作本身9月已公告。",
+    "已查證：ANA沖繩部分航線列颱風特別退改，並非全部停飛。",
+    "已查證：晴空塔元旦初日出採抽選；一般展望台票不可替代。",
+    "已查證：USJ明年柯南活動日期公布，餐廳售票細節仍待公布。",
+    "已查證：熊本交通半價10/29開始，機場巴士排除。",
+    "編輯觀察：秋季即時消息與明年預訂題並存；應以旅客能否行動及資格限制挑選。",
+    "查核限制：15項候選僅6項達本期交叉查核標準；未建立可驗證社群熱榜，星等與100分是編輯判斷。"
+  ],
+  "choice": {
+    "id": "skyliner-first-0520-2026",
+    "title": "Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘",
+    "score": 89,
+    "reason": "編輯推薦，不代使用者選題。雖總分低於布丁狗、柯南與日出，但對早班機旅客的問題直接，提前一個月仍有交通與住宿規劃空間。",
+    "versusSecond": "布丁狗今天開始、視覺較強；Skyliner的收藏與預訂需求更明確且生命週期較長，所以編輯排序提前。此排序不是社群熱榜。",
+    "publishAt": "台灣12:00（無帳號數據，編輯建議）",
+    "audience": "11月後搭成田早班機、考慮住上野的台灣自由行旅客",
+    "angle": "提早20分鐘出發，先核對機場報到與換票條件",
+    "lifecycle": "1個月以上"
+  },
+  "top10": [
+    {
+      "id": "skyliner-first-0520-2026",
+      "title": "Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘",
+      "region": "關東／上野、成田機場",
+      "category": "交通",
+      "announcementDate": "京成10/20；品牌14:00、媒體17:06 JST",
+      "eventDate": "假日11/21、平日11/24改點",
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.keisei.co.jp/news/detail.php?CN=8045"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149697.html"
+        },
+        {
+          "label": "京成原始品牌發稿10/20 14:00",
+          "url": "https://prtimes.jp/main/html/rd/p/000000099.000164008.html"
+        }
+      ],
+      "why": "早班機旅客能重新比較機場前一晚住宿，但到航廈後仍須留報到時間。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "京成官網HTML與品牌稿、媒體交叉：上野05:20新增，比現行05:40早20分鐘。未採未查證的到達機場時間。平台現行換票資訊不能證明新首班可即時兌換或有空位。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "有11月以後機場交通與前夜住宿的直接預訂需求；新首班的換票及座位仍待平台更新。",
+        "products": [
+          "Skyliner單程／來回票",
+          "上野住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "安排成田機場交通時，可另外比較Skyliner票種及上野住宿；新05:20班次的換票、指定席與有效日期要在下單前再確認。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀Trip上野至成田頁，但頁面為AI交通指南，不是已核對的商品或交通查詢結果，排除。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "東京上野區住宿列表",
+              "url": "https://www.booking.com/district/jp/tokyo/ueno.ja.html",
+              "kind": "住宿列表",
+              "reason": "已讀上野地區飯店列表，可延伸早班機前夜住宿比較。",
+              "checks": "需另核對到京成上野站的實際距離、入住日空房與取消規則；不含車票。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "Skyliner成田機場快線票",
+              "url": "https://www.kkday.com/zh-tw/product/7913-keisei-skyliner-narita-airport-express-ticket",
+              "kind": "商品頁",
+              "reason": "已讀機場與上野／日暮里雙向票券、電子憑證換實體票及指定席。",
+              "checks": "新05:20班次尚未在平台換票條件確認；先查售票機／櫃台可用時間，不可憑電子券直接上車。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "Skyliner成田機場交通票",
+              "url": "https://www.klook.com/zh-TW/activity/1410-skyliner-tokyo/",
+              "kind": "商品頁",
+              "reason": "已讀單程、來回及搭配地鐵等不同票種。",
+              "checks": "不同方案效期與取消條件不同；新首班適用及兌換時間尚未確認。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "11月去東京搭早班機，上野出發的Skyliner多一個更早選擇：新增日本時間05:20班次，比現行首班05:40早20分鐘。\n\n假日班表11/21起、平日11/24起實施。這是新增班次的消息，現在出發的旅客仍要看現行時刻表，別提早拿新班表排行程。",
+          "早20分鐘，不代表每一班早班機都趕得上。請先把航空公司的報到截止、使用航廈，以及車站到航廈的移動時間算進去，再決定是否從市區出發。\n\n住上野也要確認走到的是京成上野站。這次沒有核實新班次的機場到達時刻，因此不先替特定航班做保證。",
+          "如果用旅行平台買票，還要看憑證換票與指定席流程，電子券不一定能直接上車。平台的現行說明也不等於已確認05:20班次的兌換時間或座位。\n\n先確認旅遊日期適用新班表，再核對自己票種的兌換方式。京成改點公告：https://www.keisei.co.jp/news/detail.php?CN=8045"
+        ],
+        "angles": [
+          {
+            "name": "提早出發",
+            "opening": "上野到成田，11月起多一班05:20出發的Skyliner。"
+          },
+          {
+            "name": "適用日期",
+            "opening": "假日11/21、平日11/24，新班表開始日不同。"
+          },
+          {
+            "name": "早班機檢查",
+            "opening": "早20分鐘到出發站的列車，不等於每班早班機都趕得上。"
+          },
+          {
+            "name": "換票提醒",
+            "opening": "買好Skyliner電子券，還要確認清晨怎麼換票。"
+          },
+          {
+            "name": "住宿安排",
+            "opening": "住上野搭早班機，先查飯店到京成上野的距離。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://www.keisei.co.jp/news/detail.php?CN=8045"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：Skyliner單程／來回票、上野住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。"
+        ]
+      }
+    },
+    {
+      "id": "sushiro-pompompurin-phase2-2026",
+      "title": "壽司郎布丁狗第二波今天開始：740日圓起的套組附夾鏈袋",
+      "region": "日本／壽司郎參與門市",
+      "category": "美食／IP活動",
+      "announcementDate": "品牌原始公告9/24 11:00；媒體10/21 00:00 JST",
+      "eventDate": "第二波10/21起，贈品送完為止",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://prtimes.jp/main/html/rd/p/000000840.000049164.html"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2147227.html"
+        }
+      ],
+      "why": "今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：9/24公告，今天第二波正式販售",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "品牌9/24原始稿與10/21媒體現場預覽交叉。第二波鮭魚卵包280起、照燒蛋軍艦250起、布丁聖代380起、吊飾飲料1320起、つくロー套組740起，含稅且依店不同。內用、不可外帶、贈品隨機送完為止；優惠券11/18–12/20才適用。無門市即時庫存證據。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市餐點與贈品，沒有自然的旅遊預訂需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天10/21起，日本壽司郎布丁狗合作進入第二波。「つくローセット」740日圓起，附隨機夾鏈袋與紙張；不是每份一般壽司都送。\n\n價格含稅、依門市不同，活動品項限內用，不能外帶。想拿哪種贈品，先認清它綁的是哪份餐點，再點餐。",
+          "第二波可選的品項還有鮭魚卵包280日圓起、照燒蛋軍艦250日圓起，附隨機插牌；布丁聖代380日圓起則附貼紙。\n\n想要吊飾的是另一組：附吊飾飲料1320日圓起。各組贈品種類不同、款式隨機，也沒有保證每家店都有庫存。",
+          "貼紙上的優惠券不是今天就能折抵：使用期間是11/18–12/20。要先用手機讀取QR碼開啟網頁優惠券，再依店內方式使用；不要直接把貼紙原始QR碼當成自助結帳優惠碼。\n\n線上外帶與外送不適用。出發日在10月的人，別把11月才能用的券算進這次餐費。",
+          "購買前先在店內確認活動餐點與剩餘贈品，送完就結束；款式不能保證，也不需要為了未確認的庫存特地跨城。\n\n這是9/24已公布、今天正式開始的第二波，不是今天才公布的新合作。餐點、贈品與優惠條件看品牌原始說明：https://prtimes.jp/main/html/rd/p/000000840.000049164.html"
+        ],
+        "angles": [
+          {
+            "name": "今天開賣",
+            "opening": "壽司郎布丁狗第二波10/21開始，740日圓起套組附夾鏈袋。"
+          },
+          {
+            "name": "贈品怎麼選",
+            "opening": "想拿吊飾或夾鏈袋？它們綁的是不同餐點。"
+          },
+          {
+            "name": "優惠券日期",
+            "opening": "10月拿到的布丁狗優惠券，11/18才開始能用。"
+          },
+          {
+            "name": "價格比較",
+            "opening": "餐點280日圓起，吊飾飲料1320日圓起，別把兩者混在一起。"
+          },
+          {
+            "name": "避免白跑",
+            "opening": "布丁狗合作限內用，贈品庫存要在門市確認。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://prtimes.jp/main/html/rd/p/000000840.000049164.html"
+          }
+        ],
+        "extensions": [
+          "延伸資訊整理：今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。"
+        ]
+      }
+    },
+    {
+      "id": "ana-typhoon30-handling-2026",
+      "title": "ANA宮古、石垣今天中午起列特別退改：不等於航班已取消",
+      "region": "沖繩／那霸、宮古、石垣",
+      "category": "交通／重大時事",
+      "announcementDate": "ANA資訊更新10/20 12:00 JST，原始首發時刻未確認",
+      "eventDate": "宮古石垣10/21 12:00–10/23末班；那霸10/22首班–10/23末班 JST",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 3,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.ana.co.jp/asw/ncf_info"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://www.traicy.com/posts/20261020385319/"
+        }
+      ],
+      "why": "對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。",
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "ANA10/20 12:00更新與TRAICY交叉；宮古石垣10/21中午至23日末班、那霸22日首班至23日末班。實際運航不受影響也可適用指定特別退改；其他航空公司執飛共掛班號排除，國際票國內段另查。未把特別處理列為已取消。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "應協助原訂單退改，不適合趁航班不確定推銷新商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天要飛宮古或石垣、持有ANA適用機票的人，先看退改通知：日本時間10/21中午12:00起到10/23末班，已列入颱風30號特別處理範圍。\n\n這不代表全部航班已取消。ANA說明，即使實際航班照常運行，符合公告範圍的票也可依規則辦理免手續費變更、轉搭或退款。",
+          "那霸的適用時間不同：10/22首班到10/23末班。別把宮古、石垣今天中午開始的條件直接套到那霸。\n\n其他航空公司執飛的共掛班號不在這份範圍內；國際機票內含的日本國內段也要另查規則。台灣飛沖繩的所有航班，不能一律視為符合這份ANA通知。",
+          "先核對航班日期、目的地、實際執飛公司與購票管道，再按原訂單的退改方式處理。出門前另外查航班即時狀態，特別退改通知和取消航班清單是兩回事。\n\n本次依ANA 10/20日本時間12:00更新內容整理，後續可能調整：https://www.ana.co.jp/asw/ncf_info"
+        ],
+        "angles": [
+          {
+            "name": "今天適用範圍",
+            "opening": "ANA宮古石垣特別退改，10/21日本時間中午起適用。"
+          },
+          {
+            "name": "那霸日期不同",
+            "opening": "那霸不是今天開始：這份ANA通知從10/22首班適用。"
+          },
+          {
+            "name": "照飛也可能可退改",
+            "opening": "航班照常飛，也可能符合ANA這次特別退改條件。"
+          },
+          {
+            "name": "共掛班號限制",
+            "opening": "同樣掛ANA班號，其他航空公司執飛不在本次範圍。"
+          },
+          {
+            "name": "查詢順序",
+            "opening": "先核對機票適用範圍，再查航班有沒有取消。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://www.ana.co.jp/asw/ncf_info"
+          }
+        ],
+        "extensions": [
+          "延伸資訊整理：對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。"
+        ]
+      }
+    },
+    {
+      "id": "skytree-sunrise-lottery-2027",
+      "title": "晴空塔2027初日出改抽選：11000日圓、網路名額580人",
+      "region": "關東／東京晴空塔",
+      "category": "活動／票券",
+      "announcementDate": "媒體10/20 16:12 JST；官方頁未標原始公布日",
+      "eventDate": "2027/1/1 05:30–07:30；11/5 12:00–11/26 23:59抽選申請 JST",
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 9,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.tokyo-skytree.jp/lp/first-sunrise2027/"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149647.html"
+        }
+      ],
+      "why": "不是一般展望台票，也不是看到800人就以為網路販售800張。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體核對：總入場800人，網路抽選580人；11000日圓含天望甲板、天望回廊與商店1000日圓券。申請11/5中午至26日23:59、12/1預定通知、每次最多5張。入場窗05:30–06:00、特別營業至07:30；天候看不到日出不退款。海外申請付款資格尚未完全確認。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可規劃附近住宿，但應先確認抽選結果；一般展望台票不適用。",
+        "products": [
+          "晴空塔周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果抽中初日出，再比較清晨能抵達晴空塔的住宿；住宿不代表包含特別入場票。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "想在晴空塔看2027年第一道日出，這次要先抽選，不是準時搶到一般展望台票就能進場。特別票11000日圓，網路抽選名額580人。\n\n申請時間是日本時間11/5中午12:00到11/26 23:59；活動在2027/1/1清晨。官方總名額800人，和網路抽選580人是不同數字。",
+          "11000日圓含天望甲板、天望回廊，以及SKYTREE SHOP的1000日圓購物券。每次最多申請5張，預定12/1通知結果。\n\n特別營業05:30–07:30，指定入場時段05:30–06:00。先算好清晨怎麼抵達，普通展望台票不能替代這張特別票。",
+          "如果天候不好、看不到日出，不會因此退款。海外申請及付款條件仍待申請頁開放後進一步確認，不先保證每種台灣付款方式都可用。\n\n可以先記申請日期，抽選確認後再處理不能退的住宿或交通。完整票價、入場及天候條款：https://www.tokyo-skytree.jp/lp/first-sunrise2027/"
+        ],
+        "angles": [
+          {
+            "name": "改抽選",
+            "opening": "晴空塔2027初日出，這次改成抽選。"
+          },
+          {
+            "name": "580與800",
+            "opening": "官方總額800人，網路抽選其實是580人。"
+          },
+          {
+            "name": "票價包含",
+            "opening": "11000日圓初日出票，包含兩個展望層與購物券。"
+          },
+          {
+            "name": "清晨交通",
+            "opening": "清晨05:30開始入場，先想好怎麼到晴空塔。"
+          },
+          {
+            "name": "天候風險",
+            "opening": "抽中也不保證看得到日出，天候不佳不因此退款。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://www.tokyo-skytree.jp/lp/first-sunrise2027/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：晴空塔周邊住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。"
+        ]
+      }
+    },
+    {
+      "id": "usj-conan-cool-japan-2027",
+      "title": "USJ柯南2027確定2/10開始：推理餐廳須另外買專用票",
+      "region": "關西／大阪USJ",
+      "category": "活動／IP",
+      "announcementDate": "媒體10/20 17:18 JST；官方原始發布時刻未標",
+      "eventDate": "2027/2/10–6/30；餐廳售票細節另行公布",
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149703.html"
+        },
+        {
+          "label": "官方餐廳票種與價格",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant"
+        }
+      ],
+      "why": "已有旅行規劃價值，但不能把一般入園票當成含柯南餐廳。",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方總頁與餐廳頁、媒體確認3項柯南體驗：逃脫、餐廳、故事雲霄飛車。餐廳成人12歲以上但不含小學生7000起、4歲至小學生2600起，含稅；依日期變動、有不演出日，專用票另購且販售細節待公布。一般入園票不含餐廳，不能推未核實套票。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可先比較大阪住宿，但柯南專用票尚未公布販售細節。",
+        "products": [
+          "USJ周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "規劃明年柯南行程時可以先比較USJ周邊住宿；房間與一般入園票都不代表含推理餐廳。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "Booking Universal City站列表要求JavaScript／機器人驗證，未能讀取核對，不列推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/f/japan_travel/p/260670137",
+            "label": "Dcard搜尋舊票券線索",
+            "reason": "不同年份與體驗，不是2027柯南事件，不計分。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "明年去USJ追柯南，可以先把2027/2/10–6/30圈起來：官方已公布逃脫、推理餐廳與故事雲霄飛車三項體驗。\n\n但一般入園票不代表能直接進推理餐廳。餐廳要另外買專用票，販售細節還會再公布，現在別把不明套票當成已包含柯南體驗。",
+          "餐廳官方價格為成人7000日圓起、兒童2600日圓起，含稅且依日期不同。成人是12歲以上、不含小學生；兒童是4歲到小學生。\n\n餐廳有不演出日，各日時間也不同。機票和住宿若要配合特定一場，應等場次與售票規則確認，不要只看整段活動期間就認定天天都有。",
+          "下一步先追官方售票更新，再確認專用票與入園票要怎麼分別準備。飯店或一般樂園票券的介紹，不能代替柯南餐廳的入場資格。\n\n官方活動頁：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan\n餐廳價格與售票資訊：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant"
+        ],
+        "angles": [
+          {
+            "name": "先記活動日期",
+            "opening": "2027柯南USJ活動，日期已公布為2/10–6/30。"
+          },
+          {
+            "name": "餐廳另購票",
+            "opening": "一般USJ門票，不等於含柯南推理餐廳。"
+          },
+          {
+            "name": "兒童票規則",
+            "opening": "餐廳兒童票看學齡條件，不是只看是否滿12歲。"
+          },
+          {
+            "name": "避免訂錯日期",
+            "opening": "活動期間不代表餐廳天天演出，訂行程前再查場次。"
+          },
+          {
+            "name": "下一步追售票",
+            "opening": "想訂柯南餐廳，下一步是等官方售票細節。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：USJ周邊住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。"
+        ]
+      }
+    },
+    {
+      "id": "kumamoto-touch-half-2026",
+      "title": "熊本10/29起指定交通感應刷卡半價：機場巴士不適用",
+      "region": "九州／熊本、福岡高速巴士指定路線",
+      "category": "交通／優惠",
+      "announcementDate": "原始官方PDF10/14；媒體10/20 13:56 JST",
+      "eventDate": "10/29起，預算用完結束，未定固定截止日",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 14,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://ksp-lp.com/"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149611.html"
+        },
+        {
+          "label": "10/14原始官方PDF",
+          "url": "https://www.smbc-card.com/company/news/26/news0002183.pdf"
+        }
+      ],
+      "why": "半價需要指定感應付款與路線，機場旅客尤其容易誤用。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "7天：10/14原始公告；因10/29實施影響近期行程納入，無已驗證熱度上升證據",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方活動、10/14PDF與媒體核對：10/29起指定感應付款半價、無須報名、預算用完結束。ひのくに號櫻町至天神2500→1250，熊本站至通町筋市電200→100。機場利木津、やまびこ、たかちほ、九州橫斷、阿蘇山上、高森等排除。交通IC、現金及櫃台信用卡買票不適用。同卡同裝置上下車，市電僅下車感應；端末顯示原價，請款折半。台灣發行卡是否每張均可成功未確認。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "優惠需直接感應付款，第三方交通票不等於適用；不硬接訂房。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "10/29起在熊本搭指定交通，用符合條件的感應信用卡等付款可享半價，但機場利木津巴士不適用。這不是所有熊本巴士都打五折。\n\n官方例子：ひのくに號櫻町巴士總站到天神，2500變1250日圓；熊本站到通町筋市電，200變100日圓。",
+          "不必事先報名，但要用指定感應支付。現金、交通IC卡，以及在櫃台刷信用卡買票，都不是這次半價方式。\n\n搭乘時須使用同一張卡或同一裝置感應上下車；市電只在下車時感應。車上端末可能仍顯示原價，折扣反映在請款，別以畫面原價就認定沒套用。",
+          "活動從10/29開始，預算用完即結束，沒有可保證的固定截止日。除了機場巴士，やまびこ等多條路線也排除；出發前要逐條核對。\n\n台灣發行的卡片是否都能成功使用尚未確認，請保留備用付款方式。完整適用路線與感應支付規則：https://ksp-lp.com/"
+        ],
+        "angles": [
+          {
+            "name": "排除機場巴士",
+            "opening": "熊本感應付款半價，機場巴士偏偏不在適用範圍。"
+          },
+          {
+            "name": "實際價差",
+            "opening": "櫻町到天神2500變1250，先確認搭的是適用路線。"
+          },
+          {
+            "name": "刷卡方式",
+            "opening": "在櫃台刷信用卡買票，不等於符合感應支付半價。"
+          },
+          {
+            "name": "請款才折扣",
+            "opening": "端末顯示原價，熊本這次折扣反映在請款。"
+          },
+          {
+            "name": "沒有固定截止",
+            "opening": "10/29開始的熊本半價，預算用完就結束。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。",
+            "url": "https://ksp-lp.com/"
+          }
+        ],
+        "extensions": [
+          "延伸資訊整理：半價需要指定感應付款與路線，機場旅客尤其容易誤用。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "skyliner-first-0520-2026",
+      "title": "Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘",
+      "region": "關東／上野、成田機場",
+      "category": "交通",
+      "announcementDate": "京成10/20；品牌14:00、媒體17:06 JST",
+      "eventDate": "假日11/21、平日11/24改點",
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.keisei.co.jp/news/detail.php?CN=8045"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149697.html"
+        },
+        {
+          "label": "京成原始品牌發稿10/20 14:00",
+          "url": "https://prtimes.jp/main/html/rd/p/000000099.000164008.html"
+        }
+      ],
+      "why": "早班機旅客能重新比較機場前一晚住宿，但到航廈後仍須留報到時間。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "京成官網HTML與品牌稿、媒體交叉：上野05:20新增，比現行05:40早20分鐘。未採未查證的到達機場時間。平台現行換票資訊不能證明新首班可即時兌換或有空位。",
+      "affiliateFit": {
+        "level": "高",
+        "reason": "有11月以後機場交通與前夜住宿的直接預訂需求；新首班的換票及座位仍待平台更新。",
+        "products": [
+          "Skyliner單程／來回票",
+          "上野住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Booking.com"
+        ],
+        "commentOpening": "安排成田機場交通時，可另外比較Skyliner票種及上野住宿；新05:20班次的換票、指定席與有效日期要在下單前再確認。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀Trip上野至成田頁，但頁面為AI交通指南，不是已核對的商品或交通查詢結果，排除。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "東京上野區住宿列表",
+              "url": "https://www.booking.com/district/jp/tokyo/ueno.ja.html",
+              "kind": "住宿列表",
+              "reason": "已讀上野地區飯店列表，可延伸早班機前夜住宿比較。",
+              "checks": "需另核對到京成上野站的實際距離、入住日空房與取消規則；不含車票。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "Skyliner成田機場快線票",
+              "url": "https://www.kkday.com/zh-tw/product/7913-keisei-skyliner-narita-airport-express-ticket",
+              "kind": "商品頁",
+              "reason": "已讀機場與上野／日暮里雙向票券、電子憑證換實體票及指定席。",
+              "checks": "新05:20班次尚未在平台換票條件確認；先查售票機／櫃台可用時間，不可憑電子券直接上車。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。",
+          "pages": [
+            {
+              "title": "Skyliner成田機場交通票",
+              "url": "https://www.klook.com/zh-TW/activity/1410-skyliner-tokyo/",
+              "kind": "商品頁",
+              "reason": "已讀單程、來回及搭配地鐵等不同票種。",
+              "checks": "不同方案效期與取消條件不同；新首班適用及兌換時間尚未確認。",
+              "checkedAt": "2026-10-21T10:05:48+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "sushiro-pompompurin-phase2-2026",
+      "title": "壽司郎布丁狗第二波今天開始：740日圓起的套組附夾鏈袋",
+      "region": "日本／壽司郎參與門市",
+      "category": "美食／IP活動",
+      "announcementDate": "品牌原始公告9/24 11:00；媒體10/21 00:00 JST",
+      "eventDate": "第二波10/21起，贈品送完為止",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://prtimes.jp/main/html/rd/p/000000840.000049164.html"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2147227.html"
+        }
+      ],
+      "why": "今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：9/24公告，今天第二波正式販售",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "品牌9/24原始稿與10/21媒體現場預覽交叉。第二波鮭魚卵包280起、照燒蛋軍艦250起、布丁聖代380起、吊飾飲料1320起、つくロー套組740起，含稅且依店不同。內用、不可外帶、贈品隨機送完為止；優惠券11/18–12/20才適用。無門市即時庫存證據。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市餐點與贈品，沒有自然的旅遊預訂需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "ana-typhoon30-handling-2026",
+      "title": "ANA宮古、石垣今天中午起列特別退改：不等於航班已取消",
+      "region": "沖繩／那霸、宮古、石垣",
+      "category": "交通／重大時事",
+      "announcementDate": "ANA資訊更新10/20 12:00 JST，原始首發時刻未確認",
+      "eventDate": "宮古石垣10/21 12:00–10/23末班；那霸10/22首班–10/23末班 JST",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 3,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.ana.co.jp/asw/ncf_info"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://www.traicy.com/posts/20261020385319/"
+        }
+      ],
+      "why": "對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。",
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "ANA10/20 12:00更新與TRAICY交叉；宮古石垣10/21中午至23日末班、那霸22日首班至23日末班。實際運航不受影響也可適用指定特別退改；其他航空公司執飛共掛班號排除，國際票國內段另查。未把特別處理列為已取消。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "應協助原訂單退改，不適合趁航班不確定推銷新商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "skytree-sunrise-lottery-2027",
+      "title": "晴空塔2027初日出改抽選：11000日圓、網路名額580人",
+      "region": "關東／東京晴空塔",
+      "category": "活動／票券",
+      "announcementDate": "媒體10/20 16:12 JST；官方頁未標原始公布日",
+      "eventDate": "2027/1/1 05:30–07:30；11/5 12:00–11/26 23:59抽選申請 JST",
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 9,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.tokyo-skytree.jp/lp/first-sunrise2027/"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149647.html"
+        }
+      ],
+      "why": "不是一般展望台票，也不是看到800人就以為網路販售800張。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方與媒體核對：總入場800人，網路抽選580人；11000日圓含天望甲板、天望回廊與商店1000日圓券。申請11/5中午至26日23:59、12/1預定通知、每次最多5張。入場窗05:30–06:00、特別營業至07:30；天候看不到日出不退款。海外申請付款資格尚未完全確認。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可規劃附近住宿，但應先確認抽選結果；一般展望台票不適用。",
+        "products": [
+          "晴空塔周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果抽中初日出，再比較清晨能抵達晴空塔的住宿；住宿不代表包含特別入場票。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "usj-conan-cool-japan-2027",
+      "title": "USJ柯南2027確定2/10開始：推理餐廳須另外買專用票",
+      "region": "關西／大阪USJ",
+      "category": "活動／IP",
+      "announcementDate": "媒體10/20 17:18 JST；官方原始發布時刻未標",
+      "eventDate": "2027/2/10–6/30；餐廳售票細節另行公布",
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149703.html"
+        },
+        {
+          "label": "官方餐廳票種與價格",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant"
+        }
+      ],
+      "why": "已有旅行規劃價值，但不能把一般入園票當成含柯南餐廳。",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體報導；官方日期與時刻以各題欄位為準",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方總頁與餐廳頁、媒體確認3項柯南體驗：逃脫、餐廳、故事雲霄飛車。餐廳成人12歲以上但不含小學生7000起、4歲至小學生2600起，含稅；依日期變動、有不演出日，專用票另購且販售細節待公布。一般入園票不含餐廳，不能推未核實套票。",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可先比較大阪住宿，但柯南專用票尚未公布販售細節。",
+        "products": [
+          "USJ周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "規劃明年柯南行程時可以先比較USJ周邊住宿；房間與一般入園票都不代表含推理餐廳。",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "Booking Universal City站列表要求JavaScript／機器人驗證，未能讀取核對，不列推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/f/japan_travel/p/260670137",
+            "label": "Dcard搜尋舊票券線索",
+            "reason": "不同年份與體驗，不是2027柯南事件，不計分。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "kumamoto-touch-half-2026",
+      "title": "熊本10/29起指定交通感應刷卡半價：機場巴士不適用",
+      "region": "九州／熊本、福岡高速巴士指定路線",
+      "category": "交通／優惠",
+      "announcementDate": "原始官方PDF10/14；媒體10/20 13:56 JST",
+      "eventDate": "10/29起，預算用完結束，未定固定截止日",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 14,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "sources": [
+        {
+          "label": "原始官方頁",
+          "url": "https://ksp-lp.com/"
+        },
+        {
+          "label": "媒體交叉確認",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149611.html"
+        },
+        {
+          "label": "10/14原始官方PDF",
+          "url": "https://www.smbc-card.com/company/news/26/news0002183.pdf"
+        }
+      ],
+      "why": "半價需要指定感應付款與路線，機場旅客尤其容易誤用。",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "7天：10/14原始公告；因10/29實施影響近期行程納入，無已驗證熱度上升證據",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（編輯建議，無帳號歷史數據）",
+      "verification": "官方活動、10/14PDF與媒體核對：10/29起指定感應付款半價、無須報名、預算用完結束。ひのくに號櫻町至天神2500→1250，熊本站至通町筋市電200→100。機場利木津、やまびこ、たかちほ、九州橫斷、阿蘇山上、高森等排除。交通IC、現金及櫃台信用卡買票不適用。同卡同裝置上下車，市電僅下車感應；端末顯示原價，請款折半。台灣發行卡是否每張均可成功未確認。",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "優惠需直接感應付款，第三方交通票不等於適用；不硬接訂房。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19"
+        ]
+      },
+      "selected": true
+    },
+    {
+      "id": "tdr-jill-2026",
+      "title": "TDR JILL STUART灰姑娘禮盒",
+      "region": "關東／迪士尼",
+      "category": "購物",
+      "announcementDate": "10/21媒體；11/19販售",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149680.html"
+        }
+      ],
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 13,
+        "實用性": 9,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "官方商品頁未核對成功，不以新聞單一來源推薦。",
+      "exclusionReason": "官方商品頁未核對成功，不以新聞單一來源推薦。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官方商品頁未核對成功，不以新聞單一來源推薦。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "teppay-2026",
+      "title": "Suica App內teppay推出",
+      "region": "日本",
+      "category": "支付／政策",
+      "announcementDate": "10/20媒體及服務推出",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://www.traicy.com/posts/20261020385369/"
+        }
+      ],
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。",
+      "exclusionReason": "訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "q-ticket-expansion-2026",
+      "title": "えきねっとQチケ擴大",
+      "region": "東日本",
+      "category": "票券",
+      "announcementDate": "10/20媒體；11/1擴大",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://www.traicy.com/posts/20261020377806/"
+        }
+      ],
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 4,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "原始公告日期、外國旅客註冊及例外路線尚待官方交叉。",
+      "exclusionReason": "原始公告日期、外國旅客註冊及例外路線尚待官方交叉。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "原始公告日期、外國旅客註冊及例外路線尚待官方交叉。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "his-kyushu-reopen-2026",
+      "title": "HIS九州補助取消庫存再開",
+      "region": "九州",
+      "category": "優惠",
+      "announcementDate": "10/20媒體；10/21 12:00 JST重開",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://www.traicy.com/posts/20261020385311/"
+        }
+      ],
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 12,
+        "實用性": 10,
+        "稀缺性": 7,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。",
+      "exclusionReason": "資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "sounkyo-leaf-2026",
+      "title": "層雲峽葉況已落葉線索",
+      "region": "北海道",
+      "category": "季節情報",
+      "announcementDate": "讀取頁面10/19 10:02更新，與索引時間不同",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://koyo.walkerplus.com/detail/ar0101e318862/"
+        }
+      ],
+      "score": 71,
+      "scoreBreakdown": {
+        "即時性": 14,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 9,
+        "實用性": 13,
+        "稀缺性": 4,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。",
+      "exclusionReason": "未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "okinawa-ferry-fare-lead",
+      "title": "沖繩離島船資整理線索",
+      "region": "沖繩",
+      "category": "交通",
+      "announcementDate": "10/20索引；所述10/1調整尚未核對",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://portai.jp/okinawa-islands-autumn-comparison-2026/"
+        }
+      ],
+      "score": 48,
+      "scoreBreakdown": {
+        "即時性": 6,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 7,
+        "實用性": 8,
+        "稀缺性": 3,
+        "視覺吸引力": 4,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "原頁讀取失敗、官方船公司資料未交叉，僅保留線索。",
+      "exclusionReason": "原頁讀取失敗、官方船公司資料未交叉，僅保留線索。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "原頁讀取失敗、官方船公司資料未交叉，僅保留線索。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "iyomishima-festival-2026",
+      "title": "伊予三島秋祭日程線索",
+      "region": "四國／愛媛",
+      "category": "祭典",
+      "announcementDate": "整理頁4/10；列10/20–23活動",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://ehime.travel/articles/shikokuchuo-event-map-10/"
+        }
+      ],
+      "score": 53,
+      "scoreBreakdown": {
+        "即時性": 8,
+        "台灣旅客相關性": 10,
+        "社群討論潛力": 8,
+        "實用性": 7,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。",
+      "exclusionReason": "舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "fushimi-jazz-2026",
+      "title": "名古屋FUSHIMI Jazz線索",
+      "region": "中部／名古屋",
+      "category": "活動",
+      "announcementDate": "索引列10/19–23；原始公告日未確認",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://db.nagoya-info.jp/event"
+        }
+      ],
+      "score": 55,
+      "scoreBreakdown": {
+        "即時性": 9,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 8,
+        "實用性": 8,
+        "稀缺性": 5,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。",
+      "exclusionReason": "活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    },
+    {
+      "id": "superhotel-sunday-2026",
+      "title": "Super Hotel週日延後退房方案",
+      "region": "日本／參與飯店待查",
+      "category": "住宿",
+      "announcementDate": "媒體10/20 18:14；11/1販售",
+      "eventDate": "詳見日期欄；尚未完全確認",
+      "sources": [
+        {
+          "label": "本期已查線索，非完成交叉查核",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2149724.html"
+        }
+      ],
+      "score": 72,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 9,
+        "實用性": 11,
+        "稀缺性": 5,
+        "視覺吸引力": 6,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。",
+      "exclusionReason": "已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。",
+      "selected": false,
+      "verification": "尚未完全確認；分數僅候選內容初評，不代表可發布。",
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 3
+      },
+      "risk": "中",
+      "freshness": "日期／原始公布時效未完全確認，不能評為已查證A級",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成新聞查核，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。",
+        "assessedOn": "2026-10-21"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，尚未進行商品核對。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-21T10:05:48+08:00",
+        "summary": "未取得可計分原始社群證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19",
+          "(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19",
+          "(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19",
+          "(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "ANA颱風30號運航與退改更新",
+      "why": "未來24–48小時追蹤適用範圍是否延長與實際取消班次；不得由特別退改推定停飛。",
+      "url": "https://www.ana.co.jp/asw/ncf_info"
+    },
+    {
+      "title": "壽司郎第二波門市供應",
+      "why": "未來24小時觀察原始開箱與門市供應證據，沒有庫存數據不宣稱售罄或爆紅。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000840.000049164.html"
+    },
+    {
+      "title": "HIS九州取消庫存重開",
+      "why": "10/21中午預定重開，待核對官方資格、海外旅客能否買及實際庫存，屬觀察。",
+      "url": "https://www.traicy.com/posts/20261020385311/"
+    },
+    {
+      "title": "Super Hotel週日方案",
+      "why": "未來72小時觀察是否公布參與館別與價格；未公告則仍留待查，不能保證明天可推薦。",
+      "url": "https://travel.watch.impress.co.jp/docs/news/2149724.html"
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-21T10:05:48+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 14,
+    "qualifiedTopicCount": 0,
+    "limitation": "公開搜尋未取得兩位不同作者且原始時間、讚與留言可核對的48小時樣本；TikTok受robots限制，其餘多為無結果、索引或舊文。沒有全站熱榜資料，不能把新聞篇數當熱度。未使用搜尋摘要或鏡像互動值。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "Facebook",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "Instagram",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "Dcard",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "PTT",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "X",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      },
+      {
+        "platform": "TikTok",
+        "status": "未取得合格原始樣本",
+        "limitation": "robots限制"
+      },
+      {
+        "platform": "YouTube",
+        "status": "未取得合格原始樣本",
+        "limitation": "搜尋無合格原文；不代表平台上沒有討論"
+      }
+    ]
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-21\n搜尋截止：台灣10:05:48／日本11:05:48\n搜尋涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩，以2026年10月20日／21日搭配觀光、紅葉、オープン、交通等關鍵字掃描。候選先評分，完成查核後選6題，未湊TOP10。過去報告由本機歷史檔比對，本期主題均有不同事件／新進展。所有星等與分數均為編輯預估，非已驗證熱度或觀看保證。8分數上限依序20/20/15/15/10/10/5/5。初評不代表未查核題可發布。推薦順序依實用性、近期行動需求與預訂自然度，並保留ANA必要提醒，不是純總分順序。推薦平台合併搜尋四平台；Skyliner已讀KKday/Klook及Booking上野列表，Trip AI指南排除；USJ Booking頁受驗證阻擋。其他限定活動未有已核對對應商品，不能用一般票替代。查閱時刻為本期核對完成紀錄，未保證現售庫存。\n【趨勢】\n已查證：Skyliner11月新增上野05:20出發班次，旅客須以新班表實施日區分。\n已查證：壽司郎布丁狗第二波今天開售；合作本身9月已公告。\n已查證：ANA沖繩部分航線列颱風特別退改，並非全部停飛。\n已查證：晴空塔元旦初日出採抽選；一般展望台票不可替代。\n已查證：USJ明年柯南活動日期公布，餐廳售票細節仍待公布。\n已查證：熊本交通半價10/29開始，機場巴士排除。\n編輯觀察：秋季即時消息與明年預訂題並存；應以旅客能否行動及資格限制挑選。\n查核限制：15項候選僅6項達本期交叉查核標準；未建立可驗證社群熱榜，星等與100分是編輯判斷。\n【候選池與評分紀錄：15題，6題入選】\n{\n  \"id\": \"skyliner-first-0520-2026\",\n  \"title\": \"Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘\",\n  \"region\": \"關東／上野、成田機場\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"京成10/20；品牌14:00、媒體17:06 JST\",\n  \"eventDate\": \"假日11/21、平日11/24改點\",\n  \"score\": 89,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.keisei.co.jp/news/detail.php?CN=8045\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149697.html\"\n    },\n    {\n      \"label\": \"京成原始品牌發稿10/20 14:00\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000099.000164008.html\"\n    }\n  ],\n  \"why\": \"早班機旅客能重新比較機場前一晚住宿，但到航廈後仍須留報到時間。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"京成官網HTML與品牌稿、媒體交叉：上野05:20新增，比現行05:40早20分鐘。未採未查證的到達機場時間。平台現行換票資訊不能證明新首班可即時兌換或有空位。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"有11月以後機場交通與前夜住宿的直接預訂需求；新首班的換票及座位仍待平台更新。\",\n    \"products\": [\n      \"Skyliner單程／來回票\",\n      \"上野住宿\"\n    ],\n    \"platforms\": [\n      \"KKday\",\n      \"Klook\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"安排成田機場交通時，可另外比較Skyliner票種及上野住宿；新05:20班次的換票、指定席與有效日期要在下單前再確認。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀Trip上野至成田頁，但頁面為AI交通指南，不是已核對的商品或交通查詢結果，排除。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"東京上野區住宿列表\",\n          \"url\": \"https://www.booking.com/district/jp/tokyo/ueno.ja.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"已讀上野地區飯店列表，可延伸早班機前夜住宿比較。\",\n          \"checks\": \"需另核對到京成上野站的實際距離、入住日空房與取消規則；不含車票。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"Skyliner成田機場快線票\",\n          \"url\": \"https://www.kkday.com/zh-tw/product/7913-keisei-skyliner-narita-airport-express-ticket\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"已讀機場與上野／日暮里雙向票券、電子憑證換實體票及指定席。\",\n          \"checks\": \"新05:20班次尚未在平台換票條件確認；先查售票機／櫃台可用時間，不可憑電子券直接上車。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"Skyliner成田機場交通票\",\n          \"url\": \"https://www.klook.com/zh-TW/activity/1410-skyliner-tokyo/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"已讀單程、來回及搭配地鐵等不同票種。\",\n          \"checks\": \"不同方案效期與取消條件不同；新首班適用及兌換時間尚未確認。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"sushiro-pompompurin-phase2-2026\",\n  \"title\": \"壽司郎布丁狗第二波今天開始：740日圓起的套組附夾鏈袋\",\n  \"region\": \"日本／壽司郎參與門市\",\n  \"category\": \"美食／IP活動\",\n  \"announcementDate\": \"品牌原始公告9/24 11:00；媒體10/21 00:00 JST\",\n  \"eventDate\": \"第二波10/21起，贈品送完為止\",\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 13,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://gourmet.watch.impress.co.jp/docs/news/2147227.html\"\n    }\n  ],\n  \"why\": \"今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天例外：9/24公告，今天第二波正式販售\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"品牌9/24原始稿與10/21媒體現場預覽交叉。第二波鮭魚卵包280起、照燒蛋軍艦250起、布丁聖代380起、吊飾飲料1320起、つくロー套組740起，含稅且依店不同。內用、不可外帶、贈品隨機送完為止；優惠券11/18–12/20才適用。無門市即時庫存證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"門市餐點與贈品，沒有自然的旅遊預訂需求。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"ana-typhoon30-handling-2026\",\n  \"title\": \"ANA宮古、石垣今天中午起列特別退改：不等於航班已取消\",\n  \"region\": \"沖繩／那霸、宮古、石垣\",\n  \"category\": \"交通／重大時事\",\n  \"announcementDate\": \"ANA資訊更新10/20 12:00 JST，原始首發時刻未確認\",\n  \"eventDate\": \"宮古石垣10/21 12:00–10/23末班；那霸10/22首班–10/23末班 JST\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 3,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.ana.co.jp/asw/ncf_info\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://www.traicy.com/posts/20261020385319/\"\n    }\n  ],\n  \"why\": \"對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"ANA10/20 12:00更新與TRAICY交叉；宮古石垣10/21中午至23日末班、那霸22日首班至23日末班。實際運航不受影響也可適用指定特別退改；其他航空公司執飛共掛班號排除，國際票國內段另查。未把特別處理列為已取消。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"應協助原訂單退改，不適合趁航班不確定推銷新商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"skytree-sunrise-lottery-2027\",\n  \"title\": \"晴空塔2027初日出改抽選：11000日圓、網路名額580人\",\n  \"region\": \"關東／東京晴空塔\",\n  \"category\": \"活動／票券\",\n  \"announcementDate\": \"媒體10/20 16:12 JST；官方頁未標原始公布日\",\n  \"eventDate\": \"2027/1/1 05:30–07:30；11/5 12:00–11/26 23:59抽選申請 JST\",\n  \"score\": 93,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 13,\n    \"實用性\": 14,\n    \"稀缺性\": 9,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.tokyo-skytree.jp/lp/first-sunrise2027/\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149647.html\"\n    }\n  ],\n  \"why\": \"不是一般展望台票，也不是看到800人就以為網路販售800張。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體核對：總入場800人，網路抽選580人；11000日圓含天望甲板、天望回廊與商店1000日圓券。申請11/5中午至26日23:59、12/1預定通知、每次最多5張。入場窗05:30–06:00、特別營業至07:30；天候看不到日出不退款。海外申請付款資格尚未完全確認。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可規劃附近住宿，但應先確認抽選結果；一般展望台票不適用。\",\n    \"products\": [\n      \"晴空塔周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"如果抽中初日出，再比較清晨能抵達晴空塔的住宿；住宿不代表包含特別入場票。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"usj-conan-cool-japan-2027\",\n  \"title\": \"USJ柯南2027確定2/10開始：推理餐廳須另外買專用票\",\n  \"region\": \"關西／大阪USJ\",\n  \"category\": \"活動／IP\",\n  \"announcementDate\": \"媒體10/20 17:18 JST；官方原始發布時刻未標\",\n  \"eventDate\": \"2027/2/10–6/30；餐廳售票細節另行公布\",\n  \"score\": 93,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 13,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149703.html\"\n    },\n    {\n      \"label\": \"官方餐廳票種與價格\",\n      \"url\": \"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant\"\n    }\n  ],\n  \"why\": \"已有旅行規劃價值，但不能把一般入園票當成含柯南餐廳。\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方總頁與餐廳頁、媒體確認3項柯南體驗：逃脫、餐廳、故事雲霄飛車。餐廳成人12歲以上但不含小學生7000起、4歲至小學生2600起，含稅；依日期變動、有不演出日，專用票另購且販售細節待公布。一般入園票不含餐廳，不能推未核實套票。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可先比較大阪住宿，但柯南專用票尚未公布販售細節。\",\n    \"products\": [\n      \"USJ周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"規劃明年柯南行程時可以先比較USJ周邊住宿；房間與一般入園票都不代表含推理餐廳。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"Booking Universal City站列表要求JavaScript／機器人驗證，未能讀取核對，不列推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.dcard.tw/f/japan_travel/p/260670137\",\n        \"label\": \"Dcard搜尋舊票券線索\",\n        \"reason\": \"不同年份與體驗，不是2027柯南事件，不計分。\"\n      }\n    ],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"kumamoto-touch-half-2026\",\n  \"title\": \"熊本10/29起指定交通感應刷卡半價：機場巴士不適用\",\n  \"region\": \"九州／熊本、福岡高速巴士指定路線\",\n  \"category\": \"交通／優惠\",\n  \"announcementDate\": \"原始官方PDF10/14；媒體10/20 13:56 JST\",\n  \"eventDate\": \"10/29起，預算用完結束，未定固定截止日\",\n  \"score\": 82,\n  \"scoreBreakdown\": {\n    \"即時性\": 14,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://ksp-lp.com/\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149611.html\"\n    },\n    {\n      \"label\": \"10/14原始官方PDF\",\n      \"url\": \"https://www.smbc-card.com/company/news/26/news0002183.pdf\"\n    }\n  ],\n  \"why\": \"半價需要指定感應付款與路線，機場旅客尤其容易誤用。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"7天：10/14原始公告；因10/29實施影響近期行程納入，無已驗證熱度上升證據\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方活動、10/14PDF與媒體核對：10/29起指定感應付款半價、無須報名、預算用完結束。ひのくに號櫻町至天神2500→1250，熊本站至通町筋市電200→100。機場利木津、やまびこ、たかちほ、九州橫斷、阿蘇山上、高森等排除。交通IC、現金及櫃台信用卡買票不適用。同卡同裝置上下車，市電僅下車感應；端末顯示原價，請款折半。台灣發行卡是否每張均可成功未確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"優惠需直接感應付款，第三方交通票不等於適用；不硬接訂房。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"tdr-jill-2026\",\n  \"title\": \"TDR JILL STUART灰姑娘禮盒\",\n  \"region\": \"關東／迪士尼\",\n  \"category\": \"購物\",\n  \"announcementDate\": \"10/21媒體；11/19販售\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149680.html\"\n    }\n  ],\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 13,\n    \"實用性\": 9,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n  \"exclusionReason\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"teppay-2026\",\n  \"title\": \"Suica App內teppay推出\",\n  \"region\": \"日本\",\n  \"category\": \"支付／政策\",\n  \"announcementDate\": \"10/20媒體及服務推出\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020385369/\"\n    }\n  ],\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 12,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n  \"exclusionReason\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"q-ticket-expansion-2026\",\n  \"title\": \"えきねっとQチケ擴大\",\n  \"region\": \"東日本\",\n  \"category\": \"票券\",\n  \"announcementDate\": \"10/20媒體；11/1擴大\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020377806/\"\n    }\n  ],\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 10,\n    \"實用性\": 14,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n  \"exclusionReason\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"his-kyushu-reopen-2026\",\n  \"title\": \"HIS九州補助取消庫存再開\",\n  \"region\": \"九州\",\n  \"category\": \"優惠\",\n  \"announcementDate\": \"10/20媒體；10/21 12:00 JST重開\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020385311/\"\n    }\n  ],\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 12,\n    \"實用性\": 10,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n  \"exclusionReason\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"sounkyo-leaf-2026\",\n  \"title\": \"層雲峽葉況已落葉線索\",\n  \"region\": \"北海道\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"讀取頁面10/19 10:02更新，與索引時間不同\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://koyo.walkerplus.com/detail/ar0101e318862/\"\n    }\n  ],\n  \"score\": 71,\n  \"scoreBreakdown\": {\n    \"即時性\": 14,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 9,\n    \"實用性\": 13,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n  \"exclusionReason\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"okinawa-ferry-fare-lead\",\n  \"title\": \"沖繩離島船資整理線索\",\n  \"region\": \"沖繩\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/20索引；所述10/1調整尚未核對\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://portai.jp/okinawa-islands-autumn-comparison-2026/\"\n    }\n  ],\n  \"score\": 48,\n  \"scoreBreakdown\": {\n    \"即時性\": 6,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n  \"exclusionReason\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  }\n}\n\n{\n  \"id\": \"iyomishima-festival-2026\",\n  \"title\": \"伊予三島秋祭日程線索\",\n  \"region\": \"四國／愛媛\",\n  \"category\": \"祭典\",\n  \"announcementDate\": \"整理頁4/10；列10/20–23活動\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://ehime.travel/articles/shikokuchuo-event-map-10/\"\n    }\n  ],\n  \"score\": 53,\n  \"scoreBreakdown\": {\n    \"即時性\": 8,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 8,\n    \"實用性\": 7,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n  \"exclusionReason\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"fushimi-jazz-2026\",\n  \"title\": \"名古屋FUSHIMI Jazz線索\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"索引列10/19–23；原始公告日未確認\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://db.nagoya-info.jp/event\"\n    }\n  ],\n  \"score\": 55,\n  \"scoreBreakdown\": {\n    \"即時性\": 9,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 8,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n  \"exclusionReason\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"superhotel-sunday-2026\",\n  \"title\": \"Super Hotel週日延後退房方案\",\n  \"region\": \"日本／參與飯店待查\",\n  \"category\": \"住宿\",\n  \"announcementDate\": \"媒體10/20 18:14；11/1販售\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149724.html\"\n    }\n  ],\n  \"score\": 72,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 11,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n  \"exclusionReason\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"skyliner-first-0520-2026\",\n  \"title\": \"Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘\",\n  \"score\": 89,\n  \"reason\": \"編輯推薦，不代使用者選題。雖總分低於布丁狗、柯南與日出，但對早班機旅客的問題直接，提前一個月仍有交通與住宿規劃空間。\",\n  \"versusSecond\": \"布丁狗今天開始、視覺較強；Skyliner的收藏與預訂需求更明確且生命週期較長，所以編輯排序提前。此排序不是社群熱榜。\",\n  \"publishAt\": \"台灣12:00（無帳號數據，編輯建議）\",\n  \"audience\": \"11月後搭成田早班機、考慮住上野的台灣自由行旅客\",\n  \"angle\": \"提早20分鐘出發，先核對機場報到與換票條件\",\n  \"lifecycle\": \"1個月以上\"\n}\n【社群方法】\n{\n  \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 14,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"公開搜尋未取得兩位不同作者且原始時間、讚與留言可核對的48小時樣本；TikTok受robots限制，其餘多為無結果、索引或舊文。沒有全站熱榜資料，不能把新聞篇數當熱度。未使用搜尋摘要或鏡像互動值。\",\n  \"platformAccess\": [\n    {\n      \"platform\": \"Threads\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Facebook\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Instagram\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Dcard\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"PTT\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"X\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"TikTok\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"robots限制\"\n    },\n    {\n      \"platform\": \"YouTube\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    }\n  ]\n}\n搜尋詞：日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\n(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\n(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\n(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\n(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\n(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19\n【追蹤】\n[\n  {\n    \"title\": \"ANA颱風30號運航與退改更新\",\n    \"why\": \"未來24–48小時追蹤適用範圍是否延長與實際取消班次；不得由特別退改推定停飛。\",\n    \"url\": \"https://www.ana.co.jp/asw/ncf_info\"\n  },\n  {\n    \"title\": \"壽司郎第二波門市供應\",\n    \"why\": \"未來24小時觀察原始開箱與門市供應證據，沒有庫存數據不宣稱售罄或爆紅。\",\n    \"url\": \"https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n  },\n  {\n    \"title\": \"HIS九州取消庫存重開\",\n    \"why\": \"10/21中午預定重開，待核對官方資格、海外旅客能否買及實際庫存，屬觀察。\",\n    \"url\": \"https://www.traicy.com/posts/20261020385311/\"\n  },\n  {\n    \"title\": \"Super Hotel週日方案\",\n    \"why\": \"未來72小時觀察是否公布參與館別與價格；未公告則仍留待查，不能保證明天可推薦。\",\n    \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149724.html\"\n  }\n]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-21\n搜尋截止：台灣10:05:48／日本11:05:48\n搜尋涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩，以2026年10月20日／21日搭配觀光、紅葉、オープン、交通等關鍵字掃描。候選先評分，完成查核後選6題，未湊TOP10。過去報告由本機歷史檔比對，本期主題均有不同事件／新進展。所有星等與分數均為編輯預估，非已驗證熱度或觀看保證。8分數上限依序20/20/15/15/10/10/5/5。初評不代表未查核題可發布。推薦順序依實用性、近期行動需求與預訂自然度，並保留ANA必要提醒，不是純總分順序。推薦平台合併搜尋四平台；Skyliner已讀KKday/Klook及Booking上野列表，Trip AI指南排除；USJ Booking頁受驗證阻擋。其他限定活動未有已核對對應商品，不能用一般票替代。查閱時刻為本期核對完成紀錄，未保證現售庫存。\n【趨勢】\n已查證：Skyliner11月新增上野05:20出發班次，旅客須以新班表實施日區分。\n已查證：壽司郎布丁狗第二波今天開售；合作本身9月已公告。\n已查證：ANA沖繩部分航線列颱風特別退改，並非全部停飛。\n已查證：晴空塔元旦初日出採抽選；一般展望台票不可替代。\n已查證：USJ明年柯南活動日期公布，餐廳售票細節仍待公布。\n已查證：熊本交通半價10/29開始，機場巴士排除。\n編輯觀察：秋季即時消息與明年預訂題並存；應以旅客能否行動及資格限制挑選。\n查核限制：15項候選僅6項達本期交叉查核標準；未建立可驗證社群熱榜，星等與100分是編輯判斷。\n【候選池與評分紀錄：15題，6題入選】\n{\n  \"id\": \"skyliner-first-0520-2026\",\n  \"title\": \"Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘\",\n  \"region\": \"關東／上野、成田機場\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"京成10/20；品牌14:00、媒體17:06 JST\",\n  \"eventDate\": \"假日11/21、平日11/24改點\",\n  \"score\": 89,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.keisei.co.jp/news/detail.php?CN=8045\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149697.html\"\n    },\n    {\n      \"label\": \"京成原始品牌發稿10/20 14:00\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000099.000164008.html\"\n    }\n  ],\n  \"why\": \"早班機旅客能重新比較機場前一晚住宿，但到航廈後仍須留報到時間。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"京成官網HTML與品牌稿、媒體交叉：上野05:20新增，比現行05:40早20分鐘。未採未查證的到達機場時間。平台現行換票資訊不能證明新首班可即時兌換或有空位。\",\n  \"affiliateFit\": {\n    \"level\": \"高\",\n    \"reason\": \"有11月以後機場交通與前夜住宿的直接預訂需求；新首班的換票及座位仍待平台更新。\",\n    \"products\": [\n      \"Skyliner單程／來回票\",\n      \"上野住宿\"\n    ],\n    \"platforms\": [\n      \"KKday\",\n      \"Klook\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"安排成田機場交通時，可另外比較Skyliner票種及上野住宿；新05:20班次的換票、指定席與有效日期要在下單前再確認。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已讀Trip上野至成田頁，但頁面為AI交通指南，不是已核對的商品或交通查詢結果，排除。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"東京上野區住宿列表\",\n          \"url\": \"https://www.booking.com/district/jp/tokyo/ueno.ja.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"已讀上野地區飯店列表，可延伸早班機前夜住宿比較。\",\n          \"checks\": \"需另核對到京成上野站的實際距離、入住日空房與取消規則；不含車票。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"Skyliner成田機場快線票\",\n          \"url\": \"https://www.kkday.com/zh-tw/product/7913-keisei-skyliner-narita-airport-express-ticket\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"已讀機場與上野／日暮里雙向票券、電子憑證換實體票及指定席。\",\n          \"checks\": \"新05:20班次尚未在平台換票條件確認；先查售票機／櫃台可用時間，不可憑電子券直接上車。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已開啟閱讀核對地區與產品種類；不是新首班可用或有庫存的保證。\",\n      \"pages\": [\n        {\n          \"title\": \"Skyliner成田機場交通票\",\n          \"url\": \"https://www.klook.com/zh-TW/activity/1410-skyliner-tokyo/\",\n          \"kind\": \"商品頁\",\n          \"reason\": \"已讀單程、來回及搭配地鐵等不同票種。\",\n          \"checks\": \"不同方案效期與取消條件不同；新首班適用及兌換時間尚未確認。\",\n          \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n          \"verified\": true\n        }\n      ]\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"sushiro-pompompurin-phase2-2026\",\n  \"title\": \"壽司郎布丁狗第二波今天開始：740日圓起的套組附夾鏈袋\",\n  \"region\": \"日本／壽司郎參與門市\",\n  \"category\": \"美食／IP活動\",\n  \"announcementDate\": \"品牌原始公告9/24 11:00；媒體10/21 00:00 JST\",\n  \"eventDate\": \"第二波10/21起，贈品送完為止\",\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 13,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://gourmet.watch.impress.co.jp/docs/news/2147227.html\"\n    }\n  ],\n  \"why\": \"今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"risk\": \"低\",\n  \"freshness\": \"超過7天例外：9/24公告，今天第二波正式販售\",\n  \"lifecycle\": \"1週\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"品牌9/24原始稿與10/21媒體現場預覽交叉。第二波鮭魚卵包280起、照燒蛋軍艦250起、布丁聖代380起、吊飾飲料1320起、つくロー套組740起，含稅且依店不同。內用、不可外帶、贈品隨機送完為止；優惠券11/18–12/20才適用。無門市即時庫存證據。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"門市餐點與贈品，沒有自然的旅遊預訂需求。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"ana-typhoon30-handling-2026\",\n  \"title\": \"ANA宮古、石垣今天中午起列特別退改：不等於航班已取消\",\n  \"region\": \"沖繩／那霸、宮古、石垣\",\n  \"category\": \"交通／重大時事\",\n  \"announcementDate\": \"ANA資訊更新10/20 12:00 JST，原始首發時刻未確認\",\n  \"eventDate\": \"宮古石垣10/21 12:00–10/23末班；那霸10/22首班–10/23末班 JST\",\n  \"score\": 85,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 3,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.ana.co.jp/asw/ncf_info\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://www.traicy.com/posts/20261020385319/\"\n    }\n  ],\n  \"why\": \"對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1天\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"ANA10/20 12:00更新與TRAICY交叉；宮古石垣10/21中午至23日末班、那霸22日首班至23日末班。實際運航不受影響也可適用指定特別退改；其他航空公司執飛共掛班號排除，國際票國內段另查。未把特別處理列為已取消。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"應協助原訂單退改，不適合趁航班不確定推銷新商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"skytree-sunrise-lottery-2027\",\n  \"title\": \"晴空塔2027初日出改抽選：11000日圓、網路名額580人\",\n  \"region\": \"關東／東京晴空塔\",\n  \"category\": \"活動／票券\",\n  \"announcementDate\": \"媒體10/20 16:12 JST；官方頁未標原始公布日\",\n  \"eventDate\": \"2027/1/1 05:30–07:30；11/5 12:00–11/26 23:59抽選申請 JST\",\n  \"score\": 93,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 13,\n    \"實用性\": 14,\n    \"稀缺性\": 9,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.tokyo-skytree.jp/lp/first-sunrise2027/\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149647.html\"\n    }\n  ],\n  \"why\": \"不是一般展望台票，也不是看到800人就以為網路販售800張。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方與媒體核對：總入場800人，網路抽選580人；11000日圓含天望甲板、天望回廊與商店1000日圓券。申請11/5中午至26日23:59、12/1預定通知、每次最多5張。入場窗05:30–06:00、特別營業至07:30；天候看不到日出不退款。海外申請付款資格尚未完全確認。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可規劃附近住宿，但應先確認抽選結果；一般展望台票不適用。\",\n    \"products\": [\n      \"晴空塔周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"如果抽中初日出，再比較清晨能抵達晴空塔的住宿；住宿不代表包含特別入場票。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"usj-conan-cool-japan-2027\",\n  \"title\": \"USJ柯南2027確定2/10開始：推理餐廳須另外買專用票\",\n  \"region\": \"關西／大阪USJ\",\n  \"category\": \"活動／IP\",\n  \"announcementDate\": \"媒體10/20 17:18 JST；官方原始發布時刻未標\",\n  \"eventDate\": \"2027/2/10–6/30；餐廳售票細節另行公布\",\n  \"score\": 93,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 14,\n    \"實用性\": 13,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 5\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149703.html\"\n    },\n    {\n      \"label\": \"官方餐廳票種與價格\",\n      \"url\": \"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant\"\n    }\n  ],\n  \"why\": \"已有旅行規劃價值，但不能把一般入園票當成含柯南餐廳。\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"24小時內媒體報導；官方日期與時刻以各題欄位為準\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方總頁與餐廳頁、媒體確認3項柯南體驗：逃脫、餐廳、故事雲霄飛車。餐廳成人12歲以上但不含小學生7000起、4歲至小學生2600起，含稅；依日期變動、有不演出日，專用票另購且販售細節待公布。一般入園票不含餐廳，不能推未核實套票。\",\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可先比較大阪住宿，但柯南專用票尚未公布販售細節。\",\n    \"products\": [\n      \"USJ周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"規劃明年柯南行程時可以先比較USJ周邊住宿；房間與一般入園票都不代表含推理餐廳。\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"Booking Universal City站列表要求JavaScript／機器人驗證，未能讀取核對，不列推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.dcard.tw/f/japan_travel/p/260670137\",\n        \"label\": \"Dcard搜尋舊票券線索\",\n        \"reason\": \"不同年份與體驗，不是2027柯南事件，不計分。\"\n      }\n    ],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"kumamoto-touch-half-2026\",\n  \"title\": \"熊本10/29起指定交通感應刷卡半價：機場巴士不適用\",\n  \"region\": \"九州／熊本、福岡高速巴士指定路線\",\n  \"category\": \"交通／優惠\",\n  \"announcementDate\": \"原始官方PDF10/14；媒體10/20 13:56 JST\",\n  \"eventDate\": \"10/29起，預算用完結束，未定固定截止日\",\n  \"score\": 82,\n  \"scoreBreakdown\": {\n    \"即時性\": 14,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 12,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"sources\": [\n    {\n      \"label\": \"原始官方頁\",\n      \"url\": \"https://ksp-lp.com/\"\n    },\n    {\n      \"label\": \"媒體交叉確認\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149611.html\"\n    },\n    {\n      \"label\": \"10/14原始官方PDF\",\n      \"url\": \"https://www.smbc-card.com/company/news/26/news0002183.pdf\"\n    }\n  ],\n  \"why\": \"半價需要指定感應付款與路線，機場旅客尤其容易誤用。\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"7天：10/14原始公告；因10/29實施影響近期行程納入，無已驗證熱度上升證據\",\n  \"lifecycle\": \"1個月以上\",\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"台灣12:00（編輯建議，無帳號歷史數據）\",\n  \"verification\": \"官方活動、10/14PDF與媒體核對：10/29起指定感應付款半價、無須報名、預算用完結束。ひのくに號櫻町至天神2500→1250，熊本站至通町筋市電200→100。機場利木津、やまびこ、たかちほ、九州橫斷、阿蘇山上、高森等排除。交通IC、現金及櫃台信用卡買票不適用。同卡同裝置上下車，市電僅下車感應；端末顯示原價，請款折半。台灣發行卡是否每張均可成功未確認。\",\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"優惠需直接感應付款，第三方交通票不等於適用；不硬接訂房。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"以事件名合併搜尋四平台，未取得已閱讀核對且符合本題限定條件的推薦商品，不以一般票券替代。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"熱度未確認；未取得48小時內至少2位不同作者且時間、讚與留言皆可核對的原始樣本，不代表零熱度。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\"\n    ]\n  },\n  \"selected\": true\n}\n\n{\n  \"id\": \"tdr-jill-2026\",\n  \"title\": \"TDR JILL STUART灰姑娘禮盒\",\n  \"region\": \"關東／迪士尼\",\n  \"category\": \"購物\",\n  \"announcementDate\": \"10/21媒體；11/19販售\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149680.html\"\n    }\n  ],\n  \"score\": 83,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 17,\n    \"社群討論潛力\": 13,\n    \"實用性\": 9,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n  \"exclusionReason\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"官方商品頁未核對成功，不以新聞單一來源推薦。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"teppay-2026\",\n  \"title\": \"Suica App內teppay推出\",\n  \"region\": \"日本\",\n  \"category\": \"支付／政策\",\n  \"announcementDate\": \"10/20媒體及服務推出\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020385369/\"\n    }\n  ],\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 19,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 12,\n    \"實用性\": 12,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n  \"exclusionReason\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"訪日旅客資格與MyNumber需求未完成官方核對，不把新支付餘額當Suica儲值上限。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"q-ticket-expansion-2026\",\n  \"title\": \"えきねっとQチケ擴大\",\n  \"region\": \"東日本\",\n  \"category\": \"票券\",\n  \"announcementDate\": \"10/20媒體；11/1擴大\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020377806/\"\n    }\n  ],\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 10,\n    \"實用性\": 14,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n  \"exclusionReason\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"原始公告日期、外國旅客註冊及例外路線尚待官方交叉。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"his-kyushu-reopen-2026\",\n  \"title\": \"HIS九州補助取消庫存再開\",\n  \"region\": \"九州\",\n  \"category\": \"優惠\",\n  \"announcementDate\": \"10/20媒體；10/21 12:00 JST重開\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://www.traicy.com/posts/20261020385311/\"\n    }\n  ],\n  \"score\": 78,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 12,\n    \"實用性\": 10,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 5,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n  \"exclusionReason\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"資格、外國旅客可否使用與實際庫存未確認，不宣稱台灣旅客能領補助。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"sounkyo-leaf-2026\",\n  \"title\": \"層雲峽葉況已落葉線索\",\n  \"region\": \"北海道\",\n  \"category\": \"季節情報\",\n  \"announcementDate\": \"讀取頁面10/19 10:02更新，與索引時間不同\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://koyo.walkerplus.com/detail/ar0101e318862/\"\n    }\n  ],\n  \"score\": 71,\n  \"scoreBreakdown\": {\n    \"即時性\": 14,\n    \"台灣旅客相關性\": 16,\n    \"社群討論潛力\": 9,\n    \"實用性\": 13,\n    \"稀缺性\": 4,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n  \"exclusionReason\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"未取得官方同步葉況；搜尋索引與原文更新時間不一致，不把過去點燈當今天仍舉行。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"okinawa-ferry-fare-lead\",\n  \"title\": \"沖繩離島船資整理線索\",\n  \"region\": \"沖繩\",\n  \"category\": \"交通\",\n  \"announcementDate\": \"10/20索引；所述10/1調整尚未核對\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://portai.jp/okinawa-islands-autumn-comparison-2026/\"\n    }\n  ],\n  \"score\": 48,\n  \"scoreBreakdown\": {\n    \"即時性\": 6,\n    \"台灣旅客相關性\": 14,\n    \"社群討論潛力\": 7,\n    \"實用性\": 8,\n    \"稀缺性\": 3,\n    \"視覺吸引力\": 4,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n  \"exclusionReason\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"原頁讀取失敗、官方船公司資料未交叉，僅保留線索。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": []\n  }\n}\n\n{\n  \"id\": \"iyomishima-festival-2026\",\n  \"title\": \"伊予三島秋祭日程線索\",\n  \"region\": \"四國／愛媛\",\n  \"category\": \"祭典\",\n  \"announcementDate\": \"整理頁4/10；列10/20–23活動\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://ehime.travel/articles/shikokuchuo-event-map-10/\"\n    }\n  ],\n  \"score\": 53,\n  \"scoreBreakdown\": {\n    \"即時性\": 8,\n    \"台灣旅客相關性\": 10,\n    \"社群討論潛力\": 8,\n    \"實用性\": 7,\n    \"稀缺性\": 6,\n    \"視覺吸引力\": 9,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 2\n  },\n  \"why\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n  \"exclusionReason\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"舊曆表非當日實施通知，路線時間未核對官方，不以舊文充新消息。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"fushimi-jazz-2026\",\n  \"title\": \"名古屋FUSHIMI Jazz線索\",\n  \"region\": \"中部／名古屋\",\n  \"category\": \"活動\",\n  \"announcementDate\": \"索引列10/19–23；原始公告日未確認\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://db.nagoya-info.jp/event\"\n    }\n  ],\n  \"score\": 55,\n  \"scoreBreakdown\": {\n    \"即時性\": 9,\n    \"台灣旅客相關性\": 12,\n    \"社群討論潛力\": 8,\n    \"實用性\": 8,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 7,\n    \"標題吸引力\": 3,\n    \"延伸內容價值\": 3\n  },\n  \"why\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n  \"exclusionReason\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"活動索引讀取逾時，未讀單一活動原頁，不能作已確認來源。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n\n{\n  \"id\": \"superhotel-sunday-2026\",\n  \"title\": \"Super Hotel週日延後退房方案\",\n  \"region\": \"日本／參與飯店待查\",\n  \"category\": \"住宿\",\n  \"announcementDate\": \"媒體10/20 18:14；11/1販售\",\n  \"eventDate\": \"詳見日期欄；尚未完全確認\",\n  \"sources\": [\n    {\n      \"label\": \"本期已查線索，非完成交叉查核\",\n      \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149724.html\"\n    }\n  ],\n  \"score\": 72,\n  \"scoreBreakdown\": {\n    \"即時性\": 18,\n    \"台灣旅客相關性\": 15,\n    \"社群討論潛力\": 9,\n    \"實用性\": 11,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"why\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n  \"exclusionReason\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n  \"selected\": false,\n  \"verification\": \"尚未完全確認；分數僅候選內容初評，不代表可發布。\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 3,\n    \"share\": 3\n  },\n  \"risk\": \"中\",\n  \"freshness\": \"日期／原始公布時效未完全確認，不能評為已查證A級\",\n  \"lifecycle\": \"3天\",\n  \"publishDecision\": \"先收藏觀察\",\n  \"affiliateFit\": {\n    \"level\": \"未評估\",\n    \"reason\": \"尚未完成新聞查核，不先推薦商品。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"已讀媒體，參與館別、價格與資格尚未完成官方核對，不沿用健康效果宣稱。\",\n    \"assessedOn\": \"2026-10-21\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未入選，尚未進行商品核對。\",\n      \"pages\": []\n    }\n  ],\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n    \"summary\": \"未取得可計分原始社群證據。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n      \"(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\",\n      \"(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\",\n      \"(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\",\n      \"(\\\"サンデー・リセット泊\\\" OR \\\"えきねっとQチケ\\\" OR \\\"層雲峡\\\" OR \\\"伊予三島秋祭り\\\" OR \\\"FUSHIMI Jazz\\\") site:x.com OR site:threads.com after:2026-10-19\"\n    ]\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"skyliner-first-0520-2026\",\n  \"title\": \"Skyliner新增05:20上野出發：11/21起，比現行首班早20分鐘\",\n  \"score\": 89,\n  \"reason\": \"編輯推薦，不代使用者選題。雖總分低於布丁狗、柯南與日出，但對早班機旅客的問題直接，提前一個月仍有交通與住宿規劃空間。\",\n  \"versusSecond\": \"布丁狗今天開始、視覺較強；Skyliner的收藏與預訂需求更明確且生命週期較長，所以編輯排序提前。此排序不是社群熱榜。\",\n  \"publishAt\": \"台灣12:00（無帳號數據，編輯建議）\",\n  \"audience\": \"11月後搭成田早班機、考慮住上野的台灣自由行旅客\",\n  \"angle\": \"提早20分鐘出發，先核對機場報到與換票條件\",\n  \"lifecycle\": \"1個月以上\"\n}\n【社群方法】\n{\n  \"checkedAt\": \"2026-10-21T10:05:48+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 14,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"公開搜尋未取得兩位不同作者且原始時間、讚與留言可核對的48小時樣本；TikTok受robots限制，其餘多為無結果、索引或舊文。沒有全站熱榜資料，不能把新聞篇數當熱度。未使用搜尋摘要或鏡像互動值。\",\n  \"platformAccess\": [\n    {\n      \"platform\": \"Threads\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Facebook\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Instagram\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"Dcard\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"PTT\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"X\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    },\n    {\n      \"platform\": \"TikTok\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"robots限制\"\n    },\n    {\n      \"platform\": \"YouTube\",\n      \"status\": \"未取得合格原始樣本\",\n      \"limitation\": \"搜尋無合格原文；不代表平台上沒有討論\"\n    }\n  ]\n}\n搜尋詞：日本 旅行 2026 10月20日 site:threads.com OR site:ptt.cc OR site:dcard.tw\n(USJ 柯南 2027 OR 晴空塔 日出 2027 OR Skyliner 5:20) (site:threads.com OR site:facebook.com OR site:instagram.com) after:2026-10-19\n(熊本 半價 OR 壽司郎 布丁狗) (site:threads.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\n(コナン 2027 OR スカイツリー 初日の出 OR スカイライナー 5時20 OR 熊本 半額 OR スシロー ポムポムプリン) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-19\n(台風30号 ANA 2026 OR teppay 2026 OR JILL STUART ディズニー 2026 OR 九州ふっこう応援割) (site:x.com OR site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-19\n(\"サンデー・リセット泊\" OR \"えきねっとQチケ\" OR \"層雲峡\" OR \"伊予三島秋祭り\" OR \"FUSHIMI Jazz\") site:x.com OR site:threads.com after:2026-10-19\n【追蹤】\n[\n  {\n    \"title\": \"ANA颱風30號運航與退改更新\",\n    \"why\": \"未來24–48小時追蹤適用範圍是否延長與實際取消班次；不得由特別退改推定停飛。\",\n    \"url\": \"https://www.ana.co.jp/asw/ncf_info\"\n  },\n  {\n    \"title\": \"壽司郎第二波門市供應\",\n    \"why\": \"未來24小時觀察原始開箱與門市供應證據，沒有庫存數據不宣稱售罄或爆紅。\",\n    \"url\": \"https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n  },\n  {\n    \"title\": \"HIS九州取消庫存重開\",\n    \"why\": \"10/21中午預定重開，待核對官方資格、海外旅客能否買及實際庫存，屬觀察。\",\n    \"url\": \"https://www.traicy.com/posts/20261020385311/\"\n  },\n  {\n    \"title\": \"Super Hotel週日方案\",\n    \"why\": \"未來72小時觀察是否公布參與館別與價格；未公告則仍留待查，不能保證明天可推薦。\",\n    \"url\": \"https://travel.watch.impress.co.jp/docs/news/2149724.html\"\n  }\n]\n【逐題草稿、切角、配圖與延伸】\nSkyliner新增05:20上野出發：11/21起，比現行首班早20分鐘\n{\n  \"threads\": [\n    \"11月去東京搭早班機，上野出發的Skyliner多一個更早選擇：新增日本時間05:20班次，比現行首班05:40早20分鐘。\\n\\n假日班表11/21起、平日11/24起實施。這是新增班次的消息，現在出發的旅客仍要看現行時刻表，別提早拿新班表排行程。\",\n    \"早20分鐘，不代表每一班早班機都趕得上。請先把航空公司的報到截止、使用航廈，以及車站到航廈的移動時間算進去，再決定是否從市區出發。\\n\\n住上野也要確認走到的是京成上野站。這次沒有核實新班次的機場到達時刻，因此不先替特定航班做保證。\",\n    \"如果用旅行平台買票，還要看憑證換票與指定席流程，電子券不一定能直接上車。平台的現行說明也不等於已確認05:20班次的兌換時間或座位。\\n\\n先確認旅遊日期適用新班表，再核對自己票種的兌換方式。京成改點公告：https://www.keisei.co.jp/news/detail.php?CN=8045\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"提早出發\",\n      \"opening\": \"上野到成田，11月起多一班05:20出發的Skyliner。\"\n    },\n    {\n      \"name\": \"適用日期\",\n      \"opening\": \"假日11/21、平日11/24，新班表開始日不同。\"\n    },\n    {\n      \"name\": \"早班機檢查\",\n      \"opening\": \"早20分鐘到出發站的列車，不等於每班早班機都趕得上。\"\n    },\n    {\n      \"name\": \"換票提醒\",\n      \"opening\": \"買好Skyliner電子券，還要確認清晨怎麼換票。\"\n    },\n    {\n      \"name\": \"住宿安排\",\n      \"opening\": \"住上野搭早班機，先查飯店到京成上野的距離。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://www.keisei.co.jp/news/detail.php?CN=8045\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：Skyliner單程／來回票、上野住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\"\n  ]\n}\n壽司郎布丁狗第二波今天開始：740日圓起的套組附夾鏈袋\n{\n  \"threads\": [\n    \"今天10/21起，日本壽司郎布丁狗合作進入第二波。「つくローセット」740日圓起，附隨機夾鏈袋與紙張；不是每份一般壽司都送。\\n\\n價格含稅、依門市不同，活動品項限內用，不能外帶。想拿哪種贈品，先認清它綁的是哪份餐點，再點餐。\",\n    \"第二波可選的品項還有鮭魚卵包280日圓起、照燒蛋軍艦250日圓起，附隨機插牌；布丁聖代380日圓起則附貼紙。\\n\\n想要吊飾的是另一組：附吊飾飲料1320日圓起。各組贈品種類不同、款式隨機，也沒有保證每家店都有庫存。\",\n    \"貼紙上的優惠券不是今天就能折抵：使用期間是11/18–12/20。要先用手機讀取QR碼開啟網頁優惠券，再依店內方式使用；不要直接把貼紙原始QR碼當成自助結帳優惠碼。\\n\\n線上外帶與外送不適用。出發日在10月的人，別把11月才能用的券算進這次餐費。\",\n    \"購買前先在店內確認活動餐點與剩餘贈品，送完就結束；款式不能保證，也不需要為了未確認的庫存特地跨城。\\n\\n這是9/24已公布、今天正式開始的第二波，不是今天才公布的新合作。餐點、贈品與優惠條件看品牌原始說明：https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"今天開賣\",\n      \"opening\": \"壽司郎布丁狗第二波10/21開始，740日圓起套組附夾鏈袋。\"\n    },\n    {\n      \"name\": \"贈品怎麼選\",\n      \"opening\": \"想拿吊飾或夾鏈袋？它們綁的是不同餐點。\"\n    },\n    {\n      \"name\": \"優惠券日期\",\n      \"opening\": \"10月拿到的布丁狗優惠券，11/18才開始能用。\"\n    },\n    {\n      \"name\": \"價格比較\",\n      \"opening\": \"餐點280日圓起，吊飾飲料1320日圓起，別把兩者混在一起。\"\n    },\n    {\n      \"name\": \"避免白跑\",\n      \"opening\": \"布丁狗合作限內用，贈品庫存要在門市確認。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000840.000049164.html\"\n    }\n  ],\n  \"extensions\": [\n    \"延伸資訊整理：今天進入第二波；套組、隨機贈品與之後才能用的優惠券容易混淆。\"\n  ]\n}\nANA宮古、石垣今天中午起列特別退改：不等於航班已取消\n{\n  \"threads\": [\n    \"今天要飛宮古或石垣、持有ANA適用機票的人，先看退改通知：日本時間10/21中午12:00起到10/23末班，已列入颱風30號特別處理範圍。\\n\\n這不代表全部航班已取消。ANA說明，即使實際航班照常運行，符合公告範圍的票也可依規則辦理免手續費變更、轉搭或退款。\",\n    \"那霸的適用時間不同：10/22首班到10/23末班。別把宮古、石垣今天中午開始的條件直接套到那霸。\\n\\n其他航空公司執飛的共掛班號不在這份範圍內；國際機票內含的日本國內段也要另查規則。台灣飛沖繩的所有航班，不能一律視為符合這份ANA通知。\",\n    \"先核對航班日期、目的地、實際執飛公司與購票管道，再按原訂單的退改方式處理。出門前另外查航班即時狀態，特別退改通知和取消航班清單是兩回事。\\n\\n本次依ANA 10/20日本時間12:00更新內容整理，後續可能調整：https://www.ana.co.jp/asw/ncf_info\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"今天適用範圍\",\n      \"opening\": \"ANA宮古石垣特別退改，10/21日本時間中午起適用。\"\n    },\n    {\n      \"name\": \"那霸日期不同\",\n      \"opening\": \"那霸不是今天開始：這份ANA通知從10/22首班適用。\"\n    },\n    {\n      \"name\": \"照飛也可能可退改\",\n      \"opening\": \"航班照常飛，也可能符合ANA這次特別退改條件。\"\n    },\n    {\n      \"name\": \"共掛班號限制\",\n      \"opening\": \"同樣掛ANA班號，其他航空公司執飛不在本次範圍。\"\n    },\n    {\n      \"name\": \"查詢順序\",\n      \"opening\": \"先核對機票適用範圍，再查航班有沒有取消。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://www.ana.co.jp/asw/ncf_info\"\n    }\n  ],\n  \"extensions\": [\n    \"延伸資訊整理：對近期跳島旅客直接有用，先分清退改適用範圍與實際運航狀態。\"\n  ]\n}\n晴空塔2027初日出改抽選：11000日圓、網路名額580人\n{\n  \"threads\": [\n    \"想在晴空塔看2027年第一道日出，這次要先抽選，不是準時搶到一般展望台票就能進場。特別票11000日圓，網路抽選名額580人。\\n\\n申請時間是日本時間11/5中午12:00到11/26 23:59；活動在2027/1/1清晨。官方總名額800人，和網路抽選580人是不同數字。\",\n    \"11000日圓含天望甲板、天望回廊，以及SKYTREE SHOP的1000日圓購物券。每次最多申請5張，預定12/1通知結果。\\n\\n特別營業05:30–07:30，指定入場時段05:30–06:00。先算好清晨怎麼抵達，普通展望台票不能替代這張特別票。\",\n    \"如果天候不好、看不到日出，不會因此退款。海外申請及付款條件仍待申請頁開放後進一步確認，不先保證每種台灣付款方式都可用。\\n\\n可以先記申請日期，抽選確認後再處理不能退的住宿或交通。完整票價、入場及天候條款：https://www.tokyo-skytree.jp/lp/first-sunrise2027/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"改抽選\",\n      \"opening\": \"晴空塔2027初日出，這次改成抽選。\"\n    },\n    {\n      \"name\": \"580與800\",\n      \"opening\": \"官方總額800人，網路抽選其實是580人。\"\n    },\n    {\n      \"name\": \"票價包含\",\n      \"opening\": \"11000日圓初日出票，包含兩個展望層與購物券。\"\n    },\n    {\n      \"name\": \"清晨交通\",\n      \"opening\": \"清晨05:30開始入場，先想好怎麼到晴空塔。\"\n    },\n    {\n      \"name\": \"天候風險\",\n      \"opening\": \"抽中也不保證看得到日出，天候不佳不因此退款。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://www.tokyo-skytree.jp/lp/first-sunrise2027/\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：晴空塔周邊住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\"\n  ]\n}\nUSJ柯南2027確定2/10開始：推理餐廳須另外買專用票\n{\n  \"threads\": [\n    \"明年去USJ追柯南，可以先把2027/2/10–6/30圈起來：官方已公布逃脫、推理餐廳與故事雲霄飛車三項體驗。\\n\\n但一般入園票不代表能直接進推理餐廳。餐廳要另外買專用票，販售細節還會再公布，現在別把不明套票當成已包含柯南體驗。\",\n    \"餐廳官方價格為成人7000日圓起、兒童2600日圓起，含稅且依日期不同。成人是12歲以上、不含小學生；兒童是4歲到小學生。\\n\\n餐廳有不演出日，各日時間也不同。機票和住宿若要配合特定一場，應等場次與售票規則確認，不要只看整段活動期間就認定天天都有。\",\n    \"下一步先追官方售票更新，再確認專用票與入園票要怎麼分別準備。飯店或一般樂園票券的介紹，不能代替柯南餐廳的入場資格。\\n\\n官方活動頁：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan\\n餐廳價格與售票資訊：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan/restaurant\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"先記活動日期\",\n      \"opening\": \"2027柯南USJ活動，日期已公布為2/10–6/30。\"\n    },\n    {\n      \"name\": \"餐廳另購票\",\n      \"opening\": \"一般USJ門票，不等於含柯南推理餐廳。\"\n    },\n    {\n      \"name\": \"兒童票規則\",\n      \"opening\": \"餐廳兒童票看學齡條件，不是只看是否滿12歲。\"\n    },\n    {\n      \"name\": \"避免訂錯日期\",\n      \"opening\": \"活動期間不代表餐廳天天演出，訂行程前再查場次。\"\n    },\n    {\n      \"name\": \"下一步追售票\",\n      \"opening\": \"想訂柯南餐廳，下一步是等官方售票細節。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/conan\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：USJ周邊住宿。適用日期、票種、包含內容、庫存、取消規則與分潤資格須於預訂前確認；平台名稱僅為可查找方向。\"\n  ]\n}\n熊本10/29起指定交通感應刷卡半價：機場巴士不適用\n{\n  \"threads\": [\n    \"10/29起在熊本搭指定交通，用符合條件的感應信用卡等付款可享半價，但機場利木津巴士不適用。這不是所有熊本巴士都打五折。\\n\\n官方例子：ひのくに號櫻町巴士總站到天神，2500變1250日圓；熊本站到通町筋市電，200變100日圓。\",\n    \"不必事先報名，但要用指定感應支付。現金、交通IC卡，以及在櫃台刷信用卡買票，都不是這次半價方式。\\n\\n搭乘時須使用同一張卡或同一裝置感應上下車；市電只在下車時感應。車上端末可能仍顯示原價，折扣反映在請款，別以畫面原價就認定沒套用。\",\n    \"活動從10/29開始，預算用完即結束，沒有可保證的固定截止日。除了機場巴士，やまびこ等多條路線也排除；出發前要逐條核對。\\n\\n台灣發行的卡片是否都能成功使用尚未確認，請保留備用付款方式。完整適用路線與感應支付規則：https://ksp-lp.com/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"排除機場巴士\",\n      \"opening\": \"熊本感應付款半價，機場巴士偏偏不在適用範圍。\"\n    },\n    {\n      \"name\": \"實際價差\",\n      \"opening\": \"櫻町到天神2500變1250，先確認搭的是適用路線。\"\n    },\n    {\n      \"name\": \"刷卡方式\",\n      \"opening\": \"在櫃台刷信用卡買票，不等於符合感應支付半價。\"\n    },\n    {\n      \"name\": \"請款才折扣\",\n      \"opening\": \"端末顯示原價，熊本這次折扣反映在請款。\"\n    },\n    {\n      \"name\": \"沒有固定截止\",\n      \"opening\": \"10/29開始的熊本半價，預算用完就結束。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方頁內活動／交通主視覺或資訊圖，可查找素材；商用授權未確認，轉載前需另取得授權。\",\n      \"url\": \"https://ksp-lp.com/\"\n    }\n  ],\n  \"extensions\": [\n    \"延伸資訊整理：半價需要指定感應付款與路線，機場旅客尤其容易誤用。\"\n  ]\n}"
+}
