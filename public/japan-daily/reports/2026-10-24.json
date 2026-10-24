@@ -1,0 +1,2284 @@
+{
+  "date": "2026-10-24",
+  "cutoff": "2026-10-24 10:05:02 Asia/Taipei（日本11:05:02 Asia/Tokyo）",
+  "trends": [
+    "已查證：東京灣花火今天舉行，主辦公告一般票停售且無當日券；交通有臨時調整。",
+    "已查證：日本無印良品週間已開始，海外會員及免稅相容限制不能漏寫。",
+    "已查證：大阪吉伊卡哇物販新店11/24開幕，免費入店仍須注意開幕初期樓層整理券。",
+    "已查證：札幌中島公園點燈昨天開始，日本庭園當日票600日圓、最後入場20:45 JST。",
+    "已查證：Jetstar促銷10/26 16:59 JST截止，最低價不含托運與部分費用。",
+    "已查證：NITORI梅田店10/30開幕，8樓為法人區，開幕優惠不是全日本全商品。",
+    "編輯觀察：共15候選、6題精選；未完成查核、弱相關或與昨日重複者不補滿10題。",
+    "編輯觀察：沒有合格原始社群樣本，本期只能提供內容編輯排序，無法建立社群熱榜。"
+  ],
+  "choice": {
+    "id": "tokyobay-fireworks-20261024",
+    "title": "東京灣花火今晚登場：一般票停售、沒有當日券",
+    "score": 92,
+    "reason": "只作編輯推薦標籤，不預選使用者題目。今天的票券與交通提醒能避免旅客白跑，必須在下午出發前傳達。",
+    "versusSecond": "無印限制適用受眾較廣，但還有多日活動期；東京灣的行動窗口只剩今天，延到晚上發就失去多數實用性。",
+    "publishAt": "台灣10:30（無帳號歷史數據，編輯建議）",
+    "audience": "今天在東京、預計前往台場／豐洲／晴海的台灣旅客及同行者",
+    "angle": "沒有當日券：先查票券、取票與回程，非觀眾也需看管制",
+    "lifecycle": "1天"
+  },
+  "top10": [
+    {
+      "id": "tokyobay-fireworks-20261024",
+      "title": "東京灣花火今晚登場：一般票停售、沒有當日券",
+      "region": "關東／東京灣、晴海、豐洲與台場",
+      "category": "活動／交通",
+      "announcementDate": "主辦10/24停售提醒；交通媒體10/23 17:00 JST；地鐵原公告10/8、臨海線10/2",
+      "eventDate": "10/24 17:30–19:00 JST；交通調整同日",
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "今天抵達東京灣的旅客需要先確認票券與回程；不是鼓勵無票到會場碰運氣。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150691.html"
+        },
+        {
+          "label": "有樂町線10/8加班公告，時段以豐洲站為準",
+          "url": "https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf"
+        },
+        {
+          "label": "臨海線10/2公告",
+          "url": "https://www.twr.co.jp/Portals/0/resources/info/2026/20261002_information.pdf"
+        },
+        {
+          "label": "主辦會場與交通資訊",
+          "url": "https://tokyo-hanabi-festival.com/venue/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "今天：10/24停售提醒；舊交通公告因今天實施例外",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣10:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "活動就在今天且一般票停售，兩個已讀KKday餐廳方案顯示完售，不適合再推購票或臨時住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本次已開啟https://www.kkday.com/ja/product/798848及https://www.kkday.com/ja/product/770535，兩個東京灣花火餐廳方案頁均顯示完售；不列可預訂推薦、不帶入cid。後者有快取限制，不推論全平台完售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "已交叉主辦今日停售公告、活動官網與交通媒體。10/24預定17:30–19:00 JST、全票券制，沒有當日券；一般票停售不等於聲稱所有旅行社商品都售罄。已買且須便利商店取票者先完成取票。官方今日頁稱雨天舉行，但強風等臨時變更仍以主辦即時公告為準。有樂町線加密時段以豐洲站為基準：往新木場16:10–17:20、往池袋19:10–21:10約5分鐘間隔，不當起站發車時刻。臨海線16–22時左右雙向各增7班，也調整部分原班次。地鐵10/8、臨海線10/2舊公告因今天實施而引用，不當新公告。周邊有道路與步行通道管制，未把媒體圖示未逐項核對的時刻寫進草稿。",
+      "draft": {
+        "threads": [
+          "今天要去東京灣看花火，先確認自己有票：10月24日東京灣大華火祭沒有當日券，一般票也已停售。\n\n活動預定日本時間17:30–19:00。這是全票券制會場，別把「今晚有花火」理解成到了現場就能買票進去。",
+          "已買票的人，出發前先做兩件事：\n• 需要便利商店取票的，先完成取票。\n• 按票面確認會場、入口與回程車站。\n\n有樂町線與臨海線有加班安排，但部分原班次也會調整；周邊道路及步行通道另有管制，不要只用平日導航估算時間。",
+          "沒有票、只是要去台場或豐洲吃飯購物的人，也建議先看交通管制圖，預留回程時間。不要把橋上或管制區當臨時觀賞點。\n\n主辦今天公告雨天舉行；出發前仍要看有沒有新的天候或安全調整。停售與取票提醒：https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2\n會場與交通：https://tokyo-hanabi-festival.com/venue/"
+        ],
+        "angles": [
+          {
+            "name": "票券門檻",
+            "opening": "東京灣花火今晚有，但沒有當日券；先看你手上是否已有有效票券。"
+          },
+          {
+            "name": "取票準備",
+            "opening": "買好了東京灣花火票，仍要確認是否必須先到便利商店取票。"
+          },
+          {
+            "name": "回程交通",
+            "opening": "東京灣花火17:30開始，回程卻不能照平日時刻表想像。"
+          },
+          {
+            "name": "非觀眾提醒",
+            "opening": "今天只是去台場吃飯，也要把花火周邊管制算進行程。"
+          },
+          {
+            "name": "天候判斷",
+            "opening": "主辦今日稱雨天舉行，出發前仍要再看最新公告。"
+          }
+        ],
+        "images": [
+          {
+            "description": "主辦會場交通圖及停售公告，可製作自己的行前核對卡；原圖使用授權未確認",
+            "url": "https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2"
+          }
+        ],
+        "extensions": [
+          "可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。"
+        ]
+      }
+    },
+    {
+      "id": "muji-week-20261023",
+      "title": "日本無印良品週間開始：海外會員不適用，免稅不能疊加",
+      "region": "日本／參與無印良品門市",
+      "category": "購物／優惠",
+      "announcementDate": "已找到官方門市10/19預告；媒體10/23 11:46 JST；會員限制非今日新規",
+      "eventDate": "門市10/23–11/3；日本網店至11/4 10:00 JST",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "9折最容易被誤讀成台灣旅客都能使用，先釐清會員資格比列購物清單更有用。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.muji.com/jp/ja/shop/045471/articles/info/1701933"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150624.html"
+        },
+        {
+          "label": "本期活動日期與會員方式",
+          "url": "https://www.muji.com/jp/ja/special-feature/ryohinweek/"
+        },
+        {
+          "label": "官方免稅FAQ，會員服務與非居住者限制",
+          "url": "https://faq.muji.com/日本での免税について-65cc5db59e802e00267baac6"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "7天內官方預告；昨日開始活動例外，無已驗證大量討論",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "會員優惠與免稅限制說明，沒有直接旅遊預訂需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/19門市預告、活動專頁、免稅FAQ與10/23媒體交叉。10/23–11/3日本門市良品週間，網店至11/4 10:00 JST，合資格會員10%優惠並有排除商品；海外MUJI App或海外卡不適用，免稅不能與會員優待併用。FAQ說日本會員服務對象為日本居住者，因此不教台灣短期旅客用換App繞過資格。會員限制是既有規則，不稱10/23新限制。本文只引用FAQ會員相容條件，不把該頁現行免稅金額／攜出期間延伸當11/1新制度。",
+      "draft": {
+        "threads": [
+          "日本無印良品週間開始了，但拿台灣版會員App去日本，不代表能享9折。\n\n本期日本門市活動是10月23日至11月3日。官方明列海外版MUJI App、海外卡不適用；免稅也不能再疊會員優待，赴日前先別把兩種優惠加在一起算。",
+          "還有一個容易漏看的資格：日本MUJI會員服務以日本居住者為對象。\n\n所以不是下載日本版App，就能讓短期赴日旅客自動取得會員優惠。若你是住在日本、符合會員規則的人，才按活動頁要求準備會員條碼；部分商品仍排除在優惠外。",
+          "準備購物時，先把「自己符合哪種資格」和「那間店是否提供免稅」問清楚，再比較實付金額。日本網店本期至11月4日10:00（日本時間），也不能當成台灣網店同步優惠。\n\n這是既有會員限制的行前提醒，不是日本今天新訂的規則。官方活動與限制：https://www.muji.com/jp/ja/shop/045471/articles/info/1701933"
+        ],
+        "angles": [
+          {
+            "name": "海外會員",
+            "opening": "台灣MUJI會員App，不能直接當日本良品週間9折資格。"
+          },
+          {
+            "name": "優惠相容",
+            "opening": "日本無印會員優待與免稅不能疊加，先別把折扣一起算。"
+          },
+          {
+            "name": "居住資格",
+            "opening": "換成日本版App，不等於短期旅客自動取得日本會員資格。"
+          },
+          {
+            "name": "期間差異",
+            "opening": "日本門市到11月3日，網店到11月4日上午；日期別混用。"
+          },
+          {
+            "name": "結帳準備",
+            "opening": "去日本無印前，先查自己適用的資格，再決定購物預算。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動視覺與海外會員排除條件，自製資格對照卡避免只截9折；商用授權未確認",
+            "url": "https://www.muji.com/jp/ja/shop/045471/articles/info/1701933"
+          }
+        ],
+        "extensions": [
+          "可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。"
+        ]
+      }
+    },
+    {
+      "id": "chiikawa-park-store-osaka-20261124",
+      "title": "大阪吉伊卡哇新店11月24日開幕：免費入店仍須整理券",
+      "region": "關西／大阪站LUCUA SOUTH 11樓",
+      "category": "購物／IP",
+      "announcementDate": "8/5首次預告大阪店；10/23新增店內、商品與入場細節，官方無時刻",
+      "eventDate": "11/24開幕；10:00–20:00 JST",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "距開幕一個月，現在可先留意入場申請；避免把免費或Park名稱誤解成可直接進去的遊樂園。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150694.html"
+        },
+        {
+          "label": "8/5原始開店預告",
+          "url": "https://chiikawapark-tokyo.jp/news/hsmicx_vflth/"
+        },
+        {
+          "label": "LUCUA官方開幕專頁",
+          "url": "https://www.lucua.jp/special/south-open/"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時內日期線索：10/23無時刻，不斷言精確24小時；8/5舊預告不是新消息",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "免費物販店的入場整理券不同於園區門票；不因買周邊就推住宿或錯誤票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/23與媒體、商場交叉：11/24 LUCUA SOUTH 11樓、JR大阪站直結，10:00–20:00。是販售東京池袋Park周邊的物販店，不是大阪版整座體驗園區。開幕起暫時10–13樓需事前抽選或先到入場整理券，店本身入場免費；不能用池袋園區票替代。申請開放時間、海外帳號方式未見明確公布，不宣稱已開放申請。官方商品含稅：迷你吊飾1430、寄生吉伊卡哇皂液罐2000；部分商品限購但完整數量未確認，不保證庫存。8/5早已預告新店，此次是細節更新。",
+      "draft": {
+        "threads": [
+          "大阪吉伊卡哇新店11月24日開幕，入店免費，但開幕初期不能直接走進去。\n\n地點在JR大阪站直結的LUCUA SOUTH 11樓。官方說10至13樓暫時採事前抽選或先到入場整理券制；沒拿到入場資格，就進不了這幾層樓。",
+          "這間是「ちいかわパークストア」物販店，販售東京池袋Park的周邊，並設有角色裝飾與拍照區。它不是大阪版完整體驗園區，池袋的園區門票也不能拿來當這裡的入場整理券。\n\n營業時間為日本10:00–20:00。公布商品包含1430日圓迷你吊飾、2000日圓寄生吉伊卡哇皂液罐，都是含稅價；部分商品另有限購。",
+          "現在最值得先存的是入場資訊，不是先買一張名稱相近的票。\n\n抽選／整理券的申請時間、海外帳號操作方式，這次尚未確認；官方會在LUCUA專頁與店鋪官方X更新。安排11月底大阪行程時，先留出彈性，別把預計開幕當成已保證能入店或買到商品。\n官方細節：https://chiikawapark-tokyo.jp/news/x0e64eb94v/"
+        ],
+        "angles": [
+          {
+            "name": "免費限制",
+            "opening": "大阪吉伊卡哇新店免費入場，但初期沒有整理券進不了樓層。"
+          },
+          {
+            "name": "設施區別",
+            "opening": "11月24日開的是吉伊卡哇物販店，不是把池袋整座Park搬來大阪。"
+          },
+          {
+            "name": "入場票區別",
+            "opening": "池袋Park的門票，不能拿來當大阪新店的入場整理券。"
+          },
+          {
+            "name": "購物預算",
+            "opening": "迷你吊飾1430日圓含稅，先看官方商品，再等入場申請細節。"
+          },
+          {
+            "name": "行程彈性",
+            "opening": "11月底去大阪的人，先追抽選資訊，別把開幕日當保證能進店。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方店內示意、商品圖與整理券條件；角色及商品圖片使用權未確認",
+            "url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/"
+          }
+        ],
+        "extensions": [
+          "可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。"
+        ]
+      }
+    },
+    {
+      "id": "nakajima-autumn-lightup-2026",
+      "title": "札幌中島公園開始點燈：日本庭園另收600日圓",
+      "region": "北海道／札幌中島公園",
+      "category": "季節情報／活動",
+      "announcementDate": "官網9/1上線；UHB10/23 19:00 JST報導當晚開始",
+      "eventDate": "10/23–11/3；公園點燈17:00–21:00，庭園17:15–21:00 JST",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "已進入實際活動期，適合近期札幌夜間行程；全區免費的說法會讓旅客誤判庭園費用。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://sapporo-autumn-illuminations.jp/en/"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://www.uhb.jp/news/single.html?id=63072"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：官網9/1，活動昨天正式開始，UHB當晚現場報導",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然銜接中島公園周邊住宿，但活動只到11/3，多數近期旅客可能已訂房，適合度評中。",
+        "products": [
+          "中島公園周邊住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果原本就打算住札幌，可比較中島公園附近的住宿位置；訂房不代表含庭園門票或接送。",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。",
+          "pages": [
+            {
+              "title": "札幌中島公園周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/sapporo-nakajima-park/hotels-c641m6784100/",
+              "kind": "住宿列表",
+              "reason": "供原本就需要札幌住宿的人比較位置；不是含活動門票方案。",
+              "checks": "重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。",
+              "checkedAt": "2026-10-24T10:05:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。",
+          "pages": [
+            {
+              "title": "札幌中島公園周邊住宿列表",
+              "url": "https://www.booking.com/district/jp/sapporo/nakajimapark.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "供原本就需要札幌住宿的人比較位置；不是含活動門票方案。",
+              "checks": "重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。",
+              "checkedAt": "2026-10-24T10:05:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋只取得多年前北海道賞楓部落格，未取得本期中島公園庭園票適用商品，不將青池等其他景點商品代入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋中島公園紅葉點燈，未取得可讀且核對本活動日期的商品；不推薦無關景點票。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方英文頁與UHB10/23現場報導交叉，活動10/23–11/3，公園點燈17–21 JST；日本庭園17:15–21，最後入場20:45。庭園當日票600日圓含稅、小學生以下免費；預售500日圓另加費用，不直接稱每人省100。官網9/1上線為本次能確認的較早日期，不是10/23新公告。因昨日正式開始而例外納入，不聲稱今天突然爆紅或全園楓紅最佳。每日天候、票券日期及庫存未確認，從官網進購票入口再次核對。",
+      "draft": {
+        "threads": [
+          "札幌中島公園已開始秋季點燈，但日本庭園不是免費入場。\n\n活動從10月23日到11月3日，公園點燈日本時間17:00–21:00。若想進日本庭園看光影，當日票是600日圓含稅，小學生以下免費，行程與預算要分開算。",
+          "日本庭園的時間也和公園略有不同：\n• 17:15開始，21:00結束。\n• 最後入場20:45。\n\n官網另列預售票500日圓，但還要加手續費，不能直接說買預售一定省100日圓。付款前先核對適用日期、費用與剩餘名額；訂周邊飯店也不代表含庭園門票。",
+          "已在札幌的人，可以把中島公園放進晚餐前後的夜間散步，再按自己的時間決定是否進庭園。\n\n點燈日期不等於每天都保證同樣楓紅或天氣；當天先查活動公告，再從官網進購票入口。不要把20:45最後入場誤記成21:00。\n活動地圖、時間與票價：https://sapporo-autumn-illuminations.jp/en/"
+        ],
+        "angles": [
+          {
+            "name": "費用釐清",
+            "opening": "札幌中島公園已點燈，但日本庭園當日票另收600日圓。"
+          },
+          {
+            "name": "時間差",
+            "opening": "公園17點點燈，日本庭園17:15才開始，最後入場20:45。"
+          },
+          {
+            "name": "親子規劃",
+            "opening": "庭園小學生以下免費，同行成人仍要把票價算進去。"
+          },
+          {
+            "name": "預售總價",
+            "opening": "預售500日圓還有手續費，不一定直接省100日圓。"
+          },
+          {
+            "name": "夜間行程",
+            "opening": "札幌晚餐前後可以排點燈散步，但先確認庭園最後入場時間。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方點燈地圖、庭園票價與時段，可做自己的比較表；照片可查找不等於可商用",
+            "url": "https://sapporo-autumn-illuminations.jp/en/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：札幌中島公園周邊住宿與夜間步行攻略；住宿不等於含庭園票或接送。"
+        ]
+      }
+    },
+    {
+      "id": "jetstar-superstar-sale-20261023",
+      "title": "Jetstar促銷週一截止：3690日圓起不是含行李總價",
+      "region": "日本／Jetstar日本國內與亞洲指定航線",
+      "category": "航空／優惠",
+      "announcementDate": "官方銷售10/23 12:00 JST開始；媒體10/23 12:10 JST",
+      "eventDate": "售至10/26 16:59 JST；指定11月至2027年2月搭乘日",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "剩餘兩天可比較冬季移動成本，但必須以航線、稅費及托運行李核算，不能拿最低價當台灣出發保證。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.jetstar.com/jp/ja/deals/sale"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150649.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時：10/23 12:00開始，研究截止10/24 11:05 JST",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸冬季航線與行李總價比較，但第三方平台不保證提供同一促銷票價，必須核對實際日期。",
+        "products": [
+          "指定日期航班與行李方案比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "先把出發地、日期與行李公斤數填齊，再比最後結帳總額；比較頁面不保證有同一張促銷票。",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方促銷頁與10/23媒體交叉，販售10/23 12:00–10/26 16:59 JST（台灣截止15:59）。官網最低3690日圓為Starter單程起價，另有支付手續費、機場費及國際線諸稅，不含托運行李；免燃油附加費不等於免其他費用。媒體列日本國內指定11/10–2/26、亞洲指定11/2–2/28，個別路線仍須查價；不將3690或國際最低價當台灣出發適用票價。退款／改票有條件，官方寫票價不退款、變更須費用與差額；不宣稱每班有促銷空位。",
+      "draft": {
+        "threads": [
+          "想趁Jetstar促銷安排日本冬季移動，先算「最後付款總額」。官網3690日圓起是指定航班單程起價，不含托運行李，也不是台灣出發一律這個價。\n\n這輪Super Star Sale到10月26日日本16:59截止，台灣是15:59；適用指定11月至明年2月航班，日期與座位有限。",
+          "比價時至少填齊三項：出發地與目的地、搭乘日期、托運行李公斤數。\n\nStarter起價另外還有支付手續費、機場相關費用，國際線另有稅金。免燃油附加費，不代表其他費用也免收；週末、連假及部分航班可能沒有促銷。別只用首頁最低價排整段行程。",
+          "先在官網選好實際班次，看含行李與費用的總額，再決定是否付款。促銷票價有退款與更改限制，改期可能要付手續費及差額；第三方查價頁也不保證提供同一優惠。\n\n如果你需要的日期沒有促銷，就回到整段交通時間與總成本比較，不必為起價改出不合適的路線。\n官方條件：https://www.jetstar.com/jp/ja/deals/sale"
+        ],
+        "angles": [
+          {
+            "name": "起價條件",
+            "opening": "3690日圓起不含托運行李，Jetstar促銷先看最後付款總額。"
+          },
+          {
+            "name": "截止時差",
+            "opening": "Jetstar這輪週一日本16:59截止，台灣是15:59。"
+          },
+          {
+            "name": "路線限制",
+            "opening": "日本國內最低票價，不等於台灣出發也能用同一數字。"
+          },
+          {
+            "name": "行李比較",
+            "opening": "先填行李公斤數再比票價，冬季移動才不會漏算成本。"
+          },
+          {
+            "name": "日期彈性",
+            "opening": "促銷不是每班都有，沒有合適日期就比較整段交通成本。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官網促銷條件與自製總價構成表，不用未查核票價截圖宣稱有庫存",
+            "url": "https://www.jetstar.com/jp/ja/deals/sale"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：冬季航線與行李總價比較，先核對第三方是否提供相同票種；不保證促銷庫存或分潤資格。"
+        ]
+      }
+    },
+    {
+      "id": "nitori-umeda-20261030",
+      "title": "大阪梅田NITORI新店10月30日開幕：8層樓不全是一般賣場",
+      "region": "關西／大阪梅田茶屋町",
+      "category": "購物／新店",
+      "announcementDate": "官方10/23；媒體10/23 14:09 JST；官方未標精確發布時刻",
+      "eventDate": "10/30開幕；開幕優惠10/30–11/9於指定166店",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 11,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "赴大阪購物的人可更新梅田動線；規模與優惠適用範圍需要拆開講，不能寫所有日本門市同步優惠。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150723.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "48小時內日期線索：10/23官方無時刻，不斷言精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "家具家用品門市資訊，與飯店或門票預訂關聯薄弱。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/23 PDF與媒體交叉：梅田店10/30開幕、原梅田Loft建物8層，約2700坪。公司稱其調查範圍內NITORI最大規模，不擴張成全球所有家居品牌最大。1樓含服飾，2–4樓生活用品與家電，5–7樓家具，8樓法人業務；不是8樓全都一般零售。10/30–11/9優惠涉及近畿、中國、四國指定166店，商品及App條件另訂，不寫全日本或全商品折扣。PDF有AI生成示意圖，不當現場照片；再次用web讀PDF遇存取錯誤，但本次先前已成功讀到原文。",
+      "draft": {
+        "threads": [
+          "大阪梅田又有新購物點：NITORI梅田店預定10月30日開幕，使用原梅田Loft的8層樓空間。\n\n但不是8層全部都讓你逛家具：8樓是法人業務區。規劃梅田購物動線時，先看樓層內容，比只記「超大新店」更實際。",
+          "這次公布的樓層重點是：1樓有服飾，2至4樓以生活用品與家電為主，5至7樓是家具。\n\n對一般赴日旅客，小件生活用品比較容易納入行李安排；大型家具不必因店面規模就列進購物清單。官方約2700坪的規模說法也包含法人區域，不能當成所有樓層都同一種零售用途。",
+          "開幕優惠期間為10月30日至11月9日，但適用的是近畿、中國、四國指定166店，並非全日本所有門市。各商品與App優惠條件還要看活動規則，不能直接寫成全商品打折。\n\n目前看到的官方資料含AI生成示意圖，不能當實景照片轉貼。出發前再查樓層與當日公告：https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf"
+        ],
+        "angles": [
+          {
+            "name": "樓層攻略",
+            "opening": "梅田NITORI新店有8層，但8樓是法人區，不全是一般賣場。"
+          },
+          {
+            "name": "地點更新",
+            "opening": "10月30日起，原梅田Loft建物改成NITORI新購物點。"
+          },
+          {
+            "name": "優惠範圍",
+            "opening": "這輪開幕優惠是指定166店，不是全日本一律同步折扣。"
+          },
+          {
+            "name": "旅客選物",
+            "opening": "2至4樓是生活用品與家電，先按行李空間安排購物清單。"
+          },
+          {
+            "name": "圖像辨識",
+            "opening": "新店公告裡有AI示意圖，不能當成已拍攝的現場照片。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方PDF有AI生成示意圖，必須標示，不得作現場照片；原圖商用權未確認",
+            "url": "https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf"
+          }
+        ],
+        "extensions": [
+          "可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "tokyobay-fireworks-20261024",
+      "title": "東京灣花火今晚登場：一般票停售、沒有當日券",
+      "region": "關東／東京灣、晴海、豐洲與台場",
+      "category": "活動／交通",
+      "announcementDate": "主辦10/24停售提醒；交通媒體10/23 17:00 JST；地鐵原公告10/8、臨海線10/2",
+      "eventDate": "10/24 17:30–19:00 JST；交通調整同日",
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "今天抵達東京灣的旅客需要先確認票券與回程；不是鼓勵無票到會場碰運氣。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150691.html"
+        },
+        {
+          "label": "有樂町線10/8加班公告，時段以豐洲站為準",
+          "url": "https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf"
+        },
+        {
+          "label": "臨海線10/2公告",
+          "url": "https://www.twr.co.jp/Portals/0/resources/info/2026/20261002_information.pdf"
+        },
+        {
+          "label": "主辦會場與交通資訊",
+          "url": "https://tokyo-hanabi-festival.com/venue/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "今天：10/24停售提醒；舊交通公告因今天實施例外",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣10:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "活動就在今天且一般票停售，兩個已讀KKday餐廳方案顯示完售，不適合再推購票或臨時住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本次已開啟https://www.kkday.com/ja/product/798848及https://www.kkday.com/ja/product/770535，兩個東京灣花火餐廳方案頁均顯示完售；不列可預訂推薦、不帶入cid。後者有快取限制，不推論全平台完售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "已交叉主辦今日停售公告、活動官網與交通媒體。10/24預定17:30–19:00 JST、全票券制，沒有當日券；一般票停售不等於聲稱所有旅行社商品都售罄。已買且須便利商店取票者先完成取票。官方今日頁稱雨天舉行，但強風等臨時變更仍以主辦即時公告為準。有樂町線加密時段以豐洲站為基準：往新木場16:10–17:20、往池袋19:10–21:10約5分鐘間隔，不當起站發車時刻。臨海線16–22時左右雙向各增7班，也調整部分原班次。地鐵10/8、臨海線10/2舊公告因今天實施而引用，不當新公告。周邊有道路與步行通道管制，未把媒體圖示未逐項核對的時刻寫進草稿。",
+      "selected": true
+    },
+    {
+      "id": "muji-week-20261023",
+      "title": "日本無印良品週間開始：海外會員不適用，免稅不能疊加",
+      "region": "日本／參與無印良品門市",
+      "category": "購物／優惠",
+      "announcementDate": "已找到官方門市10/19預告；媒體10/23 11:46 JST；會員限制非今日新規",
+      "eventDate": "門市10/23–11/3；日本網店至11/4 10:00 JST",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "9折最容易被誤讀成台灣旅客都能使用，先釐清會員資格比列購物清單更有用。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.muji.com/jp/ja/shop/045471/articles/info/1701933"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150624.html"
+        },
+        {
+          "label": "本期活動日期與會員方式",
+          "url": "https://www.muji.com/jp/ja/special-feature/ryohinweek/"
+        },
+        {
+          "label": "官方免稅FAQ，會員服務與非居住者限制",
+          "url": "https://faq.muji.com/日本での免税について-65cc5db59e802e00267baac6"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "7天內官方預告；昨日開始活動例外，無已驗證大量討論",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "會員優惠與免稅限制說明，沒有直接旅遊預訂需求。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/19門市預告、活動專頁、免稅FAQ與10/23媒體交叉。10/23–11/3日本門市良品週間，網店至11/4 10:00 JST，合資格會員10%優惠並有排除商品；海外MUJI App或海外卡不適用，免稅不能與會員優待併用。FAQ說日本會員服務對象為日本居住者，因此不教台灣短期旅客用換App繞過資格。會員限制是既有規則，不稱10/23新限制。本文只引用FAQ會員相容條件，不把該頁現行免稅金額／攜出期間延伸當11/1新制度。",
+      "selected": true
+    },
+    {
+      "id": "chiikawa-park-store-osaka-20261124",
+      "title": "大阪吉伊卡哇新店11月24日開幕：免費入店仍須整理券",
+      "region": "關西／大阪站LUCUA SOUTH 11樓",
+      "category": "購物／IP",
+      "announcementDate": "8/5首次預告大阪店；10/23新增店內、商品與入場細節，官方無時刻",
+      "eventDate": "11/24開幕；10:00–20:00 JST",
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "距開幕一個月，現在可先留意入場申請；避免把免費或Park名稱誤解成可直接進去的遊樂園。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150694.html"
+        },
+        {
+          "label": "8/5原始開店預告",
+          "url": "https://chiikawapark-tokyo.jp/news/hsmicx_vflth/"
+        },
+        {
+          "label": "LUCUA官方開幕專頁",
+          "url": "https://www.lucua.jp/special/south-open/"
+        }
+      ],
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "48小時內日期線索：10/23無時刻，不斷言精確24小時；8/5舊預告不是新消息",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "免費物販店的入場整理券不同於園區門票；不因買周邊就推住宿或錯誤票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/23與媒體、商場交叉：11/24 LUCUA SOUTH 11樓、JR大阪站直結，10:00–20:00。是販售東京池袋Park周邊的物販店，不是大阪版整座體驗園區。開幕起暫時10–13樓需事前抽選或先到入場整理券，店本身入場免費；不能用池袋園區票替代。申請開放時間、海外帳號方式未見明確公布，不宣稱已開放申請。官方商品含稅：迷你吊飾1430、寄生吉伊卡哇皂液罐2000；部分商品限購但完整數量未確認，不保證庫存。8/5早已預告新店，此次是細節更新。",
+      "selected": true
+    },
+    {
+      "id": "nakajima-autumn-lightup-2026",
+      "title": "札幌中島公園開始點燈：日本庭園另收600日圓",
+      "region": "北海道／札幌中島公園",
+      "category": "季節情報／活動",
+      "announcementDate": "官網9/1上線；UHB10/23 19:00 JST報導當晚開始",
+      "eventDate": "10/23–11/3；公園點燈17:00–21:00，庭園17:15–21:00 JST",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "已進入實際活動期，適合近期札幌夜間行程；全區免費的說法會讓旅客誤判庭園費用。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://sapporo-autumn-illuminations.jp/en/"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://www.uhb.jp/news/single.html?id=63072"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：官網9/1，活動昨天正式開始，UHB當晚現場報導",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然銜接中島公園周邊住宿，但活動只到11/3，多數近期旅客可能已訂房，適合度評中。",
+        "products": [
+          "中島公園周邊住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果原本就打算住札幌，可比較中島公園附近的住宿位置；訂房不代表含庭園門票或接送。",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。",
+          "pages": [
+            {
+              "title": "札幌中島公園周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/sapporo-nakajima-park/hotels-c641m6784100/",
+              "kind": "住宿列表",
+              "reason": "供原本就需要札幌住宿的人比較位置；不是含活動門票方案。",
+              "checks": "重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。",
+              "checkedAt": "2026-10-24T10:05:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。",
+          "pages": [
+            {
+              "title": "札幌中島公園周邊住宿列表",
+              "url": "https://www.booking.com/district/jp/sapporo/nakajimapark.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "供原本就需要札幌住宿的人比較位置；不是含活動門票方案。",
+              "checks": "重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。",
+              "checkedAt": "2026-10-24T10:05:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋只取得多年前北海道賞楓部落格，未取得本期中島公園庭園票適用商品，不將青池等其他景點商品代入。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋中島公園紅葉點燈，未取得可讀且核對本活動日期的商品；不推薦無關景點票。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方英文頁與UHB10/23現場報導交叉，活動10/23–11/3，公園點燈17–21 JST；日本庭園17:15–21，最後入場20:45。庭園當日票600日圓含稅、小學生以下免費；預售500日圓另加費用，不直接稱每人省100。官網9/1上線為本次能確認的較早日期，不是10/23新公告。因昨日正式開始而例外納入，不聲稱今天突然爆紅或全園楓紅最佳。每日天候、票券日期及庫存未確認，從官網進購票入口再次核對。",
+      "selected": true
+    },
+    {
+      "id": "jetstar-superstar-sale-20261023",
+      "title": "Jetstar促銷週一截止：3690日圓起不是含行李總價",
+      "region": "日本／Jetstar日本國內與亞洲指定航線",
+      "category": "航空／優惠",
+      "announcementDate": "官方銷售10/23 12:00 JST開始；媒體10/23 12:10 JST",
+      "eventDate": "售至10/26 16:59 JST；指定11月至2027年2月搭乘日",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "剩餘兩天可比較冬季移動成本，但必須以航線、稅費及托運行李核算，不能拿最低價當台灣出發保證。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.jetstar.com/jp/ja/deals/sale"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150649.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "freshness": "24小時：10/23 12:00開始，研究截止10/24 11:05 JST",
+      "lifecycle": "3天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸冬季航線與行李總價比較，但第三方平台不保證提供同一促銷票價，必須核對實際日期。",
+        "products": [
+          "指定日期航班與行李方案比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "先把出發地、日期與行李公斤數填齊，再比最後結帳總額；比較頁面不保證有同一張促銷票。",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方促銷頁與10/23媒體交叉，販售10/23 12:00–10/26 16:59 JST（台灣截止15:59）。官網最低3690日圓為Starter單程起價，另有支付手續費、機場費及國際線諸稅，不含托運行李；免燃油附加費不等於免其他費用。媒體列日本國內指定11/10–2/26、亞洲指定11/2–2/28，個別路線仍須查價；不將3690或國際最低價當台灣出發適用票價。退款／改票有條件，官方寫票價不退款、變更須費用與差額；不宣稱每班有促銷空位。",
+      "selected": true
+    },
+    {
+      "id": "nitori-umeda-20261030",
+      "title": "大阪梅田NITORI新店10月30日開幕：8層樓不全是一般賣場",
+      "region": "關西／大阪梅田茶屋町",
+      "category": "購物／新店",
+      "announcementDate": "官方10/23；媒體10/23 14:09 JST；官方未標精確發布時刻",
+      "eventDate": "10/30開幕；開幕優惠10/30–11/9於指定166店",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 11,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "赴大阪購物的人可更新梅田動線；規模與優惠適用範圍需要拆開講，不能寫所有日本門市同步優惠。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf"
+        },
+        {
+          "label": "交叉確認報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150723.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 3
+      },
+      "risk": "低",
+      "freshness": "48小時內日期線索：10/23官方無時刻，不斷言精確24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "家具家用品門市資訊，與飯店或門票預訂關聯薄弱。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      },
+      "verification": "官方10/23 PDF與媒體交叉：梅田店10/30開幕、原梅田Loft建物8層，約2700坪。公司稱其調查範圍內NITORI最大規模，不擴張成全球所有家居品牌最大。1樓含服飾，2–4樓生活用品與家電，5–7樓家具，8樓法人業務；不是8樓全都一般零售。10/30–11/9優惠涉及近畿、中國、四國指定166店，商品及App條件另訂，不寫全日本或全商品折扣。PDF有AI生成示意圖，不當現場照片；再次用web讀PDF遇存取錯誤，但本次先前已成功讀到原文。",
+      "selected": true
+    },
+    {
+      "id": "jr-night-trains-winter-2026",
+      "title": "JR冬季夜行列車報導",
+      "region": "日本／JR東日本",
+      "category": "交通",
+      "announcementDate": "10/22原始冬季計畫；媒體10/23 13:59",
+      "eventDate": "冬季個別運行日另核",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150711.html"
+        }
+      ],
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。",
+      "exclusionReason": "已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "48小時內原公告但重複選題",
+      "lifecycle": "1個月以上",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸鐵路行程，但需實際運行日、售票與票券適用條件。",
+        "products": [
+          "須先核實的航班或鐵路行程"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "ana-kyun-20261029",
+      "title": "ANA每月29日活動預告",
+      "region": "日本／ANA指定通路",
+      "category": "航空／優惠",
+      "announcementDate": "媒體10/23 12:23；官方活動頁已開啟",
+      "eventDate": "10/29；完整條件待後續",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150664.html"
+        },
+        {
+          "label": "官方活動入口",
+          "url": "https://www.ana.co.jp/ja/jp/promotion/ana_kyun29/"
+        }
+      ],
+      "score": 70,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 11,
+        "實用性": 8,
+        "稀缺性": 6,
+        "視覺吸引力": 6,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。",
+      "exclusionReason": "已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "24小時內媒體線索；原公告時刻未明",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有機票與旅遊預訂方向，但資格與票種未成熟。",
+        "products": [
+          "須先核實的航班或鐵路行程"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "sounkyo-autumn-status-2026",
+      "title": "層雲峽紅葉谷落葉狀態",
+      "region": "北海道／上川",
+      "category": "季節情報",
+      "announcementDate": "讀取頁顯示10/22 16:02更新；搜尋曾顯示不同日，不採摘要",
+      "eventDate": "本次頁面狀態為落葉",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://koyo.walkerplus.com/detail/ar0101e318862/"
+        }
+      ],
+      "score": 59,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 8,
+        "實用性": 10,
+        "稀缺性": 3,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。",
+      "exclusionReason": "頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "48小時線索；觀測不等於活動新公告",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "狀態提醒，不能把未查證見頃拿來推行程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "fukuoka-straykids-food-2026",
+      "title": "福岡Stray Kids聯名餐飲線索",
+      "region": "九州／福岡",
+      "category": "美食／IP",
+      "announcementDate": "搜尋索引近期；原文存取失敗，發布日期未確認",
+      "eventDate": "10/22門市、10/23機場為搜尋線索待查",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://news.dellows.jp/665698/"
+        }
+      ],
+      "score": 61,
+      "scoreBreakdown": {
+        "即時性": 9,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 12,
+        "實用性": 5,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。",
+      "exclusionReason": "原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未確認，不冒充7天內已核對新聞",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核，先不判斷商品銜接。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "hiroshima-kamome-market-2026",
+      "title": "廣島海鷗市集週末線索",
+      "region": "中國地方／廣島",
+      "category": "活動／美食",
+      "announcementDate": "彙整頁10/1發布、10/21更新，不是活動首次公告",
+      "eventDate": "10/23–25為搜尋線索，原文對應未核實",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://hread.home-tv.co.jp/post-651465/"
+        }
+      ],
+      "score": 52,
+      "scoreBreakdown": {
+        "即時性": 8,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 9,
+        "實用性": 5,
+        "稀缺性": 5,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。",
+      "exclusionReason": "已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "超過7天彙整文；更新不當公告",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "具體場地與活動尚未確認，不推住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "nagoya-art-light-2026",
+      "title": "名古屋藝術點燈截止線索",
+      "region": "中部／名古屋",
+      "category": "活動／季節情報",
+      "announcementDate": "觀光日曆無已核對原始公告日",
+      "eventDate": "10/24結束為搜尋線索待核",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://www.nagoya-info.jp/event/"
+        }
+      ],
+      "score": 57,
+      "scoreBreakdown": {
+        "即時性": 8,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 10,
+        "實用性": 5,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。",
+      "exclusionReason": "已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未確認，不能列今天即將截止",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "活動與截止尚未核實，不能用時間壓力推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "okinawa-industry-festival-2026",
+      "title": "沖繩產業祭取消報導",
+      "region": "沖繩／那霸",
+      "category": "重大時事／活動",
+      "announcementDate": "OTV／FNN10/20 11:40 JST；官方原頁本次404",
+      "eventDate": "原定10/23–25；媒體報導全期取消",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://www.fnn.jp/articles/-/1136083"
+        }
+      ],
+      "score": 70,
+      "scoreBreakdown": {
+        "即時性": 14,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。",
+      "exclusionReason": "已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "7天內報導；沒有已驗證今日大量討論",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消提醒不適合再推活動票；住宿變更須依個別訂單。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "jaist-festival-20261024",
+      "title": "JAIST Festival今天舉行",
+      "region": "北陸／石川能美",
+      "category": "活動",
+      "announcementDate": "官方7/1；地方彙整10/20更新",
+      "eventDate": "10/24 10:00–16:00 JST",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://www.jaist.ac.jp/whatsnew/info/2026/07/01-1.html"
+        },
+        {
+          "label": "地方活動日曆",
+          "url": "https://www.weekend-kanazawa.com/entry/event"
+        }
+      ],
+      "score": 47,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 8,
+        "社群討論潛力": 6,
+        "實用性": 7,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "why": "官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。",
+      "exclusionReason": "官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "超過7天：今天舉行例外候選，仍未入選",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "教育交流活動，旅遊商品銜接弱。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    },
+    {
+      "id": "ishikawa-agriculture-open-20261024",
+      "title": "石川農業試驗場開放活動",
+      "region": "北陸／石川金澤",
+      "category": "活動",
+      "announcementDate": "官方10/5更新，首次公布未標；地方日曆10/20",
+      "eventDate": "10/24 10:00–15:00 JST",
+      "sources": [
+        {
+          "label": "已讀來源或明列存取限制的候選線索",
+          "url": "https://www.pref.ishikawa.lg.jp/noken/noushi/hureainoushi/hureainoushi.html"
+        },
+        {
+          "label": "地方活動日曆",
+          "url": "https://www.weekend-kanazawa.com/entry/event"
+        }
+      ],
+      "score": 44,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 7,
+        "社群討論潛力": 5,
+        "實用性": 7,
+        "稀缺性": 4,
+        "視覺吸引力": 5,
+        "標題吸引力": 2,
+        "延伸內容價值": 2
+      },
+      "why": "原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。",
+      "exclusionReason": "原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。",
+      "verification": "候選初評，不代表全部事實已確認；限制見未入選原因。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "超過7天：今天舉行例外候選，仍未入選",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "當日在地活動，不自然銜接預訂旅遊商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。 商品適用日、庫存、包含內容與分潤資格尚未確認。",
+        "assessedOn": "2026-10-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成可推薦商品查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-24T10:05:02+08:00",
+        "summary": "熱度未確認，未取得合格原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-22",
+          "(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22",
+          "(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22",
+          "(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22",
+          "(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22",
+          "(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "東京灣花火當日運行與散場",
+      "next": "今天出發及散場前重新查看主辦與鐵路公告；明天若無新進展不重複推薦，不預言一定有交通異常。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2"
+        },
+        {
+          "label": "有樂町線10/8加班公告，時段以豐洲站為準",
+          "url": "https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Jetstar週一促銷截止",
+      "next": "未來48小時核對實際航線、行李總價與是否仍有適用班次；10/26 16:59 JST截止，不保證追加名額。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.jetstar.com/jp/ja/deals/sale"
+        }
+      ]
+    },
+    {
+      "title": "大阪吉伊卡哇入場申請",
+      "next": "未來24–72小時觀察是否公布抽選／先到券申請日與海外操作條件，尚無公告不得寫已開放。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://chiikawapark-tokyo.jp/news/x0e64eb94v/"
+        },
+        {
+          "label": "LUCUA官方開幕專頁",
+          "url": "https://www.lucua.jp/special/south-open/"
+        }
+      ]
+    },
+    {
+      "title": "中島公園週末庭園入場",
+      "next": "核對當日天候、票券日期與費用，觀察是否有官方異動；不以燈光照片預測當天楓況。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://sapporo-autumn-illuminations.jp/en/"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-24T10:05:02+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "limitation": "已用事件詞與繁中／日文查找八平台，沒有取得48小時內至少兩位不同作者、原始內容、時間與讚／留言都可核對的樣本。搜尋索引及官方宣傳不能代替自然討論；未取得不代表零討論。無法建立本期社群熱榜，保留內容原序。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "Facebook",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "Instagram",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "Dcard",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "PTT",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "X",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "TikTok",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      },
+      {
+        "platform": "YouTube",
+        "status": "未取得合格原始樣本",
+        "limitation": "事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。"
+      }
+    ]
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-24\n搜尋截止：2026/10/24 10:05:02 Asia/Taipei（日本11:05:02 Asia/Tokyo）\n本期候選15題，先完成初評與查核狀態，再選6題；不以未查核線索補足TOP10。分數依即時性20／台灣旅客20／討論潛力15／實用15／稀缺10／視覺10／標題5／延伸5；星等及分數均編輯預估，非已驗證熱度、觀看或收入保證。候選未入選分數只是初評。全部社群熱度未確認，入選維持內容分數順序，同分按今日行動價值排序。分潤適合度獨立，本期無高適合度；中島公園與Jetstar為中，其餘低。前期10/23報告已比對，JR冬季計畫不以新媒體日期重複上榜。北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩均納入廣泛搜尋，未為地區湊合格題。公開日期與活動日期分列；無時刻不斷言24小時。中島公園9/1公告因昨天正式開始例外，東京交通舊公告因今天實施例外；MUJI會員限制是既有規則，因本期活動開始釐清，不宣稱新政策。平台頁只兩個地區住宿列表核對通過，其他空陣列附限制；不保證價格庫存或聯盟資格。KKday兩個花火方案顯示完售，不列推薦、不自動帶cid；其他搜尋商品與本題不符亦未納入。所有圖片商用授權未確認。活動時間日本時間、發文台灣時間，時段純編輯建議。\n【今天日本發生什麼】\n已查證：東京灣花火今天舉行，主辦公告一般票停售且無當日券；交通有臨時調整。\n已查證：日本無印良品週間已開始，海外會員及免稅相容限制不能漏寫。\n已查證：大阪吉伊卡哇物販新店11/24開幕，免費入店仍須注意開幕初期樓層整理券。\n已查證：札幌中島公園點燈昨天開始，日本庭園當日票600日圓、最後入場20:45 JST。\n已查證：Jetstar促銷10/26 16:59 JST截止，最低價不含托運與部分費用。\n已查證：NITORI梅田店10/30開幕，8樓為法人區，開幕優惠不是全日本全商品。\n編輯觀察：共15候選、6題精選；未完成查核、弱相關或與昨日重複者不補滿10題。\n編輯觀察：沒有合格原始社群樣本，本期只能提供內容編輯排序，無法建立社群熱榜。\n【全部候選池與評分紀錄】\n入選｜東京灣花火今晚登場：一般票停售、沒有當日券\n分類／地區：活動／交通／關東／東京灣、晴海、豐洲與台場\n公布：主辦10/24停售提醒；交通媒體10/23 17:00 JST；地鐵原公告10/8、臨海線10/2\n事件／販售：10/24 17:30–19:00 JST；交通調整同日\n八項分數：即時性 20／台灣旅客相關性 20／社群討論潛力 13／實用性 15／稀缺性 8／視覺吸引力 7／標題吸引力 5／延伸內容價值 4＝92/100\n爆紅／收藏／分享：4／5／5星；風險中；時效今天：10/24停售提醒；舊交通公告因今天實施例外；生命1天；現在發 台灣10:30（無帳號歷史數據，編輯建議）\n原因：今天抵達東京灣的旅客需要先確認票券與回程；不是鼓勵無票到會場碰運氣。\n查核：已交叉主辦今日停售公告、活動官網與交通媒體。10/24預定17:30–19:00 JST、全票券制，沒有當日券；一般票停售不等於聲稱所有旅行社商品都售罄。已買且須便利商店取票者先完成取票。官方今日頁稱雨天舉行，但強風等臨時變更仍以主辦即時公告為準。有樂町線加密時段以豐洲站為基準：往新木場16:10–17:20、往池袋19:10–21:10約5分鐘間隔，不當起站發車時刻。臨海線16–22時左右雙向各增7班，也調整部分原班次。地鐵10/8、臨海線10/2舊公告因今天實施而引用，不當新公告。周邊有道路與步行通道管制，未把媒體圖示未逐項核對的時刻寫進草稿。\n分潤：低；活動就在今天且一般票停售，兩個已讀KKday餐廳方案顯示完售，不適合再推購票或臨時住宿。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150691.html)；[有樂町線10/8加班公告，時段以豐洲站為準](https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf)；[臨海線10/2公告](https://www.twr.co.jp/Portals/0/resources/info/2026/20261002_information.pdf)；[主辦會場與交通資訊](https://tokyo-hanabi-festival.com/venue/)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本次已開啟https://www.kkday.com/ja/product/798848及https://www.kkday.com/ja/product/770535，兩個東京灣花火餐廳方案頁均顯示完售；不列可預訂推薦、不帶入cid。後者有快取限制，不推論全平台完售。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]}]\n\n入選｜日本無印良品週間開始：海外會員不適用，免稅不能疊加\n分類／地區：購物／優惠／日本／參與無印良品門市\n公布：已找到官方門市10/19預告；媒體10/23 11:46 JST；會員限制非今日新規\n事件／販售：門市10/23–11/3；日本網店至11/4 10:00 JST\n八項分數：即時性 18／台灣旅客相關性 20／社群討論潛力 14／實用性 15／稀缺性 7／視覺吸引力 7／標題吸引力 5／延伸內容價值 4＝90/100\n爆紅／收藏／分享：4／5／5星；風險中；時效7天內官方預告；昨日開始活動例外，無已驗證大量討論；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：9折最容易被誤讀成台灣旅客都能使用，先釐清會員資格比列購物清單更有用。\n查核：官方10/19門市預告、活動專頁、免稅FAQ與10/23媒體交叉。10/23–11/3日本門市良品週間，網店至11/4 10:00 JST，合資格會員10%優惠並有排除商品；海外MUJI App或海外卡不適用，免稅不能與會員優待併用。FAQ說日本會員服務對象為日本居住者，因此不教台灣短期旅客用換App繞過資格。會員限制是既有規則，不稱10/23新限制。本文只引用FAQ會員相容條件，不把該頁現行免稅金額／攜出期間延伸當11/1新制度。\n分潤：低；會員優惠與免稅限制說明，沒有直接旅遊預訂需求。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.muji.com/jp/ja/shop/045471/articles/info/1701933)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150624.html)；[本期活動日期與會員方式](https://www.muji.com/jp/ja/special-feature/ryohinweek/)；[官方免稅FAQ，會員服務與非居住者限制](https://faq.muji.com/日本での免税について-65cc5db59e802e00267baac6)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n入選｜大阪吉伊卡哇新店11月24日開幕：免費入店仍須整理券\n分類／地區：購物／IP／關西／大阪站LUCUA SOUTH 11樓\n公布：8/5首次預告大阪店；10/23新增店內、商品與入場細節，官方無時刻\n事件／販售：11/24開幕；10:00–20:00 JST\n八項分數：即時性 19／台灣旅客相關性 19／社群討論潛力 14／實用性 12／稀缺性 8／視覺吸引力 10／標題吸引力 5／延伸內容價值 3＝90/100\n爆紅／收藏／分享：5／5／4星；風險中；時效48小時內日期線索：10/23無時刻，不斷言精確24小時；8/5舊預告不是新消息；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因：距開幕一個月，現在可先留意入場申請；避免把免費或Park名稱誤解成可直接進去的遊樂園。\n查核：官方10/23與媒體、商場交叉：11/24 LUCUA SOUTH 11樓、JR大阪站直結，10:00–20:00。是販售東京池袋Park周邊的物販店，不是大阪版整座體驗園區。開幕起暫時10–13樓需事前抽選或先到入場整理券，店本身入場免費；不能用池袋園區票替代。申請開放時間、海外帳號方式未見明確公布，不宣稱已開放申請。官方商品含稅：迷你吊飾1430、寄生吉伊卡哇皂液罐2000；部分商品限購但完整數量未確認，不保證庫存。8/5早已預告新店，此次是細節更新。\n分潤：低；免費物販店的入場整理券不同於園區門票；不因買周邊就推住宿或錯誤票券。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://chiikawapark-tokyo.jp/news/x0e64eb94v/)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150694.html)；[8/5原始開店預告](https://chiikawapark-tokyo.jp/news/hsmicx_vflth/)；[LUCUA官方開幕專頁](https://www.lucua.jp/special/south-open/)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n入選｜札幌中島公園開始點燈：日本庭園另收600日圓\n分類／地區：季節情報／活動／北海道／札幌中島公園\n公布：官網9/1上線；UHB10/23 19:00 JST報導當晚開始\n事件／販售：10/23–11/3；公園點燈17:00–21:00，庭園17:15–21:00 JST\n八項分數：即時性 19／台灣旅客相關性 18／社群討論潛力 12／實用性 14／稀缺性 7／視覺吸引力 10／標題吸引力 4／延伸內容價值 4＝88/100\n爆紅／收藏／分享：4／5／4星；風險低；時效超過7天例外：官網9/1，活動昨天正式開始，UHB當晚現場報導；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：已進入實際活動期，適合近期札幌夜間行程；全區免費的說法會讓旅客誤判庭園費用。\n查核：官方英文頁與UHB10/23現場報導交叉，活動10/23–11/3，公園點燈17–21 JST；日本庭園17:15–21，最後入場20:45。庭園當日票600日圓含稅、小學生以下免費；預售500日圓另加費用，不直接稱每人省100。官網9/1上線為本次能確認的較早日期，不是10/23新公告。因昨日正式開始而例外納入，不聲稱今天突然爆紅或全園楓紅最佳。每日天候、票券日期及庫存未確認，從官網進購票入口再次核對。\n分潤：中；可自然銜接中島公園周邊住宿，但活動只到11/3，多數近期旅客可能已訂房，適合度評中。；商品中島公園周邊住宿比較；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://sapporo-autumn-illuminations.jp/en/)；[交叉確認報導](https://www.uhb.jp/news/single.html?id=63072)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。\",\"pages\":[{\"title\":\"札幌中島公園周邊住宿列表\",\"url\":\"https://jp.trip.com/hotels/sapporo-nakajima-park/hotels-c641m6784100/\",\"kind\":\"住宿列表\",\"reason\":\"供原本就需要札幌住宿的人比較位置；不是含活動門票方案。\",\"checks\":\"重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。\",\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。\",\"pages\":[{\"title\":\"札幌中島公園周邊住宿列表\",\"url\":\"https://www.booking.com/district/jp/sapporo/nakajimapark.zh-tw.html\",\"kind\":\"住宿列表\",\"reason\":\"供原本就需要札幌住宿的人比較位置；不是含活動門票方案。\",\"checks\":\"重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。\",\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋只取得多年前北海道賞楓部落格，未取得本期中島公園庭園票適用商品，不將青池等其他景點商品代入。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已搜尋中島公園紅葉點燈，未取得可讀且核對本活動日期的商品；不推薦無關景點票。\",\"pages\":[]}]\n\n入選｜Jetstar促銷週一截止：3690日圓起不是含行李總價\n分類／地區：航空／優惠／日本／Jetstar日本國內與亞洲指定航線\n公布：官方銷售10/23 12:00 JST開始；媒體10/23 12:10 JST\n事件／販售：售至10/26 16:59 JST；指定11月至2027年2月搭乘日\n八項分數：即時性 20／台灣旅客相關性 19／社群討論潛力 12／實用性 14／稀缺性 6／視覺吸引力 6／標題吸引力 5／延伸內容價值 4＝86/100\n爆紅／收藏／分享：4／4／4星；風險中；時效24小時：10/23 12:00開始，研究截止10/24 11:05 JST；生命3天；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：剩餘兩天可比較冬季移動成本，但必須以航線、稅費及托運行李核算，不能拿最低價當台灣出發保證。\n查核：官方促銷頁與10/23媒體交叉，販售10/23 12:00–10/26 16:59 JST（台灣截止15:59）。官網最低3690日圓為Starter單程起價，另有支付手續費、機場費及國際線諸稅，不含托運行李；免燃油附加費不等於免其他費用。媒體列日本國內指定11/10–2/26、亞洲指定11/2–2/28，個別路線仍須查價；不將3690或國際最低價當台灣出發適用票價。退款／改票有條件，官方寫票價不退款、變更須費用與差額；不宣稱每班有促銷空位。\n分潤：中；可延伸冬季航線與行李總價比較，但第三方平台不保證提供同一促銷票價，必須核對實際日期。；商品指定日期航班與行李方案比較；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.jetstar.com/jp/ja/deals/sale)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150649.html)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]}]\n\n入選｜大阪梅田NITORI新店10月30日開幕：8層樓不全是一般賣場\n分類／地區：購物／新店／關西／大阪梅田茶屋町\n公布：官方10/23；媒體10/23 14:09 JST；官方未標精確發布時刻\n事件／販售：10/30開幕；開幕優惠10/30–11/9於指定166店\n八項分數：即時性 19／台灣旅客相關性 18／社群討論潛力 12／實用性 11／稀缺性 7／視覺吸引力 8／標題吸引力 4／延伸內容價值 3＝82/100\n爆紅／收藏／分享：4／4／3星；風險低；時效48小時內日期線索：10/23官方無時刻，不斷言精確24小時；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因：赴大阪購物的人可更新梅田動線；規模與優惠適用範圍需要拆開講，不能寫所有日本門市同步優惠。\n查核：官方10/23 PDF與媒體交叉：梅田店10/30開幕、原梅田Loft建物8層，約2700坪。公司稱其調查範圍內NITORI最大規模，不擴張成全球所有家居品牌最大。1樓含服飾，2–4樓生活用品與家電，5–7樓家具，8樓法人業務；不是8樓全都一般零售。10/30–11/9優惠涉及近畿、中國、四國指定166店，商品及App條件另訂，不寫全日本或全商品折扣。PDF有AI生成示意圖，不當現場照片；再次用web讀PDF遇存取錯誤，但本次先前已成功讀到原文。\n分潤：低；家具家用品門市資訊，與飯店或門票預訂關聯薄弱。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150723.html)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n未入選｜JR冬季夜行列車報導\n分類／地區：交通／日本／JR東日本\n公布：10/22原始冬季計畫；媒體10/23 13:59\n事件／販售：冬季個別運行日另核\n八項分數：即時性 10／台灣旅客相關性 19／社群討論潛力 12／實用性 12／稀缺性 7／視覺吸引力 7／標題吸引力 4／延伸內容價值 4＝75/100\n爆紅／收藏／分享：2／3／2星；風險中；時效48小時內原公告但重複選題；生命1個月以上；先收藏觀察 \n原因：已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。\n分潤：中；可延伸鐵路行程，但需實際運行日、售票與票券適用條件。；商品須先核實的航班或鐵路行程；限制已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://travel.watch.impress.co.jp/docs/news/2150711.html)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜ANA每月29日活動預告\n分類／地區：航空／優惠／日本／ANA指定通路\n公布：媒體10/23 12:23；官方活動頁已開啟\n事件／販售：10/29；完整條件待後續\n八項分數：即時性 17／台灣旅客相關性 15／社群討論潛力 11／實用性 8／稀缺性 6／視覺吸引力 6／標題吸引力 4／延伸內容價值 3＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；時效24小時內媒體線索；原公告時刻未明；生命1週；先收藏觀察 \n原因：已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。\n分潤：中；有機票與旅遊預訂方向，但資格與票種未成熟。；商品須先核實的航班或鐵路行程；限制已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://travel.watch.impress.co.jp/docs/news/2150664.html)；[官方活動入口](https://www.ana.co.jp/ja/jp/promotion/ana_kyun29/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜層雲峽紅葉谷落葉狀態\n分類／地區：季節情報／北海道／上川\n公布：讀取頁顯示10/22 16:02更新；搜尋曾顯示不同日，不採摘要\n事件／販售：本次頁面狀態為落葉\n八項分數：即時性 10／台灣旅客相關性 15／社群討論潛力 8／實用性 10／稀缺性 3／視覺吸引力 7／標題吸引力 3／延伸內容價值 3＝59/100\n爆紅／收藏／分享：2／3／2星；風險中；時效48小時線索；觀測不等於活動新公告；生命3天；先收藏觀察 \n原因：頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。\n分潤：低；狀態提醒，不能把未查證見頃拿來推行程。；商品無推薦；限制頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://koyo.walkerplus.com/detail/ar0101e318862/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜福岡Stray Kids聯名餐飲線索\n分類／地區：美食／IP／九州／福岡\n公布：搜尋索引近期；原文存取失敗，發布日期未確認\n事件／販售：10/22門市、10/23機場為搜尋線索待查\n八項分數：即時性 9／台灣旅客相關性 15／社群討論潛力 12／實用性 5／稀缺性 6／視覺吸引力 8／標題吸引力 4／延伸內容價值 2＝61/100\n爆紅／收藏／分享：2／3／2星；風險中；時效未確認，不冒充7天內已核對新聞；生命1週；先收藏觀察 \n原因：原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。\n分潤：未評估；未完成新聞查核，先不判斷商品銜接。；商品無推薦；限制原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://news.dellows.jp/665698/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜廣島海鷗市集週末線索\n分類／地區：活動／美食／中國地方／廣島\n公布：彙整頁10/1發布、10/21更新，不是活動首次公告\n事件／販售：10/23–25為搜尋線索，原文對應未核實\n八項分數：即時性 8／台灣旅客相關性 13／社群討論潛力 9／實用性 5／稀缺性 5／視覺吸引力 7／標題吸引力 3／延伸內容價值 2＝52/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天彙整文；更新不當公告；生命3天；先收藏觀察 \n原因：已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。\n分潤：未評估；具體場地與活動尚未確認，不推住宿。；商品無推薦；限制已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://hread.home-tv.co.jp/post-651465/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜名古屋藝術點燈截止線索\n分類／地區：活動／季節情報／中部／名古屋\n公布：觀光日曆無已核對原始公告日\n事件／販售：10/24結束為搜尋線索待核\n八項分數：即時性 8／台灣旅客相關性 15／社群討論潛力 10／實用性 5／稀缺性 5／視覺吸引力 9／標題吸引力 3／延伸內容價值 2＝57/100\n爆紅／收藏／分享：2／3／2星；風險中；時效未確認，不能列今天即將截止；生命1天；先收藏觀察 \n原因：已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。\n分潤：未評估；活動與截止尚未核實，不能用時間壓力推商品。；商品無推薦；限制已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.nagoya-info.jp/event/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜沖繩產業祭取消報導\n分類／地區：重大時事／活動／沖繩／那霸\n公布：OTV／FNN10/20 11:40 JST；官方原頁本次404\n事件／販售：原定10/23–25；媒體報導全期取消\n八項分數：即時性 14／台灣旅客相關性 18／社群討論潛力 10／實用性 13／稀缺性 5／視覺吸引力 4／標題吸引力 4／延伸內容價值 2＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；時效7天內報導；沒有已驗證今日大量討論；生命3天；先收藏觀察 \n原因：已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。\n分潤：低；取消提醒不適合再推活動票；住宿變更須依個別訂單。；商品無推薦；限制已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.fnn.jp/articles/-/1136083)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜JAIST Festival今天舉行\n分類／地區：活動／北陸／石川能美\n公布：官方7/1；地方彙整10/20更新\n事件／販售：10/24 10:00–16:00 JST\n八項分數：即時性 12／台灣旅客相關性 8／社群討論潛力 6／實用性 7／稀缺性 5／視覺吸引力 5／標題吸引力 2／延伸內容價值 2＝47/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天：今天舉行例外候選，仍未入選；生命1天；先收藏觀察 \n原因：官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。\n分潤：低；教育交流活動，旅遊商品銜接弱。；商品無推薦；限制官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.jaist.ac.jp/whatsnew/info/2026/07/01-1.html)；[地方活動日曆](https://www.weekend-kanazawa.com/entry/event)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜石川農業試驗場開放活動\n分類／地區：活動／北陸／石川金澤\n公布：官方10/5更新，首次公布未標；地方日曆10/20\n事件／販售：10/24 10:00–15:00 JST\n八項分數：即時性 12／台灣旅客相關性 7／社群討論潛力 5／實用性 7／稀缺性 4／視覺吸引力 5／標題吸引力 2／延伸內容價值 2＝44/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天：今天舉行例外候選，仍未入選；生命1天；先收藏觀察 \n原因：原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。\n分潤：低；當日在地活動，不自然銜接預訂旅遊商品。；商品無推薦；限制原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.pref.ishikawa.lg.jp/noken/noushi/hureainoushi/hureainoushi.html)；[地方活動日曆](https://www.weekend-kanazawa.com/entry/event)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n【編輯推薦】\n{\"id\":\"tokyobay-fireworks-20261024\",\"title\":\"東京灣花火今晚登場：一般票停售、沒有當日券\",\"score\":92,\"reason\":\"只作編輯推薦標籤，不預選使用者題目。今天的票券與交通提醒能避免旅客白跑，必須在下午出發前傳達。\",\"versusSecond\":\"無印限制適用受眾較廣，但還有多日活動期；東京灣的行動窗口只剩今天，延到晚上發就失去多數實用性。\",\"publishAt\":\"台灣10:30（無帳號歷史數據，編輯建議）\",\"audience\":\"今天在東京、預計前往台場／豐洲／晴海的台灣旅客及同行者\",\"angle\":\"沒有當日券：先查票券、取票與回程，非觀眾也需看管制\",\"lifecycle\":\"1天\"}\n【社群查核限制】\n{\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":15,\"qualifiedTopicCount\":0,\"limitation\":\"已用事件詞與繁中／日文查找八平台，沒有取得48小時內至少兩位不同作者、原始內容、時間與讚／留言都可核對的樣本。搜尋索引及官方宣傳不能代替自然討論；未取得不代表零討論。無法建立本期社群熱榜，保留內容原序。\",\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"X\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"TikTok\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"}]}\n【明天追蹤】\n[{\"title\":\"東京灣花火當日運行與散場\",\"next\":\"今天出發及散場前重新查看主辦與鐵路公告；明天若無新進展不重複推薦，不預言一定有交通異常。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2\"},{\"label\":\"有樂町線10/8加班公告，時段以豐洲站為準\",\"url\":\"https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf\"}]},{\"title\":\"Jetstar週一促銷截止\",\"next\":\"未來48小時核對實際航線、行李總價與是否仍有適用班次；10/26 16:59 JST截止，不保證追加名額。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://www.jetstar.com/jp/ja/deals/sale\"}]},{\"title\":\"大阪吉伊卡哇入場申請\",\"next\":\"未來24–72小時觀察是否公布抽選／先到券申請日與海外操作條件，尚無公告不得寫已開放。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://chiikawapark-tokyo.jp/news/x0e64eb94v/\"},{\"label\":\"LUCUA官方開幕專頁\",\"url\":\"https://www.lucua.jp/special/south-open/\"}]},{\"title\":\"中島公園週末庭園入場\",\"next\":\"核對當日天候、票券日期與費用，觀察是否有官方異動；不以燈光照片預測當天楓況。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://sapporo-autumn-illuminations.jp/en/\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-24\n搜尋截止：2026/10/24 10:05:02 Asia/Taipei（日本11:05:02 Asia/Tokyo）\n本期候選15題，先完成初評與查核狀態，再選6題；不以未查核線索補足TOP10。分數依即時性20／台灣旅客20／討論潛力15／實用15／稀缺10／視覺10／標題5／延伸5；星等及分數均編輯預估，非已驗證熱度、觀看或收入保證。候選未入選分數只是初評。全部社群熱度未確認，入選維持內容分數順序，同分按今日行動價值排序。分潤適合度獨立，本期無高適合度；中島公園與Jetstar為中，其餘低。前期10/23報告已比對，JR冬季計畫不以新媒體日期重複上榜。北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩均納入廣泛搜尋，未為地區湊合格題。公開日期與活動日期分列；無時刻不斷言24小時。中島公園9/1公告因昨天正式開始例外，東京交通舊公告因今天實施例外；MUJI會員限制是既有規則，因本期活動開始釐清，不宣稱新政策。平台頁只兩個地區住宿列表核對通過，其他空陣列附限制；不保證價格庫存或聯盟資格。KKday兩個花火方案顯示完售，不列推薦、不自動帶cid；其他搜尋商品與本題不符亦未納入。所有圖片商用授權未確認。活動時間日本時間、發文台灣時間，時段純編輯建議。\n【今天日本發生什麼】\n已查證：東京灣花火今天舉行，主辦公告一般票停售且無當日券；交通有臨時調整。\n已查證：日本無印良品週間已開始，海外會員及免稅相容限制不能漏寫。\n已查證：大阪吉伊卡哇物販新店11/24開幕，免費入店仍須注意開幕初期樓層整理券。\n已查證：札幌中島公園點燈昨天開始，日本庭園當日票600日圓、最後入場20:45 JST。\n已查證：Jetstar促銷10/26 16:59 JST截止，最低價不含托運與部分費用。\n已查證：NITORI梅田店10/30開幕，8樓為法人區，開幕優惠不是全日本全商品。\n編輯觀察：共15候選、6題精選；未完成查核、弱相關或與昨日重複者不補滿10題。\n編輯觀察：沒有合格原始社群樣本，本期只能提供內容編輯排序，無法建立社群熱榜。\n【全部候選池與評分紀錄】\n入選｜東京灣花火今晚登場：一般票停售、沒有當日券\n分類／地區：活動／交通／關東／東京灣、晴海、豐洲與台場\n公布：主辦10/24停售提醒；交通媒體10/23 17:00 JST；地鐵原公告10/8、臨海線10/2\n事件／販售：10/24 17:30–19:00 JST；交通調整同日\n八項分數：即時性 20／台灣旅客相關性 20／社群討論潛力 13／實用性 15／稀缺性 8／視覺吸引力 7／標題吸引力 5／延伸內容價值 4＝92/100\n爆紅／收藏／分享：4／5／5星；風險中；時效今天：10/24停售提醒；舊交通公告因今天實施例外；生命1天；現在發 台灣10:30（無帳號歷史數據，編輯建議）\n原因：今天抵達東京灣的旅客需要先確認票券與回程；不是鼓勵無票到會場碰運氣。\n查核：已交叉主辦今日停售公告、活動官網與交通媒體。10/24預定17:30–19:00 JST、全票券制，沒有當日券；一般票停售不等於聲稱所有旅行社商品都售罄。已買且須便利商店取票者先完成取票。官方今日頁稱雨天舉行，但強風等臨時變更仍以主辦即時公告為準。有樂町線加密時段以豐洲站為基準：往新木場16:10–17:20、往池袋19:10–21:10約5分鐘間隔，不當起站發車時刻。臨海線16–22時左右雙向各增7班，也調整部分原班次。地鐵10/8、臨海線10/2舊公告因今天實施而引用，不當新公告。周邊有道路與步行通道管制，未把媒體圖示未逐項核對的時刻寫進草稿。\n分潤：低；活動就在今天且一般票停售，兩個已讀KKday餐廳方案顯示完售，不適合再推購票或臨時住宿。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150691.html)；[有樂町線10/8加班公告，時段以豐洲站為準](https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf)；[臨海線10/2公告](https://www.twr.co.jp/Portals/0/resources/info/2026/20261002_information.pdf)；[主辦會場與交通資訊](https://tokyo-hanabi-festival.com/venue/)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本次已開啟https://www.kkday.com/ja/product/798848及https://www.kkday.com/ja/product/770535，兩個東京灣花火餐廳方案頁均顯示完售；不列可預訂推薦、不帶入cid。後者有快取限制，不推論全平台完售。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]}]\n\n入選｜日本無印良品週間開始：海外會員不適用，免稅不能疊加\n分類／地區：購物／優惠／日本／參與無印良品門市\n公布：已找到官方門市10/19預告；媒體10/23 11:46 JST；會員限制非今日新規\n事件／販售：門市10/23–11/3；日本網店至11/4 10:00 JST\n八項分數：即時性 18／台灣旅客相關性 20／社群討論潛力 14／實用性 15／稀缺性 7／視覺吸引力 7／標題吸引力 5／延伸內容價值 4＝90/100\n爆紅／收藏／分享：4／5／5星；風險中；時效7天內官方預告；昨日開始活動例外，無已驗證大量討論；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：9折最容易被誤讀成台灣旅客都能使用，先釐清會員資格比列購物清單更有用。\n查核：官方10/19門市預告、活動專頁、免稅FAQ與10/23媒體交叉。10/23–11/3日本門市良品週間，網店至11/4 10:00 JST，合資格會員10%優惠並有排除商品；海外MUJI App或海外卡不適用，免稅不能與會員優待併用。FAQ說日本會員服務對象為日本居住者，因此不教台灣短期旅客用換App繞過資格。會員限制是既有規則，不稱10/23新限制。本文只引用FAQ會員相容條件，不把該頁現行免稅金額／攜出期間延伸當11/1新制度。\n分潤：低；會員優惠與免稅限制說明，沒有直接旅遊預訂需求。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.muji.com/jp/ja/shop/045471/articles/info/1701933)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150624.html)；[本期活動日期與會員方式](https://www.muji.com/jp/ja/special-feature/ryohinweek/)；[官方免稅FAQ，會員服務與非居住者限制](https://faq.muji.com/日本での免税について-65cc5db59e802e00267baac6)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n入選｜大阪吉伊卡哇新店11月24日開幕：免費入店仍須整理券\n分類／地區：購物／IP／關西／大阪站LUCUA SOUTH 11樓\n公布：8/5首次預告大阪店；10/23新增店內、商品與入場細節，官方無時刻\n事件／販售：11/24開幕；10:00–20:00 JST\n八項分數：即時性 19／台灣旅客相關性 19／社群討論潛力 14／實用性 12／稀缺性 8／視覺吸引力 10／標題吸引力 5／延伸內容價值 3＝90/100\n爆紅／收藏／分享：5／5／4星；風險中；時效48小時內日期線索：10/23無時刻，不斷言精確24小時；8/5舊預告不是新消息；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因：距開幕一個月，現在可先留意入場申請；避免把免費或Park名稱誤解成可直接進去的遊樂園。\n查核：官方10/23與媒體、商場交叉：11/24 LUCUA SOUTH 11樓、JR大阪站直結，10:00–20:00。是販售東京池袋Park周邊的物販店，不是大阪版整座體驗園區。開幕起暫時10–13樓需事前抽選或先到入場整理券，店本身入場免費；不能用池袋園區票替代。申請開放時間、海外帳號方式未見明確公布，不宣稱已開放申請。官方商品含稅：迷你吊飾1430、寄生吉伊卡哇皂液罐2000；部分商品限購但完整數量未確認，不保證庫存。8/5早已預告新店，此次是細節更新。\n分潤：低；免費物販店的入場整理券不同於園區門票；不因買周邊就推住宿或錯誤票券。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://chiikawapark-tokyo.jp/news/x0e64eb94v/)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150694.html)；[8/5原始開店預告](https://chiikawapark-tokyo.jp/news/hsmicx_vflth/)；[LUCUA官方開幕專頁](https://www.lucua.jp/special/south-open/)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n入選｜札幌中島公園開始點燈：日本庭園另收600日圓\n分類／地區：季節情報／活動／北海道／札幌中島公園\n公布：官網9/1上線；UHB10/23 19:00 JST報導當晚開始\n事件／販售：10/23–11/3；公園點燈17:00–21:00，庭園17:15–21:00 JST\n八項分數：即時性 19／台灣旅客相關性 18／社群討論潛力 12／實用性 14／稀缺性 7／視覺吸引力 10／標題吸引力 4／延伸內容價值 4＝88/100\n爆紅／收藏／分享：4／5／4星；風險低；時效超過7天例外：官網9/1，活動昨天正式開始，UHB當晚現場報導；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：已進入實際活動期，適合近期札幌夜間行程；全區免費的說法會讓旅客誤判庭園費用。\n查核：官方英文頁與UHB10/23現場報導交叉，活動10/23–11/3，公園點燈17–21 JST；日本庭園17:15–21，最後入場20:45。庭園當日票600日圓含稅、小學生以下免費；預售500日圓另加費用，不直接稱每人省100。官網9/1上線為本次能確認的較早日期，不是10/23新公告。因昨日正式開始而例外納入，不聲稱今天突然爆紅或全園楓紅最佳。每日天候、票券日期及庫存未確認，從官網進購票入口再次核對。\n分潤：中；可自然銜接中島公園周邊住宿，但活動只到11/3，多數近期旅客可能已訂房，適合度評中。；商品中島公園周邊住宿比較；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://sapporo-autumn-illuminations.jp/en/)；[交叉確認報導](https://www.uhb.jp/news/single.html?id=63072)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。\",\"pages\":[{\"title\":\"札幌中島公園周邊住宿列表\",\"url\":\"https://jp.trip.com/hotels/sapporo-nakajima-park/hotels-c641m6784100/\",\"kind\":\"住宿列表\",\"reason\":\"供原本就需要札幌住宿的人比較位置；不是含活動門票方案。\",\"checks\":\"重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。\",\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取札幌中島公園地區住宿列表；只核對地區用途，不採用快取價格、評分或庫存。\",\"pages\":[{\"title\":\"札幌中島公園周邊住宿列表\",\"url\":\"https://www.booking.com/district/jp/sapporo/nakajimapark.zh-tw.html\",\"kind\":\"住宿列表\",\"reason\":\"供原本就需要札幌住宿的人比較位置；不是含活動門票方案。\",\"checks\":\"重新輸入入住日、人數及房型；列表有舊日曆／快取資訊，不保證最低價、空房、庭園門票、接送或分潤資格。\",\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋只取得多年前北海道賞楓部落格，未取得本期中島公園庭園票適用商品，不將青池等其他景點商品代入。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已搜尋中島公園紅葉點燈，未取得可讀且核對本活動日期的商品；不推薦無關景點票。\",\"pages\":[]}]\n\n入選｜Jetstar促銷週一截止：3690日圓起不是含行李總價\n分類／地區：航空／優惠／日本／Jetstar日本國內與亞洲指定航線\n公布：官方銷售10/23 12:00 JST開始；媒體10/23 12:10 JST\n事件／販售：售至10/26 16:59 JST；指定11月至2027年2月搭乘日\n八項分數：即時性 20／台灣旅客相關性 19／社群討論潛力 12／實用性 14／稀缺性 6／視覺吸引力 6／標題吸引力 5／延伸內容價值 4＝86/100\n爆紅／收藏／分享：4／4／4星；風險中；時效24小時：10/23 12:00開始，研究截止10/24 11:05 JST；生命3天；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因：剩餘兩天可比較冬季移動成本，但必須以航線、稅費及托運行李核算，不能拿最低價當台灣出發保證。\n查核：官方促銷頁與10/23媒體交叉，販售10/23 12:00–10/26 16:59 JST（台灣截止15:59）。官網最低3690日圓為Starter單程起價，另有支付手續費、機場費及國際線諸稅，不含托運行李；免燃油附加費不等於免其他費用。媒體列日本國內指定11/10–2/26、亞洲指定11/2–2/28，個別路線仍須查價；不將3690或國際最低價當台灣出發適用票價。退款／改票有條件，官方寫票價不退款、變更須費用與差額；不宣稱每班有促銷空位。\n分潤：中；可延伸冬季航線與行李總價比較，但第三方平台不保證提供同一促銷票價，必須核對實際日期。；商品指定日期航班與行李方案比較；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.jetstar.com/jp/ja/deals/sale)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150649.html)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用本題事件詞查找平台線索，未取得自然銜接且條件已確認的推薦頁面；不代表平台一定沒有販售。\",\"pages\":[]}]\n\n入選｜大阪梅田NITORI新店10月30日開幕：8層樓不全是一般賣場\n分類／地區：購物／新店／關西／大阪梅田茶屋町\n公布：官方10/23；媒體10/23 14:09 JST；官方未標精確發布時刻\n事件／販售：10/30開幕；開幕優惠10/30–11/9於指定166店\n八項分數：即時性 19／台灣旅客相關性 18／社群討論潛力 12／實用性 11／稀缺性 7／視覺吸引力 8／標題吸引力 4／延伸內容價值 3＝82/100\n爆紅／收藏／分享：4／4／3星；風險低；時效48小時內日期線索：10/23官方無時刻，不斷言精確24小時；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因：赴大阪購物的人可更新梅田動線；規模與優惠適用範圍需要拆開講，不能寫所有日本門市同步優惠。\n查核：官方10/23 PDF與媒體交叉：梅田店10/30開幕、原梅田Loft建物8層，約2700坪。公司稱其調查範圍內NITORI最大規模，不擴張成全球所有家居品牌最大。1樓含服飾，2–4樓生活用品與家電，5–7樓家具，8樓法人業務；不是8樓全都一般零售。10/30–11/9優惠涉及近畿、中國、四國指定166店，商品及App條件另訂，不寫全日本或全商品折扣。PDF有AI生成示意圖，不當現場照片；再次用web讀PDF遇存取錯誤，但本次先前已成功讀到原文。\n分潤：低；家具家用品門市資訊，與飯店或門票預訂關聯薄弱。；商品無推薦；限制須再核對商品適用日、票種／房型、庫存、包含內容、取消規則及分潤資格；未實測佣金。\n來源：[官方原始資訊](https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf)；[交叉確認報導](https://travel.watch.impress.co.jp/docs/news/2150723.html)\n社群：熱度未確認：未取得48小時內兩位不同作者且原文時間、讚數與留言可核對的樣本；不等於零討論。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已以事件詞與四平台域名查找；本題為購物／資格資訊，不適合硬推住宿或其他景點門票，沒有已核對且自然銜接的商品。\",\"pages\":[]}]\n\n未入選｜JR冬季夜行列車報導\n分類／地區：交通／日本／JR東日本\n公布：10/22原始冬季計畫；媒體10/23 13:59\n事件／販售：冬季個別運行日另核\n八項分數：即時性 10／台灣旅客相關性 19／社群討論潛力 12／實用性 12／稀缺性 7／視覺吸引力 7／標題吸引力 4／延伸內容價值 4＝75/100\n爆紅／收藏／分享：2／3／2星；風險中；時效48小時內原公告但重複選題；生命1個月以上；先收藏觀察 \n原因：已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。\n分潤：中；可延伸鐵路行程，但需實際運行日、售票與票券適用條件。；商品須先核實的航班或鐵路行程；限制已讀媒體，仍來自昨日已報冬季計畫，沒有本次新官方變更；不以晚一天報導當新公告。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://travel.watch.impress.co.jp/docs/news/2150711.html)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜ANA每月29日活動預告\n分類／地區：航空／優惠／日本／ANA指定通路\n公布：媒體10/23 12:23；官方活動頁已開啟\n事件／販售：10/29；完整條件待後續\n八項分數：即時性 17／台灣旅客相關性 15／社群討論潛力 11／實用性 8／稀缺性 6／視覺吸引力 6／標題吸引力 4／延伸內容價值 3＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；時效24小時內媒體線索；原公告時刻未明；生命1週；先收藏觀察 \n原因：已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。\n分潤：中；有機票與旅遊預訂方向，但資格與票種未成熟。；商品須先核實的航班或鐵路行程；限制已讀媒體與官方入口，但海外居住者、台灣出發及每個優惠完整條件未核實，不把最大折扣當普遍可用。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://travel.watch.impress.co.jp/docs/news/2150664.html)；[官方活動入口](https://www.ana.co.jp/ja/jp/promotion/ana_kyun29/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜層雲峽紅葉谷落葉狀態\n分類／地區：季節情報／北海道／上川\n公布：讀取頁顯示10/22 16:02更新；搜尋曾顯示不同日，不採摘要\n事件／販售：本次頁面狀態為落葉\n八項分數：即時性 10／台灣旅客相關性 15／社群討論潛力 8／實用性 10／稀缺性 3／視覺吸引力 7／標題吸引力 3／延伸內容價值 3＝59/100\n爆紅／收藏／分享：2／3／2星；風險中；時效48小時線索；觀測不等於活動新公告；生命3天；先收藏觀察 \n原因：頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。\n分潤：低；狀態提醒，不能把未查證見頃拿來推行程。；商品無推薦；限制頁面現況已是落葉，沒有第二現場來源；不因紅葉頁最近更新就推薦正值見頃或仍有點燈。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://koyo.walkerplus.com/detail/ar0101e318862/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜福岡Stray Kids聯名餐飲線索\n分類／地區：美食／IP／九州／福岡\n公布：搜尋索引近期；原文存取失敗，發布日期未確認\n事件／販售：10/22門市、10/23機場為搜尋線索待查\n八項分數：即時性 9／台灣旅客相關性 15／社群討論潛力 12／實用性 5／稀缺性 6／視覺吸引力 8／標題吸引力 4／延伸內容價值 2＝61/100\n爆紅／收藏／分享：2／3／2星；風險中；時效未確認，不冒充7天內已核對新聞；生命1週；先收藏觀察 \n原因：原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。\n分潤：未評估；未完成新聞查核，先不判斷商品銜接。；商品無推薦；限制原頁未成功讀取，日期、商品與外國旅客使用條件均未完成查核，不推薦。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://news.dellows.jp/665698/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜廣島海鷗市集週末線索\n分類／地區：活動／美食／中國地方／廣島\n公布：彙整頁10/1發布、10/21更新，不是活動首次公告\n事件／販售：10/23–25為搜尋線索，原文對應未核實\n八項分數：即時性 8／台灣旅客相關性 13／社群討論潛力 9／實用性 5／稀缺性 5／視覺吸引力 7／標題吸引力 3／延伸內容價值 2＝52/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天彙整文；更新不當公告；生命3天；先收藏觀察 \n原因：已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。\n分潤：未評估；具體場地與活動尚未確認，不推住宿。；商品無推薦；限制已開彙整原頁但未核對到對應活動段落與主辦公告，無法確認日期／地點，不列精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://hread.home-tv.co.jp/post-651465/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜名古屋藝術點燈截止線索\n分類／地區：活動／季節情報／中部／名古屋\n公布：觀光日曆無已核對原始公告日\n事件／販售：10/24結束為搜尋線索待核\n八項分數：即時性 8／台灣旅客相關性 15／社群討論潛力 10／實用性 5／稀缺性 5／視覺吸引力 9／標題吸引力 3／延伸內容價值 2＝57/100\n爆紅／收藏／分享：2／3／2星；風險中；時效未確認，不能列今天即將截止；生命1天；先收藏觀察 \n原因：已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。\n分潤：未評估；活動與截止尚未核實，不能用時間壓力推商品。；商品無推薦；限制已開官方日曆，但未在原文找到對應藝術點燈項目；沒有活動專頁可交叉，不把摘要日期當事實。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.nagoya-info.jp/event/)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜沖繩產業祭取消報導\n分類／地區：重大時事／活動／沖繩／那霸\n公布：OTV／FNN10/20 11:40 JST；官方原頁本次404\n事件／販售：原定10/23–25；媒體報導全期取消\n八項分數：即時性 14／台灣旅客相關性 18／社群討論潛力 10／實用性 13／稀缺性 5／視覺吸引力 4／標題吸引力 4／延伸內容價值 2＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；時效7天內報導；沒有已驗證今日大量討論；生命3天；先收藏觀察 \n原因：已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。\n分潤：低；取消提醒不適合再推活動票；住宿變更須依個別訂單。；商品無推薦；限制已讀地方電視台取消報導，但官方排程頁404，未完成第二可核對來源；不推舊日曆活動，不把取消消息當已雙源精選。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.fnn.jp/articles/-/1136083)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜JAIST Festival今天舉行\n分類／地區：活動／北陸／石川能美\n公布：官方7/1；地方彙整10/20更新\n事件／販售：10/24 10:00–16:00 JST\n八項分數：即時性 12／台灣旅客相關性 8／社群討論潛力 6／實用性 7／稀缺性 5／視覺吸引力 5／標題吸引力 2／延伸內容價值 2＝47/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天：今天舉行例外候選，仍未入選；生命1天；先收藏觀察 \n原因：官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。\n分潤：低；教育交流活動，旅遊商品銜接弱。；商品無推薦；限制官方與地方日曆可對照日期，但今天已開始、主要為科學校園交流，台灣一般旅客行動價值較低；不為地域湊題。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.jaist.ac.jp/whatsnew/info/2026/07/01-1.html)；[地方活動日曆](https://www.weekend-kanazawa.com/entry/event)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n未入選｜石川農業試驗場開放活動\n分類／地區：活動／北陸／石川金澤\n公布：官方10/5更新，首次公布未標；地方日曆10/20\n事件／販售：10/24 10:00–15:00 JST\n八項分數：即時性 12／台灣旅客相關性 7／社群討論潛力 5／實用性 7／稀缺性 4／視覺吸引力 5／標題吸引力 2／延伸內容價值 2＝44/100\n爆紅／收藏／分享：2／3／2星；風險中；時效超過7天：今天舉行例外候選，仍未入選；生命1天；先收藏觀察 \n原因：原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。\n查核：候選初評，不代表全部事實已確認；限制見未入選原因。\n未入選：原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。\n分潤：低；當日在地活動，不自然銜接預訂旅遊商品。；商品無推薦；限制原頁可核對當日時段，官方明列沒有地瓜或蘋果採收體驗；偏在地科普，台灣旅遊社群相關性低，不湊TOP10。 商品適用日、庫存、包含內容與分潤資格尚未確認。\n來源：[已讀來源或明列存取限制的候選線索](https://www.pref.ishikawa.lg.jp/noken/noushi/hureainoushi/hureainoushi.html)；[地方活動日曆](https://www.weekend-kanazawa.com/entry/event)\n社群：熱度未確認，未取得合格原始樣本。；觀測2026-10-24T10:05:02+08:00；合格原文與互動數皆無，非0。搜尋：日本 旅行 site:threads.com after:2026-10-22；(中島公園 OR 東京湾大華火祭 OR ニトリ 梅田 OR ちいかわパークストア OR 無印良品週間 OR ジェットスター) (site:threads.com OR site:x.com OR site:instagram.com) after:2026-10-22；(日本 無印 OR 中島公園 OR 吉伊卡哇 大阪 OR 東京灣 花火) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-22；(中島公園 OR ちいかわパークストア) (site:youtube.com OR site:tiktok.com) after:2026-10-22；(ANAキュン OR 産業まつり OR かもめのマーケット OR アートライト OR 層雲峡 OR JAIST OR Stray Kids 福岡 OR 夜行列車) (site:threads.com OR site:x.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:facebook.com) after:2026-10-22；(ふれあい農研 OR JAIST OR かもめマーケット OR アートライト OR Stray Kids 福岡 OR 産業まつり) (site:threads.com OR site:x.com OR site:facebook.com OR site:instagram.com) after:2026-10-22\n平台查閱紀錄：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成可推薦商品查核。\",\"pages\":[]}]\n\n【編輯推薦】\n{\"id\":\"tokyobay-fireworks-20261024\",\"title\":\"東京灣花火今晚登場：一般票停售、沒有當日券\",\"score\":92,\"reason\":\"只作編輯推薦標籤，不預選使用者題目。今天的票券與交通提醒能避免旅客白跑，必須在下午出發前傳達。\",\"versusSecond\":\"無印限制適用受眾較廣，但還有多日活動期；東京灣的行動窗口只剩今天，延到晚上發就失去多數實用性。\",\"publishAt\":\"台灣10:30（無帳號歷史數據，編輯建議）\",\"audience\":\"今天在東京、預計前往台場／豐洲／晴海的台灣旅客及同行者\",\"angle\":\"沒有當日券：先查票券、取票與回程，非觀眾也需看管制\",\"lifecycle\":\"1天\"}\n【社群查核限制】\n{\"checkedAt\":\"2026-10-24T10:05:02+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":15,\"qualifiedTopicCount\":0,\"limitation\":\"已用事件詞與繁中／日文查找八平台，沒有取得48小時內至少兩位不同作者、原始內容、時間與讚／留言都可核對的樣本。搜尋索引及官方宣傳不能代替自然討論；未取得不代表零討論。無法建立本期社群熱榜，保留內容原序。\",\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"X\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"TikTok\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"事件搜尋未取得可核對完整時間與互動數的原文；未遍查平台全站，不以搜尋篇數計分。\"}]}\n【明天追蹤】\n[{\"title\":\"東京灣花火當日運行與散場\",\"next\":\"今天出發及散場前重新查看主辦與鐵路公告；明天若無新進展不重複推薦，不預言一定有交通異常。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2\"},{\"label\":\"有樂町線10/8加班公告，時段以豐洲站為準\",\"url\":\"https://www.tokyometro.jp/info/files/20261024_yurakucho_line_schedule.pdf\"}]},{\"title\":\"Jetstar週一促銷截止\",\"next\":\"未來48小時核對實際航線、行李總價與是否仍有適用班次；10/26 16:59 JST截止，不保證追加名額。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://www.jetstar.com/jp/ja/deals/sale\"}]},{\"title\":\"大阪吉伊卡哇入場申請\",\"next\":\"未來24–72小時觀察是否公布抽選／先到券申請日與海外操作條件，尚無公告不得寫已開放。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://chiikawapark-tokyo.jp/news/x0e64eb94v/\"},{\"label\":\"LUCUA官方開幕專頁\",\"url\":\"https://www.lucua.jp/special/south-open/\"}]},{\"title\":\"中島公園週末庭園入場\",\"next\":\"核對當日天候、票券日期與費用，觀察是否有官方異動；不以燈光照片預測當天楓況。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://sapporo-autumn-illuminations.jp/en/\"}]}]\n【每題完整串文與編輯素材】\n東京灣花火今晚登場：一般票停售、沒有當日券\n{\n  \"threads\": [\n    \"今天要去東京灣看花火，先確認自己有票：10月24日東京灣大華火祭沒有當日券，一般票也已停售。\\n\\n活動預定日本時間17:30–19:00。這是全票券制會場，別把「今晚有花火」理解成到了現場就能買票進去。\",\n    \"已買票的人，出發前先做兩件事：\\n• 需要便利商店取票的，先完成取票。\\n• 按票面確認會場、入口與回程車站。\\n\\n有樂町線與臨海線有加班安排，但部分原班次也會調整；周邊道路及步行通道另有管制，不要只用平日導航估算時間。\",\n    \"沒有票、只是要去台場或豐洲吃飯購物的人，也建議先看交通管制圖，預留回程時間。不要把橋上或管制區當臨時觀賞點。\\n\\n主辦今天公告雨天舉行；出發前仍要看有沒有新的天候或安全調整。停售與取票提醒：https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2\\n會場與交通：https://tokyo-hanabi-festival.com/venue/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"票券門檻\",\n      \"opening\": \"東京灣花火今晚有，但沒有當日券；先看你手上是否已有有效票券。\"\n    },\n    {\n      \"name\": \"取票準備\",\n      \"opening\": \"買好了東京灣花火票，仍要確認是否必須先到便利商店取票。\"\n    },\n    {\n      \"name\": \"回程交通\",\n      \"opening\": \"東京灣花火17:30開始，回程卻不能照平日時刻表想像。\"\n    },\n    {\n      \"name\": \"非觀眾提醒\",\n      \"opening\": \"今天只是去台場吃飯，也要把花火周邊管制算進行程。\"\n    },\n    {\n      \"name\": \"天候判斷\",\n      \"opening\": \"主辦今日稱雨天舉行，出發前仍要再看最新公告。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"主辦會場交通圖及停售公告，可製作自己的行前核對卡；原圖使用授權未確認\",\n      \"url\": \"https://tokyo-hanabi-festival.com/news/o9vwegxy7ji2\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。\"\n  ]\n}\n日本無印良品週間開始：海外會員不適用，免稅不能疊加\n{\n  \"threads\": [\n    \"日本無印良品週間開始了，但拿台灣版會員App去日本，不代表能享9折。\\n\\n本期日本門市活動是10月23日至11月3日。官方明列海外版MUJI App、海外卡不適用；免稅也不能再疊會員優待，赴日前先別把兩種優惠加在一起算。\",\n    \"還有一個容易漏看的資格：日本MUJI會員服務以日本居住者為對象。\\n\\n所以不是下載日本版App，就能讓短期赴日旅客自動取得會員優惠。若你是住在日本、符合會員規則的人，才按活動頁要求準備會員條碼；部分商品仍排除在優惠外。\",\n    \"準備購物時，先把「自己符合哪種資格」和「那間店是否提供免稅」問清楚，再比較實付金額。日本網店本期至11月4日10:00（日本時間），也不能當成台灣網店同步優惠。\\n\\n這是既有會員限制的行前提醒，不是日本今天新訂的規則。官方活動與限制：https://www.muji.com/jp/ja/shop/045471/articles/info/1701933\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"海外會員\",\n      \"opening\": \"台灣MUJI會員App，不能直接當日本良品週間9折資格。\"\n    },\n    {\n      \"name\": \"優惠相容\",\n      \"opening\": \"日本無印會員優待與免稅不能疊加，先別把折扣一起算。\"\n    },\n    {\n      \"name\": \"居住資格\",\n      \"opening\": \"換成日本版App，不等於短期旅客自動取得日本會員資格。\"\n    },\n    {\n      \"name\": \"期間差異\",\n      \"opening\": \"日本門市到11月3日，網店到11月4日上午；日期別混用。\"\n    },\n    {\n      \"name\": \"結帳準備\",\n      \"opening\": \"去日本無印前，先查自己適用的資格，再決定購物預算。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方活動視覺與海外會員排除條件，自製資格對照卡避免只截9折；商用授權未確認\",\n      \"url\": \"https://www.muji.com/jp/ja/shop/045471/articles/info/1701933\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。\"\n  ]\n}\n大阪吉伊卡哇新店11月24日開幕：免費入店仍須整理券\n{\n  \"threads\": [\n    \"大阪吉伊卡哇新店11月24日開幕，入店免費，但開幕初期不能直接走進去。\\n\\n地點在JR大阪站直結的LUCUA SOUTH 11樓。官方說10至13樓暫時採事前抽選或先到入場整理券制；沒拿到入場資格，就進不了這幾層樓。\",\n    \"這間是「ちいかわパークストア」物販店，販售東京池袋Park的周邊，並設有角色裝飾與拍照區。它不是大阪版完整體驗園區，池袋的園區門票也不能拿來當這裡的入場整理券。\\n\\n營業時間為日本10:00–20:00。公布商品包含1430日圓迷你吊飾、2000日圓寄生吉伊卡哇皂液罐，都是含稅價；部分商品另有限購。\",\n    \"現在最值得先存的是入場資訊，不是先買一張名稱相近的票。\\n\\n抽選／整理券的申請時間、海外帳號操作方式，這次尚未確認；官方會在LUCUA專頁與店鋪官方X更新。安排11月底大阪行程時，先留出彈性，別把預計開幕當成已保證能入店或買到商品。\\n官方細節：https://chiikawapark-tokyo.jp/news/x0e64eb94v/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"免費限制\",\n      \"opening\": \"大阪吉伊卡哇新店免費入場，但初期沒有整理券進不了樓層。\"\n    },\n    {\n      \"name\": \"設施區別\",\n      \"opening\": \"11月24日開的是吉伊卡哇物販店，不是把池袋整座Park搬來大阪。\"\n    },\n    {\n      \"name\": \"入場票區別\",\n      \"opening\": \"池袋Park的門票，不能拿來當大阪新店的入場整理券。\"\n    },\n    {\n      \"name\": \"購物預算\",\n      \"opening\": \"迷你吊飾1430日圓含稅，先看官方商品，再等入場申請細節。\"\n    },\n    {\n      \"name\": \"行程彈性\",\n      \"opening\": \"11月底去大阪的人，先追抽選資訊，別把開幕日當保證能進店。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方店內示意、商品圖與整理券條件；角色及商品圖片使用權未確認\",\n      \"url\": \"https://chiikawapark-tokyo.jp/news/x0e64eb94v/\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。\"\n  ]\n}\n札幌中島公園開始點燈：日本庭園另收600日圓\n{\n  \"threads\": [\n    \"札幌中島公園已開始秋季點燈，但日本庭園不是免費入場。\\n\\n活動從10月23日到11月3日，公園點燈日本時間17:00–21:00。若想進日本庭園看光影，當日票是600日圓含稅，小學生以下免費，行程與預算要分開算。\",\n    \"日本庭園的時間也和公園略有不同：\\n• 17:15開始，21:00結束。\\n• 最後入場20:45。\\n\\n官網另列預售票500日圓，但還要加手續費，不能直接說買預售一定省100日圓。付款前先核對適用日期、費用與剩餘名額；訂周邊飯店也不代表含庭園門票。\",\n    \"已在札幌的人，可以把中島公園放進晚餐前後的夜間散步，再按自己的時間決定是否進庭園。\\n\\n點燈日期不等於每天都保證同樣楓紅或天氣；當天先查活動公告，再從官網進購票入口。不要把20:45最後入場誤記成21:00。\\n活動地圖、時間與票價：https://sapporo-autumn-illuminations.jp/en/\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"費用釐清\",\n      \"opening\": \"札幌中島公園已點燈，但日本庭園當日票另收600日圓。\"\n    },\n    {\n      \"name\": \"時間差\",\n      \"opening\": \"公園17點點燈，日本庭園17:15才開始，最後入場20:45。\"\n    },\n    {\n      \"name\": \"親子規劃\",\n      \"opening\": \"庭園小學生以下免費，同行成人仍要把票價算進去。\"\n    },\n    {\n      \"name\": \"預售總價\",\n      \"opening\": \"預售500日圓還有手續費，不一定直接省100日圓。\"\n    },\n    {\n      \"name\": \"夜間行程\",\n      \"opening\": \"札幌晚餐前後可以排點燈散步，但先確認庭園最後入場時間。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方點燈地圖、庭園票價與時段，可做自己的比較表；照片可查找不等於可商用\",\n      \"url\": \"https://sapporo-autumn-illuminations.jp/en/\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：札幌中島公園周邊住宿與夜間步行攻略；住宿不等於含庭園票或接送。\"\n  ]\n}\nJetstar促銷週一截止：3690日圓起不是含行李總價\n{\n  \"threads\": [\n    \"想趁Jetstar促銷安排日本冬季移動，先算「最後付款總額」。官網3690日圓起是指定航班單程起價，不含托運行李，也不是台灣出發一律這個價。\\n\\n這輪Super Star Sale到10月26日日本16:59截止，台灣是15:59；適用指定11月至明年2月航班，日期與座位有限。\",\n    \"比價時至少填齊三項：出發地與目的地、搭乘日期、托運行李公斤數。\\n\\nStarter起價另外還有支付手續費、機場相關費用，國際線另有稅金。免燃油附加費，不代表其他費用也免收；週末、連假及部分航班可能沒有促銷。別只用首頁最低價排整段行程。\",\n    \"先在官網選好實際班次，看含行李與費用的總額，再決定是否付款。促銷票價有退款與更改限制，改期可能要付手續費及差額；第三方查價頁也不保證提供同一優惠。\\n\\n如果你需要的日期沒有促銷，就回到整段交通時間與總成本比較，不必為起價改出不合適的路線。\\n官方條件：https://www.jetstar.com/jp/ja/deals/sale\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"起價條件\",\n      \"opening\": \"3690日圓起不含托運行李，Jetstar促銷先看最後付款總額。\"\n    },\n    {\n      \"name\": \"截止時差\",\n      \"opening\": \"Jetstar這輪週一日本16:59截止，台灣是15:59。\"\n    },\n    {\n      \"name\": \"路線限制\",\n      \"opening\": \"日本國內最低票價，不等於台灣出發也能用同一數字。\"\n    },\n    {\n      \"name\": \"行李比較\",\n      \"opening\": \"先填行李公斤數再比票價，冬季移動才不會漏算成本。\"\n    },\n    {\n      \"name\": \"日期彈性\",\n      \"opening\": \"促銷不是每班都有，沒有合適日期就比較整段交通成本。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官網促銷條件與自製總價構成表，不用未查核票價截圖宣稱有庫存\",\n      \"url\": \"https://www.jetstar.com/jp/ja/deals/sale\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：冬季航線與行李總價比較，先核對第三方是否提供相同票種；不保證促銷庫存或分潤資格。\"\n  ]\n}\n大阪梅田NITORI新店10月30日開幕：8層樓不全是一般賣場\n{\n  \"threads\": [\n    \"大阪梅田又有新購物點：NITORI梅田店預定10月30日開幕，使用原梅田Loft的8層樓空間。\\n\\n但不是8層全部都讓你逛家具：8樓是法人業務區。規劃梅田購物動線時，先看樓層內容，比只記「超大新店」更實際。\",\n    \"這次公布的樓層重點是：1樓有服飾，2至4樓以生活用品與家電為主，5至7樓是家具。\\n\\n對一般赴日旅客，小件生活用品比較容易納入行李安排；大型家具不必因店面規模就列進購物清單。官方約2700坪的規模說法也包含法人區域，不能當成所有樓層都同一種零售用途。\",\n    \"開幕優惠期間為10月30日至11月9日，但適用的是近畿、中國、四國指定166店，並非全日本所有門市。各商品與App優惠條件還要看活動規則，不能直接寫成全商品打折。\\n\\n目前看到的官方資料含AI生成示意圖，不能當實景照片轉貼。出發前再查樓層與當日公告：https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"樓層攻略\",\n      \"opening\": \"梅田NITORI新店有8層，但8樓是法人區，不全是一般賣場。\"\n    },\n    {\n      \"name\": \"地點更新\",\n      \"opening\": \"10月30日起，原梅田Loft建物改成NITORI新購物點。\"\n    },\n    {\n      \"name\": \"優惠範圍\",\n      \"opening\": \"這輪開幕優惠是指定166店，不是全日本一律同步折扣。\"\n    },\n    {\n      \"name\": \"旅客選物\",\n      \"opening\": \"2至4樓是生活用品與家電，先按行李空間安排購物清單。\"\n    },\n    {\n      \"name\": \"圖像辨識\",\n      \"opening\": \"新店公告裡有AI示意圖，不能當成已拍攝的現場照片。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方PDF有AI生成示意圖，必須標示，不得作現場照片；原圖商用權未確認\",\n      \"url\": \"https://www.nitorihd.co.jp/news/items/73913_1757_20261023114003.pdf\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸行前核對表或購物攻略；本題分潤適合度低，不硬推無關旅遊商品。\"\n  ]\n}"
+}
