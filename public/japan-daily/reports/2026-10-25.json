@@ -1,0 +1,2155 @@
+{
+  "date": "2026-10-25",
+  "cutoff": "2026-10-25 10:03:37 Asia/Taipei（日本11:03:37 Asia/Tokyo）",
+  "trends": [
+    "已查證：福岡環境祭10/25取消，同頁殘留舊行程表，應以最新取消區塊為準。",
+    "已查證：秋保AKIU LUMINA昨天開始，各場地日期與費用不同，不能通用一張票。",
+    "已查證：東武冬季點燈首個週末，15時售優惠入園、17時亮燈；部分展區延後開放。",
+    "已查證：中野紅葉山10/24–11/8點燈，實測楓況與夜間回程仍須分開確認。",
+    "已查證：大分今天冬季班表生效，台北線仍每週三、六，增班的是首爾線。",
+    "編輯觀察：15個不同事件候選中選5題；其餘有單源、當日狀態未核、行動窗口已過或受眾較窄等限制。",
+    "編輯觀察：社群原始樣本不足，無法建立本期熱榜；本期排序為內容編輯判斷。"
+  ],
+  "choice": {
+    "id": "fukuoka-environment-cancel-20261025",
+    "title": "福岡環境祭今天取消：舊節目表仍在，請看最新公告",
+    "score": 86,
+    "reason": "只作編輯推薦標籤，不預選使用者題目；今天即時避免白跑，錯讀新舊公告的切角具體。",
+    "versusSecond": "秋保仍有數週規劃空間，福岡取消提醒需要今天出發前傳達。",
+    "publishAt": "台灣10:15（無帳號歷史數據，編輯建議）",
+    "audience": "今天在福岡天神、親子自由行與同行者",
+    "angle": "舊節目表仍在，但25日已取消",
+    "lifecycle": "1天"
+  },
+  "top10": [
+    {
+      "id": "fukuoka-environment-cancel-20261025",
+      "title": "福岡環境祭今天取消：舊節目表仍在，請看最新公告",
+      "region": "九州／福岡天神市役所西側廣場",
+      "category": "活動／行前提醒",
+      "announcementDate": "官方10/23更新；參展單位同步註明25日取消，未標精確時刻",
+      "eventDate": "10/25取消；原活動10/24–25",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 3,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "現場旅客今天就需要改行程，官方同頁保留新舊公告容易誤讀。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html"
+        },
+        {
+          "label": "參展單位取消註記",
+          "url": "https://fun-fukuoka.or.jp/event/「環境フェスティバルふくおか2026」出展＆ステー/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "48小時日期線索：10/23無時刻，不斷言精確48小時；因今天取消影響納入",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣10:15（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消提醒沒有自然購票需求，不以取消事件推新的預訂。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "福岡市10/23最新區塊明確取消10/25，僅24日舉行；參展者ふくおかFUN同頁註記25日雨天取消。官方仍留著較舊「兩天開催決定」及節目表，以最上方NEW取消公告為準。只確認這個活動，不泛稱整個福岡景點、地鐵或航班停擺。取消無須購票，也沒有可承諾的替代開放場館。",
+      "draft": {
+        "threads": [
+          "今天在福岡天神，別照舊節目表去環境祭：10月25日這一天已取消。\n\n福岡市10月23日更新的最新公告寫明，因預期天候不佳，只保留24日舉行，25日取消。地點是市役所西側ふれあい廣場，原本想帶小朋友參加體驗或看舞台的人，今天需要調整安排。",
+          "這次最容易看錯的地方，是官網同一頁還留著較早的「24、25日確定舉行」與兩天節目表。\n\n請看頁面上方標示NEW的取消通知。參展單位ふくおかFUN也在自己的活動頁註明25日取消；舊海報、截圖和節目時段不能當成今天仍照常的依據。",
+          "如果已把這個活動排進今天行程，先把取消通知傳給同行的人，再逐一查替代場所的當日營業資訊。\n\n這份通知只針對環境祭，不能推論福岡所有景點、地鐵或航班都停擺。下一站的開放狀態仍要個別確認。\n\n福岡市最新公告：\nhttps://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html"
+        ],
+        "angles": [
+          {
+            "name": "取消提醒",
+            "opening": "今天要去福岡環境祭？10月25日已取消，先別照舊節目表出門。"
+          },
+          {
+            "name": "公告判讀",
+            "opening": "同一個官網同時寫舉行與取消，福岡環境祭要看最上方的新通知。"
+          },
+          {
+            "name": "親子安排",
+            "opening": "原本排好的福岡親子活動今天取消，先通知同行家人再換行程。"
+          },
+          {
+            "name": "轉傳查核",
+            "opening": "看到「24、25日開催決定」的截圖，先打開原頁：25日已改為取消。"
+          },
+          {
+            "name": "範圍釐清",
+            "opening": "環境祭取消，不等於福岡全部停擺；今天要逐一查下一站。"
+          }
+        ],
+        "images": [
+          {
+            "description": "最新取消公告區塊，勿用舊海報暗示照常。可查素材不等於取得商用授權。",
+            "url": "https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html"
+          }
+        ],
+        "extensions": [
+          "不延伸分潤；可整理同行者行程異動核對清單。"
+        ]
+      }
+    },
+    {
+      "id": "akiu-lumina-2026",
+      "title": "秋保夜楓開始：整體活動與庭園有不同日期、費用",
+      "region": "東北／宮城仙台秋保溫泉",
+      "category": "季節情報／活動",
+      "announcementDate": "仙台觀光頁10/23更新；主辦10/24開始公告，原始首發日未確認",
+      "eventDate": "AKIU LUMINA 10/24–11/15；Night Museum 10/23–11/23",
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "適合近期東北旅客規劃溫泉夜遊，先分清楚各場地日期與票價。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.akiulumina.jp/"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://www.sentabi.jp/features/46"
+        },
+        {
+          "label": "庭園票價與2026年傳單入口",
+          "url": "https://akiu-sizen.co.jp/archives/lp/lightup"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天開幕週末：10/24開始；10/23更新不當首次公告",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "尚有三週活動，可搭配秋保溫泉住宿，但近期旅客可能已訂房，住宿不保證含夜間門票或接送。",
+        "products": [
+          "活動地區住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "秋保溫泉住宿列表",
+              "url": "https://tw.trip.com/hotels/sendai-hotels-list-585/zone107182962/",
+              "kind": "住宿列表",
+              "reason": "地區限定秋保，可比較夜間活動前後住宿。",
+              "checks": "輸入實際日期；房價、餐食、末班交通、接送與活動票均另確認；不是含門票方案。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "秋保溫泉住宿列表",
+              "url": "https://www.booking.com/district/jp/sendai/akiu-onsen.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已讀秋保地區旅館清單，可對照位置。",
+              "checks": "頁面快取日期與參考價非當晚空房；需重新選日期，不保證含活動門票。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀宮城目的地列表 https://www.klook.com/ja/destination/c6850-miyagi-prefecture/ ，混有冬季蔵王商品及仙台市區住宿；未核實秋保夜間對應商品，不推薦。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.akiulumina.jp/",
+            "label": "主辦官網嵌入10/24 Instagram公告",
+            "reason": "官方宣傳且為官網嵌入，非民間原始自然貼文；顯示48／0也不計入熱度。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "主辦10/24當期公告與仙台觀光10/23頁面交叉確認AKIU LUMINA 10/24–11/15。主辦首頁頂部仍寫2025資料，因此不沿用未核對舊價格。庭園Night Museum由仙台觀光列10/23–11/23、16:30–21:00最後入場20:30 JST；園方頁另有2026傳單入口、平日成人1000／週末假日1500、4歲以上兒童500日圓。主辦10/24貼文也說庭園前一天先開始。傳單PDF已開但截圖未完整取得，不宣稱已核對PDF全部內容。一般訪客票未見國籍限制；不保證外國信用卡適用或庫存。套票價與各分場規則尚未逐項核對，不以單一票價代表全活動。",
+      "draft": {
+        "threads": [
+          "秋保的夜間點燈已開始，但別把整個活動當成同一張票、同一個結束日期。\n\n2026年AKIU LUMINA是10月24日到11月15日；其中天守閣自然公園的秋保Night Museum先於10月23日開始，持續到11月23日。想把東北賞楓接上溫泉住宿，先選場地再排晚上。",
+          "以Night Museum為例，時間是16:30–21:00，最後入場20:30，都是日本時間。\n\n中學生以上平日1000日圓、週末與日本假日1500日圓；4歲以上兒童500日圓。這是庭園的費用，不能拿來代表所有秋保點燈場地，也不能把住宿當作自動含門票。",
+          "規劃時先決定要看的場地，再查當天開放、門票及離場後的交通；巴士能送你到秋保，不代表看完夜景一定還有適合的回程班次。\n\n主辦首頁仍留有舊年度提示，請認明2026公告。點燈開始也不等於楓葉已全部轉紅。\n官方活動：https://www.akiulumina.jp/\n庭園資訊：https://akiu-sizen.co.jp/archives/lp/lightup"
+        ],
+        "angles": [
+          {
+            "name": "日期比較",
+            "opening": "秋保夜楓有兩個結束日期，先別把所有會場都排到11月23日。"
+          },
+          {
+            "name": "票價",
+            "opening": "秋保Night Museum週末成人1500日圓，這不是整個秋保點燈的通票。"
+          },
+          {
+            "name": "回程",
+            "opening": "賞完秋保夜楓怎麼回仙台？先看交通再決定待到幾點。"
+          },
+          {
+            "name": "溫泉行程",
+            "opening": "10月底去東北泡湯，秋保多了夜間點燈可排，但住宿不一定含門票。"
+          },
+          {
+            "name": "最後入場",
+            "opening": "庭園21時關閉、20:30最後入場，別把秋保夜遊的到場時間抓太晚。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。",
+            "url": "https://www.akiulumina.jp/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。"
+        ]
+      }
+    },
+    {
+      "id": "tobu-illumination-2026",
+      "title": "東武動物公園夜間票1700日圓：10、11月只在週末與假日點燈",
+      "region": "關東／埼玉宮代町東武動物公園",
+      "category": "票券／季節情報",
+      "announcementDate": "園方新聞稿10/1 13:02 JST；地方編輯頁10/22，非獨立現場採訪",
+      "eventDate": "10/24–2027/2/28指定65日；10、11月土日及日本國定假日",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "剛開幕的冬季活動有15時入園與17時點燈之別，還有展區分階段開放。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://digitalpr.jp/r/144828"
+        },
+        {
+          "label": "地方編輯整理（非另一次採訪）",
+          "url": "https://chiba-style.com/event/18169/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/1公告，昨天正式開幕，今天仍為首個週末",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有門票需求，但已讀平台為一般入園票，尚未確認本期夜間適用及與1700日圓現場票的差別，因此不是高適合度。",
+        "products": [
+          "先核實夜間適用條件的入園券"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "買票前先核對你要去的日期，以及普通入園票能否涵蓋夜間活動；白天票與15時後優惠票也要比較。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨頁 https://www.kkday.com/zh-tw/product/162035 ：一般入園、遊樂設施另付、特別活動可能另費；本期夜間適用尚未確認，pages留空，不自動帶cid。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/zh-TW/activity/6002-tobu-zoo-ticket-tokyo/ ：普通入園、不含無限搭乘，頁面仍顯示10/7等快取日期；未核實夜間適用，pages留空。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=hzBrZO62kK0",
+            "label": "同園區2025–2026影片搜尋線索",
+            "reason": "前一季內容，不是本次2026–2027事件，不計分。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "園方10/1原始新聞稿與10/22地方編輯文章對照；後者有自行整理日期及不同活動資料，並非第二次獨立現場採訪，不把新聞稿轉載當雙重採訪。10/24–2/28指定日，10、11月土日祝；12/5–31每天；1/2–6每天之後土日祝；2月土日祝。點燈17–20 JST，12/24、25至21。開催日15時起售成人入園1700日圓，夜間遊樂設施pass另2500，不能把2500當含入園總價。動物LED燈籠11/28、mapping12/5才開始。當日天候運行及票庫存未保證。平台普通票沒核實夜間適用，因此不推薦為本期夜間票。園方原站部分舊季資訊與存取問題，不沿用2025–2026票期。",
+      "draft": {
+        "threads": [
+          "東京近郊想排夜間動物園，東武動物公園本季點燈已在10月24日開始；但10、11月只在週末與日本國定假日舉行。\n\n活動日15:00起售成人入園票1700日圓，點燈則是17:00開始。別把15時優惠入園誤認成15時就能看見燈海。",
+          "票種也要分開算：1700日圓是入園，夜間遊樂設施pass另2500日圓，不是2500就含兩者。\n\n本季預定至2027年2月28日的指定日期舉行，通常17:00–20:00；12月24、25日至21:00。不是整段日期每天都有，出發前先核對你那天是否為開催日。",
+          "還有兩個展區要再等：動物造型LED燈籠11月28日開始，mapping演出12月5日開始，10月來看不到全部內容。\n\n購票前核對夜間適用、遊樂設施與天候公告。平台一般入園票是否適用本期夜間活動，本次尚未確認，不把它當成夜間優惠票推薦。\n園方本季公告：https://digitalpr.jp/r/144828"
+        ],
+        "angles": [
+          {
+            "name": "優惠時段",
+            "opening": "15時後入園1700日圓，東武點燈要等17時；兩個時間別混在一起。"
+          },
+          {
+            "name": "日曆",
+            "opening": "10、11月不是每天點燈，東京近郊夜遊先圈出週末與日本假日。"
+          },
+          {
+            "name": "票種",
+            "opening": "東武夜間2500日圓pass是遊樂設施，不是含入園的總價。"
+          },
+          {
+            "name": "展區",
+            "opening": "10月去東武點燈，有兩個主打展區還沒開始。"
+          },
+          {
+            "name": "親子行程",
+            "opening": "想把動物園接夜景，先選開催日，再決定是否需要遊樂設施pass。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。",
+            "url": "https://digitalpr.jp/r/144828"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。"
+        ]
+      }
+    },
+    {
+      "id": "nakano-momiji-2026",
+      "title": "青森中野紅葉山開始夜間點燈：16:30亮燈，回程先排好",
+      "region": "東北／青森黑石中野神社",
+      "category": "季節情報／交通",
+      "announcementDate": "觀光協會未標原始發布日；弘前Navi10/20整理",
+      "eventDate": "10/24–11/8，16:30–21:00 JST",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "夜楓剛開始，遊客需要把點燈、案內所營業與公車回程分開看。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://kuroishi.or.jp/sightseeing/nakanomomijiyama"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://www.hirosaki-navi.jp/hirosaki_tsugaru_autumn_leaves_spot"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "原始公布日未確認；例外理由為昨天正式開始，10/20地方報導不是新官方公告",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可搭配黑石地區住宿，活動只到11/8，應先解決夜間回程，不為看燈而強推改訂飯店。",
+        "products": [
+          "活動地區住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "黑石地區住宿列表",
+              "url": "https://jp.trip.com/hotels/kuroishi-hotels-list-90556/",
+              "kind": "住宿列表",
+              "reason": "可比較黑石與溫泉鄉住宿；不把市區每家旅館都稱步行可達夜楓。",
+              "checks": "住宿到中野紅葉山的距離、晚間交通、入住日與房型另查；無已確認夜楓接送。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "黑石觀光協會與弘前Navi交叉確認10/24–11/8、16:30–21:00點燈。9–21是臨時案內所，不是亮燈。官方交通：黑石站搭弘南巴士約31分到中野神社前；其他路線中野南口步行約5分，夜間回程末班尚未核對。津輕傳承工藝館約200免費車位、步行約12分，不等於保證有位。原始公告日期未標，以剛開幕例外納入；例年10月底至11月初不是今天實測滿紅。活動票價沒有充分交叉，正文不宣稱免費或需預約。神社禁寵物，輔助犬例外。",
+      "draft": {
+        "threads": [
+          "青森中野紅葉山開始夜間點燈了：2026年10月24日到11月8日，每天16:30–21:00，日本時間。\n\n官網另寫的9:00–21:00是臨時觀光案內所時間，不是早上就亮燈。地點在黑石市中野神社，適合把白天散步接到傍晚，但先確認回程。",
+          "觀光協會列出的交通，是從黑石站搭弘南巴士約31分鐘到「中野神社前」；不同路線也可能在「中野南口」下車後步行。\n\n這是抵達方式，不代表21時仍有公車。若自駕，官方指引津輕傳承工藝館免費停車場，步行約12分鐘；車位不保證，別把時間排得太緊。",
+          "先查當天巴士時刻或安排其他回程，再決定停留到幾點。神社境內禁止帶寵物，導盲、導聾與輔助犬例外。\n\n點燈日期已確認，但今天是否滿紅沒有現場實測；例年見頃不能當作即時楓況。最新活動與交通請看黑石觀光協會：\nhttps://kuroishi.or.jp/sightseeing/nakanomomijiyama"
+        ],
+        "angles": [
+          {
+            "name": "點燈時間",
+            "opening": "中野紅葉山16:30才亮燈，官網9時開的是臨時案內所。"
+          },
+          {
+            "name": "回程",
+            "opening": "夜楓亮到21時，不等於公車也開到21時。"
+          },
+          {
+            "name": "停車",
+            "opening": "黑石夜楓官方停車場要再走約12分鐘，別把抵達時間當入場時間。"
+          },
+          {
+            "name": "楓況",
+            "opening": "點燈已開始，但還不能把青森中野紅葉山寫成今天全面滿紅。"
+          },
+          {
+            "name": "行程",
+            "opening": "弘前周邊想多排一個傍晚景點，可看黑石中野紅葉山這段限定點燈。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。",
+            "url": "https://kuroishi.or.jp/sightseeing/nakanomomijiyama"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。"
+        ]
+      }
+    },
+    {
+      "id": "oita-winter-taipei-2026",
+      "title": "大分冬季班表今天生效：台北線仍每週三、六，增班的是首爾線",
+      "region": "九州／大分機場、台灣桃園",
+      "category": "航空／交通",
+      "announcementDate": "機場10/8公告；大分縣10/15更新",
+      "eventDate": "冬季班表10/25–2027/3/27",
+      "score": 80,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 14,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "機場增班標題同時提台灣與首爾，台灣旅客應以台北線實際班次安排行程。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://oita-airport.jp/news/detail/787"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://pref.oita.jp/soshiki/10530/oitakuko-kokusaisen-2026fuyudaiya.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/8公告、10/15更新，今天正式實施",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "冬季行程可直接查台北至大分航班，但這是既有班次延續，沒有新優惠或新增台北班次。",
+        "products": [
+          "台北至大分航班比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想把別府或由布院排進冬季行程，可以先用出發日期查台北到大分的實際班次，再比較含行李總額。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "台北至大分航班查詢",
+              "url": "https://tw.trip.com/flights/taipei-to-oita/airfares-tpe-oit/",
+              "kind": "交通查詢",
+              "reason": "方向TPE→OIT正確，可查冬季週三／六班次。",
+              "checks": "自行輸入往返日期、直飛／轉機與行李，頁面起價不代表可成交總價或優惠。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "大分機場10/8與大分縣10/15班表交叉，10/25–3/27生效。台灣虎航仍週三、六，每週2往返（4單程），不是每天或新增班次；桃園12:00→大分15:00，大分16:30→桃園18:10，均當地時間。首爾線濟州航空由3增7往返，不能套在台北。今天是班表生效日，不代表週日有台北直飛。Trip路線頁有11月週三／六相符班次，但價格與行李未下單確認，不引用最低價。",
+      "draft": {
+        "threads": [
+          "大分機場今天切換冬季班表，但台北線沒有變成每天飛。\n\n2026年10月25日到2027年3月27日，台灣虎航台北往返大分仍是每週三、六。機場公告提到國際線增班，增加的是首爾線濟州航空，不能直接套用到台北航線。",
+          "排別府、由布院行程，可以先把這兩個直飛日放進日曆。\n\n官方冬季時刻（各地當地時間）：\n• 桃園12:00 → 大分15:00\n• 大分16:30 → 桃園18:10\n\n今天是班表生效日，不代表今天星期日也有台北直飛；每週2往返也不是4天都有班機。",
+          "先選好去回日期，再核對航空公司實際可訂班次、托運行李與最後結帳總額。這則是冬季班表整理，沒有已確認的新促銷，也不保證每班都有空位。\n\n遇到天候異動，請依航空公司當日通知調整。\n大分機場公告：https://oita-airport.jp/news/detail/787"
+        ],
+        "angles": [
+          {
+            "name": "增班誤讀",
+            "opening": "大分公告增班，台北線卻還是週三、六：增加的是另一條航線。"
+          },
+          {
+            "name": "排假",
+            "opening": "冬天想直飛大分，先用週三與週六排去回日期。"
+          },
+          {
+            "name": "時差",
+            "opening": "桃園12時出發、大分15時抵達，班表寫的是各地當地時間。"
+          },
+          {
+            "name": "生效日",
+            "opening": "10月25日換冬季班表，不代表這個星期日也有台北直飛。"
+          },
+          {
+            "name": "旅遊規劃",
+            "opening": "別府、由布院想從大分進出，先查班次再訂住宿。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。",
+            "url": "https://oita-airport.jp/news/detail/787"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：台北至大分直飛日期與含行李總價比較，不編造促銷。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "fukuoka-environment-cancel-20261025",
+      "title": "福岡環境祭今天取消：舊節目表仍在，請看最新公告",
+      "region": "九州／福岡天神市役所西側廣場",
+      "category": "活動／行前提醒",
+      "announcementDate": "官方10/23更新；參展單位同步註明25日取消，未標精確時刻",
+      "eventDate": "10/25取消；原活動10/24–25",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 3,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "現場旅客今天就需要改行程，官方同頁保留新舊公告容易誤讀。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html"
+        },
+        {
+          "label": "參展單位取消註記",
+          "url": "https://fun-fukuoka.or.jp/event/「環境フェスティバルふくおか2026」出展＆ステー/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "中",
+      "freshness": "48小時日期線索：10/23無時刻，不斷言精確48小時；因今天取消影響納入",
+      "lifecycle": "1天",
+      "publishDecision": "現在發",
+      "publishAt": "台灣10:15（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消提醒沒有自然購票需求，不以取消事件推新的預訂。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "福岡市10/23最新區塊明確取消10/25，僅24日舉行；參展者ふくおかFUN同頁註記25日雨天取消。官方仍留著較舊「兩天開催決定」及節目表，以最上方NEW取消公告為準。只確認這個活動，不泛稱整個福岡景點、地鐵或航班停擺。取消無須購票，也沒有可承諾的替代開放場館。",
+      "selected": true
+    },
+    {
+      "id": "akiu-lumina-2026",
+      "title": "秋保夜楓開始：整體活動與庭園有不同日期、費用",
+      "region": "東北／宮城仙台秋保溫泉",
+      "category": "季節情報／活動",
+      "announcementDate": "仙台觀光頁10/23更新；主辦10/24開始公告，原始首發日未確認",
+      "eventDate": "AKIU LUMINA 10/24–11/15；Night Museum 10/23–11/23",
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "適合近期東北旅客規劃溫泉夜遊，先分清楚各場地日期與票價。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.akiulumina.jp/"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://www.sentabi.jp/features/46"
+        },
+        {
+          "label": "庭園票價與2026年傳單入口",
+          "url": "https://akiu-sizen.co.jp/archives/lp/lightup"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天開幕週末：10/24開始；10/23更新不當首次公告",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "尚有三週活動，可搭配秋保溫泉住宿，但近期旅客可能已訂房，住宿不保證含夜間門票或接送。",
+        "products": [
+          "活動地區住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "秋保溫泉住宿列表",
+              "url": "https://tw.trip.com/hotels/sendai-hotels-list-585/zone107182962/",
+              "kind": "住宿列表",
+              "reason": "地區限定秋保，可比較夜間活動前後住宿。",
+              "checks": "輸入實際日期；房價、餐食、末班交通、接送與活動票均另確認；不是含門票方案。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "秋保溫泉住宿列表",
+              "url": "https://www.booking.com/district/jp/sendai/akiu-onsen.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已讀秋保地區旅館清單，可對照位置。",
+              "checks": "頁面快取日期與參考價非當晚空房；需重新選日期，不保證含活動門票。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀宮城目的地列表 https://www.klook.com/ja/destination/c6850-miyagi-prefecture/ ，混有冬季蔵王商品及仙台市區住宿；未核實秋保夜間對應商品，不推薦。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.akiulumina.jp/",
+            "label": "主辦官網嵌入10/24 Instagram公告",
+            "reason": "官方宣傳且為官網嵌入，非民間原始自然貼文；顯示48／0也不計入熱度。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "主辦10/24當期公告與仙台觀光10/23頁面交叉確認AKIU LUMINA 10/24–11/15。主辦首頁頂部仍寫2025資料，因此不沿用未核對舊價格。庭園Night Museum由仙台觀光列10/23–11/23、16:30–21:00最後入場20:30 JST；園方頁另有2026傳單入口、平日成人1000／週末假日1500、4歲以上兒童500日圓。主辦10/24貼文也說庭園前一天先開始。傳單PDF已開但截圖未完整取得，不宣稱已核對PDF全部內容。一般訪客票未見國籍限制；不保證外國信用卡適用或庫存。套票價與各分場規則尚未逐項核對，不以單一票價代表全活動。",
+      "selected": true
+    },
+    {
+      "id": "tobu-illumination-2026",
+      "title": "東武動物公園夜間票1700日圓：10、11月只在週末與假日點燈",
+      "region": "關東／埼玉宮代町東武動物公園",
+      "category": "票券／季節情報",
+      "announcementDate": "園方新聞稿10/1 13:02 JST；地方編輯頁10/22，非獨立現場採訪",
+      "eventDate": "10/24–2027/2/28指定65日；10、11月土日及日本國定假日",
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "剛開幕的冬季活動有15時入園與17時點燈之別，還有展區分階段開放。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://digitalpr.jp/r/144828"
+        },
+        {
+          "label": "地方編輯整理（非另一次採訪）",
+          "url": "https://chiba-style.com/event/18169/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/1公告，昨天正式開幕，今天仍為首個週末",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "台灣20:30（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有門票需求，但已讀平台為一般入園票，尚未確認本期夜間適用及與1700日圓現場票的差別，因此不是高適合度。",
+        "products": [
+          "先核實夜間適用條件的入園券"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "買票前先核對你要去的日期，以及普通入園票能否涵蓋夜間活動；白天票與15時後優惠票也要比較。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨頁 https://www.kkday.com/zh-tw/product/162035 ：一般入園、遊樂設施另付、特別活動可能另費；本期夜間適用尚未確認，pages留空，不自動帶cid。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/zh-TW/activity/6002-tobu-zoo-ticket-tokyo/ ：普通入園、不含無限搭乘，頁面仍顯示10/7等快取日期；未核實夜間適用，pages留空。查閱 2026-10-25T10:03:37+08:00",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=hzBrZO62kK0",
+            "label": "同園區2025–2026影片搜尋線索",
+            "reason": "前一季內容，不是本次2026–2027事件，不計分。"
+          }
+        ],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "園方10/1原始新聞稿與10/22地方編輯文章對照；後者有自行整理日期及不同活動資料，並非第二次獨立現場採訪，不把新聞稿轉載當雙重採訪。10/24–2/28指定日，10、11月土日祝；12/5–31每天；1/2–6每天之後土日祝；2月土日祝。點燈17–20 JST，12/24、25至21。開催日15時起售成人入園1700日圓，夜間遊樂設施pass另2500，不能把2500當含入園總價。動物LED燈籠11/28、mapping12/5才開始。當日天候運行及票庫存未保證。平台普通票沒核實夜間適用，因此不推薦為本期夜間票。園方原站部分舊季資訊與存取問題，不沿用2025–2026票期。",
+      "selected": true
+    },
+    {
+      "id": "nakano-momiji-2026",
+      "title": "青森中野紅葉山開始夜間點燈：16:30亮燈，回程先排好",
+      "region": "東北／青森黑石中野神社",
+      "category": "季節情報／交通",
+      "announcementDate": "觀光協會未標原始發布日；弘前Navi10/20整理",
+      "eventDate": "10/24–11/8，16:30–21:00 JST",
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "夜楓剛開始，遊客需要把點燈、案內所營業與公車回程分開看。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://kuroishi.or.jp/sightseeing/nakanomomijiyama"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://www.hirosaki-navi.jp/hirosaki_tsugaru_autumn_leaves_spot"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "原始公布日未確認；例外理由為昨天正式開始，10/20地方報導不是新官方公告",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可搭配黑石地區住宿，活動只到11/8，應先解決夜間回程，不為看燈而強推改訂飯店。",
+        "products": [
+          "活動地區住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "黑石地區住宿列表",
+              "url": "https://jp.trip.com/hotels/kuroishi-hotels-list-90556/",
+              "kind": "住宿列表",
+              "reason": "可比較黑石與溫泉鄉住宿；不把市區每家旅館都稱步行可達夜楓。",
+              "checks": "住宿到中野紅葉山的距離、晚間交通、入住日與房型另查；無已確認夜楓接送。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "黑石觀光協會與弘前Navi交叉確認10/24–11/8、16:30–21:00點燈。9–21是臨時案內所，不是亮燈。官方交通：黑石站搭弘南巴士約31分到中野神社前；其他路線中野南口步行約5分，夜間回程末班尚未核對。津輕傳承工藝館約200免費車位、步行約12分，不等於保證有位。原始公告日期未標，以剛開幕例外納入；例年10月底至11月初不是今天實測滿紅。活動票價沒有充分交叉，正文不宣稱免費或需預約。神社禁寵物，輔助犬例外。",
+      "selected": true
+    },
+    {
+      "id": "oita-winter-taipei-2026",
+      "title": "大分冬季班表今天生效：台北線仍每週三、六，增班的是首爾線",
+      "region": "九州／大分機場、台灣桃園",
+      "category": "航空／交通",
+      "announcementDate": "機場10/8公告；大分縣10/15更新",
+      "eventDate": "冬季班表10/25–2027/3/27",
+      "score": 80,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 14,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "機場增班標題同時提台灣與首爾，台灣旅客應以台北線實際班次安排行程。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://oita-airport.jp/news/detail/787"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://pref.oita.jp/soshiki/10530/oitakuko-kokusaisen-2026fuyudaiya.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/8公告、10/15更新，今天正式實施",
+      "lifecycle": "1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "台灣12:00（無帳號歷史數據，編輯建議）",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "冬季行程可直接查台北至大分航班，但這是既有班次延續，沒有新優惠或新增台北班次。",
+        "products": [
+          "台北至大分航班比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想把別府或由布院排進冬季行程，可以先用出發日期查台北到大分的實際班次，再比較含行李總額。",
+        "checks": "商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。",
+          "pages": [
+            {
+              "title": "台北至大分航班查詢",
+              "url": "https://tw.trip.com/flights/taipei-to-oita/airfares-tpe-oit/",
+              "kind": "交通查詢",
+              "reason": "方向TPE→OIT正確，可查冬季週三／六班次。",
+              "checks": "自行輸入往返日期、直飛／轉機與行李，頁面起價不代表可成交總價或優惠。",
+              "checkedAt": "2026-10-25T10:03:37+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      },
+      "verification": "大分機場10/8與大分縣10/15班表交叉，10/25–3/27生效。台灣虎航仍週三、六，每週2往返（4單程），不是每天或新增班次；桃園12:00→大分15:00，大分16:30→桃園18:10，均當地時間。首爾線濟州航空由3增7往返，不能套在台北。今天是班表生效日，不代表週日有台北直飛。Trip路線頁有11月週三／六相符班次，但價格與行李未下單確認，不引用最低價。",
+      "selected": true
+    },
+    {
+      "id": "jr-kyushu-20261026",
+      "title": "JR九州10/26三班D&S停駛公告",
+      "region": "九州",
+      "category": "交通",
+      "announcementDate": "10/25 05:00 JST",
+      "eventDate": "10/26",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://www.jrkyushu.co.jp/common/inc/emergency/"
+        }
+      ],
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 2,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "why": "原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。",
+      "verification": "原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。",
+      "exclusionReason": "原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "今天",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "jr-shikoku-20261025",
+      "title": "土讚線停駛與南風影響線索",
+      "region": "四國",
+      "category": "交通",
+      "announcementDate": "媒體10/25 08:44 JST；官方10/24線索",
+      "eventDate": "10/25",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://news.livedoor.com/article/detail/32650578/"
+        }
+      ],
+      "score": 76,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 2,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。",
+      "verification": "搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。",
+      "exclusionReason": "搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "今天線索未完全確認",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "hiroo-santaland-2026",
+      "title": "廣尾SantaLand冬季點燈",
+      "region": "北海道／十勝廣尾",
+      "category": "季節情報",
+      "announcementDate": "官方觀光頁未標原始公布日",
+      "eventDate": "10/24–2027/1/3",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://tokachibare.jp/event/xo_event-23278/"
+        }
+      ],
+      "score": 70,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 9,
+        "實用性": 10,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。",
+      "verification": "十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。",
+      "exclusionReason": "十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "剛開始例外候選，原公布日不明",
+      "lifecycle": "1個月以上",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。",
+        "products": [
+          "待查核的地區住宿"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "hyounosen-climb-2026",
+      "title": "冰之山紅葉登山祭",
+      "region": "關西／兵庫養父",
+      "category": "活動",
+      "announcementDate": "公告日未標；8/1報名開始、9/30截止",
+      "eventDate": "10/24前夜祭、10/25登山",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://www.hyounosenhatibuse.com/festival/kouyou.html"
+        }
+      ],
+      "score": 54,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 8,
+        "社群討論潛力": 6,
+        "實用性": 6,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。",
+      "verification": "完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。",
+      "exclusionReason": "完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "今天舉行但行動窗口已過",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "disney-beauty35-2026",
+      "title": "Disney Store美女與野獸35週年商品",
+      "region": "日本指定Disney Store",
+      "category": "購物／IP",
+      "announcementDate": "媒體10/23 16:26 JST；官方首發未核",
+      "eventDate": "販售日期未完成官方核對",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150754.html"
+        }
+      ],
+      "score": 75,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 12,
+        "實用性": 8,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。",
+      "verification": "媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。",
+      "exclusionReason": "媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "48小時媒體；原公告未核",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "agano-autumn-2026",
+      "title": "上野燒秋季窯開與甜點大茶會",
+      "region": "九州／福岡福智",
+      "category": "美食／購物",
+      "announcementDate": "本次已讀媒體訪談，精確首發日未完整核",
+      "eventDate": "窯開10/23–25；茶會11/14–15",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2149428.html"
+        }
+      ],
+      "score": 64,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 9,
+        "實用性": 8,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。",
+      "verification": "訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。",
+      "exclusionReason": "訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "近日內容，今日狀態待查",
+      "lifecycle": "3天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "fukuhara-close-2026",
+      "title": "福原山莊特別公開今天截止",
+      "region": "北海道／鹿追",
+      "category": "季節情報",
+      "announcementDate": "官方9/1",
+      "eventDate": "9/26–10/25",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://art-fukuhara.jp/2026/09/01/post-606/"
+        }
+      ],
+      "score": 66,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 9,
+        "實用性": 9,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。",
+      "verification": "官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。",
+      "exclusionReason": "官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "超過7天：今天截止例外候選",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "hoheikyo-liner-end-2026",
+      "title": "豐平峽Dam Liner今日末日線索",
+      "region": "北海道／定山溪",
+      "category": "交通",
+      "announcementDate": "札幌觀光9/8",
+      "eventDate": "Dam Liner10/3–25",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://www.sapporo.travel/news/jozankei-godaikoyo-bus2026/"
+        }
+      ],
+      "score": 72,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 4,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。",
+      "verification": "官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。",
+      "exclusionReason": "官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "超過7天：今天截止例外候選",
+      "lifecycle": "1天",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "chichibu-alfee-2026",
+      "title": "THE ALFEE秩父夜祭巴士團開賣",
+      "region": "關東／東京出發、秩父",
+      "category": "旅遊／票券",
+      "announcementDate": "阪急10/23",
+      "eventDate": "10/24開賣；出發日及資格未完整核對",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://x.hankyu-travel.com/pdf/hankyu-travel/261023.pdf"
+        }
+      ],
+      "score": 66,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 9,
+        "實用性": 8,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。",
+      "verification": "已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。",
+      "exclusionReason": "已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "48小時日期線索無精確時刻",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "資格未核，尚不能評估自然銜接程度。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    },
+    {
+      "id": "saruka-autumn-2026",
+      "title": "猿賀公園紅葉祭開始",
+      "region": "東北／青森平川",
+      "category": "季節情報／活動",
+      "announcementDate": "地方整理10/20；官方原始公告日未核",
+      "eventDate": "10/24–11/8",
+      "sources": [
+        {
+          "label": "候選來源／存取限制見查核說明",
+          "url": "https://hirakawa-kankou.com/events/event/猿賀公園-紅葉まつり-【10-24～11-8】/"
+        }
+      ],
+      "score": 67,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 12,
+        "社群討論潛力": 9,
+        "實用性": 9,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。",
+      "verification": "已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。",
+      "exclusionReason": "已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。",
+      "selected": false,
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "昨天開始例外候選",
+      "lifecycle": "1週",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。",
+        "products": [
+          "待查核的地區住宿"
+        ],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。 商品日期、庫存、包含內容與分潤資格均須另查。",
+        "assessedOn": "2026-10-25"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有完成商品頁查核。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-25T10:03:37+08:00",
+        "summary": "熱度未確認；無合格原始互動樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "日本 旅行 site:threads.com after:2026-10-23",
+          "(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23",
+          "(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23",
+          "(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "JR九州10/26運行計畫",
+      "next": "官方說25日決定後公告；追蹤完整停駛範圍、退改條件與第二來源，不能把三班D&S公告擴大成全九州停駛。",
+      "sources": [
+        {
+          "label": "JR九州運行特別公告",
+          "url": "https://www.jrkyushu.co.jp/common/inc/emergency/"
+        }
+      ]
+    },
+    {
+      "title": "JR四國土讚線當日狀態",
+      "next": "重查可讀官方即時頁與原始地方媒體，確認是否恢復、影響區段與南風班次；目前未完成雙源。",
+      "sources": [
+        {
+          "label": "JR四國運行資訊",
+          "url": "https://www.jr-shikoku.co.jp/info/"
+        },
+        {
+          "label": "媒體線索",
+          "url": "https://news.livedoor.com/article/detail/32650578/"
+        }
+      ]
+    },
+    {
+      "title": "秋保首個週末場地更新",
+      "next": "未來24–72小時核對各場地營業與夜間交通，觀察有無2026完整新版頁，沒有公告不預言加場或票券追加。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://www.akiulumina.jp/"
+        },
+        {
+          "label": "交叉確認",
+          "url": "https://www.sentabi.jp/features/46"
+        },
+        {
+          "label": "庭園票價與2026年傳單入口",
+          "url": "https://akiu-sizen.co.jp/archives/lp/lightup"
+        }
+      ]
+    },
+    {
+      "title": "東武10月底活動日與票種",
+      "next": "下個開催日與10/31聯名前核對正式售票條款、夜間入園及天候異動；不保證平台普通票涵蓋。",
+      "sources": [
+        {
+          "label": "官方原始資訊",
+          "url": "https://digitalpr.jp/r/144828"
+        },
+        {
+          "label": "地方編輯整理（非另一次採訪）",
+          "url": "https://chiba-style.com/event/18169/"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-25T10:03:37+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "limitation": "已用繁中及日文事件詞搜尋八平台，沒有取得兩位不同作者、原始時間及讚／留言均可核對的48小時樣本。TikTok被robots拒絕；其餘主要缺少對應原文或完整指標。官方IG嵌入與前季YouTube不計分。非平台全站調查，不代表沒有討論，無法建立本期社群熱榜。",
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "Facebook",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "Instagram",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "Dcard",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "PTT",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "X",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "TikTok",
+        "status": "robots限制",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      },
+      {
+        "platform": "YouTube",
+        "status": "未取得合格原始樣本",
+        "limitation": "僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。"
+      }
+    ]
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-25\n搜尋截止：10:03:37 Asia/Taipei（日本11:03:37 Asia/Tokyo）\n候選15題先初評，再依事實完整度選5題；未入選分數為編輯初評，不能據此發布未確認內容。8項上限20/20/15/15/10/10/5/5；星等與內容分數是編輯預估，非已驗證熱度、觀看或收入保證。入選先按內容總分比較；福岡86分因今日取消的即時行動價值，排在秋保87分之前，其餘維持內容順序；全部社群未確認，不稱熱榜。前日10/24六題已比對，無新進展者不重複：東京灣花火、MUJI、吉伊卡哇大阪、中島公園、Jetstar、NITORI。日本各區廣泛搜尋，但不為地域湊題。>7天例外與原公告日期逐題明列；不明日期坦白保留，不把爬取或轉載時間當新公告。東武第二頁是編輯整理，不宣稱獨立採訪。所有圖片授權未確認。新聞截止與社群觀測為10:03:37台灣（11:03:37日本）；平台頁均在本次截止前實際開啟，快取展示不代表即時價格庫存。分潤高／中／低獨立；本期沒有高適合度。只有秋保兩個住宿列表、黑石住宿列表與台北至大分查詢列為已核推薦；東武普通票夜間適用待核，KKday空陣列不產生假連結。\n【今天日本發生什麼】\n已查證：福岡環境祭10/25取消，同頁殘留舊行程表，應以最新取消區塊為準。\n已查證：秋保AKIU LUMINA昨天開始，各場地日期與費用不同，不能通用一張票。\n已查證：東武冬季點燈首個週末，15時售優惠入園、17時亮燈；部分展區延後開放。\n已查證：中野紅葉山10/24–11/8點燈，實測楓況與夜間回程仍須分開確認。\n已查證：大分今天冬季班表生效，台北線仍每週三、六，增班的是首爾線。\n編輯觀察：15個不同事件候選中選5題；其餘有單源、當日狀態未核、行動窗口已過或受眾較窄等限制。\n編輯觀察：社群原始樣本不足，無法建立本期熱榜；本期排序為內容編輯判斷。\n【候選池與查核評分】\n入選\n福岡環境祭今天取消：舊節目表仍在，請看最新公告\n分類／地區：活動／行前提醒／九州／福岡天神市役所西側廣場\n公布：官方10/23更新；參展單位同步註明25日取消，未標精確時刻\n事件：10/25取消；原活動10/24–25\n八項分數：即時性20／台灣旅客相關性19／社群討論潛力13／實用性15／稀缺性8／視覺吸引力3／標題吸引力5／延伸內容價值3＝86/100\n爆紅／收藏／分享：4／4／5星；風險中；48小時日期線索：10/23無時刻，不斷言精確48小時；因今天取消影響納入；生命1天；現在發 台灣10:15（無帳號歷史數據，編輯建議）\n原因／查核：福岡市10/23最新區塊明確取消10/25，僅24日舉行；參展者ふくおかFUN同頁註記25日雨天取消。官方仍留著較舊「兩天開催決定」及節目表，以最上方NEW取消公告為準。只確認這個活動，不泛稱整個福岡景點、地鐵或航班停擺。取消無須購票，也沒有可承諾的替代開放場館。\n分潤：{\"level\":\"低\",\"reason\":\"取消提醒沒有自然購票需求，不以取消事件推新的預訂。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html)；[參展單位取消註記](https://fun-fukuoka.or.jp/event/「環境フェスティバルふくおか2026」出展＆ステー/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]}]\n\n入選\n秋保夜楓開始：整體活動與庭園有不同日期、費用\n分類／地區：季節情報／活動／東北／宮城仙台秋保溫泉\n公布：仙台觀光頁10/23更新；主辦10/24開始公告，原始首發日未確認\n事件：AKIU LUMINA 10/24–11/15；Night Museum 10/23–11/23\n八項分數：即時性18／台灣旅客相關性18／社群討論潛力12／實用性14／稀缺性7／視覺吸引力10／標題吸引力4／延伸內容價值4＝87/100\n爆紅／收藏／分享：4／5／4星；風險低；今天開幕週末：10/24開始；10/23更新不當首次公告；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：主辦10/24當期公告與仙台觀光10/23頁面交叉確認AKIU LUMINA 10/24–11/15。主辦首頁頂部仍寫2025資料，因此不沿用未核對舊價格。庭園Night Museum由仙台觀光列10/23–11/23、16:30–21:00最後入場20:30 JST；園方頁另有2026傳單入口、平日成人1000／週末假日1500、4歲以上兒童500日圓。主辦10/24貼文也說庭園前一天先開始。傳單PDF已開但截圖未完整取得，不宣稱已核對PDF全部內容。一般訪客票未見國籍限制；不保證外國信用卡適用或庫存。套票價與各分場規則尚未逐項核對，不以單一票價代表全活動。\n分潤：{\"level\":\"中\",\"reason\":\"尚有三週活動，可搭配秋保溫泉住宿，但近期旅客可能已訂房，住宿不保證含夜間門票或接送。\",\"products\":[\"活動地區住宿比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://www.akiulumina.jp/)；[交叉確認](https://www.sentabi.jp/features/46)；[庭園票價與2026年傳單入口](https://akiu-sizen.co.jp/archives/lp/lightup)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.akiulumina.jp/\",\"label\":\"主辦官網嵌入10/24 Instagram公告\",\"reason\":\"官方宣傳且為官網嵌入，非民間原始自然貼文；顯示48／0也不計入熱度。\"}],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"秋保溫泉住宿列表\",\"url\":\"https://tw.trip.com/hotels/sendai-hotels-list-585/zone107182962/\",\"kind\":\"住宿列表\",\"reason\":\"地區限定秋保，可比較夜間活動前後住宿。\",\"checks\":\"輸入實際日期；房價、餐食、末班交通、接送與活動票均另確認；不是含門票方案。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"秋保溫泉住宿列表\",\"url\":\"https://www.booking.com/district/jp/sendai/akiu-onsen.en-gb.html\",\"kind\":\"住宿列表\",\"reason\":\"已讀秋保地區旅館清單，可對照位置。\",\"checks\":\"頁面快取日期與參考價非當晚空房；需重新選日期，不保證含活動門票。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀宮城目的地列表 https://www.klook.com/ja/destination/c6850-miyagi-prefecture/ ，混有冬季蔵王商品及仙台市區住宿；未核實秋保夜間對應商品，不推薦。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]}]\n\n入選\n東武動物公園夜間票1700日圓：10、11月只在週末與假日點燈\n分類／地區：票券／季節情報／關東／埼玉宮代町東武動物公園\n公布：園方新聞稿10/1 13:02 JST；地方編輯頁10/22，非獨立現場採訪\n事件：10/24–2027/2/28指定65日；10、11月土日及日本國定假日\n八項分數：即時性17／台灣旅客相關性19／社群討論潛力12／實用性14／稀缺性7／視覺吸引力9／標題吸引力4／延伸內容價值4＝86/100\n爆紅／收藏／分享：4／5／4星；風險低；超過7天例外：10/1公告，昨天正式開幕，今天仍為首個週末；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因／查核：園方10/1原始新聞稿與10/22地方編輯文章對照；後者有自行整理日期及不同活動資料，並非第二次獨立現場採訪，不把新聞稿轉載當雙重採訪。10/24–2/28指定日，10、11月土日祝；12/5–31每天；1/2–6每天之後土日祝；2月土日祝。點燈17–20 JST，12/24、25至21。開催日15時起售成人入園1700日圓，夜間遊樂設施pass另2500，不能把2500當含入園總價。動物LED燈籠11/28、mapping12/5才開始。當日天候運行及票庫存未保證。平台普通票沒核實夜間適用，因此不推薦為本期夜間票。園方原站部分舊季資訊與存取問題，不沿用2025–2026票期。\n分潤：{\"level\":\"中\",\"reason\":\"有門票需求，但已讀平台為一般入園票，尚未確認本期夜間適用及與1700日圓現場票的差別，因此不是高適合度。\",\"products\":[\"先核實夜間適用條件的入園券\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"買票前先核對你要去的日期，以及普通入園票能否涵蓋夜間活動；白天票與15時後優惠票也要比較。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://digitalpr.jp/r/144828)；[地方編輯整理（非另一次採訪）](https://chiba-style.com/event/18169/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.youtube.com/watch?v=hzBrZO62kK0\",\"label\":\"同園區2025–2026影片搜尋線索\",\"reason\":\"前一季內容，不是本次2026–2027事件，不計分。\"}],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已讀乾淨頁 https://www.kkday.com/zh-tw/product/162035 ：一般入園、遊樂設施另付、特別活動可能另費；本期夜間適用尚未確認，pages留空，不自動帶cid。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀 https://www.klook.com/zh-TW/activity/6002-tobu-zoo-ticket-tokyo/ ：普通入園、不含無限搭乘，頁面仍顯示10/7等快取日期；未核實夜間適用，pages留空。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]}]\n\n入選\n青森中野紅葉山開始夜間點燈：16:30亮燈，回程先排好\n分類／地區：季節情報／交通／東北／青森黑石中野神社\n公布：觀光協會未標原始發布日；弘前Navi10/20整理\n事件：10/24–11/8，16:30–21:00 JST\n八項分數：即時性17／台灣旅客相關性17／社群討論潛力11／實用性14／稀缺性7／視覺吸引力10／標題吸引力4／延伸內容價值3＝83/100\n爆紅／收藏／分享：4／5／4星；風險低；原始公布日未確認；例外理由為昨天正式開始，10/20地方報導不是新官方公告；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：黑石觀光協會與弘前Navi交叉確認10/24–11/8、16:30–21:00點燈。9–21是臨時案內所，不是亮燈。官方交通：黑石站搭弘南巴士約31分到中野神社前；其他路線中野南口步行約5分，夜間回程末班尚未核對。津輕傳承工藝館約200免費車位、步行約12分，不等於保證有位。原始公告日期未標，以剛開幕例外納入；例年10月底至11月初不是今天實測滿紅。活動票價沒有充分交叉，正文不宣稱免費或需預約。神社禁寵物，輔助犬例外。\n分潤：{\"level\":\"中\",\"reason\":\"可搭配黑石地區住宿，活動只到11/8，應先解決夜間回程，不為看燈而強推改訂飯店。\",\"products\":[\"活動地區住宿比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://kuroishi.or.jp/sightseeing/nakanomomijiyama)；[交叉確認](https://www.hirosaki-navi.jp/hirosaki_tsugaru_autumn_leaves_spot)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"黑石地區住宿列表\",\"url\":\"https://jp.trip.com/hotels/kuroishi-hotels-list-90556/\",\"kind\":\"住宿列表\",\"reason\":\"可比較黑石與溫泉鄉住宿；不把市區每家旅館都稱步行可達夜楓。\",\"checks\":\"住宿到中野紅葉山的距離、晚間交通、入住日與房型另查；無已確認夜楓接送。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]}]\n\n入選\n大分冬季班表今天生效：台北線仍每週三、六，增班的是首爾線\n分類／地區：航空／交通／九州／大分機場、台灣桃園\n公布：機場10/8公告；大分縣10/15更新\n事件：冬季班表10/25–2027/3/27\n八項分數：即時性20／台灣旅客相關性18／社群討論潛力10／實用性14／稀缺性5／視覺吸引力4／標題吸引力5／延伸內容價值4＝80/100\n爆紅／收藏／分享：3／4／4星；風險低；超過7天例外：10/8公告、10/15更新，今天正式實施；生命1個月以上；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：大分機場10/8與大分縣10/15班表交叉，10/25–3/27生效。台灣虎航仍週三、六，每週2往返（4單程），不是每天或新增班次；桃園12:00→大分15:00，大分16:30→桃園18:10，均當地時間。首爾線濟州航空由3增7往返，不能套在台北。今天是班表生效日，不代表週日有台北直飛。Trip路線頁有11月週三／六相符班次，但價格與行李未下單確認，不引用最低價。\n分潤：{\"level\":\"中\",\"reason\":\"冬季行程可直接查台北至大分航班，但這是既有班次延續，沒有新優惠或新增台北班次。\",\"products\":[\"台北至大分航班比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"想把別府或由布院排進冬季行程，可以先用出發日期查台北到大分的實際班次，再比較含行李總額。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://oita-airport.jp/news/detail/787)；[交叉確認](https://pref.oita.jp/soshiki/10530/oitakuko-kokusaisen-2026fuyudaiya.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"台北至大分航班查詢\",\"url\":\"https://tw.trip.com/flights/taipei-to-oita/airfares-tpe-oit/\",\"kind\":\"交通查詢\",\"reason\":\"方向TPE→OIT正確，可查冬季週三／六班次。\",\"checks\":\"自行輸入往返日期、直飛／轉機與行李，頁面起價不代表可成交總價或優惠。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]}]\n\n未入選\nJR九州10/26三班D&S停駛公告\n分類／地區：交通／九州\n公布：10/25 05:00 JST\n事件：10/26\n八項分數：即時性20／台灣旅客相關性19／社群討論潛力12／實用性15／稀缺性7／視覺吸引力2／標題吸引力5／延伸內容價值3＝83/100\n爆紅／收藏／分享：2／3／2星；風險中；今天；生命1天；先收藏觀察 \n原因／查核：原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.jrkyushu.co.jp/common/inc/emergency/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n土讚線停駛與南風影響線索\n分類／地區：交通／四國\n公布：媒體10/25 08:44 JST；官方10/24線索\n事件：10/25\n八項分數：即時性20／台灣旅客相關性16／社群討論潛力11／實用性14／稀缺性6／視覺吸引力2／標題吸引力4／延伸內容價值3＝76/100\n爆紅／收藏／分享：2／3／2星；風險中；今天線索未完全確認；生命1天；先收藏觀察 \n原因／查核：搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://news.livedoor.com/article/detail/32650578/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n廣尾SantaLand冬季點燈\n分類／地區：季節情報／北海道／十勝廣尾\n公布：官方觀光頁未標原始公布日\n事件：10/24–2027/1/3\n八項分數：即時性16／台灣旅客相關性12／社群討論潛力9／實用性10／稀缺性7／視覺吸引力10／標題吸引力3／延伸內容價值3＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；剛開始例外候選，原公布日不明；生命1個月以上；先收藏觀察 \n原因／查核：十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。\n分潤：{\"level\":\"中\",\"reason\":\"具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。\",\"products\":[\"待查核的地區住宿\"],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://tokachibare.jp/event/xo_event-23278/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n冰之山紅葉登山祭\n分類／地區：活動／關西／兵庫養父\n公布：公告日未標；8/1報名開始、9/30截止\n事件：10/24前夜祭、10/25登山\n八項分數：即時性15／台灣旅客相關性8／社群討論潛力6／實用性6／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值2＝54/100\n爆紅／收藏／分享：2／3／2星；風險中；今天舉行但行動窗口已過；生命1天；先收藏觀察 \n原因／查核：完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.hyounosenhatibuse.com/festival/kouyou.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\nDisney Store美女與野獸35週年商品\n分類／地區：購物／IP／日本指定Disney Store\n公布：媒體10/23 16:26 JST；官方首發未核\n事件：販售日期未完成官方核對\n八項分數：即時性17／台灣旅客相關性16／社群討論潛力12／實用性8／稀缺性7／視覺吸引力9／標題吸引力4／延伸內容價值2＝75/100\n爆紅／收藏／分享：2／3／2星；風險中；48小時媒體；原公告未核；生命1週；先收藏觀察 \n原因／查核：媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://travel.watch.impress.co.jp/docs/news/2150754.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n上野燒秋季窯開與甜點大茶會\n分類／地區：美食／購物／九州／福岡福智\n公布：本次已讀媒體訪談，精確首發日未完整核\n事件：窯開10/23–25；茶會11/14–15\n八項分數：即時性15／台灣旅客相關性12／社群討論潛力9／實用性8／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值3＝64/100\n爆紅／收藏／分享：2／3／2星；風險中；近日內容，今日狀態待查；生命3天；先收藏觀察 \n原因／查核：訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://travel.watch.impress.co.jp/docs/series/jal_furusato/2149428.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n福原山莊特別公開今天截止\n分類／地區：季節情報／北海道／鹿追\n公布：官方9/1\n事件：9/26–10/25\n八項分數：即時性17／台灣旅客相關性12／社群討論潛力9／實用性9／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值2＝66/100\n爆紅／收藏／分享：2／3／2星；風險中；超過7天：今天截止例外候選；生命1天；先收藏觀察 \n原因／查核：官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://art-fukuhara.jp/2026/09/01/post-606/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n豐平峽Dam Liner今日末日線索\n分類／地區：交通／北海道／定山溪\n公布：札幌觀光9/8\n事件：Dam Liner10/3–25\n八項分數：即時性17／台灣旅客相關性16／社群討論潛力10／實用性13／稀缺性5／視覺吸引力4／標題吸引力4／延伸內容價值3＝72/100\n爆紅／收藏／分享：2／3／2星；風險中；超過7天：今天截止例外候選；生命1天；先收藏觀察 \n原因／查核：官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.sapporo.travel/news/jozankei-godaikoyo-bus2026/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\nTHE ALFEE秩父夜祭巴士團開賣\n分類／地區：旅遊／票券／關東／東京出發、秩父\n公布：阪急10/23\n事件：10/24開賣；出發日及資格未完整核對\n八項分數：即時性17／台灣旅客相關性12／社群討論潛力9／實用性8／稀缺性7／視覺吸引力7／標題吸引力3／延伸內容價值3＝66/100\n爆紅／收藏／分享：2／3／2星；風險中；48小時日期線索無精確時刻；生命1週；先收藏觀察 \n原因／查核：已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。\n分潤：{\"level\":\"未評估\",\"reason\":\"資格未核，尚不能評估自然銜接程度。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://x.hankyu-travel.com/pdf/hankyu-travel/261023.pdf)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n猿賀公園紅葉祭開始\n分類／地區：季節情報／活動／東北／青森平川\n公布：地方整理10/20；官方原始公告日未核\n事件：10/24–11/8\n八項分數：即時性16／台灣旅客相關性12／社群討論潛力9／實用性9／稀缺性6／視覺吸引力9／標題吸引力3／延伸內容價值3＝67/100\n爆紅／收藏／分享：2／3／2星；風險中；昨天開始例外候選；生命1週；先收藏觀察 \n原因／查核：已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。\n分潤：{\"level\":\"中\",\"reason\":\"具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。\",\"products\":[\"待查核的地區住宿\"],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://hirakawa-kankou.com/events/event/猿賀公園-紅葉まつり-【10-24～11-8】/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n【編輯推薦】\n{\"id\":\"fukuoka-environment-cancel-20261025\",\"title\":\"福岡環境祭今天取消：舊節目表仍在，請看最新公告\",\"score\":86,\"reason\":\"只作編輯推薦標籤，不預選使用者題目；今天即時避免白跑，錯讀新舊公告的切角具體。\",\"versusSecond\":\"秋保仍有數週規劃空間，福岡取消提醒需要今天出發前傳達。\",\"publishAt\":\"台灣10:15（無帳號歷史數據，編輯建議）\",\"audience\":\"今天在福岡天神、親子自由行與同行者\",\"angle\":\"舊節目表仍在，但25日已取消\",\"lifecycle\":\"1天\"}\n【社群限制】\n{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":15,\"qualifiedTopicCount\":0,\"limitation\":\"已用繁中及日文事件詞搜尋八平台，沒有取得兩位不同作者、原始時間及讚／留言均可核對的48小時樣本。TikTok被robots拒絕；其餘主要缺少對應原文或完整指標。官方IG嵌入與前季YouTube不計分。非平台全站調查，不代表沒有討論，無法建立本期社群熱榜。\",\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"X\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"TikTok\",\"status\":\"robots限制\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"}]}\n【明天持續追蹤】\n[{\"title\":\"JR九州10/26運行計畫\",\"next\":\"官方說25日決定後公告；追蹤完整停駛範圍、退改條件與第二來源，不能把三班D&S公告擴大成全九州停駛。\",\"sources\":[{\"label\":\"JR九州運行特別公告\",\"url\":\"https://www.jrkyushu.co.jp/common/inc/emergency/\"}]},{\"title\":\"JR四國土讚線當日狀態\",\"next\":\"重查可讀官方即時頁與原始地方媒體，確認是否恢復、影響區段與南風班次；目前未完成雙源。\",\"sources\":[{\"label\":\"JR四國運行資訊\",\"url\":\"https://www.jr-shikoku.co.jp/info/\"},{\"label\":\"媒體線索\",\"url\":\"https://news.livedoor.com/article/detail/32650578/\"}]},{\"title\":\"秋保首個週末場地更新\",\"next\":\"未來24–72小時核對各場地營業與夜間交通，觀察有無2026完整新版頁，沒有公告不預言加場或票券追加。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://www.akiulumina.jp/\"},{\"label\":\"交叉確認\",\"url\":\"https://www.sentabi.jp/features/46\"},{\"label\":\"庭園票價與2026年傳單入口\",\"url\":\"https://akiu-sizen.co.jp/archives/lp/lightup\"}]},{\"title\":\"東武10月底活動日與票種\",\"next\":\"下個開催日與10/31聯名前核對正式售票條款、夜間入園及天候異動；不保證平台普通票涵蓋。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://digitalpr.jp/r/144828\"},{\"label\":\"地方編輯整理（非另一次採訪）\",\"url\":\"https://chiba-style.com/event/18169/\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-25\n搜尋截止：10:03:37 Asia/Taipei（日本11:03:37 Asia/Tokyo）\n候選15題先初評，再依事實完整度選5題；未入選分數為編輯初評，不能據此發布未確認內容。8項上限20/20/15/15/10/10/5/5；星等與內容分數是編輯預估，非已驗證熱度、觀看或收入保證。入選先按內容總分比較；福岡86分因今日取消的即時行動價值，排在秋保87分之前，其餘維持內容順序；全部社群未確認，不稱熱榜。前日10/24六題已比對，無新進展者不重複：東京灣花火、MUJI、吉伊卡哇大阪、中島公園、Jetstar、NITORI。日本各區廣泛搜尋，但不為地域湊題。>7天例外與原公告日期逐題明列；不明日期坦白保留，不把爬取或轉載時間當新公告。東武第二頁是編輯整理，不宣稱獨立採訪。所有圖片授權未確認。新聞截止與社群觀測為10:03:37台灣（11:03:37日本）；平台頁均在本次截止前實際開啟，快取展示不代表即時價格庫存。分潤高／中／低獨立；本期沒有高適合度。只有秋保兩個住宿列表、黑石住宿列表與台北至大分查詢列為已核推薦；東武普通票夜間適用待核，KKday空陣列不產生假連結。\n【今天日本發生什麼】\n已查證：福岡環境祭10/25取消，同頁殘留舊行程表，應以最新取消區塊為準。\n已查證：秋保AKIU LUMINA昨天開始，各場地日期與費用不同，不能通用一張票。\n已查證：東武冬季點燈首個週末，15時售優惠入園、17時亮燈；部分展區延後開放。\n已查證：中野紅葉山10/24–11/8點燈，實測楓況與夜間回程仍須分開確認。\n已查證：大分今天冬季班表生效，台北線仍每週三、六，增班的是首爾線。\n編輯觀察：15個不同事件候選中選5題；其餘有單源、當日狀態未核、行動窗口已過或受眾較窄等限制。\n編輯觀察：社群原始樣本不足，無法建立本期熱榜；本期排序為內容編輯判斷。\n【候選池與查核評分】\n入選\n福岡環境祭今天取消：舊節目表仍在，請看最新公告\n分類／地區：活動／行前提醒／九州／福岡天神市役所西側廣場\n公布：官方10/23更新；參展單位同步註明25日取消，未標精確時刻\n事件：10/25取消；原活動10/24–25\n八項分數：即時性20／台灣旅客相關性19／社群討論潛力13／實用性15／稀缺性8／視覺吸引力3／標題吸引力5／延伸內容價值3＝86/100\n爆紅／收藏／分享：4／4／5星；風險中；48小時日期線索：10/23無時刻，不斷言精確48小時；因今天取消影響納入；生命1天；現在發 台灣10:15（無帳號歷史數據，編輯建議）\n原因／查核：福岡市10/23最新區塊明確取消10/25，僅24日舉行；參展者ふくおかFUN同頁註記25日雨天取消。官方仍留著較舊「兩天開催決定」及節目表，以最上方NEW取消公告為準。只確認這個活動，不泛稱整個福岡景點、地鐵或航班停擺。取消無須購票，也沒有可承諾的替代開放場館。\n分潤：{\"level\":\"低\",\"reason\":\"取消提醒沒有自然購票需求，不以取消事件推新的預訂。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html)；[參展單位取消註記](https://fun-fukuoka.or.jp/event/「環境フェスティバルふくおか2026」出展＆ステー/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"取消提醒不自然銜接商品，事件與四平台搜尋未取得合適推薦，不硬推。\",\"pages\":[]}]\n\n入選\n秋保夜楓開始：整體活動與庭園有不同日期、費用\n分類／地區：季節情報／活動／東北／宮城仙台秋保溫泉\n公布：仙台觀光頁10/23更新；主辦10/24開始公告，原始首發日未確認\n事件：AKIU LUMINA 10/24–11/15；Night Museum 10/23–11/23\n八項分數：即時性18／台灣旅客相關性18／社群討論潛力12／實用性14／稀缺性7／視覺吸引力10／標題吸引力4／延伸內容價值4＝87/100\n爆紅／收藏／分享：4／5／4星；風險低；今天開幕週末：10/24開始；10/23更新不當首次公告；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：主辦10/24當期公告與仙台觀光10/23頁面交叉確認AKIU LUMINA 10/24–11/15。主辦首頁頂部仍寫2025資料，因此不沿用未核對舊價格。庭園Night Museum由仙台觀光列10/23–11/23、16:30–21:00最後入場20:30 JST；園方頁另有2026傳單入口、平日成人1000／週末假日1500、4歲以上兒童500日圓。主辦10/24貼文也說庭園前一天先開始。傳單PDF已開但截圖未完整取得，不宣稱已核對PDF全部內容。一般訪客票未見國籍限制；不保證外國信用卡適用或庫存。套票價與各分場規則尚未逐項核對，不以單一票價代表全活動。\n分潤：{\"level\":\"中\",\"reason\":\"尚有三週活動，可搭配秋保溫泉住宿，但近期旅客可能已訂房，住宿不保證含夜間門票或接送。\",\"products\":[\"活動地區住宿比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://www.akiulumina.jp/)；[交叉確認](https://www.sentabi.jp/features/46)；[庭園票價與2026年傳單入口](https://akiu-sizen.co.jp/archives/lp/lightup)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.akiulumina.jp/\",\"label\":\"主辦官網嵌入10/24 Instagram公告\",\"reason\":\"官方宣傳且為官網嵌入，非民間原始自然貼文；顯示48／0也不計入熱度。\"}],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"秋保溫泉住宿列表\",\"url\":\"https://tw.trip.com/hotels/sendai-hotels-list-585/zone107182962/\",\"kind\":\"住宿列表\",\"reason\":\"地區限定秋保，可比較夜間活動前後住宿。\",\"checks\":\"輸入實際日期；房價、餐食、末班交通、接送與活動票均另確認；不是含門票方案。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"秋保溫泉住宿列表\",\"url\":\"https://www.booking.com/district/jp/sendai/akiu-onsen.en-gb.html\",\"kind\":\"住宿列表\",\"reason\":\"已讀秋保地區旅館清單，可對照位置。\",\"checks\":\"頁面快取日期與參考價非當晚空房；需重新選日期，不保證含活動門票。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀宮城目的地列表 https://www.klook.com/ja/destination/c6850-miyagi-prefecture/ ，混有冬季蔵王商品及仙台市區住宿；未核實秋保夜間對應商品，不推薦。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]}]\n\n入選\n東武動物公園夜間票1700日圓：10、11月只在週末與假日點燈\n分類／地區：票券／季節情報／關東／埼玉宮代町東武動物公園\n公布：園方新聞稿10/1 13:02 JST；地方編輯頁10/22，非獨立現場採訪\n事件：10/24–2027/2/28指定65日；10、11月土日及日本國定假日\n八項分數：即時性17／台灣旅客相關性19／社群討論潛力12／實用性14／稀缺性7／視覺吸引力9／標題吸引力4／延伸內容價值4＝86/100\n爆紅／收藏／分享：4／5／4星；風險低；超過7天例外：10/1公告，昨天正式開幕，今天仍為首個週末；生命1個月以上；晚上發 台灣20:30（無帳號歷史數據，編輯建議）\n原因／查核：園方10/1原始新聞稿與10/22地方編輯文章對照；後者有自行整理日期及不同活動資料，並非第二次獨立現場採訪，不把新聞稿轉載當雙重採訪。10/24–2/28指定日，10、11月土日祝；12/5–31每天；1/2–6每天之後土日祝；2月土日祝。點燈17–20 JST，12/24、25至21。開催日15時起售成人入園1700日圓，夜間遊樂設施pass另2500，不能把2500當含入園總價。動物LED燈籠11/28、mapping12/5才開始。當日天候運行及票庫存未保證。平台普通票沒核實夜間適用，因此不推薦為本期夜間票。園方原站部分舊季資訊與存取問題，不沿用2025–2026票期。\n分潤：{\"level\":\"中\",\"reason\":\"有門票需求，但已讀平台為一般入園票，尚未確認本期夜間適用及與1700日圓現場票的差別，因此不是高適合度。\",\"products\":[\"先核實夜間適用條件的入園券\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"買票前先核對你要去的日期，以及普通入園票能否涵蓋夜間活動；白天票與15時後優惠票也要比較。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://digitalpr.jp/r/144828)；[地方編輯整理（非另一次採訪）](https://chiba-style.com/event/18169/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.youtube.com/watch?v=hzBrZO62kK0\",\"label\":\"同園區2025–2026影片搜尋線索\",\"reason\":\"前一季內容，不是本次2026–2027事件，不計分。\"}],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已讀乾淨頁 https://www.kkday.com/zh-tw/product/162035 ：一般入園、遊樂設施另付、特別活動可能另費；本期夜間適用尚未確認，pages留空，不自動帶cid。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀 https://www.klook.com/zh-TW/activity/6002-tobu-zoo-ticket-tokyo/ ：普通入園、不含無限搭乘，頁面仍顯示10/7等快取日期；未核實夜間適用，pages留空。查閱 2026-10-25T10:03:37+08:00\",\"pages\":[]}]\n\n入選\n青森中野紅葉山開始夜間點燈：16:30亮燈，回程先排好\n分類／地區：季節情報／交通／東北／青森黑石中野神社\n公布：觀光協會未標原始發布日；弘前Navi10/20整理\n事件：10/24–11/8，16:30–21:00 JST\n八項分數：即時性17／台灣旅客相關性17／社群討論潛力11／實用性14／稀缺性7／視覺吸引力10／標題吸引力4／延伸內容價值3＝83/100\n爆紅／收藏／分享：4／5／4星；風險低；原始公布日未確認；例外理由為昨天正式開始，10/20地方報導不是新官方公告；生命1週；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：黑石觀光協會與弘前Navi交叉確認10/24–11/8、16:30–21:00點燈。9–21是臨時案內所，不是亮燈。官方交通：黑石站搭弘南巴士約31分到中野神社前；其他路線中野南口步行約5分，夜間回程末班尚未核對。津輕傳承工藝館約200免費車位、步行約12分，不等於保證有位。原始公告日期未標，以剛開幕例外納入；例年10月底至11月初不是今天實測滿紅。活動票價沒有充分交叉，正文不宣稱免費或需預約。神社禁寵物，輔助犬例外。\n分潤：{\"level\":\"中\",\"reason\":\"可搭配黑石地區住宿，活動只到11/8，應先解決夜間回程，不為看燈而強推改訂飯店。\",\"products\":[\"活動地區住宿比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"若還沒訂住宿，可先比較活動地區的位置與晚間交通；訂房本身不代表包含活動門票或接送。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://kuroishi.or.jp/sightseeing/nakanomomijiyama)；[交叉確認](https://www.hirosaki-navi.jp/hirosaki_tsugaru_autumn_leaves_spot)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"黑石地區住宿列表\",\"url\":\"https://jp.trip.com/hotels/kuroishi-hotels-list-90556/\",\"kind\":\"住宿列表\",\"reason\":\"可比較黑石與溫泉鄉住宿；不把市區每家旅館都稱步行可達夜楓。\",\"checks\":\"住宿到中野紅葉山的距離、晚間交通、入住日與房型另查；無已確認夜楓接送。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]}]\n\n入選\n大分冬季班表今天生效：台北線仍每週三、六，增班的是首爾線\n分類／地區：航空／交通／九州／大分機場、台灣桃園\n公布：機場10/8公告；大分縣10/15更新\n事件：冬季班表10/25–2027/3/27\n八項分數：即時性20／台灣旅客相關性18／社群討論潛力10／實用性14／稀缺性5／視覺吸引力4／標題吸引力5／延伸內容價值4＝80/100\n爆紅／收藏／分享：3／4／4星；風險低；超過7天例外：10/8公告、10/15更新，今天正式實施；生命1個月以上；現在發 台灣12:00（無帳號歷史數據，編輯建議）\n原因／查核：大分機場10/8與大分縣10/15班表交叉，10/25–3/27生效。台灣虎航仍週三、六，每週2往返（4單程），不是每天或新增班次；桃園12:00→大分15:00，大分16:30→桃園18:10，均當地時間。首爾線濟州航空由3增7往返，不能套在台北。今天是班表生效日，不代表週日有台北直飛。Trip路線頁有11月週三／六相符班次，但價格與行李未下單確認，不引用最低價。\n分潤：{\"level\":\"中\",\"reason\":\"冬季行程可直接查台北至大分航班，但這是既有班次延續，沒有新優惠或新增台北班次。\",\"products\":[\"台北至大分航班比較\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"想把別府或由布院排進冬季行程，可以先用出發日期查台北到大分的實際班次，再比較含行李總額。\",\"checks\":\"商品日期、票種／房型、庫存、包含內容、取消規則及分潤資格須再確認；未測得佣金或轉換。\",\"assessedOn\":\"2026-10-25\"}\n來源：[官方原始資訊](https://oita-airport.jp/news/detail/787)；[交叉確認](https://pref.oita.jp/soshiki/10530/oitakuko-kokusaisen-2026fuyudaiya.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認：沒有兩位不同作者、48小時內原文與讚／留言均可核對的樣本。非零討論，也不是社群熱榜。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"已實際開啟核對頁面主題與地區；僅供選品，並非已確認分潤資格。\",\"pages\":[{\"title\":\"台北至大分航班查詢\",\"url\":\"https://tw.trip.com/flights/taipei-to-oita/airfares-tpe-oit/\",\"kind\":\"交通查詢\",\"reason\":\"方向TPE→OIT正確，可查冬季週三／六班次。\",\"checks\":\"自行輸入往返日期、直飛／轉機與行李，頁面起價不代表可成交總價或優惠。\",\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已用事件與地區查找此平台；未取得條件充分確認的對應頁面，不代表平台沒有商品。\",\"pages\":[]}]\n\n未入選\nJR九州10/26三班D&S停駛公告\n分類／地區：交通／九州\n公布：10/25 05:00 JST\n事件：10/26\n八項分數：即時性20／台灣旅客相關性19／社群討論潛力12／實用性15／稀缺性7／視覺吸引力2／標題吸引力5／延伸內容價值3＝83/100\n爆紅／收藏／分享：2／3／2星；風險中；今天；生命1天；先收藏觀察 \n原因／查核：原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"原文確認或る列車、36ぷらす3、かんぱち・いちろく26日終日停駛；尚未取得第二可核對來源，不進雙源精選。25日全部路線狀態不能由此推論。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.jrkyushu.co.jp/common/inc/emergency/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n土讚線停駛與南風影響線索\n分類／地區：交通／四國\n公布：媒體10/25 08:44 JST；官方10/24線索\n事件：10/25\n八項分數：即時性20／台灣旅客相關性16／社群討論潛力11／實用性14／稀缺性6／視覺吸引力2／標題吸引力4／延伸內容價值3＝76/100\n爆紅／收藏／分享：2／3／2星；風險中；今天線索未完全確認；生命1天；先收藏觀察 \n原因／查核：搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"搜尋摘要指出阿波池田至土佐山田影響；媒體原頁後續不可讀、JR四國頁逾時，未完成原文雙源，不將摘要停駛範圍寫成查證貼文。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://news.livedoor.com/article/detail/32650578/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n廣尾SantaLand冬季點燈\n分類／地區：季節情報／北海道／十勝廣尾\n公布：官方觀光頁未標原始公布日\n事件：10/24–2027/1/3\n八項分數：即時性16／台灣旅客相關性12／社群討論潛力9／實用性10／稀缺性7／視覺吸引力10／標題吸引力3／延伸內容價值3＝70/100\n爆紅／收藏／分享：2／3／2星；風險中；剛開始例外候選，原公布日不明；生命1個月以上；先收藏觀察 \n原因／查核：十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。\n分潤：{\"level\":\"中\",\"reason\":\"具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。\",\"products\":[\"待查核的地區住宿\"],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"十勝觀光聯盟可讀16–22與免費資訊，但未完成第二來源及近期交通查核；不因地域補題。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://tokachibare.jp/event/xo_event-23278/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n冰之山紅葉登山祭\n分類／地區：活動／關西／兵庫養父\n公布：公告日未標；8/1報名開始、9/30截止\n事件：10/24前夜祭、10/25登山\n八項分數：即時性15／台灣旅客相關性8／社群討論潛力6／實用性6／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值2＝54/100\n爆紅／收藏／分享：2／3／2星；風險中；今天舉行但行動窗口已過；生命1天；先收藏觀察 \n原因／查核：完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"完全預約制、今天07:30已出發，研究時已錯過參加窗口；不把當日參加費字樣理解為可現場免預約。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.hyounosenhatibuse.com/festival/kouyou.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\nDisney Store美女與野獸35週年商品\n分類／地區：購物／IP／日本指定Disney Store\n公布：媒體10/23 16:26 JST；官方首發未核\n事件：販售日期未完成官方核對\n八項分數：即時性17／台灣旅客相關性16／社群討論潛力12／實用性8／稀缺性7／視覺吸引力9／標題吸引力4／延伸內容價值2＝75/100\n爆紅／收藏／分享：2／3／2星；風險中；48小時媒體；原公告未核；生命1週；先收藏觀察 \n原因／查核：媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"媒體商品頁可讀，未完成官方販售日、門市與海外使用條件交叉；不把園區票搭配門市周邊。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://travel.watch.impress.co.jp/docs/news/2150754.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n上野燒秋季窯開與甜點大茶會\n分類／地區：美食／購物／九州／福岡福智\n公布：本次已讀媒體訪談，精確首發日未完整核\n事件：窯開10/23–25；茶會11/14–15\n八項分數：即時性15／台灣旅客相關性12／社群討論潛力9／實用性8／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值3＝64/100\n爆紅／收藏／分享：2／3／2星；風險中；近日內容，今日狀態待查；生命3天；先收藏觀察 \n原因／查核：訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"訪談列出兩個不同日期活動；缺少主辦當日天候狀態與第二來源，不因同縣其他活動取消就自行推論此活動也取消。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://travel.watch.impress.co.jp/docs/series/jal_furusato/2149428.html)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n福原山莊特別公開今天截止\n分類／地區：季節情報／北海道／鹿追\n公布：官方9/1\n事件：9/26–10/25\n八項分數：即時性17／台灣旅客相關性12／社群討論潛力9／實用性9／稀缺性6／視覺吸引力8／標題吸引力3／延伸內容價值2＝66/100\n爆紅／收藏／分享：2／3／2星；風險中；超過7天：今天截止例外候選；生命1天；先收藏觀察 \n原因／查核：官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"官方確認公開日期；尚未完整核對當日現場狀態。搜尋出現落葉觀測，不能宣傳仍為滿紅；距結束很短，未列可發布推薦。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://art-fukuhara.jp/2026/09/01/post-606/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n豐平峽Dam Liner今日末日線索\n分類／地區：交通／北海道／定山溪\n公布：札幌觀光9/8\n事件：Dam Liner10/3–25\n八項分數：即時性17／台灣旅客相關性16／社群討論潛力10／實用性13／稀缺性5／視覺吸引力4／標題吸引力4／延伸內容價值3＝72/100\n爆紅／收藏／分享：2／3／2星；風險中；超過7天：今天截止例外候選；生命1天；先收藏觀察 \n原因／查核：官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。\n分潤：{\"level\":\"低\",\"reason\":\"取消／交通提醒、報名已截止或門市商品，不適合直接以預訂分潤為切角。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"官方旅遊頁確認專線期程，但沒有完成末班時間與第二來源；Dam Liner與壩區電氣巴士是不同服務，不把全部巴士都寫成今天結束。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://www.sapporo.travel/news/jozankei-godaikoyo-bus2026/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\nTHE ALFEE秩父夜祭巴士團開賣\n分類／地區：旅遊／票券／關東／東京出發、秩父\n公布：阪急10/23\n事件：10/24開賣；出發日及資格未完整核對\n八項分數：即時性17／台灣旅客相關性12／社群討論潛力9／實用性8／稀缺性7／視覺吸引力7／標題吸引力3／延伸內容價值3＝66/100\n爆紅／收藏／分享：2／3／2星；風險中；48小時日期線索無精確時刻；生命1週；先收藏觀察 \n原因／查核：已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。\n分潤：{\"level\":\"未評估\",\"reason\":\"資格未核，尚不能評估自然銜接程度。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"已開官方PDF及公告，尚未完成第二來源與外國旅客報名資格，不把日文團直接推薦給全部台灣旅客。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://x.hankyu-travel.com/pdf/hankyu-travel/261023.pdf)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n\n未入選\n猿賀公園紅葉祭開始\n分類／地區：季節情報／活動／東北／青森平川\n公布：地方整理10/20；官方原始公告日未核\n事件：10/24–11/8\n八項分數：即時性16／台灣旅客相關性12／社群討論潛力9／實用性9／稀缺性6／視覺吸引力9／標題吸引力3／延伸內容價值3＝67/100\n爆紅／收藏／分享：2／3／2星；風險中；昨天開始例外候選；生命1週；先收藏觀察 \n原因／查核：已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。\n分潤：{\"level\":\"中\",\"reason\":\"具有地區住宿延伸可能，但查核與行程條件不足，不直接推商品。\",\"products\":[\"待查核的地區住宿\"],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"已找到官方專頁與地方整理，但會場逐日節目與票費未完成核對；同區夜楓先選交通資訊較完整的中野紅葉山。 商品日期、庫存、包含內容與分潤資格均須另查。\",\"assessedOn\":\"2026-10-25\"}\n來源：[候選來源／存取限制見查核說明](https://hirakawa-kankou.com/events/event/猿賀公園-紅葉まつり-【10-24～11-8】/)\n社群：{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"summary\":\"熱度未確認；無合格原始互動樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"日本 旅行 site:threads.com after:2026-10-23\",\"(秋保 OR 中野もみじ山 OR 環境フェスティバル OR 大分 台北) (site:threads.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc) after:2026-10-23\",\"(アキウルミナ OR 中野もみじ山 OR 東武動物公園 OR 環境フェスティバル) (site:x.com OR site:instagram.com OR site:tiktok.com OR site:youtube.com) after:2026-10-23\",\"(JR四国 OR 広尾 サンタランド OR 福原山荘 OR 豊平峡 OR 上野焼 OR 美女と野獣 OR 氷ノ山 OR 秩父夜祭 OR 猿賀公園 OR 神戸イルミナージュ) (site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com) after:2026-10-23\"]}\n推薦平台頁：[{\"platform\":\"trip\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"未入選，沒有完成商品頁查核。\",\"pages\":[]}]\n【編輯推薦】\n{\"id\":\"fukuoka-environment-cancel-20261025\",\"title\":\"福岡環境祭今天取消：舊節目表仍在，請看最新公告\",\"score\":86,\"reason\":\"只作編輯推薦標籤，不預選使用者題目；今天即時避免白跑，錯讀新舊公告的切角具體。\",\"versusSecond\":\"秋保仍有數週規劃空間，福岡取消提醒需要今天出發前傳達。\",\"publishAt\":\"台灣10:15（無帳號歷史數據，編輯建議）\",\"audience\":\"今天在福岡天神、親子自由行與同行者\",\"angle\":\"舊節目表仍在，但25日已取消\",\"lifecycle\":\"1天\"}\n【社群限制】\n{\"checkedAt\":\"2026-10-25T10:03:37+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":15,\"qualifiedTopicCount\":0,\"limitation\":\"已用繁中及日文事件詞搜尋八平台，沒有取得兩位不同作者、原始時間及讚／留言均可核對的48小時樣本。TikTok被robots拒絕；其餘主要缺少對應原文或完整指標。官方IG嵌入與前季YouTube不計分。非平台全站調查，不代表沒有討論，無法建立本期社群熱榜。\",\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"X\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"TikTok\",\"status\":\"robots限制\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格原始樣本\",\"limitation\":\"僅公開搜尋；無完整可核時間及互動數，不用新聞數或官方公告替代。\"}]}\n【明天持續追蹤】\n[{\"title\":\"JR九州10/26運行計畫\",\"next\":\"官方說25日決定後公告；追蹤完整停駛範圍、退改條件與第二來源，不能把三班D&S公告擴大成全九州停駛。\",\"sources\":[{\"label\":\"JR九州運行特別公告\",\"url\":\"https://www.jrkyushu.co.jp/common/inc/emergency/\"}]},{\"title\":\"JR四國土讚線當日狀態\",\"next\":\"重查可讀官方即時頁與原始地方媒體，確認是否恢復、影響區段與南風班次；目前未完成雙源。\",\"sources\":[{\"label\":\"JR四國運行資訊\",\"url\":\"https://www.jr-shikoku.co.jp/info/\"},{\"label\":\"媒體線索\",\"url\":\"https://news.livedoor.com/article/detail/32650578/\"}]},{\"title\":\"秋保首個週末場地更新\",\"next\":\"未來24–72小時核對各場地營業與夜間交通，觀察有無2026完整新版頁，沒有公告不預言加場或票券追加。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://www.akiulumina.jp/\"},{\"label\":\"交叉確認\",\"url\":\"https://www.sentabi.jp/features/46\"},{\"label\":\"庭園票價與2026年傳單入口\",\"url\":\"https://akiu-sizen.co.jp/archives/lp/lightup\"}]},{\"title\":\"東武10月底活動日與票種\",\"next\":\"下個開催日與10/31聯名前核對正式售票條款、夜間入園及天候異動；不保證平台普通票涵蓋。\",\"sources\":[{\"label\":\"官方原始資訊\",\"url\":\"https://digitalpr.jp/r/144828\"},{\"label\":\"地方編輯整理（非另一次採訪）\",\"url\":\"https://chiba-style.com/event/18169/\"}]}]\n【每題完整串文／切角／圖片／延伸】\n福岡環境祭今天取消：舊節目表仍在，請看最新公告\n{\n  \"threads\": [\n    \"今天在福岡天神，別照舊節目表去環境祭：10月25日這一天已取消。\\n\\n福岡市10月23日更新的最新公告寫明，因預期天候不佳，只保留24日舉行，25日取消。地點是市役所西側ふれあい廣場，原本想帶小朋友參加體驗或看舞台的人，今天需要調整安排。\",\n    \"這次最容易看錯的地方，是官網同一頁還留著較早的「24、25日確定舉行」與兩天節目表。\\n\\n請看頁面上方標示NEW的取消通知。參展單位ふくおかFUN也在自己的活動頁註明25日取消；舊海報、截圖和節目時段不能當成今天仍照常的依據。\",\n    \"如果已把這個活動排進今天行程，先把取消通知傳給同行的人，再逐一查替代場所的當日營業資訊。\\n\\n這份通知只針對環境祭，不能推論福岡所有景點、地鐵或航班都停擺。下一站的開放狀態仍要個別確認。\\n\\n福岡市最新公告：\\nhttps://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"取消提醒\",\n      \"opening\": \"今天要去福岡環境祭？10月25日已取消，先別照舊節目表出門。\"\n    },\n    {\n      \"name\": \"公告判讀\",\n      \"opening\": \"同一個官網同時寫舉行與取消，福岡環境祭要看最上方的新通知。\"\n    },\n    {\n      \"name\": \"親子安排\",\n      \"opening\": \"原本排好的福岡親子活動今天取消，先通知同行家人再換行程。\"\n    },\n    {\n      \"name\": \"轉傳查核\",\n      \"opening\": \"看到「24、25日開催決定」的截圖，先打開原頁：25日已改為取消。\"\n    },\n    {\n      \"name\": \"範圍釐清\",\n      \"opening\": \"環境祭取消，不等於福岡全部停擺；今天要逐一查下一站。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"最新取消公告區塊，勿用舊海報暗示照常。可查素材不等於取得商用授權。\",\n      \"url\": \"https://www.city.fukuoka.lg.jp/kankyo/k-seisaku/hp/kyouiku-shien/kankyofestival_2026.html\"\n    }\n  ],\n  \"extensions\": [\n    \"不延伸分潤；可整理同行者行程異動核對清單。\"\n  ]\n}\n秋保夜楓開始：整體活動與庭園有不同日期、費用\n{\n  \"threads\": [\n    \"秋保的夜間點燈已開始，但別把整個活動當成同一張票、同一個結束日期。\\n\\n2026年AKIU LUMINA是10月24日到11月15日；其中天守閣自然公園的秋保Night Museum先於10月23日開始，持續到11月23日。想把東北賞楓接上溫泉住宿，先選場地再排晚上。\",\n    \"以Night Museum為例，時間是16:30–21:00，最後入場20:30，都是日本時間。\\n\\n中學生以上平日1000日圓、週末與日本假日1500日圓；4歲以上兒童500日圓。這是庭園的費用，不能拿來代表所有秋保點燈場地，也不能把住宿當作自動含門票。\",\n    \"規劃時先決定要看的場地，再查當天開放、門票及離場後的交通；巴士能送你到秋保，不代表看完夜景一定還有適合的回程班次。\\n\\n主辦首頁仍留有舊年度提示，請認明2026公告。點燈開始也不等於楓葉已全部轉紅。\\n官方活動：https://www.akiulumina.jp/\\n庭園資訊：https://akiu-sizen.co.jp/archives/lp/lightup\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"日期比較\",\n      \"opening\": \"秋保夜楓有兩個結束日期，先別把所有會場都排到11月23日。\"\n    },\n    {\n      \"name\": \"票價\",\n      \"opening\": \"秋保Night Museum週末成人1500日圓，這不是整個秋保點燈的通票。\"\n    },\n    {\n      \"name\": \"回程\",\n      \"opening\": \"賞完秋保夜楓怎麼回仙台？先看交通再決定待到幾點。\"\n    },\n    {\n      \"name\": \"溫泉行程\",\n      \"opening\": \"10月底去東北泡湯，秋保多了夜間點燈可排，但住宿不一定含門票。\"\n    },\n    {\n      \"name\": \"最後入場\",\n      \"opening\": \"庭園21時關閉、20:30最後入場，別把秋保夜遊的到場時間抓太晚。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。\",\n      \"url\": \"https://www.akiulumina.jp/\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。\"\n  ]\n}\n東武動物公園夜間票1700日圓：10、11月只在週末與假日點燈\n{\n  \"threads\": [\n    \"東京近郊想排夜間動物園，東武動物公園本季點燈已在10月24日開始；但10、11月只在週末與日本國定假日舉行。\\n\\n活動日15:00起售成人入園票1700日圓，點燈則是17:00開始。別把15時優惠入園誤認成15時就能看見燈海。\",\n    \"票種也要分開算：1700日圓是入園，夜間遊樂設施pass另2500日圓，不是2500就含兩者。\\n\\n本季預定至2027年2月28日的指定日期舉行，通常17:00–20:00；12月24、25日至21:00。不是整段日期每天都有，出發前先核對你那天是否為開催日。\",\n    \"還有兩個展區要再等：動物造型LED燈籠11月28日開始，mapping演出12月5日開始，10月來看不到全部內容。\\n\\n購票前核對夜間適用、遊樂設施與天候公告。平台一般入園票是否適用本期夜間活動，本次尚未確認，不把它當成夜間優惠票推薦。\\n園方本季公告：https://digitalpr.jp/r/144828\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"優惠時段\",\n      \"opening\": \"15時後入園1700日圓，東武點燈要等17時；兩個時間別混在一起。\"\n    },\n    {\n      \"name\": \"日曆\",\n      \"opening\": \"10、11月不是每天點燈，東京近郊夜遊先圈出週末與日本假日。\"\n    },\n    {\n      \"name\": \"票種\",\n      \"opening\": \"東武夜間2500日圓pass是遊樂設施，不是含入園的總價。\"\n    },\n    {\n      \"name\": \"展區\",\n      \"opening\": \"10月去東武點燈，有兩個主打展區還沒開始。\"\n    },\n    {\n      \"name\": \"親子行程\",\n      \"opening\": \"想把動物園接夜景，先選開催日，再決定是否需要遊樂設施pass。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。\",\n      \"url\": \"https://digitalpr.jp/r/144828\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。\"\n  ]\n}\n青森中野紅葉山開始夜間點燈：16:30亮燈，回程先排好\n{\n  \"threads\": [\n    \"青森中野紅葉山開始夜間點燈了：2026年10月24日到11月8日，每天16:30–21:00，日本時間。\\n\\n官網另寫的9:00–21:00是臨時觀光案內所時間，不是早上就亮燈。地點在黑石市中野神社，適合把白天散步接到傍晚，但先確認回程。\",\n    \"觀光協會列出的交通，是從黑石站搭弘南巴士約31分鐘到「中野神社前」；不同路線也可能在「中野南口」下車後步行。\\n\\n這是抵達方式，不代表21時仍有公車。若自駕，官方指引津輕傳承工藝館免費停車場，步行約12分鐘；車位不保證，別把時間排得太緊。\",\n    \"先查當天巴士時刻或安排其他回程，再決定停留到幾點。神社境內禁止帶寵物，導盲、導聾與輔助犬例外。\\n\\n點燈日期已確認，但今天是否滿紅沒有現場實測；例年見頃不能當作即時楓況。最新活動與交通請看黑石觀光協會：\\nhttps://kuroishi.or.jp/sightseeing/nakanomomijiyama\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"點燈時間\",\n      \"opening\": \"中野紅葉山16:30才亮燈，官網9時開的是臨時案內所。\"\n    },\n    {\n      \"name\": \"回程\",\n      \"opening\": \"夜楓亮到21時，不等於公車也開到21時。\"\n    },\n    {\n      \"name\": \"停車\",\n      \"opening\": \"黑石夜楓官方停車場要再走約12分鐘，別把抵達時間當入場時間。\"\n    },\n    {\n      \"name\": \"楓況\",\n      \"opening\": \"點燈已開始，但還不能把青森中野紅葉山寫成今天全面滿紅。\"\n    },\n    {\n      \"name\": \"行程\",\n      \"opening\": \"弘前周邊想多排一個傍晚景點，可看黑石中野紅葉山這段限定點燈。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。\",\n      \"url\": \"https://kuroishi.or.jp/sightseeing/nakanomomijiyama\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：搭配實際日期、夜間交通與住宿／票券比較；只有已核對頁面列入推薦，分潤連結僅獨立留言。\"\n  ]\n}\n大分冬季班表今天生效：台北線仍每週三、六，增班的是首爾線\n{\n  \"threads\": [\n    \"大分機場今天切換冬季班表，但台北線沒有變成每天飛。\\n\\n2026年10月25日到2027年3月27日，台灣虎航台北往返大分仍是每週三、六。機場公告提到國際線增班，增加的是首爾線濟州航空，不能直接套用到台北航線。\",\n    \"排別府、由布院行程，可以先把這兩個直飛日放進日曆。\\n\\n官方冬季時刻（各地當地時間）：\\n• 桃園12:00 → 大分15:00\\n• 大分16:30 → 桃園18:10\\n\\n今天是班表生效日，不代表今天星期日也有台北直飛；每週2往返也不是4天都有班機。\",\n    \"先選好去回日期，再核對航空公司實際可訂班次、托運行李與最後結帳總額。這則是冬季班表整理，沒有已確認的新促銷，也不保證每班都有空位。\\n\\n遇到天候異動，請依航空公司當日通知調整。\\n大分機場公告：https://oita-airport.jp/news/detail/787\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"增班誤讀\",\n      \"opening\": \"大分公告增班，台北線卻還是週三、六：增加的是另一條航線。\"\n    },\n    {\n      \"name\": \"排假\",\n      \"opening\": \"冬天想直飛大分，先用週三與週六排去回日期。\"\n    },\n    {\n      \"name\": \"時差\",\n      \"opening\": \"桃園12時出發、大分15時抵達，班表寫的是各地當地時間。\"\n    },\n    {\n      \"name\": \"生效日\",\n      \"opening\": \"10月25日換冬季班表，不代表這個星期日也有台北直飛。\"\n    },\n    {\n      \"name\": \"旅遊規劃\",\n      \"opening\": \"別府、由布院想從大分進出，先查班次再訂住宿。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方活動照片／日期表可作配圖查找來源；標清年度，不把舊照片當今日現場。商用授權未確認。\",\n      \"url\": \"https://oita-airport.jp/news/detail/787\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：台北至大分直飛日期與含行李總價比較，不編造促銷。\"\n  ]\n}"
+}
