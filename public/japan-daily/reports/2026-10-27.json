@@ -1,0 +1,1590 @@
+{
+  "date": "2026-10-27",
+  "cutoff": "2026-10-27 10:06:04 Asia/Taipei（日本2026-10-27 11:06:04 Asia/Tokyo）",
+  "trends": [
+    "已查證：大阪細田守展前售券10/27日本23:59截止，10/28開幕。",
+    "已查證：日本全家リュウジ第三彈9品10/27起上市，部分地區及門市有例外。",
+    "已查證：三島樂壽園菊祭10/30開始；夜菊只有11月兩個週末六天。",
+    "編輯觀察：秋季葉況應逐點讀觀測日期；本期看到搜尋摘要與原頁日期不一致，未將預測當實測。",
+    "查核限制：部分沖繩、名古屋新訊只取得索引或無法讀原頁，留候選，不列精選。",
+    "社群限制：未取得兩位作者、48小時原貼文及可核對讚／留言；本期無法建立熱榜。",
+    "編輯觀察：只保留3個可用選題；15個候選含12個未通過查核線索，分數不代表事件已確認。"
+  ],
+  "choice": {
+    "id": "hosoda-osaka-2026",
+    "title": "大阪細田守展：前售票今晚截止，明天開展",
+    "score": 88,
+    "reason": "今天前售截止的實際期限比一般新品更容易促成查票與分享給同行者。只作編輯推薦，不代替使用者選題。",
+    "versusSecond": "全家新品涵蓋旅客較廣，但沒有已確認的今日購買截止；展覽前售期限過後須改稿，因此今天優先。",
+    "publishAt": "10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據",
+    "audience": "近期去大阪的動畫迷、親子與梅田行程旅客",
+    "angle": "前售今晚截止＋展覽跨年休館避雷",
+    "lifecycle": "1天（前售切角）；展覽攻略1個月以上"
+  },
+  "top10": [
+    {
+      "id": "hosoda-osaka-2026",
+      "title": "大阪細田守展：前售票今晚截止，明天開展",
+      "region": "關西／大阪梅田 Grand Front大阪北館",
+      "category": "活動／票券",
+      "announcementDate": "已讀主辦追加公告2026/10/1 12:02 JST；首次公告早於此，首發日期尚未完全確認",
+      "eventDate": "展期10/28–2027/1/4；前售10/27 23:59 JST截止；12/31、1/1休館",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "前售票有今天截止的明確行動點，適合已規劃秋冬大阪行程的動畫迷。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://www.fashion-press.net/news/151607"
+        },
+        {
+          "label": "主辦10/1追加公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000186376.html"
+        },
+        {
+          "label": "正規售票注意事項",
+          "url": "https://l-tike.com/order/?gLcode=54268"
+        },
+        {
+          "label": "主辦列出的售票通路",
+          "url": "https://kyodo-osaka.co.jp/search/detail/13253"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：已讀10/1追加公告；今天前售截止、明天開展",
+      "lifecycle": "1天（前售切角）；展覽攻略1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "購票需求直接，但本期KKday商品原頁受阻，尚未核對可用票種及海外購買條件；住宿只是延伸，先評中。",
+        "products": [
+          "展覽入場票（商品條件待確認）",
+          "梅田住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "已排好大阪行程的話，可以再比較展覽票種與梅田住宿；票券和住宿分開確認，住宿不包含展覽門票。",
+        "checks": "須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "搜尋細田守／梅田住宿未取得可核實的直接對應商品頁，本期留空。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "大阪梅田住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "供本來需要梅田住宿的旅客比位置，不主張每間都緊鄰會場。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "主辦列KKday通路；乾淨商品 https://www.kkday.com/product/614633 及ja、zh-tw版本均無法讀取，不能verified、不自動帶cid。分類索引可見商品不等於已核實商品條件。查閱 2026-10-27T10:06:04+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未取得並核實直接適用商品，暫不推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=TsSNZCzysv0",
+            "label": "東京展舊宣傳片",
+            "reason": "搜尋索引為五個月前東京會場；非48小時大阪自然討論，未計分。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=p962xpkEWEY",
+            "label": "東京8月座談影片",
+            "reason": "舊事件，不能當大阪開展熱度；未核對互動，不計分。"
+          }
+        ],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "主辦讀賣電視、Fashion Press與售票頁交叉核對展期、價格與限制；屬公告整理交叉，非兩次獨立現場採訪。一般／大學生前售2100、當日2300日圓；中高生1100／1300、小學生500／700，均含稅，另可能有系統費。10:00–18:00、最後入場17:30；中高生需學生證、每票一人一次、不可再入場。未就學兒童須18歲以上保護者同行。早割雙人票已截止，不推薦。未見外國籍排除，但海外付款／取票與外國學生證接受方式未實測，不能保證皆可購買。前售截止日本23:59等於台灣22:59。",
+      "draft": {
+        "threads": [
+          "大阪細田守展的前售票今天截止：一般／大學生2100日圓，明天起當日票2300日圓。\n\n展覽10月28日才開幕，前售到10月27日日本時間23:59，也就是台灣22:59。已排好秋冬大阪行程、想看《跳躍吧！時空少女》《夏日大作戰》製作資料的人，今天可以先確認票種；購票可能另有系統費。",
+          "地點在梅田Grand Front大阪北館的Knowledge Capital Event Lab，展期到2027年1月4日。\n\n每天10:00–18:00，最後入場17:30；12月31日和1月1日休館，跨年行程別排錯。\n\n中高生前售1100／當日1300日圓，入場要學生證；小學生500／700日圓。未就學兒童免費，但要18歲以上保護者同行。",
+          "先選參觀日、確認休館，再從主辦頁連到正規售票通路。每票限一人一次，不能再入場；周邊商品區也要入場後才能使用。\n\n海外付款、取票方式及外國學生證接受條件，請在下單前向售票端確認，本次沒有完成購買測試。早割雙人票已結束，不要照舊文找那個方案。\n主辦與票價：https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html"
+        ],
+        "angles": [
+          {
+            "name": "截止提醒",
+            "opening": "大阪細田守展明天開幕，前售票卻在今天台灣22:59截止。"
+          },
+          {
+            "name": "票價比較",
+            "opening": "一般票前售2100、當日2300日圓；買之前也把系統費算進去。"
+          },
+          {
+            "name": "跨年避雷",
+            "opening": "這個大阪展跨到明年1月，但12月31日、1月1日休館。"
+          },
+          {
+            "name": "動畫迷行程",
+            "opening": "想看《夏日大作戰》的製作資料，這次可以排進大阪梅田行程。"
+          },
+          {
+            "name": "購票限制",
+            "opening": "細田守展不是買票就能反覆進出：每票一人一次，物販也需入場。"
+          }
+        ],
+        "images": [
+          {
+            "description": "主辦展覽主視覺及票價表，可查找素材；商用及轉載授權未確認，不能自行宣稱可用。",
+            "url": "https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：梅田半日攻略、住宿比較與正規展票；本期商品原頁受阻，先不產生票券分潤連結。"
+        ]
+      }
+    },
+    {
+      "id": "family-ryuji-third-20261027",
+      "title": "日本全家×リュウジ第三彈今天開賣：9款新品",
+      "region": "全日本／FamilyMart；部分地區門市例外",
+      "category": "美食／購物",
+      "announcementDate": "官方2026/10/26，無時刻；ASCII同日18:00 JST",
+      "eventDate": "2026/10/27起販售，依地區可能不同",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "今天在日本就能找的新品，價格與品類清楚；不需要為了購買另外規劃遠程交通。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.family.co.jp/company/news_releases/2026/20261026_01.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://ascii.jp/elem/000/004/445/4445818/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天開賣；10/26公告只有日期，不能斷言精確24小時",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "10/27 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市食品與訂房、票券關聯薄弱，四平台都不硬配商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "以門市售價、包裝過敏原及庫存為準。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "官方公告與ASCII編輯文章核對9品、10/27上市與含稅價格；ASCII依公告整理，非獨立試吃，不以兩次採訪宣稱美味。飯糰198、生薑燒便當698、蒜奶油雞肉麵598、檸檬蔥鹽炒麵598、韭菜醬雞348、辣湯468、馬鈴薯沙拉198、冷凍蒜香麵430、牛壽喜燒包258日圓，為8%稅表示；區域售價、日期、規格可能不同，部分店不賣。壽喜燒包數量限定，未查任何店即時庫存。無公告要求旅客會員或日本居住資格；冷凍品須確認加熱條件。",
+      "draft": {
+        "threads": [
+          "今天逛日本全家，可以找リュウジ第三彈聯名：9款新品從10月27日開始販售。\n\n想先買一樣試試，胡椒鮪魚美乃滋飯糰198日圓、牛壽喜燒包258日圓；想當一餐，生薑燒豬肉便當698日圓。都是官方8%含稅標示，部分地區價格、上市日或品項可能不同。",
+          "這次不只便當，還有蒜奶油雞肉義大利麵、檸檬蔥鹽炒麵，各598日圓；韭菜醬雞肉348、辣湯468、馬鈴薯沙拉198日圓。\n\n430日圓的蒜香義大利麵是冷凍商品，住飯店的人先確認有沒有合適的加熱設備。牛壽喜燒包裡是蛋黃風味醬，官方標數量限定，但不能因此推論每家店都缺貨。",
+          "購買時認包裝上的「リュウジの至高のレシピ」，再看門市價牌和過敏原標示；不需要為找齊9款特地繞遠路。\n\n這是新品資料整理，沒有實際試吃，也未確認各店庫存。官方說部分地區、門市不販售，照片也屬商品示意。\n官方完整品項：https://www.family.co.jp/company/news_releases/2026/20261026_01.html"
+        ],
+        "angles": [
+          {
+            "name": "今日新品",
+            "opening": "日本全家今天上架リュウジ聯名第三彈，共9款，部分門市除外。"
+          },
+          {
+            "name": "小額嘗鮮",
+            "opening": "198日圓飯糰、258日圓壽喜燒包，先從一樣新品開始試。"
+          },
+          {
+            "name": "一餐比較",
+            "opening": "今天的日本超商晚餐，可以先比較698日圓便當與598日圓麵食。"
+          },
+          {
+            "name": "住宿加熱",
+            "opening": "430日圓那款是冷凍義大利麵，飯店有沒有設備要先確認。"
+          },
+          {
+            "name": "門市限制",
+            "opening": "看到全國發售也別以為每店都有9款，官方保留地區與門市例外。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方9款商品圖及價格；屬示意圖，轉載與商用授權未確認。",
+            "url": "https://www.family.co.jp/company/news_releases/2026/20261026_01.html"
+          }
+        ],
+        "extensions": [
+          "以新品價格與門市尋找整理延伸，不硬塞旅遊商品。"
+        ]
+      }
+    },
+    {
+      "id": "mishima-kiku-2026",
+      "title": "三島樂壽園菊祭10/30開始：白天與夜菊日期不同",
+      "region": "中部／靜岡三島樂壽園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方頁2026/9/1更新；じゃらん9/2更新，皆非今天新公告",
+      "eventDate": "10/30–11/30；夜菊11/6–8及11/13–15",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "三天後開始，適合伊豆或三島行程補點；夜間僅六天，避免把整個月都當夜間開放。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://www.jalan.net/event/evt_362289/"
+        },
+        {
+          "label": "園方開放與費用",
+          "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/5429.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：9/1官方更新，三天後正式開始",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "10/27 20:00 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有一個月規劃期，可銜接三島住宿，但活動可當日往返，先確認行程確有住宿需求。",
+        "products": [
+          "三島地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果原本就打算在三島住一晚，可對照夜菊日期選住宿；先確認回程與位置，不必為活動勉強加住。",
+        "checks": "須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "三島住宿列表",
+              "url": "https://jp.trip.com/hotels/mishima-hotels-list-50259/",
+              "kind": "住宿列表",
+              "reason": "已核對靜岡三島市，便於夜菊與伊豆行程住宿比較。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "三島市住宿列表",
+              "url": "https://www.booking.com/city/jp/mishima.ja.html",
+              "kind": "住宿列表",
+              "reason": "可比較三島站附近住宿，價格與空房需重選日期。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋只取得三島周邊旅遊文章，非本次菊祭票券；不把Skywalk商品當樂壽園。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋樂壽園未取得已核實的本季票券或交通頁；不硬搭其他園區。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "三島市與じゃらん（資訊提供i-TAK）交叉核對10/30–11/30、清水寺造景與夜菊六日；不是兩次現場採訪。約8000盆菊花、最高4公尺造景；官網圖多為2025平安神宮，不能標成2026現場照。10月9–17時最後入園16:30，11月9–16:30最後16時；活動期間無休。15歲以上300日圓，中學生以下免費；夜菊17–21時最後20:45，僅菊展區開放且免費，停車場夜間不營業。夜間細節依市府公告，尚無第二獨立現場驗證；開幕不等於滿開，園方例年11月中旬見頃。外國旅客一般入園未見國籍限制，團體巴士另預約。",
+      "draft": {
+        "threads": [
+          "三島樂壽園菊祭10月30日開始，但想看夜菊，要選11月6–8日或13–15日。\n\n2026年主題是用菊花裝飾的「清水寺」造景，整個菊祭持續到11月30日。白天一般15歲以上300日圓、中學生以下免費；夜菊場次免費，只有菊展區開放，不是全園免費夜遊。",
+          "白天和夜間的時間也不同，以下都是日本時間：\n\n• 10月：9:00–17:00，最後入園16:30。\n• 11月：9:00–16:30，最後入園16:00。\n• 指定夜菊日：17:00–21:00，最後入園20:45。\n\n菊祭期間無休。夜間停車場不營業，開車的人先處理停車與回程，再決定晚上來。",
+          "JR三島站步行約3分鐘可到樂壽園，適合接在三島或伊豆行程，不一定要為活動多住一晚。\n\n官網目前有不少2025年平安神宮造景照片，別當成今年已完工的清水寺現場照；開幕也不等於菊花全開，園方標的是例年11月中旬見頃。出發前再看當日公告與花況。\n官方：https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html"
+        ],
+        "angles": [
+          {
+            "name": "日期避雷",
+            "opening": "樂壽園菊祭有一個月，夜菊卻只有六天，先圈對日期。"
+          },
+          {
+            "name": "夜間費用",
+            "opening": "三島夜菊免費，但只開菊展區，而且停車場夜間不營業。"
+          },
+          {
+            "name": "造景亮點",
+            "opening": "今年三島用菊花做清水寺，官網舊照的平安神宮是去年作品。"
+          },
+          {
+            "name": "順路行程",
+            "opening": "三島站步行約3分鐘的菊祭，10月30日起可排進伊豆行程。"
+          },
+          {
+            "name": "花況判讀",
+            "opening": "10月30日開幕，不等於菊花全開；園方給的是例年11月中旬見頃。"
+          }
+        ],
+        "images": [
+          {
+            "description": "園方菊祭說明與夜菊時間表；舊年度照片標2025，不當2026現場；圖片授權另確認。",
+            "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：三島至伊豆行程與三島住宿；先判斷是否真需要過夜，夜菊免費不代表其他交通免費。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "hosoda-osaka-2026",
+      "title": "大阪細田守展：前售票今晚截止，明天開展",
+      "region": "關西／大阪梅田 Grand Front大阪北館",
+      "category": "活動／票券",
+      "announcementDate": "已讀主辦追加公告2026/10/1 12:02 JST；首次公告早於此，首發日期尚未完全確認",
+      "eventDate": "展期10/28–2027/1/4；前售10/27 23:59 JST截止；12/31、1/1休館",
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "前售票有今天截止的明確行動點，適合已規劃秋冬大阪行程的動畫迷。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://www.fashion-press.net/news/151607"
+        },
+        {
+          "label": "主辦10/1追加公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000186376.html"
+        },
+        {
+          "label": "正規售票注意事項",
+          "url": "https://l-tike.com/order/?gLcode=54268"
+        },
+        {
+          "label": "主辦列出的售票通路",
+          "url": "https://kyodo-osaka.co.jp/search/detail/13253"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：已讀10/1追加公告；今天前售截止、明天開展",
+      "lifecycle": "1天（前售切角）；展覽攻略1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "購票需求直接，但本期KKday商品原頁受阻，尚未核對可用票種及海外購買條件；住宿只是延伸，先評中。",
+        "products": [
+          "展覽入場票（商品條件待確認）",
+          "梅田住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "已排好大阪行程的話，可以再比較展覽票種與梅田住宿；票券和住宿分開確認，住宿不包含展覽門票。",
+        "checks": "須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "搜尋細田守／梅田住宿未取得可核實的直接對應商品頁，本期留空。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "大阪梅田住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "供本來需要梅田住宿的旅客比位置，不主張每間都緊鄰會場。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "主辦列KKday通路；乾淨商品 https://www.kkday.com/product/614633 及ja、zh-tw版本均無法讀取，不能verified、不自動帶cid。分類索引可見商品不等於已核實商品條件。查閱 2026-10-27T10:06:04+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未取得並核實直接適用商品，暫不推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=TsSNZCzysv0",
+            "label": "東京展舊宣傳片",
+            "reason": "搜尋索引為五個月前東京會場；非48小時大阪自然討論，未計分。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=p962xpkEWEY",
+            "label": "東京8月座談影片",
+            "reason": "舊事件，不能當大阪開展熱度；未核對互動，不計分。"
+          }
+        ],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "主辦讀賣電視、Fashion Press與售票頁交叉核對展期、價格與限制；屬公告整理交叉，非兩次獨立現場採訪。一般／大學生前售2100、當日2300日圓；中高生1100／1300、小學生500／700，均含稅，另可能有系統費。10:00–18:00、最後入場17:30；中高生需學生證、每票一人一次、不可再入場。未就學兒童須18歲以上保護者同行。早割雙人票已截止，不推薦。未見外國籍排除，但海外付款／取票與外國學生證接受方式未實測，不能保證皆可購買。前售截止日本23:59等於台灣22:59。",
+      "selected": true,
+      "exclusionReason": ""
+    },
+    {
+      "id": "family-ryuji-third-20261027",
+      "title": "日本全家×リュウジ第三彈今天開賣：9款新品",
+      "region": "全日本／FamilyMart；部分地區門市例外",
+      "category": "美食／購物",
+      "announcementDate": "官方2026/10/26，無時刻；ASCII同日18:00 JST",
+      "eventDate": "2026/10/27起販售，依地區可能不同",
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "今天在日本就能找的新品，價格與品類清楚；不需要為了購買另外規劃遠程交通。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.family.co.jp/company/news_releases/2026/20261026_01.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://ascii.jp/elem/000/004/445/4445818/"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "今天開賣；10/26公告只有日期，不能斷言精確24小時",
+      "lifecycle": "1週",
+      "publishDecision": "晚上發",
+      "publishAt": "10/27 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市食品與訂房、票券關聯薄弱，四平台都不硬配商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "以門市售價、包裝過敏原及庫存為準。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "官方公告與ASCII編輯文章核對9品、10/27上市與含稅價格；ASCII依公告整理，非獨立試吃，不以兩次採訪宣稱美味。飯糰198、生薑燒便當698、蒜奶油雞肉麵598、檸檬蔥鹽炒麵598、韭菜醬雞348、辣湯468、馬鈴薯沙拉198、冷凍蒜香麵430、牛壽喜燒包258日圓，為8%稅表示；區域售價、日期、規格可能不同，部分店不賣。壽喜燒包數量限定，未查任何店即時庫存。無公告要求旅客會員或日本居住資格；冷凍品須確認加熱條件。",
+      "selected": true,
+      "exclusionReason": ""
+    },
+    {
+      "id": "mishima-kiku-2026",
+      "title": "三島樂壽園菊祭10/30開始：白天與夜菊日期不同",
+      "region": "中部／靜岡三島樂壽園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方頁2026/9/1更新；じゃらん9/2更新，皆非今天新公告",
+      "eventDate": "10/30–11/30；夜菊11/6–8及11/13–15",
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "why": "三天後開始，適合伊豆或三島行程補點；夜間僅六天，避免把整個月都當夜間開放。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html"
+        },
+        {
+          "label": "交叉核對",
+          "url": "https://www.jalan.net/event/evt_362289/"
+        },
+        {
+          "label": "園方開放與費用",
+          "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/5429.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：9/1官方更新，三天後正式開始",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "publishAt": "10/27 20:00 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有一個月規劃期，可銜接三島住宿，但活動可當日往返，先確認行程確有住宿需求。",
+        "products": [
+          "三島地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果原本就打算在三島住一晚，可對照夜菊日期選住宿；先確認回程與位置，不必為活動勉強加住。",
+        "checks": "須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "三島住宿列表",
+              "url": "https://jp.trip.com/hotels/mishima-hotels-list-50259/",
+              "kind": "住宿列表",
+              "reason": "已核對靜岡三島市，便於夜菊與伊豆行程住宿比較。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取確認地區的住宿列表，不是已查空房或含活動套票。",
+          "pages": [
+            {
+              "title": "三島市住宿列表",
+              "url": "https://www.booking.com/city/jp/mishima.ja.html",
+              "kind": "住宿列表",
+              "reason": "可比較三島站附近住宿，價格與空房需重選日期。",
+              "checks": "自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。",
+              "checkedAt": "2026-10-27T10:06:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋只取得三島周邊旅遊文章，非本次菊祭票券；不把Skywalk商品當樂壽園。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋樂壽園未取得已核實的本季票券或交通頁；不硬搭其他園區。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "リュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com",
+          "細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com",
+          "リュウジ ファミマ site:threads.com after:2026-10-25",
+          "細田守 大阪 site:x.com after:2026-10-25",
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      },
+      "verification": "三島市與じゃらん（資訊提供i-TAK）交叉核對10/30–11/30、清水寺造景與夜菊六日；不是兩次現場採訪。約8000盆菊花、最高4公尺造景；官網圖多為2025平安神宮，不能標成2026現場照。10月9–17時最後入園16:30，11月9–16:30最後16時；活動期間無休。15歲以上300日圓，中學生以下免費；夜菊17–21時最後20:45，僅菊展區開放且免費，停車場夜間不營業。夜間細節依市府公告，尚無第二獨立現場驗證；開幕不等於滿開，園方例年11月中旬見頃。外國旅客一般入園未見國籍限制，團體巴士另預約。",
+      "selected": true,
+      "exclusionReason": ""
+    },
+    {
+      "id": "aomori-leaves-20261026",
+      "title": "青森紅葉觀測更新",
+      "region": "東北／青森",
+      "category": "季節情報",
+      "announcementDate": "頁首10/3；內文明示10/26觀測",
+      "eventDate": "10/26觀測",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://aomori-tourism.com/topics/detail_92.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。",
+      "selected": false,
+      "exclusionReason": "已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": "fukushima-snow-watch",
+      "title": "磐梯吾妻Skyline雪況提醒",
+      "region": "東北／福島",
+      "category": "交通／季節情報",
+      "announcementDate": "10/26更新",
+      "eventDate": "10/28早晨降雪預報線索",
+      "score": 76,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 10,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。",
+      "selected": false,
+      "exclusionReason": "官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "matsumoto-leaves-20261027",
+      "title": "松本與上高地葉況更新",
+      "region": "中部／長野",
+      "category": "季節情報",
+      "announcementDate": "各點10/26–27更新",
+      "eventDate": "逐點觀測，不是保證未來見頃",
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 11,
+        "實用性": 13,
+        "稀缺性": 5,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://visitmatsumoto.com/flowering/autumn-leaves/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。",
+      "selected": false,
+      "exclusionReason": "已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": "jozankei-late-autumn",
+      "title": "定山溪紅葉尾聲",
+      "region": "北海道／定山溪",
+      "category": "季節情報",
+      "announcementDate": "索引10/21；原頁日期未完整核對",
+      "eventDate": "10月下旬線索",
+      "score": 66,
+      "scoreBreakdown": {
+        "即時性": 10,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 9,
+        "實用性": 12,
+        "稀缺性": 4,
+        "視覺吸引力": 7,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://jozankei.jp/news/kouyouinfo2026/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。",
+      "selected": false,
+      "exclusionReason": "原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": "nissho-leaves",
+      "title": "日勝峠落葉資訊",
+      "region": "北海道／日勝峠",
+      "category": "季節情報",
+      "announcementDate": "索引10/26；讀取頁10/24 16:02",
+      "eventDate": "10/24觀測頁",
+      "score": 62,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 8,
+        "實用性": 12,
+        "稀缺性": 4,
+        "視覺吸引力": 6,
+        "標題吸引力": 3,
+        "延伸內容價值": 2
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://koyo.walkerplus.com/detail/ar0101e154378/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。",
+      "selected": false,
+      "exclusionReason": "原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "shobara-leaves",
+      "title": "庄原紅葉資訊",
+      "region": "中國地方／廣島庄原",
+      "category": "季節情報",
+      "announcementDate": "歷年表混列，當期日期待確認",
+      "eventDate": "當期觀測尚未完全確認",
+      "score": 55,
+      "scoreBreakdown": {
+        "即時性": 6,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 8,
+        "實用性": 10,
+        "稀缺性": 4,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.shobara-info.com/special/4758"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。",
+      "selected": false,
+      "exclusionReason": "已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "peko-odaka",
+      "title": "Peko milky time大高新店線索",
+      "region": "中部／愛知名古屋",
+      "category": "美食／購物",
+      "announcementDate": "搜尋索引10/26",
+      "eventDate": "索引指10/28開店，待原文確認",
+      "score": 67,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 9,
+        "實用性": 10,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.fujiya-peko.co.jp/news/news/2026.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。",
+      "selected": false,
+      "exclusionReason": "索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": "sega-okinawa",
+      "title": "SEGA沖繩PARCO CITY快閃線索",
+      "region": "沖繩／浦添",
+      "category": "購物／活動",
+      "announcementDate": "地方媒體索引10/26",
+      "eventDate": "活動起迄未確認",
+      "score": 68,
+      "scoreBreakdown": {
+        "即時性": 12,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 11,
+        "實用性": 9,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.churatoku.net/info/index.aspx?span=1"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。",
+      "selected": false,
+      "exclusionReason": "搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": "third-ishigaki",
+      "title": "THIRD石垣島休館後狀態待核",
+      "region": "沖繩／石垣島",
+      "category": "住宿／重大時事",
+      "announcementDate": "索引10/25",
+      "eventDate": "索引休館10/25–26；27日狀態未知",
+      "score": 69,
+      "scoreBreakdown": {
+        "即時性": 16,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 9,
+        "實用性": 15,
+        "稀缺性": 4,
+        "視覺吸引力": 3,
+        "標題吸引力": 4,
+        "延伸內容價值": 2
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.hotelthird.com/news/3666/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。",
+      "selected": false,
+      "exclusionReason": "原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "tsumagoi-road",
+      "title": "嬬戀旅館冬季路面提醒",
+      "region": "關東／群馬嬬戀",
+      "category": "交通／住宿",
+      "announcementDate": "索引10/26",
+      "eventDate": "秋至初冬提醒",
+      "score": 62,
+      "scoreBreakdown": {
+        "即時性": 13,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 8,
+        "實用性": 13,
+        "稀缺性": 4,
+        "視覺吸引力": 4,
+        "標題吸引力": 3,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.princehotels.co.jp/tsumagoi/informations/2026snowy_road/"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。",
+      "selected": false,
+      "exclusionReason": "原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "kochi-weekday",
+      "title": "高知平日活動公告線索",
+      "region": "四國／高知",
+      "category": "政策／旅遊",
+      "announcementDate": "縣府搜尋索引10/27",
+      "eventDate": "適用期間與資格未知",
+      "score": 66,
+      "scoreBreakdown": {
+        "即時性": 15,
+        "台灣旅客相關性": 14,
+        "社群討論潛力": 10,
+        "實用性": 10,
+        "稀缺性": 5,
+        "視覺吸引力": 5,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.pref.kochi.lg.jp/press1/event.p6.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "低",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。",
+      "selected": false,
+      "exclusionReason": "僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "kanazawa-autumn",
+      "title": "金澤秋季活動與馬拉松",
+      "region": "北陸／石川金澤",
+      "category": "活動／交通",
+      "announcementDate": "索引9/11；不是本日新公告",
+      "eventDate": "馬拉松10/25已過；其他逐項待核",
+      "score": 45,
+      "scoreBreakdown": {
+        "即時性": 2,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 7,
+        "實用性": 6,
+        "稀缺性": 3,
+        "視覺吸引力": 7,
+        "標題吸引力": 2,
+        "延伸內容價值": 3
+      },
+      "why": "候選線索評估，非發布建議；未通過查核門檻。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html"
+        }
+      ],
+      "stars": {
+        "viral": 2,
+        "save": 3,
+        "share": 2
+      },
+      "risk": "中",
+      "freshness": "未完全確認；日期與讀取限制見公告欄及排除原因",
+      "lifecycle": "3天（候選觀察，非已核實）",
+      "publishDecision": "先收藏觀察",
+      "publishAt": "不建議以目前資料發布",
+      "verification": "原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。",
+      "selected": false,
+      "exclusionReason": "原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實或時效未完成確認，先不推進商業選品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "先補原始公告、第二來源及適用資格。",
+        "assessedOn": "2026-10-27"
+      },
+      "affiliatePages": [],
+      "socialHeat": {
+        "checkedAt": "2026-10-27T10:06:04+08:00",
+        "summary": "熱度未確認；未取得可計分原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "10/28大阪細田守展開幕",
+      "next": "核對正式開場、現場排隊與拍攝規則；有原始自然貼文才評熱度，不預稱爆紅。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html"
+        }
+      ]
+    },
+    {
+      "title": "10/28磐梯吾妻Skyline路況",
+      "next": "核對預報是否成真及道路官方實際管制；不將降雪預報寫成封路。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html"
+        }
+      ]
+    },
+    {
+      "title": "10/30樂壽園菊祭",
+      "next": "核對開幕狀態、當年造景實照與花況；舊年度素材不能冒充新照。",
+      "sources": [
+        {
+          "label": "官方資訊",
+          "url": "https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html"
+        }
+      ]
+    },
+    {
+      "title": "高知平日活動",
+      "next": "追原公告與補助適用日期、居住／國籍條件及預約管道，未確認前不推薦優惠。",
+      "sources": [
+        {
+          "label": "原頁／未完成讀取的查核線索",
+          "url": "https://www.pref.kochi.lg.jp/press1/event.p6.html"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-27T10:06:04+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "limitation": "已對9個事件作社群搜尋（含未入池的博多人形），其餘候選未逐題完成。無合格樣本；搜尋常回傳舊文或無關頁，不等於沒有人討論。TikTok robots阻擋；PTT冬季航班原文403且索引日期超過48小時，不能當近期熱度。各題evidence空陣列，不補零。",
+    "searchedTopicCount": 9,
+    "qualifiedTopicCount": 0,
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "Facebook",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "Instagram",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "Dcard",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "PTT",
+        "status": "原頁403",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "X",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "TikTok",
+        "status": "robots阻擋",
+        "limitation": "沒有核對到本期所需兩位作者原文時間及讚／留言數；不宣稱已讀平台全部資料。"
+      },
+      {
+        "platform": "YouTube",
+        "status": "搜尋完成，無合格樣本",
+        "limitation": "找到東京展舊片，非本期大阪事件，不列熱度。"
+      }
+    ]
+  },
+  "researchText": "日本每日內容雷達\n日期2026-10-27\n搜尋截止2026-10-27 10:06:04 Asia/Taipei（日本2026-10-27 11:06:04 Asia/Tokyo）\n【今天日本發生什麼】\n已查證：大阪細田守展前售券10/27日本23:59截止，10/28開幕。\n已查證：日本全家リュウジ第三彈9品10/27起上市，部分地區及門市有例外。\n已查證：三島樂壽園菊祭10/30開始；夜菊只有11月兩個週末六天。\n編輯觀察：秋季葉況應逐點讀觀測日期；本期看到搜尋摘要與原頁日期不一致，未將預測當實測。\n查核限制：部分沖繩、名古屋新訊只取得索引或無法讀原頁，留候選，不列精選。\n社群限制：未取得兩位作者、48小時原貼文及可核對讚／留言；本期無法建立熱榜。\n編輯觀察：只保留3個可用選題；15個候選含12個未通過查核線索，分數不代表事件已確認。\n【方法與限制】\n先整理15個不同事件候選，再依查核資格選出3題，沒有湊滿TOP10。分數為編輯判斷，未入選候選分數僅評估題材潛力；查核門檻優先於分數。社群不能建立熱榜，依內容與今天行動期限排列。北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩均搜尋；沒有足夠新證據的地區不硬選。官方公告與媒體整理交叉不代表兩次獨立採訪。\n已對9個事件作社群搜尋（含未入池的博多人形），其餘候選未逐題完成。無合格樣本；搜尋常回傳舊文或無關頁，不等於沒有人討論。TikTok robots阻擋；PTT冬季航班原文403且索引日期超過48小時，不能當近期熱度。各題evidence空陣列，不補零。\n社群實際查詢：\nリュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com\n2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com\n細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\n楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com\nリュウジ ファミマ site:threads.com after:2026-10-25\n細田守 大阪 site:x.com after:2026-10-25\n(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25\nPTT排除線索：https://www.ptt.cc/bbs/Japan_Travel/M.1788508057.A.072.html （403、舊文，不列熱度）\n【今日精選與全部候選評分】\n入選｜大阪細田守展：前售票今晚截止，明天開展\n分類：活動／票券；地區：關西／大阪梅田 Grand Front大阪北館\n公布／更新：已讀主辦追加公告2026/10/1 12:02 JST；首次公告早於此，首發日期尚未完全確認\n活動／販售：展期10/28–2027/1/4；前售10/27 23:59 JST截止；12/31、1/1休館\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：20/18/12/14/7/8/5/4＝88/100；編輯潛力評分\n爆紅／收藏／分享：4/5、5/5、4/5；風險低；時效超過7天例外：已讀10/1追加公告；今天前售截止、明天開展；生命週期1天（前售切角）；展覽攻略1個月以上\n發布：現在發；10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據\n前售票有今天截止的明確行動點，適合已規劃秋冬大阪行程的動畫迷。\n查核：主辦讀賣電視、Fashion Press與售票頁交叉核對展期、價格與限制；屬公告整理交叉，非兩次獨立現場採訪。一般／大學生前售2100、當日2300日圓；中高生1100／1300、小學生500／700，均含稅，另可能有系統費。10:00–18:00、最後入場17:30；中高生需學生證、每票一人一次、不可再入場。未就學兒童須18歲以上保護者同行。早割雙人票已截止，不推薦。未見外國籍排除，但海外付款／取票與外國學生證接受方式未實測，不能保證皆可購買。前售截止日本23:59等於台灣22:59。\n\n分潤：中；購票需求直接，但本期KKday商品原頁受阻，尚未核對可用票種及海外購買條件；住宿只是延伸，先評中。；商品：展覽入場票（商品條件待確認）、梅田住宿；限制：須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html)；[交叉核對](https://www.fashion-press.net/news/151607)；[主辦10/1追加公告](https://prtimes.jp/main/html/rd/p/000000004.000186376.html)；[正規售票注意事項](https://l-tike.com/order/?gLcode=54268)；[主辦列出的售票通路](https://kyodo-osaka.co.jp/search/detail/13253)\n平台查閱：trip：搜尋細田守／梅田住宿未取得可核實的直接對應商品頁，本期留空。 \nbooking：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 大阪梅田住宿列表 https://www.booking.com/district/jp/osaka/umeda.en-gb.html 供本來需要梅田住宿的旅客比位置，不主張每間都緊鄰會場。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nkkday：主辦列KKday通路；乾淨商品 https://www.kkday.com/product/614633 及ja、zh-tw版本均無法讀取，不能verified、不自動帶cid。分類索引可見商品不等於已核實商品條件。查閱 2026-10-27T10:06:04+08:00 \nklook：已搜尋，未取得並核實直接適用商品，暫不推薦。 \n\n入選｜日本全家×リュウジ第三彈今天開賣：9款新品\n分類：美食／購物；地區：全日本／FamilyMart；部分地區門市例外\n公布／更新：官方2026/10/26，無時刻；ASCII同日18:00 JST\n活動／販售：2026/10/27起販售，依地區可能不同\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：20/19/12/13/6/8/4/3＝85/100；編輯潛力評分\n爆紅／收藏／分享：4/5、3/5、4/5；風險低；時效今天開賣；10/26公告只有日期，不能斷言精確24小時；生命週期1週\n發布：晚上發；10/27 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n今天在日本就能找的新品，價格與品類清楚；不需要為了購買另外規劃遠程交通。\n查核：官方公告與ASCII編輯文章核對9品、10/27上市與含稅價格；ASCII依公告整理，非獨立試吃，不以兩次採訪宣稱美味。飯糰198、生薑燒便當698、蒜奶油雞肉麵598、檸檬蔥鹽炒麵598、韭菜醬雞348、辣湯468、馬鈴薯沙拉198、冷凍蒜香麵430、牛壽喜燒包258日圓，為8%稅表示；區域售價、日期、規格可能不同，部分店不賣。壽喜燒包數量限定，未查任何店即時庫存。無公告要求旅客會員或日本居住資格；冷凍品須確認加熱條件。\n\n分潤：低；門市食品與訂房、票券關聯薄弱，四平台都不硬配商品。；商品：無；限制：以門市售價、包裝過敏原及庫存為準。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.family.co.jp/company/news_releases/2026/20261026_01.html)；[交叉核對](https://ascii.jp/elem/000/004/445/4445818/)\n平台查閱：trip：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nbooking：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nkkday：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nklook：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \n\n入選｜三島樂壽園菊祭10/30開始：白天與夜菊日期不同\n分類：季節情報／活動；地區：中部／靜岡三島樂壽園\n公布／更新：官方頁2026/9/1更新；じゃらん9/2更新，皆非今天新公告\n活動／販售：10/30–11/30；夜菊11/6–8及11/13–15\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/17/11/14/7/10/4/4＝82/100；編輯潛力評分\n爆紅／收藏／分享：3/5、5/5、4/5；風險低；時效超過7天例外：9/1官方更新，三天後正式開始；生命週期1個月以上\n發布：晚上發；10/27 20:00 Asia/Taipei；編輯建議，無帳號歷史數據\n三天後開始，適合伊豆或三島行程補點；夜間僅六天，避免把整個月都當夜間開放。\n查核：三島市與じゃらん（資訊提供i-TAK）交叉核對10/30–11/30、清水寺造景與夜菊六日；不是兩次現場採訪。約8000盆菊花、最高4公尺造景；官網圖多為2025平安神宮，不能標成2026現場照。10月9–17時最後入園16:30，11月9–16:30最後16時；活動期間無休。15歲以上300日圓，中學生以下免費；夜菊17–21時最後20:45，僅菊展區開放且免費，停車場夜間不營業。夜間細節依市府公告，尚無第二獨立現場驗證；開幕不等於滿開，園方例年11月中旬見頃。外國旅客一般入園未見國籍限制，團體巴士另預約。\n\n分潤：中；有一個月規劃期，可銜接三島住宿，但活動可當日往返，先確認行程確有住宿需求。；商品：三島地區住宿；限制：須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html)；[交叉核對](https://www.jalan.net/event/evt_362289/)；[園方開放與費用](https://www.city.mishima.shizuoka.jp/site/rakujyuen/5429.html)\n平台查閱：trip：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 三島住宿列表 https://jp.trip.com/hotels/mishima-hotels-list-50259/ 已核對靜岡三島市，便於夜菊與伊豆行程住宿比較。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nbooking：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 三島市住宿列表 https://www.booking.com/city/jp/mishima.ja.html 可比較三島站附近住宿，價格與空房需重選日期。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nkkday：搜尋只取得三島周邊旅遊文章，非本次菊祭票券；不把Skywalk商品當樂壽園。 \nklook：搜尋樂壽園未取得已核實的本季票券或交通頁；不硬搭其他園區。 \n\n未入選｜青森紅葉觀測更新\n分類：季節情報；地區：東北／青森\n公布／更新：頁首10/3；內文明示10/26觀測\n活動／販售：10/26觀測\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：17/18/10/13/5/9/3/3＝78/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。\n未入選原因：已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://aomori-tourism.com/topics/detail_92.html)\n平台查閱：\n\n未入選｜磐梯吾妻Skyline雪況提醒\n分類：交通／季節情報；地區：東北／福島\n公布／更新：10/26更新\n活動／販售：10/28早晨降雪預報線索\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：18/16/10/15/5/5/4/3＝76/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。\n未入選原因：官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html)\n平台查閱：\n\n未入選｜松本與上高地葉況更新\n分類：季節情報；地區：中部／長野\n公布／更新：各點10/26–27更新\n活動／販售：逐點觀測，不是保證未來見頃\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：18/18/11/13/5/9/4/3＝81/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。\n未入選原因：已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://visitmatsumoto.com/flowering/autumn-leaves/)\n平台查閱：\n\n未入選｜定山溪紅葉尾聲\n分類：季節情報；地區：北海道／定山溪\n公布／更新：索引10/21；原頁日期未完整核對\n活動／販售：10月下旬線索\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：10/18/9/12/4/7/3/3＝66/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。\n未入選原因：原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://jozankei.jp/news/kouyouinfo2026/)\n平台查閱：\n\n未入選｜日勝峠落葉資訊\n分類：季節情報；地區：北海道／日勝峠\n公布／更新：索引10/26；讀取頁10/24 16:02\n活動／販售：10/24觀測頁\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：12/15/8/12/4/6/3/2＝62/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。\n未入選原因：原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://koyo.walkerplus.com/detail/ar0101e154378/)\n平台查閱：\n\n未入選｜庄原紅葉資訊\n分類：季節情報；地區：中國地方／廣島庄原\n公布／更新：歷年表混列，當期日期待確認\n活動／販售：當期觀測尚未完全確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：6/13/8/10/4/8/3/3＝55/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。\n未入選原因：已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.shobara-info.com/special/4758)\n平台查閱：\n\n未入選｜Peko milky time大高新店線索\n分類：美食／購物；地區：中部／愛知名古屋\n公布／更新：搜尋索引10/26\n活動／販售：索引指10/28開店，待原文確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/14/9/10/5/8/3/3＝67/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。\n未入選原因：索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.fujiya-peko.co.jp/news/news/2026.html)\n平台查閱：\n\n未入選｜SEGA沖繩PARCO CITY快閃線索\n分類：購物／活動；地區：沖繩／浦添\n公布／更新：地方媒體索引10/26\n活動／販售：活動起迄未確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：12/15/11/9/6/8/4/3＝68/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。\n未入選原因：搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.churatoku.net/info/index.aspx?span=1)\n平台查閱：\n\n未入選｜THIRD石垣島休館後狀態待核\n分類：住宿／重大時事；地區：沖繩／石垣島\n公布／更新：索引10/25\n活動／販售：索引休館10/25–26；27日狀態未知\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：16/16/9/15/4/3/4/2＝69/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。\n未入選原因：原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.hotelthird.com/news/3666/)\n平台查閱：\n\n未入選｜嬬戀旅館冬季路面提醒\n分類：交通／住宿；地區：關東／群馬嬬戀\n公布／更新：索引10/26\n活動／販售：秋至初冬提醒\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：13/14/8/13/4/4/3/3＝62/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。\n未入選原因：原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.princehotels.co.jp/tsumagoi/informations/2026snowy_road/)\n平台查閱：\n\n未入選｜高知平日活動公告線索\n分類：政策／旅遊；地區：四國／高知\n公布／更新：縣府搜尋索引10/27\n活動／販售：適用期間與資格未知\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/14/10/10/5/5/4/3＝66/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。\n未入選原因：僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.pref.kochi.lg.jp/press1/event.p6.html)\n平台查閱：\n\n未入選｜金澤秋季活動與馬拉松\n分類：活動／交通；地區：北陸／石川金澤\n公布／更新：索引9/11；不是本日新公告\n活動／販售：馬拉松10/25已過；其他逐項待核\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：2/15/7/6/3/7/2/3＝45/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。\n未入選原因：原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html)\n平台查閱：\n\n【編輯首選】大阪細田守展：前售票今晚截止，明天開展；今天前售截止的實際期限比一般新品更容易促成查票與分享給同行者。只作編輯推薦，不代替使用者選題。 全家新品涵蓋旅客較廣，但沒有已確認的今日購買截止；展覽前售期限過後須改稿，因此今天優先。；目標近期去大阪的動畫迷、親子與梅田行程旅客；切角前售今晚截止＋展覽跨年休館避雷；時間10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據；生命週期1天（前售切角）；展覽攻略1個月以上\n【持續追蹤】\n10/28大阪細田守展開幕：核對正式開場、現場排隊與拍攝規則；有原始自然貼文才評熱度，不預稱爆紅。 https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html\n10/28磐梯吾妻Skyline路況：核對預報是否成真及道路官方實際管制；不將降雪預報寫成封路。 https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\n10/30樂壽園菊祭：核對開幕狀態、當年造景實照與花況；舊年度素材不能冒充新照。 https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html\n高知平日活動：追原公告與補助適用日期、居住／國籍條件及預約管道，未確認前不推薦優惠。 https://www.pref.kochi.lg.jp/press1/event.p6.html\n圖片僅提供可查找來源，不保證轉載或商用授權。推薦平台連結只供選品；未實測庫存、佣金或轉換率。",
+  "fullText": "日本每日內容雷達\n日期2026-10-27\n搜尋截止2026-10-27 10:06:04 Asia/Taipei（日本2026-10-27 11:06:04 Asia/Tokyo）\n【今天日本發生什麼】\n已查證：大阪細田守展前售券10/27日本23:59截止，10/28開幕。\n已查證：日本全家リュウジ第三彈9品10/27起上市，部分地區及門市有例外。\n已查證：三島樂壽園菊祭10/30開始；夜菊只有11月兩個週末六天。\n編輯觀察：秋季葉況應逐點讀觀測日期；本期看到搜尋摘要與原頁日期不一致，未將預測當實測。\n查核限制：部分沖繩、名古屋新訊只取得索引或無法讀原頁，留候選，不列精選。\n社群限制：未取得兩位作者、48小時原貼文及可核對讚／留言；本期無法建立熱榜。\n編輯觀察：只保留3個可用選題；15個候選含12個未通過查核線索，分數不代表事件已確認。\n【方法與限制】\n先整理15個不同事件候選，再依查核資格選出3題，沒有湊滿TOP10。分數為編輯判斷，未入選候選分數僅評估題材潛力；查核門檻優先於分數。社群不能建立熱榜，依內容與今天行動期限排列。北海道、東北、關東、北陸、中部、關西、中國、四國、九州、沖繩均搜尋；沒有足夠新證據的地區不硬選。官方公告與媒體整理交叉不代表兩次獨立採訪。\n已對9個事件作社群搜尋（含未入池的博多人形），其餘候選未逐題完成。無合格樣本；搜尋常回傳舊文或無關頁，不等於沒有人討論。TikTok robots阻擋；PTT冬季航班原文403且索引日期超過48小時，不能當近期熱度。各題evidence空陣列，不補零。\n社群實際查詢：\nリュウジ ファミマ 2026 10 27 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com\n2026 リュウジ ファミマ site:youtube.com OR site:ptt.cc OR site:dcard.tw OR site:tiktok.com\n細田守 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\n楽寿園 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com OR site:ptt.cc OR site:dcard.tw OR site:youtube.com\nリュウジ ファミマ site:threads.com after:2026-10-25\n細田守 大阪 site:x.com after:2026-10-25\n(青森 OR 上高地 OR 定山渓 OR 楽寿園 OR 細田守 OR リュウジ OR 博多人形 OR SEGA 沖縄 OR 大高 ペコ) (site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc OR site:x.com OR site:youtube.com) after:2026-10-25\nPTT排除線索：https://www.ptt.cc/bbs/Japan_Travel/M.1788508057.A.072.html （403、舊文，不列熱度）\n【今日精選與全部候選評分】\n入選｜大阪細田守展：前售票今晚截止，明天開展\n分類：活動／票券；地區：關西／大阪梅田 Grand Front大阪北館\n公布／更新：已讀主辦追加公告2026/10/1 12:02 JST；首次公告早於此，首發日期尚未完全確認\n活動／販售：展期10/28–2027/1/4；前售10/27 23:59 JST截止；12/31、1/1休館\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：20/18/12/14/7/8/5/4＝88/100；編輯潛力評分\n爆紅／收藏／分享：4/5、5/5、4/5；風險低；時效超過7天例外：已讀10/1追加公告；今天前售截止、明天開展；生命週期1天（前售切角）；展覽攻略1個月以上\n發布：現在發；10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據\n前售票有今天截止的明確行動點，適合已規劃秋冬大阪行程的動畫迷。\n查核：主辦讀賣電視、Fashion Press與售票頁交叉核對展期、價格與限制；屬公告整理交叉，非兩次獨立現場採訪。一般／大學生前售2100、當日2300日圓；中高生1100／1300、小學生500／700，均含稅，另可能有系統費。10:00–18:00、最後入場17:30；中高生需學生證、每票一人一次、不可再入場。未就學兒童須18歲以上保護者同行。早割雙人票已截止，不推薦。未見外國籍排除，但海外付款／取票與外國學生證接受方式未實測，不能保證皆可購買。前售截止日本23:59等於台灣22:59。\n\n分潤：中；購票需求直接，但本期KKday商品原頁受阻，尚未核對可用票種及海外購買條件；住宿只是延伸，先評中。；商品：展覽入場票（商品條件待確認）、梅田住宿；限制：須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html)；[交叉核對](https://www.fashion-press.net/news/151607)；[主辦10/1追加公告](https://prtimes.jp/main/html/rd/p/000000004.000186376.html)；[正規售票注意事項](https://l-tike.com/order/?gLcode=54268)；[主辦列出的售票通路](https://kyodo-osaka.co.jp/search/detail/13253)\n平台查閱：trip：搜尋細田守／梅田住宿未取得可核實的直接對應商品頁，本期留空。 \nbooking：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 大阪梅田住宿列表 https://www.booking.com/district/jp/osaka/umeda.en-gb.html 供本來需要梅田住宿的旅客比位置，不主張每間都緊鄰會場。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nkkday：主辦列KKday通路；乾淨商品 https://www.kkday.com/product/614633 及ja、zh-tw版本均無法讀取，不能verified、不自動帶cid。分類索引可見商品不等於已核實商品條件。查閱 2026-10-27T10:06:04+08:00 \nklook：已搜尋，未取得並核實直接適用商品，暫不推薦。 \n\n入選｜日本全家×リュウジ第三彈今天開賣：9款新品\n分類：美食／購物；地區：全日本／FamilyMart；部分地區門市例外\n公布／更新：官方2026/10/26，無時刻；ASCII同日18:00 JST\n活動／販售：2026/10/27起販售，依地區可能不同\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：20/19/12/13/6/8/4/3＝85/100；編輯潛力評分\n爆紅／收藏／分享：4/5、3/5、4/5；風險低；時效今天開賣；10/26公告只有日期，不能斷言精確24小時；生命週期1週\n發布：晚上發；10/27 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n今天在日本就能找的新品，價格與品類清楚；不需要為了購買另外規劃遠程交通。\n查核：官方公告與ASCII編輯文章核對9品、10/27上市與含稅價格；ASCII依公告整理，非獨立試吃，不以兩次採訪宣稱美味。飯糰198、生薑燒便當698、蒜奶油雞肉麵598、檸檬蔥鹽炒麵598、韭菜醬雞348、辣湯468、馬鈴薯沙拉198、冷凍蒜香麵430、牛壽喜燒包258日圓，為8%稅表示；區域售價、日期、規格可能不同，部分店不賣。壽喜燒包數量限定，未查任何店即時庫存。無公告要求旅客會員或日本居住資格；冷凍品須確認加熱條件。\n\n分潤：低；門市食品與訂房、票券關聯薄弱，四平台都不硬配商品。；商品：無；限制：以門市售價、包裝過敏原及庫存為準。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.family.co.jp/company/news_releases/2026/20261026_01.html)；[交叉核對](https://ascii.jp/elem/000/004/445/4445818/)\n平台查閱：trip：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nbooking：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nkkday：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \nklook：門市食品無自然對應預訂商品；平台搜尋未取得相符商品，不硬推住宿。 \n\n入選｜三島樂壽園菊祭10/30開始：白天與夜菊日期不同\n分類：季節情報／活動；地區：中部／靜岡三島樂壽園\n公布／更新：官方頁2026/9/1更新；じゃらん9/2更新，皆非今天新公告\n活動／販售：10/30–11/30；夜菊11/6–8及11/13–15\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/17/11/14/7/10/4/4＝82/100；編輯潛力評分\n爆紅／收藏／分享：3/5、5/5、4/5；風險低；時效超過7天例外：9/1官方更新，三天後正式開始；生命週期1個月以上\n發布：晚上發；10/27 20:00 Asia/Taipei；編輯建議，無帳號歷史數據\n三天後開始，適合伊豆或三島行程補點；夜間僅六天，避免把整個月都當夜間開放。\n查核：三島市與じゃらん（資訊提供i-TAK）交叉核對10/30–11/30、清水寺造景與夜菊六日；不是兩次現場採訪。約8000盆菊花、最高4公尺造景；官網圖多為2025平安神宮，不能標成2026現場照。10月9–17時最後入園16:30，11月9–16:30最後16時；活動期間無休。15歲以上300日圓，中學生以下免費；夜菊17–21時最後20:45，僅菊展區開放且免費，停車場夜間不營業。夜間細節依市府公告，尚無第二獨立現場驗證；開幕不等於滿開，園方例年11月中旬見頃。外國旅客一般入園未見國籍限制，團體巴士另預約。\n\n分潤：中；有一個月規劃期，可銜接三島住宿，但活動可當日往返，先確認行程確有住宿需求。；商品：三島地區住宿；限制：須確認使用日期、票種／房型、付款取票、退改、庫存、含不含活動及分潤資格。\n社群：熱度未確認：沒有讀取到符合48小時、兩位作者與讚／留言數門檻的原始貼文。星等及100分均為編輯判斷。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[官方資訊](https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html)；[交叉核對](https://www.jalan.net/event/evt_362289/)；[園方開放與費用](https://www.city.mishima.shizuoka.jp/site/rakujyuen/5429.html)\n平台查閱：trip：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 三島住宿列表 https://jp.trip.com/hotels/mishima-hotels-list-50259/ 已核對靜岡三島市，便於夜菊與伊豆行程住宿比較。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nbooking：已讀取確認地區的住宿列表，不是已查空房或含活動套票。 三島市住宿列表 https://www.booking.com/city/jp/mishima.ja.html 可比較三島站附近住宿，價格與空房需重選日期。 自行輸入實際入住日期，核對位置、房型、稅費、退改及庫存；不含活動門票，未驗證佣金資格。 查閱2026-10-27T10:06:04+08:00\nkkday：搜尋只取得三島周邊旅遊文章，非本次菊祭票券；不把Skywalk商品當樂壽園。 \nklook：搜尋樂壽園未取得已核實的本季票券或交通頁；不硬搭其他園區。 \n\n未入選｜青森紅葉觀測更新\n分類：季節情報；地區：東北／青森\n公布／更新：頁首10/3；內文明示10/26觀測\n活動／販售：10/26觀測\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：17/18/10/13/5/9/3/3＝78/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。\n未入選原因：已讀官方各點葉況，仍缺第二獨立當期觀測；不將單一表格當全縣滿紅。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://aomori-tourism.com/topics/detail_92.html)\n平台查閱：\n\n未入選｜磐梯吾妻Skyline雪況提醒\n分類：交通／季節情報；地區：東北／福島\n公布／更新：10/26更新\n活動／販售：10/28早晨降雪預報線索\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：18/16/10/15/5/5/4/3＝76/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。\n未入選原因：官方已讀，仍缺當日路況與第二預報核對；不把預報寫成已降雪或封路。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html)\n平台查閱：\n\n未入選｜松本與上高地葉況更新\n分類：季節情報；地區：中部／長野\n公布／更新：各點10/26–27更新\n活動／販售：逐點觀測，不是保證未來見頃\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：18/18/11/13/5/9/4/3＝81/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。\n未入選原因：已讀市觀光頁，索引與原頁日期有變化，缺第二當期觀測；不發布全區同狀態。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://visitmatsumoto.com/flowering/autumn-leaves/)\n平台查閱：\n\n未入選｜定山溪紅葉尾聲\n分類：季節情報；地區：北海道／定山溪\n公布／更新：索引10/21；原頁日期未完整核對\n活動／販售：10月下旬線索\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：10/18/9/12/4/7/3/3＝66/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。\n未入選原因：原頁已開啟但精確更新欄位未核實，缺第二來源，不把舊預測當現況。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://jozankei.jp/news/kouyouinfo2026/)\n平台查閱：\n\n未入選｜日勝峠落葉資訊\n分類：季節情報；地區：北海道／日勝峠\n公布／更新：索引10/26；讀取頁10/24 16:02\n活動／販售：10/24觀測頁\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：12/15/8/12/4/6/3/2＝62/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。\n未入選原因：原頁已讀且顯示落葉，日期與摘要不同；缺官方當期交叉，不給精確24小時標籤。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://koyo.walkerplus.com/detail/ar0101e154378/)\n平台查閱：\n\n未入選｜庄原紅葉資訊\n分類：季節情報；地區：中國地方／廣島庄原\n公布／更新：歷年表混列，當期日期待確認\n活動／販售：當期觀測尚未完全確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：6/13/8/10/4/8/3/3＝55/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。\n未入選原因：已開官方頁，但歷年與當年觀測未完全拆清；不能用2022照片或2024欄位做今天葉況。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.shobara-info.com/special/4758)\n平台查閱：\n\n未入選｜Peko milky time大高新店線索\n分類：美食／購物；地區：中部／愛知名古屋\n公布／更新：搜尋索引10/26\n活動／販售：索引指10/28開店，待原文確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/14/9/10/5/8/3/3＝67/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。\n未入選原因：索引有10/28大高店，開啟品牌年表未找到同筆；尚未完成原始公告與第二來源核對。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.fujiya-peko.co.jp/news/news/2026.html)\n平台查閱：\n\n未入選｜SEGA沖繩PARCO CITY快閃線索\n分類：購物／活動；地區：沖繩／浦添\n公布／更新：地方媒體索引10/26\n活動／販售：活動起迄未確認\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：12/15/11/9/6/8/4/3＝68/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。\n未入選原因：搜尋摘要有新文，實際開啟列表未找到同文；不以RSS／索引標題當已查證事件。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.churatoku.net/info/index.aspx?span=1)\n平台查閱：\n\n未入選｜THIRD石垣島休館後狀態待核\n分類：住宿／重大時事；地區：沖繩／石垣島\n公布／更新：索引10/25\n活動／販售：索引休館10/25–26；27日狀態未知\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：16/16/9/15/4/3/4/2＝69/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。\n未入選原因：原頁無法讀取；不能推論今天延長休館，也不能推論恢復營業。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.hotelthird.com/news/3666/)\n平台查閱：\n\n未入選｜嬬戀旅館冬季路面提醒\n分類：交通／住宿；地區：關東／群馬嬬戀\n公布／更新：索引10/26\n活動／販售：秋至初冬提醒\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：13/14/8/13/4/4/3/3＝62/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。\n未入選原因：原頁無法讀取，尚未核對官方道路狀態；不當今日交通管制發布。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.princehotels.co.jp/tsumagoi/informations/2026snowy_road/)\n平台查閱：\n\n未入選｜高知平日活動公告線索\n分類：政策／旅遊；地區：四國／高知\n公布／更新：縣府搜尋索引10/27\n活動／販售：適用期間與資格未知\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：15/14/10/10/5/5/4/3＝66/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險低；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。\n未入選原因：僅記者資料索引線索；原頁讀取不足以確認補助內容、外國旅客資格，不寫成可領優惠。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.pref.kochi.lg.jp/press1/event.p6.html)\n平台查閱：\n\n未入選｜金澤秋季活動與馬拉松\n分類：活動／交通；地區：北陸／石川金澤\n公布／更新：索引9/11；不是本日新公告\n活動／販售：馬拉松10/25已過；其他逐項待核\n八項（即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值）：2/15/7/6/3/7/2/3＝45/100；未核實候選的暫定編輯潛力，非事實認證\n爆紅／收藏／分享：2/5、3/5、2/5；風險中；時效未完全確認；日期與讀取限制見公告欄及排除原因；生命週期3天（候選觀察，非已核實）\n發布：先收藏觀察；不建議以目前資料發布\n候選線索評估，非發布建議；未通過查核門檻。\n查核：原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。\n未入選原因：原頁503；索引含已結束活動，今天沒有新增進展，不沿用交通管制或報名推薦。\n分潤：未評估；事實或時效未完成確認，先不推進商業選品。；商品：無；限制：先補原始公告、第二來源及適用資格。\n社群：熱度未確認；未取得可計分原始樣本。；查核2026-10-27T10:06:04+08:00；無可展示互動數。\n來源：[原頁／未完成讀取的查核線索](https://www.kanazawa-kankoukyoukai.or.jp/article/detail_368.html)\n平台查閱：\n\n【編輯首選】大阪細田守展：前售票今晚截止，明天開展；今天前售截止的實際期限比一般新品更容易促成查票與分享給同行者。只作編輯推薦，不代替使用者選題。 全家新品涵蓋旅客較廣，但沒有已確認的今日購買截止；展覽前售期限過後須改稿，因此今天優先。；目標近期去大阪的動畫迷、親子與梅田行程旅客；切角前售今晚截止＋展覽跨年休館避雷；時間10/27 12:00 Asia/Taipei，勿晚於22:59購票期限；編輯建議，無帳號歷史數據；生命週期1天（前售切角）；展覽攻略1個月以上\n【持續追蹤】\n10/28大阪細田守展開幕：核對正式開場、現場排隊與拍攝規則；有原始自然貼文才評熱度，不預稱爆紅。 https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html\n10/28磐梯吾妻Skyline路況：核對預報是否成真及道路官方實際管制；不將降雪預報寫成封路。 https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\n10/30樂壽園菊祭：核對開幕狀態、當年造景實照與花況；舊年度素材不能冒充新照。 https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html\n高知平日活動：追原公告與補助適用日期、居住／國籍條件及預約管道，未確認前不推薦優惠。 https://www.pref.kochi.lg.jp/press1/event.p6.html\n圖片僅提供可查找來源，不保證轉載或商用授權。推薦平台連結只供選品；未實測庫存、佣金或轉換率。\n【各選題完整草稿】\n大阪細田守展：前售票今晚截止，明天開展\n1/3\n大阪細田守展的前售票今天截止：一般／大學生2100日圓，明天起當日票2300日圓。\n\n展覽10月28日才開幕，前售到10月27日日本時間23:59，也就是台灣22:59。已排好秋冬大阪行程、想看《跳躍吧！時空少女》《夏日大作戰》製作資料的人，今天可以先確認票種；購票可能另有系統費。\n\n2/3\n地點在梅田Grand Front大阪北館的Knowledge Capital Event Lab，展期到2027年1月4日。\n\n每天10:00–18:00，最後入場17:30；12月31日和1月1日休館，跨年行程別排錯。\n\n中高生前售1100／當日1300日圓，入場要學生證；小學生500／700日圓。未就學兒童免費，但要18歲以上保護者同行。\n\n3/3\n先選參觀日、確認休館，再從主辦頁連到正規售票通路。每票限一人一次，不能再入場；周邊商品區也要入場後才能使用。\n\n海外付款、取票方式及外國學生證接受條件，請在下單前向售票端確認，本次沒有完成購買測試。早割雙人票已結束，不要照舊文找那個方案。\n主辦與票價：https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html\n切角與開頭\n截止提醒：大阪細田守展明天開幕，前售票卻在今天台灣22:59截止。\n票價比較：一般票前售2100、當日2300日圓；買之前也把系統費算進去。\n跨年避雷：這個大阪展跨到明年1月，但12月31日、1月1日休館。\n動畫迷行程：想看《夏日大作戰》的製作資料，這次可以排進大阪梅田行程。\n購票限制：細田守展不是買票就能反覆進出：每票一人一次，物販也需入場。\n配圖\n主辦展覽主視覺及票價表，可查找素材；商用及轉載授權未確認，不能自行宣稱可用。 https://www.ytv.co.jp/event/contents/hosodagenten-exhibit.html\n延伸\n可延伸商業內容：梅田半日攻略、住宿比較與正規展票；本期商品原頁受阻，先不產生票券分潤連結。\n\n日本全家×リュウジ第三彈今天開賣：9款新品\n1/3\n今天逛日本全家，可以找リュウジ第三彈聯名：9款新品從10月27日開始販售。\n\n想先買一樣試試，胡椒鮪魚美乃滋飯糰198日圓、牛壽喜燒包258日圓；想當一餐，生薑燒豬肉便當698日圓。都是官方8%含稅標示，部分地區價格、上市日或品項可能不同。\n\n2/3\n這次不只便當，還有蒜奶油雞肉義大利麵、檸檬蔥鹽炒麵，各598日圓；韭菜醬雞肉348、辣湯468、馬鈴薯沙拉198日圓。\n\n430日圓的蒜香義大利麵是冷凍商品，住飯店的人先確認有沒有合適的加熱設備。牛壽喜燒包裡是蛋黃風味醬，官方標數量限定，但不能因此推論每家店都缺貨。\n\n3/3\n購買時認包裝上的「リュウジの至高のレシピ」，再看門市價牌和過敏原標示；不需要為找齊9款特地繞遠路。\n\n這是新品資料整理，沒有實際試吃，也未確認各店庫存。官方說部分地區、門市不販售，照片也屬商品示意。\n官方完整品項：https://www.family.co.jp/company/news_releases/2026/20261026_01.html\n切角與開頭\n今日新品：日本全家今天上架リュウジ聯名第三彈，共9款，部分門市除外。\n小額嘗鮮：198日圓飯糰、258日圓壽喜燒包，先從一樣新品開始試。\n一餐比較：今天的日本超商晚餐，可以先比較698日圓便當與598日圓麵食。\n住宿加熱：430日圓那款是冷凍義大利麵，飯店有沒有設備要先確認。\n門市限制：看到全國發售也別以為每店都有9款，官方保留地區與門市例外。\n配圖\n官方9款商品圖及價格；屬示意圖，轉載與商用授權未確認。 https://www.family.co.jp/company/news_releases/2026/20261026_01.html\n延伸\n以新品價格與門市尋找整理延伸，不硬塞旅遊商品。\n\n三島樂壽園菊祭10/30開始：白天與夜菊日期不同\n1/3\n三島樂壽園菊祭10月30日開始，但想看夜菊，要選11月6–8日或13–15日。\n\n2026年主題是用菊花裝飾的「清水寺」造景，整個菊祭持續到11月30日。白天一般15歲以上300日圓、中學生以下免費；夜菊場次免費，只有菊展區開放，不是全園免費夜遊。\n\n2/3\n白天和夜間的時間也不同，以下都是日本時間：\n\n• 10月：9:00–17:00，最後入園16:30。\n• 11月：9:00–16:30，最後入園16:00。\n• 指定夜菊日：17:00–21:00，最後入園20:45。\n\n菊祭期間無休。夜間停車場不營業，開車的人先處理停車與回程，再決定晚上來。\n\n3/3\nJR三島站步行約3分鐘可到樂壽園，適合接在三島或伊豆行程，不一定要為活動多住一晚。\n\n官網目前有不少2025年平安神宮造景照片，別當成今年已完工的清水寺現場照；開幕也不等於菊花全開，園方標的是例年11月中旬見頃。出發前再看當日公告與花況。\n官方：https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html\n切角與開頭\n日期避雷：樂壽園菊祭有一個月，夜菊卻只有六天，先圈對日期。\n夜間費用：三島夜菊免費，但只開菊展區，而且停車場夜間不營業。\n造景亮點：今年三島用菊花做清水寺，官網舊照的平安神宮是去年作品。\n順路行程：三島站步行約3分鐘的菊祭，10月30日起可排進伊豆行程。\n花況判讀：10月30日開幕，不等於菊花全開；園方給的是例年11月中旬見頃。\n配圖\n園方菊祭說明與夜菊時間表；舊年度照片標2025，不當2026現場；圖片授權另確認。 https://www.city.mishima.shizuoka.jp/site/rakujyuen/32929.html\n延伸\n可延伸商業內容：三島至伊豆行程與三島住宿；先判斷是否真需要過夜，夜菊免費不代表其他交通免費。"
+}
