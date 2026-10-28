@@ -1,0 +1,791 @@
+{
+  "date": "2026-10-28",
+  "cutoff": "2026-10-28 10:12 Asia/Taipei（日本11:12 Asia/Tokyo）；社群補查10:57台灣／11:57日本；發布前重讀主要來源15:32台灣／16:32日本",
+  "trends": [
+    "已查證：昭和記念公園活動明天開始，夜間日本庭園免加購實為10/29–31三天，仍需入園費。",
+    "已查證：名古屋星ヶ丘三越10/28三店開幕；9月與10/21已開始的其他店不重包成今日新店。",
+    "行前提醒：JR東日本11:04 JST頁仍列東北強風影響；目前只有官方單一來源，出發前查看即時頁。",
+    "待查：福島10/26預報28日早朝降雪，不能推定今天已封路。",
+    "編輯觀察：搜尋混入舊年紅葉貼文、長期活動與商品索引，沒有合格的48小時社群樣本。"
+  ],
+  "choice": {
+    "id": "showa-night-2026",
+    "title": "昭和記念公園夜間庭園：10/29–31免加購觀賞券",
+    "score": 91,
+    "reason": "明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。",
+    "versusSecond": "東京旅客覆蓋較廣、明天開始且三天票務差異容易誤讀，比區域伴手禮更有即時行動價值。",
+    "publishAt": "10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+    "audience": "已在東京或即將赴東京的自由行旅客",
+    "angle": "免加購不等於免入園費",
+    "lifecycle": "3天（免加購）；活動攻略1個月以上"
+  },
+  "top10": [
+    {
+      "id": "showa-night-2026",
+      "title": "昭和記念公園夜間庭園：10/29–31免加購觀賞券",
+      "region": "關東／東京立川・昭島",
+      "category": "季節情報",
+      "announcementDate": "10/10 14:32 JST追加公告；首發早於10/5媒體稿",
+      "eventDate": "10/29–11/29；免加購10/29–31",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.prfj.or.jp/works/park/showa.html"
+        },
+        {
+          "label": "媒體交叉核對",
+          "url": "https://www.timeout.jp/tokyo/ja/things-to-do/showakinenautumunightwalk"
+        },
+        {
+          "label": "官方10/10追加一天原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000909.000032901.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/10追加公告、明天活動開始",
+      "lifecycle": "3天（免加購）；活動攻略1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "socialHeat": {
+        "checkedAt": "2026-10-28T10:57:00+08:00",
+        "summary": "熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://notes.tiktok.com/%40harunoheya4747/7292475874237235718?region=jp",
+            "label": "2023秋の夜散歩舊文索引",
+            "reason": "2023事件、非今年48小時原始貼文；TikTok robots限制，互動不採計。"
+          },
+          {
+            "url": "https://www.threads.com/@lavenderhill_fairy/post/DRbfXbxkj8B",
+            "label": "2025/11/23銀杏原始貼文（歷史參考）",
+            "reason": "10/28 10:57台灣補查紀錄：6652讚、42留言、32轉發、畫面3.3萬瀏覽。為去年景點貼文，非今年活動，不計48小時熱度。"
+          }
+        ],
+        "queries": [
+          "昭和記念公園 秋の夜散歩 site:threads.com after:2026-10-26",
+          "昭和記念公園 site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc after:2026-10-26",
+          "秋の夜散歩 site:x.com OR site:tiktok.com OR site:youtube.com after:2026-10-26"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接立川住宿，但多數東京旅客能當日往返；套票與今年出發日尚未確認。",
+        "products": [
+          "立川住宿（有過夜需求時）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果本來就打算在立川住一晚，可先比較車站與夜間入口的位置；住宿不含公園或庭園門票。",
+        "checks": "入住日、房型、位置、退改、庫存與分潤資格另核對；沒有確認套票。",
+        "assessedOn": "2026-10-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀立川市住宿列表，未查指定日期空房，不含活動門票。",
+          "pages": [
+            {
+              "title": "立川市住宿列表",
+              "url": "https://jp.trip.com/hotels/tachikawa-hotels-list-35743/",
+              "kind": "住宿列表",
+              "reason": "僅供確有立川過夜需求的人比較位置。",
+              "checks": "自行輸入日期與人數，核對總價、退改與分潤資格。",
+              "checkedAt": "2026-10-28T10:09:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀立川市住宿列表，未查指定日期空房，不含活動門票。",
+          "pages": [
+            {
+              "title": "立川市住宿列表",
+              "url": "https://www.booking.com/city/jp/tachikawa.ja.html",
+              "kind": "住宿列表",
+              "reason": "僅供確有立川過夜需求的人比較位置。",
+              "checks": "自行輸入日期與人數，核對總價、退改與分潤資格。",
+              "checkedAt": "2026-10-28T10:09:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟 https://www.kkday.com/ja/product/153868 回傳403；未核實今年商品條件，不產生推薦或cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/131550-mt-takao-maple-festival-showa-memorial-park-yomiuriland-illumintion/ ，為高尾山＋昭和記念公園＋讀賣樂園行程，但頁面未確認2026出發日及日本庭園門票，故不推薦。",
+          "pages": []
+        }
+      ],
+      "verification": "管理財團臨時頁與10/10原公告確認10/29–31只需公園入園費；Time Out 10/5尚寫29–30，屬追加前資訊。兩官方頁不是獨立採訪；媒體交叉確認會期、點燈與基本費用。公園主站暫停顯示，asoview正文僅iframe，未測試購票。成人450、65歲以上210、中學生以下免費；11/1起夜間庭園另成人及長者1200起、小中學生600起，提前一週可買。16:30–20:30點燈、21時閉園；16:30後只開立川與西立川出入口。一般入園未見國籍限制，長者證件及海外付款細節未確認；當日葉況、取消狀態需出發前再查。",
+      "draft": {
+        "threads": [
+          "昭和記念公園「秋の夜散歩」明天開始。10月29～31日，日本庭園夜間不用另外買觀賞券，但公園入園費仍要付。\n\n成人450日圓、65歲以上210日圓，中學生以下免費。舊介紹可能只寫29、30日；園方10月10日已公告追加31日，這次依官方新條件整理。",
+          "整個活動是10月29日至11月29日。日本時間16:30～20:30點燈，21:00閉園，兩個時間別混在一起。\n\n11月1日起，夜間日本庭園要另購票：成人與65歲以上1200日圓起，小中學生600日圓起，再加上適用的公園入園費。園方表示可提前一週購買，實際票價與可售日期請查售票頁。",
+          "晚上進出只走立川或西立川入口；西立川站到西立川入口約步行2分鐘，立川站到立川入口約18分鐘，別只看最近車站名稱。\n\n開燈不代表紅葉已到見頃，本次未核對當日葉況。公園主網站目前暫停顯示，出發前先看管理財團臨時資訊，確認日期與當日公告，再安排回程。\n官方：https://www.prfj.or.jp/works/park/showa.html"
+        ],
+        "angles": [
+          {
+            "name": "費用",
+            "opening": "東京夜楓想省一張庭園票，可以留意10/29–31，但公園入園費仍要付。"
+          },
+          {
+            "name": "避雷",
+            "opening": "昭和記念公園的「免加購」有三天，舊文章可能還停在兩天。"
+          },
+          {
+            "name": "交通",
+            "opening": "晚上去昭和記念公園，先選對入口：16:30後只開立川與西立川。"
+          },
+          {
+            "name": "時間",
+            "opening": "點燈到20:30，閉園是21:00；昭和記念公園夜遊要分清這兩個時間。"
+          },
+          {
+            "name": "賞景",
+            "opening": "夜間燈光和真正的紅葉見頃是兩回事；明天開幕不等於滿園已紅。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺與燈景示意；不得標成今天現場葉況，商用授權未確認。",
+            "url": "https://prtimes.jp/main/html/rd/p/000000909.000032901.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：立川住宿與夜遊回程攻略，僅有過夜需求才適合；住宿不含門票。"
+        ]
+      }
+    },
+    {
+      "id": "hoshigaoka-food-20261028",
+      "title": "名古屋星ヶ丘三越今天新增3家甜點店",
+      "region": "中部／愛知名古屋星ヶ丘",
+      "category": "購物／美食",
+      "announcementDate": "10/19 16:30 JST官方公告",
+      "eventDate": "10/28新店；指定商品限定至11/3",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "適合已在名古屋、想換伴手禮選擇的讀者；不把21日已結束的活動套到今天。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html"
+        },
+        {
+          "label": "媒體交叉核對",
+          "url": "https://www.aichispot.com/hoshigaoka-mitsukoshi-syokuhin26-open/"
+        },
+        {
+          "label": "官方原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000185183.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/19公告、今天正式開店",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "socialHeat": {
+        "checkedAt": "2026-10-28T10:57:00+08:00",
+        "summary": "熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "星ヶ丘三越 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com after:2026-10-26"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市伴手禮不自然銜接訂房或票券，不硬配商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "門市庫存、保存期限、過敏原與價格以現場確認；不宣稱免稅。",
+        "assessedOn": "2026-10-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        }
+      ],
+      "verification": "官方特設頁與Aichi Spot核對三家新店及限定商品；媒體依官方資料整理，不是兩次現場採訪。10/19新聞稿莫洛佐夫列10/28(金)星期筆誤，特設頁WED與日曆一致，採10/28星期三。沒有門市即時庫存及親身試吃。一般門市購物未見國籍限制，不推定免稅資格。 發布前15:32台灣再次開啟官方特設頁遇逾時；本日上午已讀原文，媒體原頁仍可讀。本期不宣稱現場已實測開店或有庫存。",
+      "draft": {
+        "threads": [
+          "今天在名古屋找伴手禮，可以多看星ヶ丘三越：10月28日新增TEA BREAK、ベルプラージュ、モンロワール三家甜點店。\n\nTEA BREAK是Morozoff的烘焙點心品牌，官方標示東海地區首店；這次新增的選擇在星ヶ丘，別跑到名古屋站或榮的其他百貨。",
+          "預算可以先看這三款，都是官方標示日圓價格：\n\n• TEA BREAK餅乾、派與沙布列組合：一罐3240。\n• Mon Loire Leaf Memory服務袋：230克1404。\n• Belle Plage Coco Sablé服務包：12片864。\n\n後兩款標示10月28日至11月3日限定販售，沒有確認門市庫存；內容量不同，別直接當成同類商品比單價。",
+          "購買前再看保存期限、過敏原及是否需要保冷；本次是新品資料整理，沒有實際試吃，也不保證排隊狀況。\n\n10月21日的開店限定企劃已過期，不能照舊圖找同樣贈品。先用官方地下1樓地圖找這三店，再核對當天品項；本次不把購物資訊延伸成未查證的免稅或折扣。\n官方：https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html"
+        ],
+        "angles": [
+          {
+            "name": "新店",
+            "opening": "星ヶ丘三越今天新增三家甜點店，名古屋伴手禮多了幾個選擇。"
+          },
+          {
+            "name": "預算",
+            "opening": "864、1404、3240日圓，星ヶ丘三越這次的新點心可以先照內容量挑。"
+          },
+          {
+            "name": "限定",
+            "opening": "部分新店商品只標10/28～11/3販售，先核對日期再去。"
+          },
+          {
+            "name": "區域",
+            "opening": "這次的新店在星ヶ丘，別把名古屋所有三越都當成同一個地點。"
+          },
+          {
+            "name": "避雷",
+            "opening": "10/21的開店贈品已過期，今天看10/28新店資訊。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方食品樓層地圖與商品照；可查找不等於可商用，授權需另外確認。",
+            "url": "https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html"
+          }
+        ],
+        "extensions": [
+          "可延伸名古屋伴手禮比較；不硬塞訂房或票券分潤。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "showa-night-2026",
+      "title": "昭和記念公園夜間庭園：10/29–31免加購觀賞券",
+      "region": "關東／東京立川・昭島",
+      "category": "季節情報",
+      "announcementDate": "10/10 14:32 JST追加公告；首發早於10/5媒體稿",
+      "eventDate": "10/29–11/29；免加購10/29–31",
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "why": "明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.prfj.or.jp/works/park/showa.html"
+        },
+        {
+          "label": "媒體交叉核對",
+          "url": "https://www.timeout.jp/tokyo/ja/things-to-do/showakinenautumunightwalk"
+        },
+        {
+          "label": "官方10/10追加一天原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000909.000032901.html"
+        }
+      ],
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/10追加公告、明天活動開始",
+      "lifecycle": "3天（免加購）；活動攻略1個月以上",
+      "publishDecision": "現在發",
+      "publishAt": "10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "socialHeat": {
+        "checkedAt": "2026-10-28T10:57:00+08:00",
+        "summary": "熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://notes.tiktok.com/%40harunoheya4747/7292475874237235718?region=jp",
+            "label": "2023秋の夜散歩舊文索引",
+            "reason": "2023事件、非今年48小時原始貼文；TikTok robots限制，互動不採計。"
+          },
+          {
+            "url": "https://www.threads.com/@lavenderhill_fairy/post/DRbfXbxkj8B",
+            "label": "2025/11/23銀杏原始貼文（歷史參考）",
+            "reason": "10/28 10:57台灣補查紀錄：6652讚、42留言、32轉發、畫面3.3萬瀏覽。為去年景點貼文，非今年活動，不計48小時熱度。"
+          }
+        ],
+        "queries": [
+          "昭和記念公園 秋の夜散歩 site:threads.com after:2026-10-26",
+          "昭和記念公園 site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc after:2026-10-26",
+          "秋の夜散歩 site:x.com OR site:tiktok.com OR site:youtube.com after:2026-10-26"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可銜接立川住宿，但多數東京旅客能當日往返；套票與今年出發日尚未確認。",
+        "products": [
+          "立川住宿（有過夜需求時）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果本來就打算在立川住一晚，可先比較車站與夜間入口的位置；住宿不含公園或庭園門票。",
+        "checks": "入住日、房型、位置、退改、庫存與分潤資格另核對；沒有確認套票。",
+        "assessedOn": "2026-10-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀立川市住宿列表，未查指定日期空房，不含活動門票。",
+          "pages": [
+            {
+              "title": "立川市住宿列表",
+              "url": "https://jp.trip.com/hotels/tachikawa-hotels-list-35743/",
+              "kind": "住宿列表",
+              "reason": "僅供確有立川過夜需求的人比較位置。",
+              "checks": "自行輸入日期與人數，核對總價、退改與分潤資格。",
+              "checkedAt": "2026-10-28T10:09:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀立川市住宿列表，未查指定日期空房，不含活動門票。",
+          "pages": [
+            {
+              "title": "立川市住宿列表",
+              "url": "https://www.booking.com/city/jp/tachikawa.ja.html",
+              "kind": "住宿列表",
+              "reason": "僅供確有立川過夜需求的人比較位置。",
+              "checks": "自行輸入日期與人數，核對總價、退改與分潤資格。",
+              "checkedAt": "2026-10-28T10:09:00+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟 https://www.kkday.com/ja/product/153868 回傳403；未核實今年商品條件，不產生推薦或cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/131550-mt-takao-maple-festival-showa-memorial-park-yomiuriland-illumintion/ ，為高尾山＋昭和記念公園＋讀賣樂園行程，但頁面未確認2026出發日及日本庭園門票，故不推薦。",
+          "pages": []
+        }
+      ],
+      "verification": "管理財團臨時頁與10/10原公告確認10/29–31只需公園入園費；Time Out 10/5尚寫29–30，屬追加前資訊。兩官方頁不是獨立採訪；媒體交叉確認會期、點燈與基本費用。公園主站暫停顯示，asoview正文僅iframe，未測試購票。成人450、65歲以上210、中學生以下免費；11/1起夜間庭園另成人及長者1200起、小中學生600起，提前一週可買。16:30–20:30點燈、21時閉園；16:30後只開立川與西立川出入口。一般入園未見國籍限制，長者證件及海外付款細節未確認；當日葉況、取消狀態需出發前再查。",
+      "selected": true,
+      "exclusionReason": ""
+    },
+    {
+      "id": "hoshigaoka-food-20261028",
+      "title": "名古屋星ヶ丘三越今天新增3家甜點店",
+      "region": "中部／愛知名古屋星ヶ丘",
+      "category": "購物／美食",
+      "announcementDate": "10/19 16:30 JST官方公告",
+      "eventDate": "10/28新店；指定商品限定至11/3",
+      "score": 78,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 15,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 6,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "why": "適合已在名古屋、想換伴手禮選擇的讀者；不把21日已結束的活動套到今天。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html"
+        },
+        {
+          "label": "媒體交叉核對",
+          "url": "https://www.aichispot.com/hoshigaoka-mitsukoshi-syokuhin26-open/"
+        },
+        {
+          "label": "官方原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000185183.html"
+        }
+      ],
+      "stars": {
+        "viral": 3,
+        "save": 3,
+        "share": 4
+      },
+      "risk": "低",
+      "freshness": "超過7天例外：10/19公告、今天正式開店",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據",
+      "socialHeat": {
+        "checkedAt": "2026-10-28T10:57:00+08:00",
+        "summary": "熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "星ヶ丘三越 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com after:2026-10-26"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市伴手禮不自然銜接訂房或票券，不硬配商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "門市庫存、保存期限、過敏原與價格以現場確認；不宣稱免稅。",
+        "assessedOn": "2026-10-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市食品題，無自然銜接的預訂需求，本題不提供平台商品。",
+          "pages": []
+        }
+      ],
+      "verification": "官方特設頁與Aichi Spot核對三家新店及限定商品；媒體依官方資料整理，不是兩次現場採訪。10/19新聞稿莫洛佐夫列10/28(金)星期筆誤，特設頁WED與日曆一致，採10/28星期三。沒有門市即時庫存及親身試吃。一般門市購物未見國籍限制，不推定免稅資格。 發布前15:32台灣再次開啟官方特設頁遇逾時；本日上午已讀原文，媒體原頁仍可讀。本期不宣稱現場已實測開店或有庫存。",
+      "selected": true,
+      "exclusionReason": ""
+    }
+  ],
+  "followups": [
+    {
+      "title": "昭和記念公園明天開幕",
+      "next": "查實際葉況、當日運行與入口公告；不能保證將爆紅。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.prfj.or.jp/works/park/showa.html"
+        }
+      ]
+    },
+    {
+      "title": "東北強風列車狀態",
+      "next": "確認恢復情況與第二可靠來源，今天的停駛時刻不能直接沿用到明天。",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://traininfo.jreast.co.jp/train_info/tohoku.aspx"
+        }
+      ]
+    },
+    {
+      "title": "磐梯吾妻Skyline",
+      "next": "查實際道路管制，區分降雪預報、現況與11/13冬期計畫。",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-28T10:57:00+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "limitation": "兩個入選事件已搜尋社群，沒有足夠48小時原始樣本，不能建立熱榜。Threads公開結果有限且提示登入可看更多；X日期限定搜尋轉登入；Yahoo開啟內容出現舊快取。13筆未入選線索未完成逐題社群核對，不計入搜尋題數。",
+    "searchedTopicCount": 2,
+    "qualifiedTopicCount": 0,
+    "platformAccess": [
+      {
+        "platform": "Threads",
+        "status": "未取得合格樣本",
+        "limitation": "已直接讀取公開搜尋及歷史原文，未取得本事件48小時雙作者樣本；更多結果需登入。"
+      },
+      {
+        "platform": "X",
+        "status": "未取得合格樣本",
+        "limitation": "日期限定搜尋轉登入；第三方快取不用於計分。"
+      },
+      {
+        "platform": "Facebook",
+        "status": "未取得合格樣本",
+        "limitation": "搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。"
+      },
+      {
+        "platform": "Instagram",
+        "status": "未取得合格樣本",
+        "limitation": "搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。"
+      },
+      {
+        "platform": "TikTok",
+        "status": "未取得合格樣本",
+        "limitation": "robots限制，僅舊年索引。"
+      },
+      {
+        "platform": "YouTube",
+        "status": "未取得合格樣本",
+        "limitation": "搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。"
+      },
+      {
+        "platform": "PTT",
+        "status": "未取得合格樣本",
+        "limitation": "搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。"
+      },
+      {
+        "platform": "Dcard",
+        "status": "未取得合格樣本",
+        "limitation": "搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。"
+      }
+    ]
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-28\n搜尋截止：2026-10-28 10:12 Asia/Taipei（日本11:12 Asia/Tokyo）；社群補查10:57台灣／11:57日本；發布前重讀主要來源15:32台灣／16:32日本\n\n【本期範圍與排序】\n本期刊出2個已完成主要事實交叉核對的選題，少於10題；另外13筆線索未通過發布查核，獨立列出，不以暫評分數或舊聞湊數。無法建立近期社群熱榜；依內容評分由優到弱排列。\n\n【今天日本發生什麼】\n已查證：昭和記念公園活動明天開始，夜間日本庭園免加購實為10/29–31三天，仍需入園費。\n已查證：名古屋星ヶ丘三越10/28三店開幕；9月與10/21已開始的其他店不重包成今日新店。\n行前提醒：JR東日本11:04 JST頁仍列東北強風影響；目前只有官方單一來源，出發前查看即時頁。\n待查：福島10/26預報28日早朝降雪，不能推定今天已封路。\n編輯觀察：搜尋混入舊年紅葉貼文、長期活動與商品索引，沒有合格的48小時社群樣本。\n\n【已查核候選：最優至最弱】\n1. 昭和記念公園夜間庭園：10/29–31免加購觀賞券\n地區／分類：關東／東京立川・昭島／季節情報\n公告：10/10 14:32 JST追加公告；首發早於10/5媒體稿\n事件：10/29–11/29；免加購10/29–31\n明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。\n八項：{\"即時性\":18,\"台灣旅客相關性\":19,\"社群討論潛力\":12,\"實用性\":15,\"稀缺性\":8,\"視覺吸引力\":10,\"標題吸引力\":5,\"延伸內容價值\":4}；總分91/100\n爆紅／收藏／分享：4/5/4星（編輯預估，非已驗證熱度）\n風險低；時效超過7天例外：10/10追加公告、明天活動開始；生命週期3天（免加購）；活動攻略1個月以上\n發布：10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n查核：管理財團臨時頁與10/10原公告確認10/29–31只需公園入園費；Time Out 10/5尚寫29–30，屬追加前資訊。兩官方頁不是獨立採訪；媒體交叉確認會期、點燈與基本費用。公園主站暫停顯示，asoview正文僅iframe，未測試購票。成人450、65歲以上210、中學生以下免費；11/1起夜間庭園另成人及長者1200起、小中學生600起，提前一週可買。16:30–20:30點燈、21時閉園；16:30後只開立川與西立川出入口。一般入園未見國籍限制，長者證件及海外付款細節未確認；當日葉況、取消狀態需出發前再查。\n來源：官方 https://www.prfj.or.jp/works/park/showa.html\n媒體交叉核對 https://www.timeout.jp/tokyo/ja/things-to-do/showakinenautumunightwalk\n官方10/10追加一天原公告 https://prtimes.jp/main/html/rd/p/000000909.000032901.html\n分潤：{\"level\":\"中\",\"reason\":\"可銜接立川住宿，但多數東京旅客能當日往返；套票與今年出發日尚未確認。\",\"products\":[\"立川住宿（有過夜需求時）\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果本來就打算在立川住一晚，可先比較車站與夜間入口的位置；住宿不含公園或庭園門票。\",\"checks\":\"入住日、房型、位置、退改、庫存與分潤資格另核對；沒有確認套票。\",\"assessedOn\":\"2026-10-28\"}\n推薦平台：[{\"platform\":\"trip\",\"note\":\"已讀立川市住宿列表，未查指定日期空房，不含活動門票。\",\"pages\":[{\"title\":\"立川市住宿列表\",\"url\":\"https://jp.trip.com/hotels/tachikawa-hotels-list-35743/\",\"kind\":\"住宿列表\",\"reason\":\"僅供確有立川過夜需求的人比較位置。\",\"checks\":\"自行輸入日期與人數，核對總價、退改與分潤資格。\",\"checkedAt\":\"2026-10-28T10:09:00+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀立川市住宿列表，未查指定日期空房，不含活動門票。\",\"pages\":[{\"title\":\"立川市住宿列表\",\"url\":\"https://www.booking.com/city/jp/tachikawa.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"僅供確有立川過夜需求的人比較位置。\",\"checks\":\"自行輸入日期與人數，核對總價、退改與分潤資格。\",\"checkedAt\":\"2026-10-28T10:09:00+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已開啟 https://www.kkday.com/ja/product/153868 回傳403；未核實今年商品條件，不產生推薦或cid。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀 https://www.klook.com/ja/activity/131550-mt-takao-maple-festival-showa-memorial-park-yomiuriland-illumintion/ ，為高尾山＋昭和記念公園＋讀賣樂園行程，但頁面未確認2026出發日及日本庭園門票，故不推薦。\",\"pages\":[]}]\n社群紀錄：{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"summary\":\"熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。\",\"evidence\":[],\"leads\":[{\"url\":\"https://notes.tiktok.com/%40harunoheya4747/7292475874237235718?region=jp\",\"label\":\"2023秋の夜散歩舊文索引\",\"reason\":\"2023事件、非今年48小時原始貼文；TikTok robots限制，互動不採計。\"},{\"url\":\"https://www.threads.com/@lavenderhill_fairy/post/DRbfXbxkj8B\",\"label\":\"2025/11/23銀杏原始貼文（歷史參考）\",\"reason\":\"10/28 10:57台灣補查紀錄：6652讚、42留言、32轉發、畫面3.3萬瀏覽。為去年景點貼文，非今年活動，不計48小時熱度。\"}],\"queries\":[\"昭和記念公園 秋の夜散歩 site:threads.com after:2026-10-26\",\"昭和記念公園 site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc after:2026-10-26\",\"秋の夜散歩 site:x.com OR site:tiktok.com OR site:youtube.com after:2026-10-26\"]}\n\n2. 名古屋星ヶ丘三越今天新增3家甜點店\n地區／分類：中部／愛知名古屋星ヶ丘／購物／美食\n公告：10/19 16:30 JST官方公告\n事件：10/28新店；指定商品限定至11/3\n適合已在名古屋、想換伴手禮選擇的讀者；不把21日已結束的活動套到今天。\n八項：{\"即時性\":20,\"台灣旅客相關性\":15,\"社群討論潛力\":10,\"實用性\":12,\"稀缺性\":6,\"視覺吸引力\":8,\"標題吸引力\":4,\"延伸內容價值\":3}；總分78/100\n爆紅／收藏／分享：3/3/4星（編輯預估，非已驗證熱度）\n風險低；時效超過7天例外：10/19公告、今天正式開店；生命週期1週\n發布：10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n查核：官方特設頁與Aichi Spot核對三家新店及限定商品；媒體依官方資料整理，不是兩次現場採訪。10/19新聞稿莫洛佐夫列10/28(金)星期筆誤，特設頁WED與日曆一致，採10/28星期三。沒有門市即時庫存及親身試吃。一般門市購物未見國籍限制，不推定免稅資格。 發布前15:32台灣再次開啟官方特設頁遇逾時；本日上午已讀原文，媒體原頁仍可讀。本期不宣稱現場已實測開店或有庫存。\n來源：官方 https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html\n媒體交叉核對 https://www.aichispot.com/hoshigaoka-mitsukoshi-syokuhin26-open/\n官方原公告 https://prtimes.jp/main/html/rd/p/000000018.000185183.html\n分潤：{\"level\":\"低\",\"reason\":\"門市伴手禮不自然銜接訂房或票券，不硬配商品。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"門市庫存、保存期限、過敏原與價格以現場確認；不宣稱免稅。\",\"assessedOn\":\"2026-10-28\"}\n推薦平台：[{\"platform\":\"trip\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]}]\n社群紀錄：{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"summary\":\"熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"星ヶ丘三越 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com after:2026-10-26\"]}\n\n【其他13筆線索與未入選原因；未完成查核不評分】\n東北強風影響列車｜東北｜交通\n已讀官方：羽越部分區間停駛／延誤；僅一個可靠來源，狀態變動快，未完成第二來源確認。\nhttps://traininfo.jreast.co.jp/train_info/tohoku.aspx\n\n磐梯吾妻Skyline降雪預報｜福島｜交通／季節情報\n已讀官方，但預報不等於已下雪或封路；缺今天實際道路狀態，不當確定停駛發布。\nhttps://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\n\n山田線部分列車計畫運休｜岩手｜交通\n搜尋取得長期運休線索，未見今天新進展，未另讀原計畫公告。\nhttps://traininfo.jreast.co.jp/train_info/tohoku.aspx\n\nPeko milkytime大高店開店線索｜愛知｜美食\n前期候選線索，本期沒有重新取得正文，不列成今日事實。\nhttps://www.fujiya-peko.co.jp/news/news/2026.html\n\nPure軟糖Hello Kitty第二彈｜全日本｜購物\n搜尋索引線索，尚未開啟品牌原公告與第二來源。\nhttps://collabo-cafe.com/events/category/collabo-period/\n\nExcel蜜粉限定迷你裝｜全日本｜購物\n日曆索引，未核對品牌價格、範圍與庫存。\nhttps://tokila.jp/calendar/2026-10/\n\n名古屋PARCO Sanrio House新店｜愛知｜購物／美食\n即將開店線索，缺原頁與官方核對，不把舊索引當新公告。\nhttps://nagoyajin.nagoya/category/open-close/\n\nCHITAKA中央公園店｜愛知｜美食\n缺官方原始公告與菜單查核，台灣旅客關聯有限。\nhttps://nagoyajin.nagoya/category/open-close/\n\n北海道立文學館休館提醒｜北海道｜旅遊\n搜尋觀光日報線索，未讀文學館公告及原因，不先推定全館狀態。\nhttps://www.sapporo.travel/today/?date=20261027\n\n富山海外へのまなざし展｜北陸｜活動\n舊活動行事曆，無新進展，台灣短期旅客關聯低。\nhttps://www.pref.toyama.jp/cgi-bin/event_cal_multi/calendar.cgi?day=27&month=10&type=3&year=2026\n\n廣島姆明海景午餐Buffet｜中國地方／廣島｜美食\n活動列表線索，不是今天新公告；價格與日期未交叉核對。\nhttps://www.enjoytokyo.jp/event/list/regn09/its16/\n\n水俣秋季玫瑰祭｜九州／熊本｜季節情報\n僅總覽線索、非原始活動頁，沒有確認花況及具體日期，不推薦。\nhttps://www.japan47go.travel/ja\n\n高知平日旅遊活動待查｜四國／高知｜政策\n前期線索未重新核實，尤其外國旅客資格未確認，不能宣稱可補助。\nhttps://www.pref.kochi.lg.jp/press1/event.p6.html\n\n【社群查核限制】\n{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"limitation\":\"兩個入選事件已搜尋社群，沒有足夠48小時原始樣本，不能建立熱榜。Threads公開結果有限且提示登入可看更多；X日期限定搜尋轉登入；Yahoo開啟內容出現舊快取。13筆未入選線索未完成逐題社群核對，不計入搜尋題數。\",\"searchedTopicCount\":2,\"qualifiedTopicCount\":0,\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格樣本\",\"limitation\":\"已直接讀取公開搜尋及歷史原文，未取得本事件48小時雙作者樣本；更多結果需登入。\"},{\"platform\":\"X\",\"status\":\"未取得合格樣本\",\"limitation\":\"日期限定搜尋轉登入；第三方快取不用於計分。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"TikTok\",\"status\":\"未取得合格樣本\",\"limitation\":\"robots限制，僅舊年索引。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"}]}\n\n【編輯推薦】\n{\"id\":\"showa-night-2026\",\"title\":\"昭和記念公園夜間庭園：10/29–31免加購觀賞券\",\"score\":91,\"reason\":\"明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。\",\"versusSecond\":\"東京旅客覆蓋較廣、明天開始且三天票務差異容易誤讀，比區域伴手禮更有即時行動價值。\",\"publishAt\":\"10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\",\"audience\":\"已在東京或即將赴東京的自由行旅客\",\"angle\":\"免加購不等於免入園費\",\"lifecycle\":\"3天（免加購）；活動攻略1個月以上\"}\n\n【明天追蹤】\n[{\"title\":\"昭和記念公園明天開幕\",\"next\":\"查實際葉況、當日運行與入口公告；不能保證將爆紅。\",\"sources\":[{\"label\":\"官方\",\"url\":\"https://www.prfj.or.jp/works/park/showa.html\"}]},{\"title\":\"東北強風列車狀態\",\"next\":\"確認恢復情況與第二可靠來源，今天的停駛時刻不能直接沿用到明天。\",\"sources\":[{\"label\":\"待查線索（非完成核對）\",\"url\":\"https://traininfo.jreast.co.jp/train_info/tohoku.aspx\"}]},{\"title\":\"磐梯吾妻Skyline\",\"next\":\"查實際道路管制，區分降雪預報、現況與11/13冬期計畫。\",\"sources\":[{\"label\":\"待查線索（非完成核對）\",\"url\":\"https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-28\n搜尋截止：2026-10-28 10:12 Asia/Taipei（日本11:12 Asia/Tokyo）；社群補查10:57台灣／11:57日本；發布前重讀主要來源15:32台灣／16:32日本\n\n【本期範圍與排序】\n本期刊出2個已完成主要事實交叉核對的選題，少於10題；另外13筆線索未通過發布查核，獨立列出，不以暫評分數或舊聞湊數。無法建立近期社群熱榜；依內容評分由優到弱排列。\n\n【今天日本發生什麼】\n已查證：昭和記念公園活動明天開始，夜間日本庭園免加購實為10/29–31三天，仍需入園費。\n已查證：名古屋星ヶ丘三越10/28三店開幕；9月與10/21已開始的其他店不重包成今日新店。\n行前提醒：JR東日本11:04 JST頁仍列東北強風影響；目前只有官方單一來源，出發前查看即時頁。\n待查：福島10/26預報28日早朝降雪，不能推定今天已封路。\n編輯觀察：搜尋混入舊年紅葉貼文、長期活動與商品索引，沒有合格的48小時社群樣本。\n\n【已查核候選：最優至最弱】\n1. 昭和記念公園夜間庭園：10/29–31免加購觀賞券\n地區／分類：關東／東京立川・昭島／季節情報\n公告：10/10 14:32 JST追加公告；首發早於10/5媒體稿\n事件：10/29–11/29；免加購10/29–31\n明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。\n八項：{\"即時性\":18,\"台灣旅客相關性\":19,\"社群討論潛力\":12,\"實用性\":15,\"稀缺性\":8,\"視覺吸引力\":10,\"標題吸引力\":5,\"延伸內容價值\":4}；總分91/100\n爆紅／收藏／分享：4/5/4星（編輯預估，非已驗證熱度）\n風險低；時效超過7天例外：10/10追加公告、明天活動開始；生命週期3天（免加購）；活動攻略1個月以上\n發布：10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n查核：管理財團臨時頁與10/10原公告確認10/29–31只需公園入園費；Time Out 10/5尚寫29–30，屬追加前資訊。兩官方頁不是獨立採訪；媒體交叉確認會期、點燈與基本費用。公園主站暫停顯示，asoview正文僅iframe，未測試購票。成人450、65歲以上210、中學生以下免費；11/1起夜間庭園另成人及長者1200起、小中學生600起，提前一週可買。16:30–20:30點燈、21時閉園；16:30後只開立川與西立川出入口。一般入園未見國籍限制，長者證件及海外付款細節未確認；當日葉況、取消狀態需出發前再查。\n來源：官方 https://www.prfj.or.jp/works/park/showa.html\n媒體交叉核對 https://www.timeout.jp/tokyo/ja/things-to-do/showakinenautumunightwalk\n官方10/10追加一天原公告 https://prtimes.jp/main/html/rd/p/000000909.000032901.html\n分潤：{\"level\":\"中\",\"reason\":\"可銜接立川住宿，但多數東京旅客能當日往返；套票與今年出發日尚未確認。\",\"products\":[\"立川住宿（有過夜需求時）\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果本來就打算在立川住一晚，可先比較車站與夜間入口的位置；住宿不含公園或庭園門票。\",\"checks\":\"入住日、房型、位置、退改、庫存與分潤資格另核對；沒有確認套票。\",\"assessedOn\":\"2026-10-28\"}\n推薦平台：[{\"platform\":\"trip\",\"note\":\"已讀立川市住宿列表，未查指定日期空房，不含活動門票。\",\"pages\":[{\"title\":\"立川市住宿列表\",\"url\":\"https://jp.trip.com/hotels/tachikawa-hotels-list-35743/\",\"kind\":\"住宿列表\",\"reason\":\"僅供確有立川過夜需求的人比較位置。\",\"checks\":\"自行輸入日期與人數，核對總價、退改與分潤資格。\",\"checkedAt\":\"2026-10-28T10:09:00+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀立川市住宿列表，未查指定日期空房，不含活動門票。\",\"pages\":[{\"title\":\"立川市住宿列表\",\"url\":\"https://www.booking.com/city/jp/tachikawa.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"僅供確有立川過夜需求的人比較位置。\",\"checks\":\"自行輸入日期與人數，核對總價、退改與分潤資格。\",\"checkedAt\":\"2026-10-28T10:09:00+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已開啟 https://www.kkday.com/ja/product/153868 回傳403；未核實今年商品條件，不產生推薦或cid。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀 https://www.klook.com/ja/activity/131550-mt-takao-maple-festival-showa-memorial-park-yomiuriland-illumintion/ ，為高尾山＋昭和記念公園＋讀賣樂園行程，但頁面未確認2026出發日及日本庭園門票，故不推薦。\",\"pages\":[]}]\n社群紀錄：{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"summary\":\"熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。\",\"evidence\":[],\"leads\":[{\"url\":\"https://notes.tiktok.com/%40harunoheya4747/7292475874237235718?region=jp\",\"label\":\"2023秋の夜散歩舊文索引\",\"reason\":\"2023事件、非今年48小時原始貼文；TikTok robots限制，互動不採計。\"},{\"url\":\"https://www.threads.com/@lavenderhill_fairy/post/DRbfXbxkj8B\",\"label\":\"2025/11/23銀杏原始貼文（歷史參考）\",\"reason\":\"10/28 10:57台灣補查紀錄：6652讚、42留言、32轉發、畫面3.3萬瀏覽。為去年景點貼文，非今年活動，不計48小時熱度。\"}],\"queries\":[\"昭和記念公園 秋の夜散歩 site:threads.com after:2026-10-26\",\"昭和記念公園 site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc after:2026-10-26\",\"秋の夜散歩 site:x.com OR site:tiktok.com OR site:youtube.com after:2026-10-26\"]}\n\n2. 名古屋星ヶ丘三越今天新增3家甜點店\n地區／分類：中部／愛知名古屋星ヶ丘／購物／美食\n公告：10/19 16:30 JST官方公告\n事件：10/28新店；指定商品限定至11/3\n適合已在名古屋、想換伴手禮選擇的讀者；不把21日已結束的活動套到今天。\n八項：{\"即時性\":20,\"台灣旅客相關性\":15,\"社群討論潛力\":10,\"實用性\":12,\"稀缺性\":6,\"視覺吸引力\":8,\"標題吸引力\":4,\"延伸內容價值\":3}；總分78/100\n爆紅／收藏／分享：3/3/4星（編輯預估，非已驗證熱度）\n風險低；時效超過7天例外：10/19公告、今天正式開店；生命週期1週\n發布：10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\n查核：官方特設頁與Aichi Spot核對三家新店及限定商品；媒體依官方資料整理，不是兩次現場採訪。10/19新聞稿莫洛佐夫列10/28(金)星期筆誤，特設頁WED與日曆一致，採10/28星期三。沒有門市即時庫存及親身試吃。一般門市購物未見國籍限制，不推定免稅資格。 發布前15:32台灣再次開啟官方特設頁遇逾時；本日上午已讀原文，媒體原頁仍可讀。本期不宣稱現場已實測開店或有庫存。\n來源：官方 https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html\n媒體交叉核對 https://www.aichispot.com/hoshigaoka-mitsukoshi-syokuhin26-open/\n官方原公告 https://prtimes.jp/main/html/rd/p/000000018.000185183.html\n分潤：{\"level\":\"低\",\"reason\":\"門市伴手禮不自然銜接訂房或票券，不硬配商品。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"門市庫存、保存期限、過敏原與價格以現場確認；不宣稱免稅。\",\"assessedOn\":\"2026-10-28\"}\n推薦平台：[{\"platform\":\"trip\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"門市食品題，無自然銜接的預訂需求，本題不提供平台商品。\",\"pages\":[]}]\n社群紀錄：{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"summary\":\"熱度未確認；沒有符合48小時、兩位作者、可核對讚與留言的原始樣本。\",\"evidence\":[],\"leads\":[],\"queries\":[\"星ヶ丘三越 2026 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com after:2026-10-26\"]}\n\n【其他13筆線索與未入選原因；未完成查核不評分】\n東北強風影響列車｜東北｜交通\n已讀官方：羽越部分區間停駛／延誤；僅一個可靠來源，狀態變動快，未完成第二來源確認。\nhttps://traininfo.jreast.co.jp/train_info/tohoku.aspx\n\n磐梯吾妻Skyline降雪預報｜福島｜交通／季節情報\n已讀官方，但預報不等於已下雪或封路；缺今天實際道路狀態，不當確定停駛發布。\nhttps://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\n\n山田線部分列車計畫運休｜岩手｜交通\n搜尋取得長期運休線索，未見今天新進展，未另讀原計畫公告。\nhttps://traininfo.jreast.co.jp/train_info/tohoku.aspx\n\nPeko milkytime大高店開店線索｜愛知｜美食\n前期候選線索，本期沒有重新取得正文，不列成今日事實。\nhttps://www.fujiya-peko.co.jp/news/news/2026.html\n\nPure軟糖Hello Kitty第二彈｜全日本｜購物\n搜尋索引線索，尚未開啟品牌原公告與第二來源。\nhttps://collabo-cafe.com/events/category/collabo-period/\n\nExcel蜜粉限定迷你裝｜全日本｜購物\n日曆索引，未核對品牌價格、範圍與庫存。\nhttps://tokila.jp/calendar/2026-10/\n\n名古屋PARCO Sanrio House新店｜愛知｜購物／美食\n即將開店線索，缺原頁與官方核對，不把舊索引當新公告。\nhttps://nagoyajin.nagoya/category/open-close/\n\nCHITAKA中央公園店｜愛知｜美食\n缺官方原始公告與菜單查核，台灣旅客關聯有限。\nhttps://nagoyajin.nagoya/category/open-close/\n\n北海道立文學館休館提醒｜北海道｜旅遊\n搜尋觀光日報線索，未讀文學館公告及原因，不先推定全館狀態。\nhttps://www.sapporo.travel/today/?date=20261027\n\n富山海外へのまなざし展｜北陸｜活動\n舊活動行事曆，無新進展，台灣短期旅客關聯低。\nhttps://www.pref.toyama.jp/cgi-bin/event_cal_multi/calendar.cgi?day=27&month=10&type=3&year=2026\n\n廣島姆明海景午餐Buffet｜中國地方／廣島｜美食\n活動列表線索，不是今天新公告；價格與日期未交叉核對。\nhttps://www.enjoytokyo.jp/event/list/regn09/its16/\n\n水俣秋季玫瑰祭｜九州／熊本｜季節情報\n僅總覽線索、非原始活動頁，沒有確認花況及具體日期，不推薦。\nhttps://www.japan47go.travel/ja\n\n高知平日旅遊活動待查｜四國／高知｜政策\n前期線索未重新核實，尤其外國旅客資格未確認，不能宣稱可補助。\nhttps://www.pref.kochi.lg.jp/press1/event.p6.html\n\n【社群查核限制】\n{\"checkedAt\":\"2026-10-28T10:57:00+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"limitation\":\"兩個入選事件已搜尋社群，沒有足夠48小時原始樣本，不能建立熱榜。Threads公開結果有限且提示登入可看更多；X日期限定搜尋轉登入；Yahoo開啟內容出現舊快取。13筆未入選線索未完成逐題社群核對，不計入搜尋題數。\",\"searchedTopicCount\":2,\"qualifiedTopicCount\":0,\"platformAccess\":[{\"platform\":\"Threads\",\"status\":\"未取得合格樣本\",\"limitation\":\"已直接讀取公開搜尋及歷史原文，未取得本事件48小時雙作者樣本；更多結果需登入。\"},{\"platform\":\"X\",\"status\":\"未取得合格樣本\",\"limitation\":\"日期限定搜尋轉登入；第三方快取不用於計分。\"},{\"platform\":\"Facebook\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"Instagram\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"TikTok\",\"status\":\"未取得合格樣本\",\"limitation\":\"robots限制，僅舊年索引。\"},{\"platform\":\"YouTube\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"PTT\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"},{\"platform\":\"Dcard\",\"status\":\"未取得合格樣本\",\"limitation\":\"搜尋未取得可核對時間與互動數的48小時原始樣本，不代表平台沒有討論。\"}]}\n\n【編輯推薦】\n{\"id\":\"showa-night-2026\",\"title\":\"昭和記念公園夜間庭園：10/29–31免加購觀賞券\",\"score\":91,\"reason\":\"明天開始，入園費與夜間庭園票必須分清；官方已把免加購期間延至三天。\",\"versusSecond\":\"東京旅客覆蓋較廣、明天開始且三天票務差異容易誤讀，比區域伴手禮更有即時行動價值。\",\"publishAt\":\"10/28 18:30 Asia/Taipei；編輯建議，無帳號歷史數據\",\"audience\":\"已在東京或即將赴東京的自由行旅客\",\"angle\":\"免加購不等於免入園費\",\"lifecycle\":\"3天（免加購）；活動攻略1個月以上\"}\n\n【明天追蹤】\n[{\"title\":\"昭和記念公園明天開幕\",\"next\":\"查實際葉況、當日運行與入口公告；不能保證將爆紅。\",\"sources\":[{\"label\":\"官方\",\"url\":\"https://www.prfj.or.jp/works/park/showa.html\"}]},{\"title\":\"東北強風列車狀態\",\"next\":\"確認恢復情況與第二可靠來源，今天的停駛時刻不能直接沿用到明天。\",\"sources\":[{\"label\":\"待查線索（非完成核對）\",\"url\":\"https://traininfo.jreast.co.jp/train_info/tohoku.aspx\"}]},{\"title\":\"磐梯吾妻Skyline\",\"next\":\"查實際道路管制，區分降雪預報、現況與11/13冬期計畫。\",\"sources\":[{\"label\":\"待查線索（非完成核對）\",\"url\":\"https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html\"}]}]\n\n【逐題完整串文及切角】\n昭和記念公園夜間庭園：10/29–31免加購觀賞券\n{\n  \"threads\": [\n    \"昭和記念公園「秋の夜散歩」明天開始。10月29～31日，日本庭園夜間不用另外買觀賞券，但公園入園費仍要付。\\n\\n成人450日圓、65歲以上210日圓，中學生以下免費。舊介紹可能只寫29、30日；園方10月10日已公告追加31日，這次依官方新條件整理。\",\n    \"整個活動是10月29日至11月29日。日本時間16:30～20:30點燈，21:00閉園，兩個時間別混在一起。\\n\\n11月1日起，夜間日本庭園要另購票：成人與65歲以上1200日圓起，小中學生600日圓起，再加上適用的公園入園費。園方表示可提前一週購買，實際票價與可售日期請查售票頁。\",\n    \"晚上進出只走立川或西立川入口；西立川站到西立川入口約步行2分鐘，立川站到立川入口約18分鐘，別只看最近車站名稱。\\n\\n開燈不代表紅葉已到見頃，本次未核對當日葉況。公園主網站目前暫停顯示，出發前先看管理財團臨時資訊，確認日期與當日公告，再安排回程。\\n官方：https://www.prfj.or.jp/works/park/showa.html\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"費用\",\n      \"opening\": \"東京夜楓想省一張庭園票，可以留意10/29–31，但公園入園費仍要付。\"\n    },\n    {\n      \"name\": \"避雷\",\n      \"opening\": \"昭和記念公園的「免加購」有三天，舊文章可能還停在兩天。\"\n    },\n    {\n      \"name\": \"交通\",\n      \"opening\": \"晚上去昭和記念公園，先選對入口：16:30後只開立川與西立川。\"\n    },\n    {\n      \"name\": \"時間\",\n      \"opening\": \"點燈到20:30，閉園是21:00；昭和記念公園夜遊要分清這兩個時間。\"\n    },\n    {\n      \"name\": \"賞景\",\n      \"opening\": \"夜間燈光和真正的紅葉見頃是兩回事；明天開幕不等於滿園已紅。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方主視覺與燈景示意；不得標成今天現場葉況，商用授權未確認。\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000000909.000032901.html\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸商業內容：立川住宿與夜遊回程攻略，僅有過夜需求才適合；住宿不含門票。\"\n  ]\n}\n\n名古屋星ヶ丘三越今天新增3家甜點店\n{\n  \"threads\": [\n    \"今天在名古屋找伴手禮，可以多看星ヶ丘三越：10月28日新增TEA BREAK、ベルプラージュ、モンロワール三家甜點店。\\n\\nTEA BREAK是Morozoff的烘焙點心品牌，官方標示東海地區首店；這次新增的選擇在星ヶ丘，別跑到名古屋站或榮的其他百貨。\",\n    \"預算可以先看這三款，都是官方標示日圓價格：\\n\\n• TEA BREAK餅乾、派與沙布列組合：一罐3240。\\n• Mon Loire Leaf Memory服務袋：230克1404。\\n• Belle Plage Coco Sablé服務包：12片864。\\n\\n後兩款標示10月28日至11月3日限定販售，沒有確認門市庫存；內容量不同，別直接當成同類商品比單價。\",\n    \"購買前再看保存期限、過敏原及是否需要保冷；本次是新品資料整理，沒有實際試吃，也不保證排隊狀況。\\n\\n10月21日的開店限定企劃已過期，不能照舊圖找同樣贈品。先用官方地下1樓地圖找這三店，再核對當天品項；本次不把購物資訊延伸成未查證的免稅或折扣。\\n官方：https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html\"\n  ],\n  \"angles\": [\n    {\n      \"name\": \"新店\",\n      \"opening\": \"星ヶ丘三越今天新增三家甜點店，名古屋伴手禮多了幾個選擇。\"\n    },\n    {\n      \"name\": \"預算\",\n      \"opening\": \"864、1404、3240日圓，星ヶ丘三越這次的新點心可以先照內容量挑。\"\n    },\n    {\n      \"name\": \"限定\",\n      \"opening\": \"部分新店商品只標10/28～11/3販售，先核對日期再去。\"\n    },\n    {\n      \"name\": \"區域\",\n      \"opening\": \"這次的新店在星ヶ丘，別把名古屋所有三越都當成同一個地點。\"\n    },\n    {\n      \"name\": \"避雷\",\n      \"opening\": \"10/21的開店贈品已過期，今天看10/28新店資訊。\"\n    }\n  ],\n  \"images\": [\n    {\n      \"description\": \"官方食品樓層地圖與商品照；可查找不等於可商用，授權需另外確認。\",\n      \"url\": \"https://www.mitsukoshi.mistore.jp/hoshigaoka/event_calendar/refresh-open.html\"\n    }\n  ],\n  \"extensions\": [\n    \"可延伸名古屋伴手禮比較；不硬塞訂房或票券分潤。\"\n  ]\n}",
+  "researchLeads": [
+    {
+      "id": "tohoku-wind-1028",
+      "title": "東北強風影響列車",
+      "region": "東北",
+      "category": "交通",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://traininfo.jreast.co.jp/train_info/tohoku.aspx"
+        }
+      ],
+      "exclusionReason": "已讀官方：羽越部分區間停駛／延誤；僅一個可靠來源，狀態變動快，未完成第二來源確認。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "skyline-snow-1028",
+      "title": "磐梯吾妻Skyline降雪預報",
+      "region": "福島",
+      "category": "交通／季節情報",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.pref.fukushima.lg.jp/sec/41310a/skyline-kouyou-info.html"
+        }
+      ],
+      "exclusionReason": "已讀官方，但預報不等於已下雪或封路；缺今天實際道路狀態，不當確定停駛發布。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "yamada-plan",
+      "title": "山田線部分列車計畫運休",
+      "region": "岩手",
+      "category": "交通",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://traininfo.jreast.co.jp/train_info/tohoku.aspx"
+        }
+      ],
+      "exclusionReason": "搜尋取得長期運休線索，未見今天新進展，未另讀原計畫公告。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "peko-odaka",
+      "title": "Peko milkytime大高店開店線索",
+      "region": "愛知",
+      "category": "美食",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.fujiya-peko.co.jp/news/news/2026.html"
+        }
+      ],
+      "exclusionReason": "前期候選線索，本期沒有重新取得正文，不列成今日事實。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "pure-kitty",
+      "title": "Pure軟糖Hello Kitty第二彈",
+      "region": "全日本",
+      "category": "購物",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://collabo-cafe.com/events/category/collabo-period/"
+        }
+      ],
+      "exclusionReason": "搜尋索引線索，尚未開啟品牌原公告與第二來源。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "excel-mini",
+      "title": "Excel蜜粉限定迷你裝",
+      "region": "全日本",
+      "category": "購物",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://tokila.jp/calendar/2026-10/"
+        }
+      ],
+      "exclusionReason": "日曆索引，未核對品牌價格、範圍與庫存。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "nagoya-sanrio",
+      "title": "名古屋PARCO Sanrio House新店",
+      "region": "愛知",
+      "category": "購物／美食",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://nagoyajin.nagoya/category/open-close/"
+        }
+      ],
+      "exclusionReason": "即將開店線索，缺原頁與官方核對，不把舊索引當新公告。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "chitaka",
+      "title": "CHITAKA中央公園店",
+      "region": "愛知",
+      "category": "美食",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://nagoyajin.nagoya/category/open-close/"
+        }
+      ],
+      "exclusionReason": "缺官方原始公告與菜單查核，台灣旅客關聯有限。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "sapporo-library",
+      "title": "北海道立文學館休館提醒",
+      "region": "北海道",
+      "category": "旅遊",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.sapporo.travel/today/?date=20261027"
+        }
+      ],
+      "exclusionReason": "搜尋觀光日報線索，未讀文學館公告及原因，不先推定全館狀態。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "toyama-archive",
+      "title": "富山海外へのまなざし展",
+      "region": "北陸",
+      "category": "活動",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.pref.toyama.jp/cgi-bin/event_cal_multi/calendar.cgi?day=27&month=10&type=3&year=2026"
+        }
+      ],
+      "exclusionReason": "舊活動行事曆，無新進展，台灣短期旅客關聯低。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "hiroshima-moomin",
+      "title": "廣島姆明海景午餐Buffet",
+      "region": "中國地方／廣島",
+      "category": "美食",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.enjoytokyo.jp/event/list/regn09/its16/"
+        }
+      ],
+      "exclusionReason": "活動列表線索，不是今天新公告；價格與日期未交叉核對。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "minamata-rose",
+      "title": "水俣秋季玫瑰祭",
+      "region": "九州／熊本",
+      "category": "季節情報",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.japan47go.travel/ja"
+        }
+      ],
+      "exclusionReason": "僅總覽線索、非原始活動頁，沒有確認花況及具體日期，不推薦。",
+      "status": "未通過發布查核，不計入合格候選"
+    },
+    {
+      "id": "kochi-subsidy",
+      "title": "高知平日旅遊活動待查",
+      "region": "四國／高知",
+      "category": "政策",
+      "sources": [
+        {
+          "label": "待查線索（非完成核對）",
+          "url": "https://www.pref.kochi.lg.jp/press1/event.p6.html"
+        }
+      ],
+      "exclusionReason": "前期線索未重新核實，尤其外國旅客資格未確認，不能宣稱可補助。",
+      "status": "未通過發布查核，不計入合格候選"
+    }
+  ],
+  "scopeNote": "本期刊出2個已完成主要事實交叉核對的選題，少於10題；另外13筆線索未通過發布查核，獨立列出，不以暫評分數或舊聞湊數。無法建立近期社群熱榜；依內容評分由優到弱排列。"
+}
