@@ -1,0 +1,1213 @@
+{
+  "date": "2026-10-29",
+  "cutoff": "2026-10-29 10:09 Asia/Taipei（日本11:09 Asia/Tokyo）；本期新聞搜尋與社群觀測截止，平台頁亦於本期查閱",
+  "scopeNote": "本期掃描15個不同事件，完成雙源與行動資訊查核3題，12題僅保留研究線索，不給未查核事件虛構分數；合格候選與精選皆3題，未達15／10目標。全部未達社群門檻，無法建立本期熱榜；依編輯內容分數由優到弱排序。",
+  "trends": [
+    "已查證：東京迪士尼新設施2027/4/15開幕，Standby Pass與DPA需和園票分開理解。",
+    "已查證：USJ雙作品合作是2027春，不能把整體Cool Japan的12/2當成鋼鍊開幕日。",
+    "已查證：福岡塔麻可吉展10/31開始抽選，年末三天與土日祝需日時指定券。",
+    "編輯觀察：三題都有規劃價值，但目前票券／活動細節成熟度不同，分潤皆評中。",
+    "查核限制：Threads與X直接搜尋遇登入牆，站外索引混入舊文，不能聲稱近期爆紅。",
+    "區域掃描：北海道、東北、北陸、中部、中國、四國、沖繩亦有查找；未用過期活動或索引湊入精選。"
+  ],
+  "choice": {
+    "id": "tdl-sugar-rush-opening-20270415",
+    "title": "東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證",
+    "score": 90,
+    "reason": "開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。",
+    "versusSecond": "比USJ更有確切日期與可執行的App準備步驟；只是編輯推薦，未代使用者選題。",
+    "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "規劃2027春東京的台灣自由行與親子旅客",
+    "angle": "開幕日期確定，但門票不等於保證玩到新設施",
+    "lifecycle": "1個月以上"
+  },
+  "top10": [
+    {
+      "id": "tdl-sugar-rush-opening-20270415",
+      "title": "東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證",
+      "region": "關東／千葉浦安・東京迪士尼樂園",
+      "category": "旅遊",
+      "announcementDate": "2026/10/27官方開業日期公告（未標時刻）；媒體10/27 16:36 JST",
+      "eventDate": "2027/4/15開幕；爆米花店2027/3/17先開",
+      "freshness": "48小時日期範圍；官方無時刻，不假定精確48小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "why": "開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。",
+      "facts": "設施位於東京迪士尼樂園明日樂園，不在迪士尼海洋。2027/4/15起，官方列為Standby Pass及Disney Premier Access對象；Standby Pass須入園後於官方App取得，按顯示時段排隊。約4分鐘、每車3人。DPA本題價格與該日園票庫存未查得。周邊Pixel Prism商店4/15、Popping Station爆米花店3/17；不可把新太空山也寫成4/15開幕。",
+      "sources": [
+        {
+          "label": "官方設施與使用方式",
+          "url": "https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/"
+        },
+        {
+          "label": "官方10/27開幕公告專頁",
+          "url": "https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151572.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "舞濱站周邊住宿列表",
+              "url": "https://www.trip.com/hotels/urayasu-jr-maihama-station/hotels-c35751r8254981/",
+              "kind": "住宿列表",
+              "reason": "供明年春季迪士尼行程比較基地",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "舞濱站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/maihama-station.html",
+              "kind": "住宿列表",
+              "reason": "地區對應浦安舞濱，需另輸入明年日期",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀商品19252乾淨頁，為Land／Sea門票，但未確認2027/4/15可售與新設施資格；本期不推薦成可立即預訂本事件的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀商品695乾淨頁，Land與Sea方案分開、指定日期有效；未確認2027/4/15販售，暫不提供本事件票券推薦。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "明年想去東京迪士尼玩《無敵破壞王》，行程可以先記下2027年4月15日。\n\n新設施「シュガー・ラッシュ：スウィートレスキュー」開在東京迪士尼樂園的明日樂園，不在海洋。這次已公布開幕日，但買到園票不代表一定能直接排這項設施。",
+          "官方目前把它列為Standby Pass與付費Disney Premier Access對象。\n\n走Standby Pass方式，要入園後用東京迪士尼度假區App取得，再依通行證顯示的時段排隊。體驗約4分鐘、每車3人；能否取得通行證仍以當天供應為準。\n\n目前這份查核沒有確認DPA價格與開幕日票券庫存，先別把「已公布日期」理解為今天已能買到所有需要的票。",
+          "附近的新商店Pixel Prism同樣4月15日開；Popping Station爆米花店則提早到3月17日。新太空山的日期不能直接套用這次公告。\n\n下一步先確認你要去的是Land，再查旅行日期的園票與可取消住宿；接近出發時重看App使用規則。\n官方設施：https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/\n開幕公告：https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/"
+        ],
+        "angles": [
+          {
+            "name": "規劃日期",
+            "opening": "明年東京迪士尼想玩《無敵破壞王》，先把4月15日畫進行事曆。"
+          },
+          {
+            "name": "通行證提醒",
+            "opening": "買到迪士尼園票，還不等於能直接排新的《無敵破壞王》。"
+          },
+          {
+            "name": "園區辨識",
+            "opening": "這次的新設施在Land，訂票時別選成迪士尼海洋。"
+          },
+          {
+            "name": "親子安排",
+            "opening": "新設施約4分鐘、每車3人；親子行程還要多安排一步App取證。"
+          },
+          {
+            "name": "分批開幕",
+            "opening": "爆米花店3月先開，新設施4月登場；明日樂園不是同一天全開。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方新設施主視覺及位置圖；屬示意素材，非現場實拍，商用授權未確認。",
+            "url": "https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：舞濱可取消住宿比較、Land與Sea選園攻略；待票券開售後才補具體入園票，不保證新設施名額。"
+        ]
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/movie/M.1474119262.A.011.html",
+            "label": "搜尋混入2016電影心得",
+            "reason": "年代與主題均不符本次新設施，未納入熱度。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 迪士尼 無敵破壞王 2027 開幕",
+          "シュガー・ラッシュ 2027 site:threads.com",
+          "シュガー・ラッシュ 2027 site:facebook.com",
+          "無敵破壞王 2027 site:dcard.tw OR site:youtube.com OR site:ptt.cc"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有明年舞濱住宿與園票需求，但距開幕仍遠，未確認4/15門票販售，適合先做行程規劃。",
+        "products": [
+          "舞濱住宿",
+          "東京迪士尼樂園指定日期門票（待開售核對）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果你正在排明年春天的東京行程，可以先比較舞濱住宿；園票要等確認出發日期與販售範圍，門票也不代表保證取得新設施通行證。",
+        "checks": "核對2027/4/15之後的日期與Land園區；DPA另行確認，住宿不含門票，未確認票庫或佣金資格。",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "id": "usj-arakawa-2027",
+      "title": "USJ《鋼之鍊金術師》22年後回歸，與《黃泉使者》明年春季同登場",
+      "region": "關西／大阪USJ",
+      "category": "活動",
+      "announcementDate": "2026/10/28 11:00 JST官方發布",
+      "eventDate": "2027年春；確切日期與結束日未公布",
+      "freshness": "48小時；截至本期已略超24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "低",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 5
+      },
+      "why": "雙作品與22年回歸有明確話題鉤子，適合動漫族群分享；但尚無精確日期，實用性低於迪士尼開幕日題。",
+      "facts": "USJ官方10/28公布鋼の錬金術師 FULLMETAL ALCHEMIST與黄泉のツガイ於2027春同時合作；2005初合作至今22年。整體Cool Japan從2026/12/2起陸續展開，不代表這兩作12/2開始。設施形式、日期、個別售票方式未公布；不宣稱XR列車或已可購買聯名快通。",
+      "sources": [
+        {
+          "label": "官方鋼鍊活動頁",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa"
+        },
+        {
+          "label": "USJ原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000887.000005761.html"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151869.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "USJ周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/osaka-universal-studios-japan/hotels-c219m6789799/",
+              "kind": "住宿列表",
+              "reason": "可先比較環球城周邊住宿，待日期公告再訂",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "USJ周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/universal-studios-japan.html",
+              "kind": "住宿列表",
+              "reason": "園區周邊住宿規劃，非聯名套裝",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨商品2247，為USJ一般門票；未證實2027春鋼鍊／黃泉活動資格，不推薦為本聯名票券。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀商品46604，為指定日期Studio Pass，另有不含入園的加購方案；本聯名細節未公布，不能等同聯名套票。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "《鋼之鍊金術師》要回到USJ了，上次合作是2005年。\n\nUSJ在10月28日公布，2027年春季將讓《鋼之鍊金術師 FULLMETAL ALCHEMIST》與荒川弘另一部作品《黃泉使者》同時登場。\n\n先分清日期：Cool Japan整體從今年12月2日起陸續展開，這兩作的時間是「明年春」，不是12月2日。",
+          "目前可以確定的是雙作品合作，還不能確定你會怎麼玩。\n\n官方尚未公布確切開始日、結束日與體驗形式，所以現在不能寫成XR列車、4D劇場，也不能把既有快通當成已包含鋼鍊。\n\n如果你原本就打算明年春天去大阪，這則很適合放進行程備忘；若是專程為作品飛日本，等正式日期更能避免訂錯。",
+          "可以先看USJ周邊住宿位置與取消條件，真正下訂前再比對活動日期和票券內容。一般園票、快速通關與特別體驗是否另購，需要分開確認。\n\n這是10月28日的新公告，還沒有能支持「全網爆紅」的近期社群樣本。下一次值得追的是活動形式與開放購票資訊。\n官方：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa"
+        ],
+        "angles": [
+          {
+            "name": "作品回歸",
+            "opening": "鋼鍊上次和USJ合作是2005年，下一次是2027年春。"
+          },
+          {
+            "name": "雙作品",
+            "opening": "明年春天USJ一次迎來荒川弘兩部作品，黃泉使者也在名單裡。"
+          },
+          {
+            "name": "日期避錯",
+            "opening": "看到Cool Japan從12月2日開始，別立刻替鋼鍊訂12月機票。"
+          },
+          {
+            "name": "保留彈性",
+            "opening": "想為鋼鍊去大阪，現在先看可取消住宿，等確切活動日期。"
+          },
+          {
+            "name": "公告邊界",
+            "opening": "鋼鍊確定回歸，但官方還沒說是什麼形式的體驗。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方鋼鍊與黃泉合作主視覺；版權素材，未確認可商用或改圖。",
+            "url": "https://prtimes.jp/main/html/rd/p/000000887.000005761.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：待日期確定後整理USJ附近住宿；現在不推未公布的聯名快通或假套票。"
+        ]
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 15,
+        "實用性": 10,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=USJ%20%E9%8B%BC",
+            "label": "Threads直接站內搜尋",
+            "reason": "10/29約10:08台灣讀取只顯示登入邀請，沒有可核對原文與互動。"
+          },
+          {
+            "url": "https://x.com/search?q=%22USJ%22%20%22%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%22%20since%3A2026-10-27&f=live",
+            "label": "X最近討論查詢",
+            "reason": "10/29約10:09台灣實際開啟轉至登入頁，未取得樣本。"
+          }
+        ],
+        "queries": [
+          "site:threads.com USJ 鋼之鍊金術師 2027",
+          "鋼の錬金術師 USJ site:instagram.com",
+          "黄泉のツガイ USJ site:x.com",
+          "ユニバーサル 鋼の錬金術師 site:youtube.com after:2026-10-27",
+          "USJ 鋼の錬金術師 site:tiktok.com",
+          "USJ 2027 site:dcard.tw"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "大阪住宿可自然銜接，但聯名尚未公布確切日期，不能催促購買現行門票或快通。",
+        "products": [
+          "USJ周邊住宿（日期確定後）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "等聯名確切日期公布後，再把大阪住宿和USJ安排在同一段行程；現階段先比較位置與取消條件會比較實用。",
+        "checks": "待確切日期、活動票制與2027庫存公布；一般Studio Pass不保證未公布聯名體驗，未核實分潤資格。",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "id": "tamagotchi-fukuoka-lottery-20261031",
+      "title": "福岡塔麻可吉展10/31開放抽選：跨年與週末要買指定日時券",
+      "region": "九州／福岡天神・福岡三越9樓",
+      "category": "票券",
+      "announcementDate": "會場首刊2026/9/14；10/27更新；主辦10/27 12:00 JST發布票務詳情",
+      "eventDate": "2026/12/29–2027/1/25；10/31 10:00–11/11 23:59 JST抽選、11/21 10:00 JST一般預售",
+      "freshness": "48小時票務公告；9/14舊展訊例外理由為兩天後抽選開始",
+      "lifecycle": "1週（抽選提醒）；展覽攻略1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "why": "兩天後開始抽選，年末與週末不能使用平日券；比只報展覽日期更能幫近期規劃福岡旅客避免買錯。",
+      "facts": "12/29–31及會期土日祝須數量限定日時指定券；一般日時券抽選在Ticket Pia，周邊附加券在Lawson。一般大學生1800／預售1600日圓，高中1300／1100、小中800／600、周邊附加3900／3700。10–19時，末日17時，各日最後入場提前1小時；年末年始依百貨營業。海外手機會員、付款與學生證認定尚未實測，不保證台灣手機能抽。",
+      "sources": [
+        {
+          "label": "福岡三越官方票務及限制",
+          "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html"
+        },
+        {
+          "label": "主辦原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000514.000027592.html"
+        },
+        {
+          "label": "展覽官方福岡會期",
+          "url": "https://www.tmgc-ten.jp/"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151509.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "天神站周邊住宿列表",
+              "url": "https://www.trip.com/hotels/landmark/jp/tenjin-subway-station.html",
+              "kind": "住宿列表",
+              "reason": "適合福岡三越與天神行程規劃",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "天神站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/tenjin.html",
+              "kind": "住宿列表",
+              "reason": "先比較住宿位置，需另輸入跨年日期",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋未取得可確認福岡本次展覽的商品頁；官方指定售票通路不含KKday，不拿別場展覽替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋未取得本次福岡會期適用展票；不以其他城市商品或住宿冒充含展票。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "跨年去福岡、想看塔麻可吉展，先分清楚「平日券」不能用的日期。\n\n「30周年記念 大たまごっち展」在福岡三越9樓，展期是2026年12月29日到2027年1月25日。12月29日至31日，以及會期中的週六、週日、日本國定假日，都需要數量限定的日時指定券。",
+          "抽選時間是日本時間10月31日10:00到11月11日23:59；11月13日18:00公布結果，繳款期限11月18日23:59。一般預售11月21日10:00開始。\n\n普通日時指定券走Ticket Pia；附周邊商品的日時指定券走Lawson Ticket。附周邊票的商品是搖搖束口袋，並不是普通門票全部都有。\n\n台灣手機能否完成會員驗證與付款，我還沒有確認，先查清售票平台條件再安排。",
+          "日圓票價（一般／預售）：\n• 成人、大學生：1,800／1,600\n• 高中生：1,300／1,100\n• 小學生、國中生：800／600\n• 附周邊票：3,900／3,700\n\n一般開放10:00–19:00，最後一天到17:00；每天最後入場是閉館前1小時。跨年期間依百貨營業日及時間，不要只看展期就假設元旦一定照常。",
+          "買票前先做三件事：確認你的日期是不是指定日時日、確認帳號與付款能完成、再查跨年營業時間。抽選不是先到先贏，也不保證入選。\n\n小學生以下須18歲以上保護者同行；未就學兒免費，每位保護者最多帶2名，陪同成人仍須有票。票券姓名與身分證件也要一致，主辦可能查驗。\n官方完整票務：https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html"
+        ],
+        "angles": [
+          {
+            "name": "跨年避錯",
+            "opening": "12月29日至31日看福岡塔麻可吉展，不能拿平日券入場。"
+          },
+          {
+            "name": "抽選日程",
+            "opening": "福岡塔麻可吉展10月31日開抽，先分清普通票和附周邊票的通路。"
+          },
+          {
+            "name": "票價比較",
+            "opening": "成人預售1,600日圓，但這張票不等於附束口袋的周邊票。"
+          },
+          {
+            "name": "境外購票",
+            "opening": "想從台灣抽福岡展票，先查帳號驗證，再決定行程。"
+          },
+          {
+            "name": "跨年營業",
+            "opening": "展期跨過元旦，不代表百貨元旦一定開門；福岡這場要另查年末年始時間。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、日時指定券說明與附周邊束口袋圖片；可查找不等於可商用，授權未確認。",
+            "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：天神住宿、福岡跨年營業攻略。先確認展票，不聲稱訂房附展票或保證抽中。"
+        ]
+      },
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "大たまごっち展 福岡 site:threads.com",
+          "たまごっち展 福岡 site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "跨年福岡住宿有需求，但展票需先抽選且境外購票操作未確認；不把飯店或其他城市展票當保證入場。",
+        "products": [
+          "天神住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果跨年福岡行程也想排塔麻可吉展，先確認能買到符合日期的展票，再比較天神住宿和取消條件。",
+        "checks": "確認抽選及台灣手機付款可用性、展覽入場資格、跨年休館與飯店取消條款；住宿不含展票，佣金資格未查核。",
+        "assessedOn": "2026-10-29"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "tdl-sugar-rush-opening-20270415",
+      "title": "東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證",
+      "region": "關東／千葉浦安・東京迪士尼樂園",
+      "category": "旅遊",
+      "announcementDate": "2026/10/27官方開業日期公告（未標時刻）；媒體10/27 16:36 JST",
+      "eventDate": "2027/4/15開幕；爆米花店2027/3/17先開",
+      "freshness": "48小時日期範圍；官方無時刻，不假定精確48小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "why": "開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。",
+      "facts": "設施位於東京迪士尼樂園明日樂園，不在迪士尼海洋。2027/4/15起，官方列為Standby Pass及Disney Premier Access對象；Standby Pass須入園後於官方App取得，按顯示時段排隊。約4分鐘、每車3人。DPA本題價格與該日園票庫存未查得。周邊Pixel Prism商店4/15、Popping Station爆米花店3/17；不可把新太空山也寫成4/15開幕。",
+      "sources": [
+        {
+          "label": "官方設施與使用方式",
+          "url": "https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/"
+        },
+        {
+          "label": "官方10/27開幕公告專頁",
+          "url": "https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151572.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "舞濱站周邊住宿列表",
+              "url": "https://www.trip.com/hotels/urayasu-jr-maihama-station/hotels-c35751r8254981/",
+              "kind": "住宿列表",
+              "reason": "供明年春季迪士尼行程比較基地",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "舞濱站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/maihama-station.html",
+              "kind": "住宿列表",
+              "reason": "地區對應浦安舞濱，需另輸入明年日期",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀商品19252乾淨頁，為Land／Sea門票，但未確認2027/4/15可售與新設施資格；本期不推薦成可立即預訂本事件的商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀商品695乾淨頁，Land與Sea方案分開、指定日期有效；未確認2027/4/15販售，暫不提供本事件票券推薦。",
+          "pages": []
+        }
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/movie/M.1474119262.A.011.html",
+            "label": "搜尋混入2016電影心得",
+            "reason": "年代與主題均不符本次新設施，未納入熱度。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 迪士尼 無敵破壞王 2027 開幕",
+          "シュガー・ラッシュ 2027 site:threads.com",
+          "シュガー・ラッシュ 2027 site:facebook.com",
+          "無敵破壞王 2027 site:dcard.tw OR site:youtube.com OR site:ptt.cc"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "有明年舞濱住宿與園票需求，但距開幕仍遠，未確認4/15門票販售，適合先做行程規劃。",
+        "products": [
+          "舞濱住宿",
+          "東京迪士尼樂園指定日期門票（待開售核對）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "如果你正在排明年春天的東京行程，可以先比較舞濱住宿；園票要等確認出發日期與販售範圍，門票也不代表保證取得新設施通行證。",
+        "checks": "核對2027/4/15之後的日期與Land園區；DPA另行確認，住宿不含門票，未確認票庫或佣金資格。",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "id": "usj-arakawa-2027",
+      "title": "USJ《鋼之鍊金術師》22年後回歸，與《黃泉使者》明年春季同登場",
+      "region": "關西／大阪USJ",
+      "category": "活動",
+      "announcementDate": "2026/10/28 11:00 JST官方發布",
+      "eventDate": "2027年春；確切日期與結束日未公布",
+      "freshness": "48小時；截至本期已略超24小時",
+      "lifecycle": "1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "低",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 5
+      },
+      "why": "雙作品與22年回歸有明確話題鉤子，適合動漫族群分享；但尚無精確日期，實用性低於迪士尼開幕日題。",
+      "facts": "USJ官方10/28公布鋼の錬金術師 FULLMETAL ALCHEMIST與黄泉のツガイ於2027春同時合作；2005初合作至今22年。整體Cool Japan從2026/12/2起陸續展開，不代表這兩作12/2開始。設施形式、日期、個別售票方式未公布；不宣稱XR列車或已可購買聯名快通。",
+      "sources": [
+        {
+          "label": "官方鋼鍊活動頁",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa"
+        },
+        {
+          "label": "USJ原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000887.000005761.html"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151869.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "USJ周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/osaka-universal-studios-japan/hotels-c219m6789799/",
+              "kind": "住宿列表",
+              "reason": "可先比較環球城周邊住宿，待日期公告再訂",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "USJ周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/universal-studios-japan.html",
+              "kind": "住宿列表",
+              "reason": "園區周邊住宿規劃，非聯名套裝",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨商品2247，為USJ一般門票；未證實2027春鋼鍊／黃泉活動資格，不推薦為本聯名票券。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀商品46604，為指定日期Studio Pass，另有不含入園的加購方案；本聯名細節未公布，不能等同聯名套票。",
+          "pages": []
+        }
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 15,
+        "實用性": 10,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=USJ%20%E9%8B%BC",
+            "label": "Threads直接站內搜尋",
+            "reason": "10/29約10:08台灣讀取只顯示登入邀請，沒有可核對原文與互動。"
+          },
+          {
+            "url": "https://x.com/search?q=%22USJ%22%20%22%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%22%20since%3A2026-10-27&f=live",
+            "label": "X最近討論查詢",
+            "reason": "10/29約10:09台灣實際開啟轉至登入頁，未取得樣本。"
+          }
+        ],
+        "queries": [
+          "site:threads.com USJ 鋼之鍊金術師 2027",
+          "鋼の錬金術師 USJ site:instagram.com",
+          "黄泉のツガイ USJ site:x.com",
+          "ユニバーサル 鋼の錬金術師 site:youtube.com after:2026-10-27",
+          "USJ 鋼の錬金術師 site:tiktok.com",
+          "USJ 2027 site:dcard.tw"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "大阪住宿可自然銜接，但聯名尚未公布確切日期，不能催促購買現行門票或快通。",
+        "products": [
+          "USJ周邊住宿（日期確定後）"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "等聯名確切日期公布後，再把大阪住宿和USJ安排在同一段行程；現階段先比較位置與取消條件會比較實用。",
+        "checks": "待確切日期、活動票制與2027庫存公布；一般Studio Pass不保證未公布聯名體驗，未核實分潤資格。",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "id": "tamagotchi-fukuoka-lottery-20261031",
+      "title": "福岡塔麻可吉展10/31開放抽選：跨年與週末要買指定日時券",
+      "region": "九州／福岡天神・福岡三越9樓",
+      "category": "票券",
+      "announcementDate": "會場首刊2026/9/14；10/27更新；主辦10/27 12:00 JST發布票務詳情",
+      "eventDate": "2026/12/29–2027/1/25；10/31 10:00–11/11 23:59 JST抽選、11/21 10:00 JST一般預售",
+      "freshness": "48小時票務公告；9/14舊展訊例外理由為兩天後抽選開始",
+      "lifecycle": "1週（抽選提醒）；展覽攻略1個月以上",
+      "publishDecision": "晚上發",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "why": "兩天後開始抽選，年末與週末不能使用平日券；比只報展覽日期更能幫近期規劃福岡旅客避免買錯。",
+      "facts": "12/29–31及會期土日祝須數量限定日時指定券；一般日時券抽選在Ticket Pia，周邊附加券在Lawson。一般大學生1800／預售1600日圓，高中1300／1100、小中800／600、周邊附加3900／3700。10–19時，末日17時，各日最後入場提前1小時；年末年始依百貨營業。海外手機會員、付款與學生證認定尚未實測，不保證台灣手機能抽。",
+      "sources": [
+        {
+          "label": "福岡三越官方票務及限制",
+          "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html"
+        },
+        {
+          "label": "主辦原始公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000514.000027592.html"
+        },
+        {
+          "label": "展覽官方福岡會期",
+          "url": "https://www.tmgc-ten.jp/"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151509.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "天神站周邊住宿列表",
+              "url": "https://www.trip.com/hotels/landmark/jp/tenjin-subway-station.html",
+              "kind": "住宿列表",
+              "reason": "適合福岡三越與天神行程規劃",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取原始頁；用途與限制如下。",
+          "pages": [
+            {
+              "title": "天神站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/tenjin.html",
+              "kind": "住宿列表",
+              "reason": "先比較住宿位置，需另輸入跨年日期",
+              "checks": "僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。",
+              "checkedAt": "2026-10-29T10:09:09+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋未取得可確認福岡本次展覽的商品頁；官方指定售票通路不含KKday，不拿別場展覽替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋未取得本次福岡會期適用展票；不以其他城市商品或住宿冒充含展票。",
+          "pages": []
+        }
+      ],
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishAt": "10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-10-29T10:09:09+08:00",
+        "summary": "熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "大たまごっち展 福岡 site:threads.com",
+          "たまごっち展 福岡 site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "跨年福岡住宿有需求，但展票需先抽選且境外購票操作未確認；不把飯店或其他城市展票當保證入場。",
+        "products": [
+          "天神住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果跨年福岡行程也想排塔麻可吉展，先確認能買到符合日期的展票，再比較天神住宿和取消條件。",
+        "checks": "確認抽選及台灣手機付款可用性、展覽入場資格、跨年休館與飯店取消條款；住宿不含展票，佣金資格未查核。",
+        "assessedOn": "2026-10-29"
+      }
+    }
+  ],
+  "researchLeads": [
+    {
+      "title": "東京U29銭湯300日圓",
+      "category": "活動",
+      "region": "東京",
+      "announcementDate": "10/28公告、11/4開始",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2152053.html"
+        }
+      ],
+      "reason": "媒體全文已讀；都廳頁讀取未呈現活動正文，外國旅客取得券與身分條件尚未完全核對，不推薦成皆可用優惠。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "新幹線に乗ってみよう！學生票",
+      "category": "交通",
+      "region": "關西／中國／九州",
+      "announcementDate": "媒體10/28",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151966.html"
+        }
+      ],
+      "reason": "已讀媒體正文，含My Number事前本人驗證；未完成JR原始資格交叉查核，不向台灣短期觀光客推銷。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "福岡空港TABISIA",
+      "category": "購物",
+      "region": "福岡",
+      "announcementDate": "媒體10/27",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2151470.html"
+        }
+      ],
+      "reason": "已開媒體頁，尚未完整核對官方開業與店鋪日期，不列精選。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "九州復興折扣重新販售",
+      "category": "票券",
+      "region": "九州",
+      "announcementDate": "10/28線索",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://kyusyutravelguide.com/kyushu-travel-support/"
+        }
+      ],
+      "reason": "搜尋摘要線索；未完成當下剩餘額度、外國旅客資格及供應商交叉核對，不把最大折扣當人人可用。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "奈良井宿燈明祭",
+      "category": "活動",
+      "region": "中部／長野",
+      "announcementDate": "10/29新聞稿線索",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://news.livedoor.com/pr_topics/detail/32681595/"
+        }
+      ],
+      "reason": "只有主辦稿轉載搜尋線索，尚未讀到完整原始活動頁，未查交通與日期。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "SHOGUN BURGER近江町市場店",
+      "category": "美食",
+      "region": "北陸／金澤",
+      "announcementDate": "10/28開店線索",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://kanazawa-machineta.com/category/open-close"
+        }
+      ],
+      "reason": "店家彙整索引，未取得品牌開店原始公告與第二來源。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "COTOHOGI新餐廳",
+      "category": "美食",
+      "region": "北陸／金澤",
+      "announcementDate": "10/31開店線索",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://kanazawa-machineta.com/category/open-close"
+        }
+      ],
+      "reason": "同索引但不同事件，缺價格、預訂方式與官方雙源。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "鵜之濱溫泉點燈",
+      "category": "季節情報",
+      "region": "北陸／新潟",
+      "announcementDate": "10/29地方報索引",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://j-times.jp/archives/date/2026/10/29"
+        }
+      ],
+      "reason": "地方報當日索引線索，未核對完整活動期間與主辦公告。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "中島公園秋季點燈",
+      "category": "季節情報",
+      "region": "北海道／札幌",
+      "announcementDate": "10/23報導",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://www.htb.co.jp/news/archives_40133.html"
+        }
+      ],
+      "reason": "先前已選相關主題；此次沒有已驗證的新進展，不重複包裝。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "scape general store",
+      "category": "購物",
+      "region": "沖繩",
+      "announcementDate": "10/26索引、12月開幕線索",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://okinawapress.jp/newopen/"
+        }
+      ],
+      "reason": "尚是區域新店索引，確切開店日與原始來源未核實。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "仙台畫材祭",
+      "category": "活動",
+      "region": "東北／仙台",
+      "announcementDate": "10/31–11/1活動索引",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://www.sentabi.jp/?post_type=event"
+        }
+      ],
+      "reason": "官方旅遊索引，但缺原始公布日、第二來源與近期社群證據；台灣旅遊相關性也較窄。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    },
+    {
+      "title": "廣島水族館座間味合作展",
+      "category": "活動",
+      "region": "中國／廣島",
+      "announcementDate": "9/11–11/1活動索引",
+      "sources": [
+        {
+          "label": "研究線索（非完成查核）",
+          "url": "https://www.kanko-h.com/event/"
+        }
+      ],
+      "reason": "即將結束的索引線索，未查官方票價、取消狀態與第二來源。",
+      "status": "未通過發布查核，不計入合格候選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "新聞尚未完成查核，不以商品需求掩蓋限制。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "需先完成新聞查核",
+        "assessedOn": "2026-10-29"
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "福岡塔麻可吉抽選10/31開始",
+      "next": "未來48小時核對平台正式開放、境外帳號與付款限制；不可預告必定售罄。",
+      "sources": [
+        {
+          "label": "官方票務",
+          "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html"
+        }
+      ]
+    },
+    {
+      "title": "USJ雙作品詳細活動形式",
+      "next": "觀察是否有後續公告，沒有已知72小時內發布承諾；確切日期與票制仍待公布。",
+      "sources": [
+        {
+          "label": "官方活動",
+          "url": "https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa"
+        }
+      ]
+    },
+    {
+      "title": "東京U29銭湯優惠資格",
+      "next": "追查外國觀光客適用性與取券方式；11/4網站預告不等於現在已可使用。",
+      "sources": [
+        {
+          "label": "東京都公告",
+          "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102810"
+        }
+      ]
+    },
+    {
+      "title": "金澤10/30–31新店線索",
+      "next": "觀察店家正式開幕公告與訂位資訊；未核實前不宣布已開。",
+      "sources": [
+        {
+          "label": "地方索引",
+          "url": "https://kanazawa-machineta.com/category/open-close"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-29T10:09:09+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "limitation": "本期原始互動樣本0；不是證明沒有討論。Threads直接搜尋僅登入邀請；X搜尋轉登入；站外搜尋Threads/Facebook/Instagram/Dcard/PTT/YouTube/X未取到符合題目、48小時及互動要求的原文，TikTok robots限制。不得把內容分數當社群熱榜。",
+    "searchedTopicCount": 3,
+    "qualifiedTopicCount": 0,
+    "platformAccess": {
+      "Threads": "直接站內搜尋要求登入；站外未獲合格原文",
+      "X": "直接搜尋轉登入頁",
+      "Facebook": "站外搜尋未取得合格近期原文",
+      "Instagram": "站外搜尋未取得合格近期原文",
+      "Dcard": "站外搜尋未取得合格近期原文",
+      "PTT": "搜尋混入電影舊文或其他遊戲討論，排除",
+      "YouTube": "搜尋未取得可核對本事件時間與互動的原始影片",
+      "TikTok": "robots限制，無合格證據"
+    }
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-29\n搜尋截止：2026-10-29 10:09 Asia/Taipei（日本11:09 Asia/Tokyo）；本期新聞搜尋與社群觀測截止，平台頁亦於本期查閱\n本期掃描15個不同事件，完成雙源與行動資訊查核3題，12題僅保留研究線索，不給未查核事件虛構分數；合格候選與精選皆3題，未達15／10目標。全部未達社群門檻，無法建立本期熱榜；依編輯內容分數由優到弱排序。\n\n【今天日本發生什麼】\n已查證：東京迪士尼新設施2027/4/15開幕，Standby Pass與DPA需和園票分開理解。\n已查證：USJ雙作品合作是2027春，不能把整體Cool Japan的12/2當成鋼鍊開幕日。\n已查證：福岡塔麻可吉展10/31開始抽選，年末三天與土日祝需日時指定券。\n編輯觀察：三題都有規劃價值，但目前票券／活動細節成熟度不同，分潤皆評中。\n查核限制：Threads與X直接搜尋遇登入牆，站外索引混入舊文，不能聲稱近期爆紅。\n區域掃描：北海道、東北、北陸、中部、中國、四國、沖繩亦有查找；未用過期活動或索引湊入精選。\n\n【候選池與比較】\n八項依序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值；上限20/20/15/15/10/10/5/5。分數與三種星等為編輯判斷，非觀看量保證。\n\nTOP 1 東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證\n分類／地區：旅遊／關東／千葉浦安・東京迪士尼樂園\n公告：2026/10/27官方開業日期公告（未標時刻）；媒體10/27 16:36 JST\n事件與販售：2027/4/15開幕；爆米花店2027/3/17先開\n查核：設施位於東京迪士尼樂園明日樂園，不在迪士尼海洋。2027/4/15起，官方列為Standby Pass及Disney Premier Access對象；Standby Pass須入園後於官方App取得，按顯示時段排隊。約4分鐘、每車3人。DPA本題價格與該日園票庫存未查得。周邊Pixel Prism商店4/15、Popping Station爆米花店3/17；不可把新太空山也寫成4/15開幕。\n推薦原因與台灣相關性：開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。\n八項：17/20/14/13/8/9/5/4；總分90/100；爆紅／收藏／分享4/5/5星\n風險：低；時效：48小時日期範圍；官方無時刻，不假定精確48小時；生命週期：1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：site:threads.com 迪士尼 無敵破壞王 2027 開幕；シュガー・ラッシュ 2027 site:threads.com；シュガー・ラッシュ 2027 site:facebook.com；無敵破壞王 2027 site:dcard.tw OR site:youtube.com OR site:ptt.cc\n線索：[{\"url\":\"https://www.ptt.cc/bbs/movie/M.1474119262.A.011.html\",\"label\":\"搜尋混入2016電影心得\",\"reason\":\"年代與主題均不符本次新設施，未納入熱度。\"}]\n分潤：中 有明年舞濱住宿與園票需求，但距開幕仍遠，未確認4/15門票販售，適合先做行程規劃。；商品：舞濱住宿、東京迪士尼樂園指定日期門票（待開售核對）；限制：核對2027/4/15之後的日期與Land園區；DPA另行確認，住宿不含門票，未確認票庫或佣金資格。\n來源：[官方設施與使用方式](https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/) [官方10/27開幕公告專頁](https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151572.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"舞濱站周邊住宿列表\",\"url\":\"https://www.trip.com/hotels/urayasu-jr-maihama-station/hotels-c35751r8254981/\",\"kind\":\"住宿列表\",\"reason\":\"供明年春季迪士尼行程比較基地\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"舞濱站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/maihama-station.html\",\"kind\":\"住宿列表\",\"reason\":\"地區對應浦安舞濱，需另輸入明年日期\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀商品19252乾淨頁，為Land／Sea門票，但未確認2027/4/15可售與新設施資格；本期不推薦成可立即預訂本事件的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀商品695乾淨頁，Land與Sea方案分開、指定日期有效；未確認2027/4/15販售，暫不提供本事件票券推薦。\",\"pages\":[]}]\n\nTOP 2 USJ《鋼之鍊金術師》22年後回歸，與《黃泉使者》明年春季同登場\n分類／地區：活動／關西／大阪USJ\n公告：2026/10/28 11:00 JST官方發布\n事件與販售：2027年春；確切日期與結束日未公布\n查核：USJ官方10/28公布鋼の錬金術師 FULLMETAL ALCHEMIST與黄泉のツガイ於2027春同時合作；2005初合作至今22年。整體Cool Japan從2026/12/2起陸續展開，不代表這兩作12/2開始。設施形式、日期、個別售票方式未公布；不宣稱XR列車或已可購買聯名快通。\n推薦原因與台灣相關性：雙作品與22年回歸有明確話題鉤子，適合動漫族群分享；但尚無精確日期，實用性低於迪士尼開幕日題。\n八項：18/18/15/10/9/9/5/4；總分88/100；爆紅／收藏／分享5/4/5星\n風險：低；時效：48小時；截至本期已略超24小時；生命週期：1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：site:threads.com USJ 鋼之鍊金術師 2027；鋼の錬金術師 USJ site:instagram.com；黄泉のツガイ USJ site:x.com；ユニバーサル 鋼の錬金術師 site:youtube.com after:2026-10-27；USJ 鋼の錬金術師 site:tiktok.com；USJ 2027 site:dcard.tw\n線索：[{\"url\":\"https://www.threads.com/search?q=USJ%20%E9%8B%BC\",\"label\":\"Threads直接站內搜尋\",\"reason\":\"10/29約10:08台灣讀取只顯示登入邀請，沒有可核對原文與互動。\"},{\"url\":\"https://x.com/search?q=%22USJ%22%20%22%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%22%20since%3A2026-10-27&f=live\",\"label\":\"X最近討論查詢\",\"reason\":\"10/29約10:09台灣實際開啟轉至登入頁，未取得樣本。\"}]\n分潤：中 大阪住宿可自然銜接，但聯名尚未公布確切日期，不能催促購買現行門票或快通。；商品：USJ周邊住宿（日期確定後）；限制：待確切日期、活動票制與2027庫存公布；一般Studio Pass不保證未公布聯名體驗，未核實分潤資格。\n來源：[官方鋼鍊活動頁](https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa) [USJ原始公告](https://prtimes.jp/main/html/rd/p/000000887.000005761.html) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151869.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"USJ周邊住宿列表\",\"url\":\"https://jp.trip.com/hotels/osaka-universal-studios-japan/hotels-c219m6789799/\",\"kind\":\"住宿列表\",\"reason\":\"可先比較環球城周邊住宿，待日期公告再訂\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"USJ周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/universal-studios-japan.html\",\"kind\":\"住宿列表\",\"reason\":\"園區周邊住宿規劃，非聯名套裝\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀乾淨商品2247，為USJ一般門票；未證實2027春鋼鍊／黃泉活動資格，不推薦為本聯名票券。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀商品46604，為指定日期Studio Pass，另有不含入園的加購方案；本聯名細節未公布，不能等同聯名套票。\",\"pages\":[]}]\n\nTOP 3 福岡塔麻可吉展10/31開放抽選：跨年與週末要買指定日時券\n分類／地區：票券／九州／福岡天神・福岡三越9樓\n公告：會場首刊2026/9/14；10/27更新；主辦10/27 12:00 JST發布票務詳情\n事件與販售：2026/12/29–2027/1/25；10/31 10:00–11/11 23:59 JST抽選、11/21 10:00 JST一般預售\n查核：12/29–31及會期土日祝須數量限定日時指定券；一般日時券抽選在Ticket Pia，周邊附加券在Lawson。一般大學生1800／預售1600日圓，高中1300／1100、小中800／600、周邊附加3900／3700。10–19時，末日17時，各日最後入場提前1小時；年末年始依百貨營業。海外手機會員、付款與學生證認定尚未實測，不保證台灣手機能抽。\n推薦原因與台灣相關性：兩天後開始抽選，年末與週末不能使用平日券；比只報展覽日期更能幫近期規劃福岡旅客避免買錯。\n八項：18/17/12/15/7/8/4/4；總分85/100；爆紅／收藏／分享4/5/4星\n風險：中；時效：48小時票務公告；9/14舊展訊例外理由為兩天後抽選開始；生命週期：1週（抽選提醒）；展覽攻略1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：大たまごっち展 福岡 site:threads.com；たまごっち展 福岡 site:facebook.com OR site:instagram.com OR site:x.com\n線索：[]\n分潤：中 跨年福岡住宿有需求，但展票需先抽選且境外購票操作未確認；不把飯店或其他城市展票當保證入場。；商品：天神住宿；限制：確認抽選及台灣手機付款可用性、展覽入場資格、跨年休館與飯店取消條款；住宿不含展票，佣金資格未查核。\n來源：[福岡三越官方票務及限制](https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html) [主辦原始公告](https://prtimes.jp/main/html/rd/p/000000514.000027592.html) [展覽官方福岡會期](https://www.tmgc-ten.jp/) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151509.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"天神站周邊住宿列表\",\"url\":\"https://www.trip.com/hotels/landmark/jp/tenjin-subway-station.html\",\"kind\":\"住宿列表\",\"reason\":\"適合福岡三越與天神行程規劃\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"天神站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/tenjin.html\",\"kind\":\"住宿列表\",\"reason\":\"先比較住宿位置，需另輸入跨年日期\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋未取得可確認福岡本次展覽的商品頁；官方指定售票通路不含KKday，不拿別場展覽替代。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋未取得本次福岡會期適用展票；不以其他城市商品或住宿冒充含展票。\",\"pages\":[]}]\n\n【未入選線索】\n4. 東京U29銭湯300日圓｜活動｜東京｜10/28公告、11/4開始｜媒體全文已讀；都廳頁讀取未呈現活動正文，外國旅客取得券與身分條件尚未完全核對，不推薦成皆可用優惠。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2152053.html)\n5. 新幹線に乗ってみよう！學生票｜交通｜關西／中國／九州｜媒體10/28｜已讀媒體正文，含My Number事前本人驗證；未完成JR原始資格交叉查核，不向台灣短期觀光客推銷。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2151966.html)\n6. 福岡空港TABISIA｜購物｜福岡｜媒體10/27｜已開媒體頁，尚未完整核對官方開業與店鋪日期，不列精選。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2151470.html)\n7. 九州復興折扣重新販售｜票券｜九州｜10/28線索｜搜尋摘要線索；未完成當下剩餘額度、外國旅客資格及供應商交叉核對，不把最大折扣當人人可用。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kyusyutravelguide.com/kyushu-travel-support/)\n8. 奈良井宿燈明祭｜活動｜中部／長野｜10/29新聞稿線索｜只有主辦稿轉載搜尋線索，尚未讀到完整原始活動頁，未查交通與日期。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://news.livedoor.com/pr_topics/detail/32681595/)\n9. SHOGUN BURGER近江町市場店｜美食｜北陸／金澤｜10/28開店線索｜店家彙整索引，未取得品牌開店原始公告與第二來源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kanazawa-machineta.com/category/open-close)\n10. COTOHOGI新餐廳｜美食｜北陸／金澤｜10/31開店線索｜同索引但不同事件，缺價格、預訂方式與官方雙源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kanazawa-machineta.com/category/open-close)\n11. 鵜之濱溫泉點燈｜季節情報｜北陸／新潟｜10/29地方報索引｜地方報當日索引線索，未核對完整活動期間與主辦公告。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://j-times.jp/archives/date/2026/10/29)\n12. 中島公園秋季點燈｜季節情報｜北海道／札幌｜10/23報導｜先前已選相關主題；此次沒有已驗證的新進展，不重複包裝。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.htb.co.jp/news/archives_40133.html)\n13. scape general store｜購物｜沖繩｜10/26索引、12月開幕線索｜尚是區域新店索引，確切開店日與原始來源未核實。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://okinawapress.jp/newopen/)\n14. 仙台畫材祭｜活動｜東北／仙台｜10/31–11/1活動索引｜官方旅遊索引，但缺原始公布日、第二來源與近期社群證據；台灣旅遊相關性也較窄。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.sentabi.jp/?post_type=event)\n15. 廣島水族館座間味合作展｜活動｜中國／廣島｜9/11–11/1活動索引｜即將結束的索引線索，未查官方票價、取消狀態與第二來源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.kanko-h.com/event/)\n\n【社群搜尋限制】\n本期原始互動樣本0；不是證明沒有討論。Threads直接搜尋僅登入邀請；X搜尋轉登入；站外搜尋Threads/Facebook/Instagram/Dcard/PTT/YouTube/X未取到符合題目、48小時及互動要求的原文，TikTok robots限制。不得把內容分數當社群熱榜。\n\n【編輯推薦】\n{\"id\":\"tdl-sugar-rush-opening-20270415\",\"title\":\"東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證\",\"score\":90,\"reason\":\"開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。\",\"versusSecond\":\"比USJ更有確切日期與可執行的App準備步驟；只是編輯推薦，未代使用者選題。\",\"publishAt\":\"10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\"audience\":\"規劃2027春東京的台灣自由行與親子旅客\",\"angle\":\"開幕日期確定，但門票不等於保證玩到新設施\",\"lifecycle\":\"1個月以上\"}\n\n【後續追蹤】\n[{\"title\":\"福岡塔麻可吉抽選10/31開始\",\"next\":\"未來48小時核對平台正式開放、境外帳號與付款限制；不可預告必定售罄。\",\"sources\":[{\"label\":\"官方票務\",\"url\":\"https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html\"}]},{\"title\":\"USJ雙作品詳細活動形式\",\"next\":\"觀察是否有後續公告，沒有已知72小時內發布承諾；確切日期與票制仍待公布。\",\"sources\":[{\"label\":\"官方活動\",\"url\":\"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa\"}]},{\"title\":\"東京U29銭湯優惠資格\",\"next\":\"追查外國觀光客適用性與取券方式；11/4網站預告不等於現在已可使用。\",\"sources\":[{\"label\":\"東京都公告\",\"url\":\"https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102810\"}]},{\"title\":\"金澤10/30–31新店線索\",\"next\":\"觀察店家正式開幕公告與訂位資訊；未核實前不宣布已開。\",\"sources\":[{\"label\":\"地方索引\",\"url\":\"https://kanazawa-machineta.com/category/open-close\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-29\n搜尋截止：2026-10-29 10:09 Asia/Taipei（日本11:09 Asia/Tokyo）；本期新聞搜尋與社群觀測截止，平台頁亦於本期查閱\n本期掃描15個不同事件，完成雙源與行動資訊查核3題，12題僅保留研究線索，不給未查核事件虛構分數；合格候選與精選皆3題，未達15／10目標。全部未達社群門檻，無法建立本期熱榜；依編輯內容分數由優到弱排序。\n\n【今天日本發生什麼】\n已查證：東京迪士尼新設施2027/4/15開幕，Standby Pass與DPA需和園票分開理解。\n已查證：USJ雙作品合作是2027春，不能把整體Cool Japan的12/2當成鋼鍊開幕日。\n已查證：福岡塔麻可吉展10/31開始抽選，年末三天與土日祝需日時指定券。\n編輯觀察：三題都有規劃價值，但目前票券／活動細節成熟度不同，分潤皆評中。\n查核限制：Threads與X直接搜尋遇登入牆，站外索引混入舊文，不能聲稱近期爆紅。\n區域掃描：北海道、東北、北陸、中部、中國、四國、沖繩亦有查找；未用過期活動或索引湊入精選。\n\n【候選池與比較】\n八項依序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值；上限20/20/15/15/10/10/5/5。分數與三種星等為編輯判斷，非觀看量保證。\n\nTOP 1 東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證\n分類／地區：旅遊／關東／千葉浦安・東京迪士尼樂園\n公告：2026/10/27官方開業日期公告（未標時刻）；媒體10/27 16:36 JST\n事件與販售：2027/4/15開幕；爆米花店2027/3/17先開\n查核：設施位於東京迪士尼樂園明日樂園，不在迪士尼海洋。2027/4/15起，官方列為Standby Pass及Disney Premier Access對象；Standby Pass須入園後於官方App取得，按顯示時段排隊。約4分鐘、每車3人。DPA本題價格與該日園票庫存未查得。周邊Pixel Prism商店4/15、Popping Station爆米花店3/17；不可把新太空山也寫成4/15開幕。\n推薦原因與台灣相關性：開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。\n八項：17/20/14/13/8/9/5/4；總分90/100；爆紅／收藏／分享4/5/5星\n風險：低；時效：48小時日期範圍；官方無時刻，不假定精確48小時；生命週期：1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：site:threads.com 迪士尼 無敵破壞王 2027 開幕；シュガー・ラッシュ 2027 site:threads.com；シュガー・ラッシュ 2027 site:facebook.com；無敵破壞王 2027 site:dcard.tw OR site:youtube.com OR site:ptt.cc\n線索：[{\"url\":\"https://www.ptt.cc/bbs/movie/M.1474119262.A.011.html\",\"label\":\"搜尋混入2016電影心得\",\"reason\":\"年代與主題均不符本次新設施，未納入熱度。\"}]\n分潤：中 有明年舞濱住宿與園票需求，但距開幕仍遠，未確認4/15門票販售，適合先做行程規劃。；商品：舞濱住宿、東京迪士尼樂園指定日期門票（待開售核對）；限制：核對2027/4/15之後的日期與Land園區；DPA另行確認，住宿不含門票，未確認票庫或佣金資格。\n來源：[官方設施與使用方式](https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/) [官方10/27開幕公告專頁](https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151572.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"舞濱站周邊住宿列表\",\"url\":\"https://www.trip.com/hotels/urayasu-jr-maihama-station/hotels-c35751r8254981/\",\"kind\":\"住宿列表\",\"reason\":\"供明年春季迪士尼行程比較基地\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"舞濱站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/maihama-station.html\",\"kind\":\"住宿列表\",\"reason\":\"地區對應浦安舞濱，需另輸入明年日期\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀商品19252乾淨頁，為Land／Sea門票，但未確認2027/4/15可售與新設施資格；本期不推薦成可立即預訂本事件的商品。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀商品695乾淨頁，Land與Sea方案分開、指定日期有效；未確認2027/4/15販售，暫不提供本事件票券推薦。\",\"pages\":[]}]\n\nTOP 2 USJ《鋼之鍊金術師》22年後回歸，與《黃泉使者》明年春季同登場\n分類／地區：活動／關西／大阪USJ\n公告：2026/10/28 11:00 JST官方發布\n事件與販售：2027年春；確切日期與結束日未公布\n查核：USJ官方10/28公布鋼の錬金術師 FULLMETAL ALCHEMIST與黄泉のツガイ於2027春同時合作；2005初合作至今22年。整體Cool Japan從2026/12/2起陸續展開，不代表這兩作12/2開始。設施形式、日期、個別售票方式未公布；不宣稱XR列車或已可購買聯名快通。\n推薦原因與台灣相關性：雙作品與22年回歸有明確話題鉤子，適合動漫族群分享；但尚無精確日期，實用性低於迪士尼開幕日題。\n八項：18/18/15/10/9/9/5/4；總分88/100；爆紅／收藏／分享5/4/5星\n風險：低；時效：48小時；截至本期已略超24小時；生命週期：1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：site:threads.com USJ 鋼之鍊金術師 2027；鋼の錬金術師 USJ site:instagram.com；黄泉のツガイ USJ site:x.com；ユニバーサル 鋼の錬金術師 site:youtube.com after:2026-10-27；USJ 鋼の錬金術師 site:tiktok.com；USJ 2027 site:dcard.tw\n線索：[{\"url\":\"https://www.threads.com/search?q=USJ%20%E9%8B%BC\",\"label\":\"Threads直接站內搜尋\",\"reason\":\"10/29約10:08台灣讀取只顯示登入邀請，沒有可核對原文與互動。\"},{\"url\":\"https://x.com/search?q=%22USJ%22%20%22%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%22%20since%3A2026-10-27&f=live\",\"label\":\"X最近討論查詢\",\"reason\":\"10/29約10:09台灣實際開啟轉至登入頁，未取得樣本。\"}]\n分潤：中 大阪住宿可自然銜接，但聯名尚未公布確切日期，不能催促購買現行門票或快通。；商品：USJ周邊住宿（日期確定後）；限制：待確切日期、活動票制與2027庫存公布；一般Studio Pass不保證未公布聯名體驗，未核實分潤資格。\n來源：[官方鋼鍊活動頁](https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa) [USJ原始公告](https://prtimes.jp/main/html/rd/p/000000887.000005761.html) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151869.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"USJ周邊住宿列表\",\"url\":\"https://jp.trip.com/hotels/osaka-universal-studios-japan/hotels-c219m6789799/\",\"kind\":\"住宿列表\",\"reason\":\"可先比較環球城周邊住宿，待日期公告再訂\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"USJ周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/universal-studios-japan.html\",\"kind\":\"住宿列表\",\"reason\":\"園區周邊住宿規劃，非聯名套裝\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀乾淨商品2247，為USJ一般門票；未證實2027春鋼鍊／黃泉活動資格，不推薦為本聯名票券。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀商品46604，為指定日期Studio Pass，另有不含入園的加購方案；本聯名細節未公布，不能等同聯名套票。\",\"pages\":[]}]\n\nTOP 3 福岡塔麻可吉展10/31開放抽選：跨年與週末要買指定日時券\n分類／地區：票券／九州／福岡天神・福岡三越9樓\n公告：會場首刊2026/9/14；10/27更新；主辦10/27 12:00 JST發布票務詳情\n事件與販售：2026/12/29–2027/1/25；10/31 10:00–11/11 23:59 JST抽選、11/21 10:00 JST一般預售\n查核：12/29–31及會期土日祝須數量限定日時指定券；一般日時券抽選在Ticket Pia，周邊附加券在Lawson。一般大學生1800／預售1600日圓，高中1300／1100、小中800／600、周邊附加3900／3700。10–19時，末日17時，各日最後入場提前1小時；年末年始依百貨營業。海外手機會員、付款與學生證認定尚未實測，不保證台灣手機能抽。\n推薦原因與台灣相關性：兩天後開始抽選，年末與週末不能使用平日券；比只報展覽日期更能幫近期規劃福岡旅客避免買錯。\n八項：18/17/12/15/7/8/4/4；總分85/100；爆紅／收藏／分享4/5/4星\n風險：中；時效：48小時票務公告；9/14舊展訊例外理由為兩天後抽選開始；生命週期：1週（抽選提醒）；展覽攻略1個月以上；晚上發 10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認：本期未取得2位作者的48小時內原文及可核對讚／留言；星等與分數僅編輯判斷。 觀測2026-10-29T10:09:09+08:00\n查詢：大たまごっち展 福岡 site:threads.com；たまごっち展 福岡 site:facebook.com OR site:instagram.com OR site:x.com\n線索：[]\n分潤：中 跨年福岡住宿有需求，但展票需先抽選且境外購票操作未確認；不把飯店或其他城市展票當保證入場。；商品：天神住宿；限制：確認抽選及台灣手機付款可用性、展覽入場資格、跨年休館與飯店取消條款；住宿不含展票，佣金資格未查核。\n來源：[福岡三越官方票務及限制](https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html) [主辦原始公告](https://prtimes.jp/main/html/rd/p/000000514.000027592.html) [展覽官方福岡會期](https://www.tmgc-ten.jp/) [Travel Watch交叉核對](https://travel.watch.impress.co.jp/docs/news/2151509.html)\n平台查閱：[{\"platform\":\"trip\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"天神站周邊住宿列表\",\"url\":\"https://www.trip.com/hotels/landmark/jp/tenjin-subway-station.html\",\"kind\":\"住宿列表\",\"reason\":\"適合福岡三越與天神行程規劃\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已讀取原始頁；用途與限制如下。\",\"pages\":[{\"title\":\"天神站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/tenjin.html\",\"kind\":\"住宿列表\",\"reason\":\"先比較住宿位置，需另輸入跨年日期\",\"checks\":\"僅核對地區住宿列表；請自行輸入活動日期、人數，核對取消條件與實際庫存。住宿不代表包含活動門票；未確認最低價或分潤資格。\",\"checkedAt\":\"2026-10-29T10:09:09+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋未取得可確認福岡本次展覽的商品頁；官方指定售票通路不含KKday，不拿別場展覽替代。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋未取得本次福岡會期適用展票；不以其他城市商品或住宿冒充含展票。\",\"pages\":[]}]\n\n【未入選線索】\n4. 東京U29銭湯300日圓｜活動｜東京｜10/28公告、11/4開始｜媒體全文已讀；都廳頁讀取未呈現活動正文，外國旅客取得券與身分條件尚未完全核對，不推薦成皆可用優惠。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2152053.html)\n5. 新幹線に乗ってみよう！學生票｜交通｜關西／中國／九州｜媒體10/28｜已讀媒體正文，含My Number事前本人驗證；未完成JR原始資格交叉查核，不向台灣短期觀光客推銷。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2151966.html)\n6. 福岡空港TABISIA｜購物｜福岡｜媒體10/27｜已開媒體頁，尚未完整核對官方開業與店鋪日期，不列精選。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://travel.watch.impress.co.jp/docs/news/2151470.html)\n7. 九州復興折扣重新販售｜票券｜九州｜10/28線索｜搜尋摘要線索；未完成當下剩餘額度、外國旅客資格及供應商交叉核對，不把最大折扣當人人可用。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kyusyutravelguide.com/kyushu-travel-support/)\n8. 奈良井宿燈明祭｜活動｜中部／長野｜10/29新聞稿線索｜只有主辦稿轉載搜尋線索，尚未讀到完整原始活動頁，未查交通與日期。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://news.livedoor.com/pr_topics/detail/32681595/)\n9. SHOGUN BURGER近江町市場店｜美食｜北陸／金澤｜10/28開店線索｜店家彙整索引，未取得品牌開店原始公告與第二來源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kanazawa-machineta.com/category/open-close)\n10. COTOHOGI新餐廳｜美食｜北陸／金澤｜10/31開店線索｜同索引但不同事件，缺價格、預訂方式與官方雙源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://kanazawa-machineta.com/category/open-close)\n11. 鵜之濱溫泉點燈｜季節情報｜北陸／新潟｜10/29地方報索引｜地方報當日索引線索，未核對完整活動期間與主辦公告。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://j-times.jp/archives/date/2026/10/29)\n12. 中島公園秋季點燈｜季節情報｜北海道／札幌｜10/23報導｜先前已選相關主題；此次沒有已驗證的新進展，不重複包裝。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.htb.co.jp/news/archives_40133.html)\n13. scape general store｜購物｜沖繩｜10/26索引、12月開幕線索｜尚是區域新店索引，確切開店日與原始來源未核實。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://okinawapress.jp/newopen/)\n14. 仙台畫材祭｜活動｜東北／仙台｜10/31–11/1活動索引｜官方旅遊索引，但缺原始公布日、第二來源與近期社群證據；台灣旅遊相關性也較窄。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.sentabi.jp/?post_type=event)\n15. 廣島水族館座間味合作展｜活動｜中國／廣島｜9/11–11/1活動索引｜即將結束的索引線索，未查官方票價、取消狀態與第二來源。｜未評分；星等、風險與生命週期未評估；先收藏觀察。分潤未評估。[研究線索（非完成查核）](https://www.kanko-h.com/event/)\n\n【社群搜尋限制】\n本期原始互動樣本0；不是證明沒有討論。Threads直接搜尋僅登入邀請；X搜尋轉登入；站外搜尋Threads/Facebook/Instagram/Dcard/PTT/YouTube/X未取到符合題目、48小時及互動要求的原文，TikTok robots限制。不得把內容分數當社群熱榜。\n\n【編輯推薦】\n{\"id\":\"tdl-sugar-rush-opening-20270415\",\"title\":\"東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證\",\"score\":90,\"reason\":\"開幕日已具體到日期，能直接影響明年東京行程；官方已列Standby Pass與付費DPA，適合提醒門票和設施體驗資格不同。\",\"versusSecond\":\"比USJ更有確切日期與可執行的App準備步驟；只是編輯推薦，未代使用者選題。\",\"publishAt\":\"10/29 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\"audience\":\"規劃2027春東京的台灣自由行與親子旅客\",\"angle\":\"開幕日期確定，但門票不等於保證玩到新設施\",\"lifecycle\":\"1個月以上\"}\n\n【後續追蹤】\n[{\"title\":\"福岡塔麻可吉抽選10/31開始\",\"next\":\"未來48小時核對平台正式開放、境外帳號與付款限制；不可預告必定售罄。\",\"sources\":[{\"label\":\"官方票務\",\"url\":\"https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html\"}]},{\"title\":\"USJ雙作品詳細活動形式\",\"next\":\"觀察是否有後續公告，沒有已知72小時內發布承諾；確切日期與票制仍待公布。\",\"sources\":[{\"label\":\"官方活動\",\"url\":\"https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa\"}]},{\"title\":\"東京U29銭湯優惠資格\",\"next\":\"追查外國觀光客適用性與取券方式；11/4網站預告不等於現在已可使用。\",\"sources\":[{\"label\":\"東京都公告\",\"url\":\"https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102810\"}]},{\"title\":\"金澤10/30–31新店線索\",\"next\":\"觀察店家正式開幕公告與訂位資訊；未核實前不宣布已開。\",\"sources\":[{\"label\":\"地方索引\",\"url\":\"https://kanazawa-machineta.com/category/open-close\"}]}]\n\n【各題完整草稿，供選題後開啟】\n東京迪士尼《無敵破壞王》新設施確定4/15開幕：入園後還要留意通行證\n1/3\n明年想去東京迪士尼玩《無敵破壞王》，行程可以先記下2027年4月15日。\n\n新設施「シュガー・ラッシュ：スウィートレスキュー」開在東京迪士尼樂園的明日樂園，不在海洋。這次已公布開幕日，但買到園票不代表一定能直接排這項設施。\n\n2/3\n官方目前把它列為Standby Pass與付費Disney Premier Access對象。\n\n走Standby Pass方式，要入園後用東京迪士尼度假區App取得，再依通行證顯示的時段排隊。體驗約4分鐘、每車3人；能否取得通行證仍以當天供應為準。\n\n目前這份查核沒有確認DPA價格與開幕日票券庫存，先別把「已公布日期」理解為今天已能買到所有需要的票。\n\n3/3\n附近的新商店Pixel Prism同樣4月15日開；Popping Station爆米花店則提早到3月17日。新太空山的日期不能直接套用這次公告。\n\n下一步先確認你要去的是Land，再查旅行日期的園票與可取消住宿；接近出發時重看App使用規則。\n官方設施：https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/\n開幕公告：https://www.tokyodisneyresort.jp/treasure/tomorrowland_2027/\n切角與開頭：[{\"name\":\"規劃日期\",\"opening\":\"明年東京迪士尼想玩《無敵破壞王》，先把4月15日畫進行事曆。\"},{\"name\":\"通行證提醒\",\"opening\":\"買到迪士尼園票，還不等於能直接排新的《無敵破壞王》。\"},{\"name\":\"園區辨識\",\"opening\":\"這次的新設施在Land，訂票時別選成迪士尼海洋。\"},{\"name\":\"親子安排\",\"opening\":\"新設施約4分鐘、每車3人；親子行程還要多安排一步App取證。\"},{\"name\":\"分批開幕\",\"opening\":\"爆米花店3月先開，新設施4月登場；明日樂園不是同一天全開。\"}]\n圖片：[{\"description\":\"官方新設施主視覺及位置圖；屬示意素材，非現場實拍，商用授權未確認。\",\"url\":\"https://www.tokyodisneyresort.jp/tdl/attraction/detail/186/\"}]\n延伸：可延伸商業內容：舞濱可取消住宿比較、Land與Sea選園攻略；待票券開售後才補具體入園票，不保證新設施名額。\n\nUSJ《鋼之鍊金術師》22年後回歸，與《黃泉使者》明年春季同登場\n1/3\n《鋼之鍊金術師》要回到USJ了，上次合作是2005年。\n\nUSJ在10月28日公布，2027年春季將讓《鋼之鍊金術師 FULLMETAL ALCHEMIST》與荒川弘另一部作品《黃泉使者》同時登場。\n\n先分清日期：Cool Japan整體從今年12月2日起陸續展開，這兩作的時間是「明年春」，不是12月2日。\n\n2/3\n目前可以確定的是雙作品合作，還不能確定你會怎麼玩。\n\n官方尚未公布確切開始日、結束日與體驗形式，所以現在不能寫成XR列車、4D劇場，也不能把既有快通當成已包含鋼鍊。\n\n如果你原本就打算明年春天去大阪，這則很適合放進行程備忘；若是專程為作品飛日本，等正式日期更能避免訂錯。\n\n3/3\n可以先看USJ周邊住宿位置與取消條件，真正下訂前再比對活動日期和票券內容。一般園票、快速通關與特別體驗是否另購，需要分開確認。\n\n這是10月28日的新公告，還沒有能支持「全網爆紅」的近期社群樣本。下一次值得追的是活動形式與開放購票資訊。\n官方：https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2027/hagarenfa\n切角與開頭：[{\"name\":\"作品回歸\",\"opening\":\"鋼鍊上次和USJ合作是2005年，下一次是2027年春。\"},{\"name\":\"雙作品\",\"opening\":\"明年春天USJ一次迎來荒川弘兩部作品，黃泉使者也在名單裡。\"},{\"name\":\"日期避錯\",\"opening\":\"看到Cool Japan從12月2日開始，別立刻替鋼鍊訂12月機票。\"},{\"name\":\"保留彈性\",\"opening\":\"想為鋼鍊去大阪，現在先看可取消住宿，等確切活動日期。\"},{\"name\":\"公告邊界\",\"opening\":\"鋼鍊確定回歸，但官方還沒說是什麼形式的體驗。\"}]\n圖片：[{\"description\":\"官方鋼鍊與黃泉合作主視覺；版權素材，未確認可商用或改圖。\",\"url\":\"https://prtimes.jp/main/html/rd/p/000000887.000005761.html\"}]\n延伸：可延伸商業內容：待日期確定後整理USJ附近住宿；現在不推未公布的聯名快通或假套票。\n\n福岡塔麻可吉展10/31開放抽選：跨年與週末要買指定日時券\n1/4\n跨年去福岡、想看塔麻可吉展，先分清楚「平日券」不能用的日期。\n\n「30周年記念 大たまごっち展」在福岡三越9樓，展期是2026年12月29日到2027年1月25日。12月29日至31日，以及會期中的週六、週日、日本國定假日，都需要數量限定的日時指定券。\n\n2/4\n抽選時間是日本時間10月31日10:00到11月11日23:59；11月13日18:00公布結果，繳款期限11月18日23:59。一般預售11月21日10:00開始。\n\n普通日時指定券走Ticket Pia；附周邊商品的日時指定券走Lawson Ticket。附周邊票的商品是搖搖束口袋，並不是普通門票全部都有。\n\n台灣手機能否完成會員驗證與付款，我還沒有確認，先查清售票平台條件再安排。\n\n3/4\n日圓票價（一般／預售）：\n• 成人、大學生：1,800／1,600\n• 高中生：1,300／1,100\n• 小學生、國中生：800／600\n• 附周邊票：3,900／3,700\n\n一般開放10:00–19:00，最後一天到17:00；每天最後入場是閉館前1小時。跨年期間依百貨營業日及時間，不要只看展期就假設元旦一定照常。\n\n4/4\n買票前先做三件事：確認你的日期是不是指定日時日、確認帳號與付款能完成、再查跨年營業時間。抽選不是先到先贏，也不保證入選。\n\n小學生以下須18歲以上保護者同行；未就學兒免費，每位保護者最多帶2名，陪同成人仍須有票。票券姓名與身分證件也要一致，主辦可能查驗。\n官方完整票務：https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html\n切角與開頭：[{\"name\":\"跨年避錯\",\"opening\":\"12月29日至31日看福岡塔麻可吉展，不能拿平日券入場。\"},{\"name\":\"抽選日程\",\"opening\":\"福岡塔麻可吉展10月31日開抽，先分清普通票和附周邊票的通路。\"},{\"name\":\"票價比較\",\"opening\":\"成人預售1,600日圓，但這張票不等於附束口袋的周邊票。\"},{\"name\":\"境外購票\",\"opening\":\"想從台灣抽福岡展票，先查帳號驗證，再決定行程。\"},{\"name\":\"跨年營業\",\"opening\":\"展期跨過元旦，不代表百貨元旦一定開門；福岡這場要另查年末年始時間。\"}]\n圖片：[{\"description\":\"官方主視覺、日時指定券說明與附周邊束口袋圖片；可查找不等於可商用，授權未確認。\",\"url\":\"https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/event_calendar/TAMAGOTCHI.html\"}]\n延伸：可延伸商業內容：天神住宿、福岡跨年營業攻略。先確認展票，不聲稱訂房附展票或保證抽中。"
+}
