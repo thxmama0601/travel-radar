@@ -1,0 +1,2297 @@
+{
+  "date": "2026-10-30",
+  "cutoff": "2026-10-30 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台頁查閱截至10:07，撰稿與部署時間不作新聞時效",
+  "scopeNote": "本期掃描15個不同事件線索，4題完成查核可發布，11題未通過。合格候選不足15題、精選不足10題，不以舊聞或未確認資訊湊數。4題依編輯內容分數由最優到較弱排序；本期社群樣本不足，無法建立實測熱榜。",
+  "trends": [
+    "已查證：佐賀熱氣球節10/30上午競技因雨取消，上午造型氣球另取消；不能推定下午或五天全取消。",
+    "已查證：讀賣樂園10/29開始本季燈光秀，入園券、午後票與全天票需分開比較。",
+    "已查證：Doutor大耳狗福袋今天預約，但12/26才開始取貨，適合年底行程先確認。",
+    "已查證：大分今晚首日點燈約18:30，與平日17:00不同。",
+    "編輯觀察：本期最有實用價值的是場次與時間辨識，而非宣稱全網爆紅。",
+    "社群查核：Threads可讀部分原頁但主題不符，X搜尋轉登入，其他平台沒有取得合格近期原始樣本。",
+    "地域掃描涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；未為地域平衡放入不成熟消息。"
+  ],
+  "choice": {
+    "id": "saga-balloon-morning-cancel-20261030",
+    "title": "佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消",
+    "score": 92,
+    "reason": "今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。",
+    "versusSecond": "比讀賣樂園更需要今天立即提醒，能避免旅客為已取消上午場次前往；讀賣樂園較適合晚間與長期收藏。僅編輯推薦，不代使用者選題。",
+    "publishAt": "完成查核後立即，Asia/Taipei（編輯建議）",
+    "audience": "今天在九州、準備去佐賀會場的台灣旅客與同行者",
+    "angle": "確認上午取消範圍，下午仍須重新查公告",
+    "lifecycle": "1天"
+  },
+  "top10": [
+    {
+      "id": "saga-balloon-morning-cancel-20261030",
+      "title": "佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消",
+      "region": "九州／佐賀嘉瀨川河川敷",
+      "category": "交通／活動",
+      "announcementDate": "2026/10/30官方上午競技取消公告（未標時刻）；地方電視06:30 JST報導",
+      "eventDate": "10/30上午競技取消；另08:25 JST更新取消上午Balloon Fantasia；節期10/30–11/3",
+      "freshness": "今天",
+      "lifecycle": "1天",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "完成查核後立即，Asia/Taipei（編輯建議）",
+      "why": "今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。",
+      "facts": "官方與佐賀電視確認上午競技因雨取消。Balloon Fantasia另有08:25官方取消公告。官方10/27版節目表列下午15時競技，但截至本期未確認下午實施狀態，不能保證起飛，也不能把上午取消擴大成全日或全節取消。",
+      "sources": [
+        {
+          "label": "官方上午競技取消",
+          "url": "https://www.sibf.jp/task/202610030a.html"
+        },
+        {
+          "label": "佐賀電視獨立報導",
+          "url": "https://www.sagatv.co.jp/news/archives/2026103024840"
+        },
+        {
+          "label": "官方造型氣球取消",
+          "url": "https://www.sibf.jp/task/20261030b.html"
+        },
+        {
+          "label": "官方節目表",
+          "url": "https://www.sibf.jp/2026/schedule/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天要去佐賀熱氣球節的人，先看這個變動：10月30日上午競技已因雨取消。\n\n官方與佐賀電視都已確認；上午的造型氣球展示Balloon Fantasia，也另在日本時間08:25公告取消。這兩則都是「上午」的消息，不能理解成五天活動全部取消。",
+          "接下來要確認的是下午，不是直接沿用早上的結論。\n\n官方節目表原列下午15:00競技，但截至台灣10:07／日本11:07的查核，我還沒有確認下午是否實施。熱氣球活動受天氣影響，表定時間不等於保證起飛。\n\n已經在九州的旅客，出門前再看主辦的最新公告，保留調整行程的空間。",
+          "今年節期是10月30日至11月3日，會場在佐賀嘉瀨川河川敷。若同行者只看到「取消」截圖，記得把日期和上午範圍一起傳給他，避免誤判整趟行程。\n\n下一步：先核對你打算看的場次，再決定是否前往；下午狀態請以主辦更新為準。\n上午公告：https://www.sibf.jp/task/202610030a.html\n節目表：https://www.sibf.jp/2026/schedule/"
+        ],
+        "angles": [
+          {
+            "name": "即時提醒",
+            "opening": "今天去佐賀追熱氣球，上午競技已因雨取消。"
+          },
+          {
+            "name": "範圍辨識",
+            "opening": "佐賀熱氣球取消的是10月30日上午，別直接當成五天全取消。"
+          },
+          {
+            "name": "同行分享",
+            "opening": "準備出發去佐賀會場前，先把這兩則上午取消公告傳給同行者。"
+          },
+          {
+            "name": "午後安排",
+            "opening": "下午15:00是表定競技時間，還不能當成保證起飛。"
+          },
+          {
+            "name": "查詢方法",
+            "opening": "看佐賀熱氣球公告，日期、場次、更新時間要一起看。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方取消公告截圖，保留日期及查閱時間；不得用往年氣球照冒充今天起飛。商用授權未確認。",
+            "url": "https://www.sibf.jp/task/202610030a.html"
+          }
+        ],
+        "extensions": [
+          "可延伸：天候取消時的佐賀行程調整與查詢方式；本題不硬搭分潤。"
+        ]
+      },
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/search?q=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%20since%3A2026-10-28&f=live",
+            "label": "X最近貼文搜尋",
+            "reason": "本期直接開啟轉入登入流程，未能讀到原文互動數。"
+          }
+        ],
+        "queries": [
+          "佐賀バルーン 2026 中止 site:x.com",
+          "佐賀熱氣球 2026 site:threads.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消消息是即時行前提醒，讀者通常已有行程；不適合趁取消推銷訂房或氣球行程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "不硬推旅遊預訂或編造分潤商品。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "yomiuriland-jewellumination-20261029",
+      "title": "讀賣樂園寶石燈光秀昨晚開幕：只看燈與玩設施，票種差很多",
+      "region": "關東／東京讀賣樂園",
+      "category": "季節情報／票券",
+      "announcementDate": "已讀官方公告2026/10/15 15:00 JST；非首次公布日保證",
+      "eventDate": "2026/10/29–2027/4/4；營業及點燈時間依日期確認",
+      "freshness": "超過7天例外：10/29剛正式開幕，非把10/15公告當新消息",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "10/30 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "why": "台灣東京自由行容易把入園券、After Pass與一日券混淆；剛開幕的視覺題材加上票價比較，比單純美照更有收藏價值。",
+      "facts": "2026–27主題Growing Light，10/29開幕。成人18–64歲入園券現場1800、官方線上1600日圓；After Pass15時後入園加指定設施，現場3100、官方線上2800日圓。部分設施除外，不能寫所有設施無限搭。各日時間與休園另查；第三方一日票不是這兩個價格，PokéPark KANTO不應視為包含。",
+      "sources": [
+        {
+          "label": "官方本季燈光秀",
+          "url": "https://www.yomiuriland.com/jewellumination/"
+        },
+        {
+          "label": "官方票價",
+          "url": "https://www.yomiuriland.com/charge/"
+        },
+        {
+          "label": "官方10/15公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000519.000041300.html"
+        },
+        {
+          "label": "Time Out交叉確認",
+          "url": "https://www.timeout.jp/tokyo/ja/things-to-do/yomiuri-land-jewellumination"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "小田急讀賣樂園前站周邊住宿",
+              "url": "https://www.trip.com/hotels/kawasaki-yomiuri-lando-mae-railway-station/hotels-c35717r10627990/",
+              "reason": "適合採小田急路線者；不是京王讀賣樂園站，也不等於園區門口。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/yomiuri-land.html",
+              "reason": "比較園區周邊基地，部分飯店數公里外，需另查接駁與步行距離。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園一日券",
+              "url": "https://www.kkday.com/en/product/136740-instant-confirmation-yomiuriland-amusement-park-ticket-tokyo",
+              "reason": "適合全天設施加夜間燈光行程；不是只看燈的入園券或After Pass。",
+              "checks": "頁面限非日本適用旅客，無法取消；選定日期確認營業與設施。頁列HANA・BIYORI需另換實體票；不保證PokéPark入場、所有設施或2026季節額外內容。未核實庫存與分潤資格。",
+              "kind": "商品頁",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園15時後入園方案",
+              "url": "https://www.klook.com/en-AU/activity/20251-yomiuriland-admission-ticket-tokyo/",
+              "reason": "已讀頁面列15時後入園與指定設施，可比較午後玩法。",
+              "checks": "限非日本護照並須出示，指定日使用；Sky-Go-LAND、Sky Shuttle、蹦極等及PokéPark KANTO除外。頁面刺青限制範圍文字不一致，相關旅客先問客服。核對所選方案、退改與庫存，不引用頁面起價作保證。",
+              "kind": "商品頁",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "draft": {
+        "threads": [
+          "東京讀賣樂園的寶石燈光秀10月29日開幕了。想晚上看燈，先不用直接買一日券。\n\n成人18–64歲的單純入園券，現場1,800日圓、官方線上1,600日圓；如果還想搭設施，15:00後入園的After Pass則是現場3,100、官方線上2,800日圓。先決定玩法，再比價比較準。",
+          "今年主題是Growing Light，會期從2026年10月29日到2027年4月4日。\n\n行程可以分成兩種：只散步拍燈景，先看入園券；想下午先玩設施再等天黑，就比較After Pass。\n\nAfter Pass只包含指定設施，不能理解成園內所有項目通用；各日營業、點燈與休園安排，也要用官方日曆核對。",
+          "第三方平台可能賣的是全天一日券，不能拿它和單純入園券直接比較後說哪個一定比較便宜。商品名稱、入園時間、國籍要求和除外設施都要看。\n\n先選出遊日期，再核對票種與回程交通；別把讀賣樂園票當成包含PokéPark KANTO。\n本季活動：https://www.yomiuriland.com/jewellumination/\n官方票價：https://www.yomiuriland.com/charge/"
+        ],
+        "angles": [
+          {
+            "name": "票種省錢",
+            "opening": "只想看讀賣樂園燈光，先別直接買全天一日券。"
+          },
+          {
+            "name": "開幕消息",
+            "opening": "讀賣樂園10月29日開燈，今年主題是Growing Light。"
+          },
+          {
+            "name": "午後玩法",
+            "opening": "下午15:00後入園玩設施再看燈，After Pass值得和單純入園券分開比。"
+          },
+          {
+            "name": "購票避錯",
+            "opening": "同樣寫讀賣樂園門票，入園時間與設施範圍可能不同。"
+          },
+          {
+            "name": "行程搭配",
+            "opening": "把東京白天行程接到讀賣樂園夜景前，先確認當日營業日曆。"
+          }
+        ],
+        "images": [
+          {
+            "description": "本季Growing Light官方主視覺與票種表；素材可查找，未確認商用授權。",
+            "url": "https://www.yomiuriland.com/jewellumination/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：入園券、After Pass、一日券比較；小田急與京王交通及周邊住宿。分潤只放獨立留言。"
+        ]
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=%E8%AE%80%E8%B3%A3%E6%A8%82%E5%9C%92",
+            "label": "Threads原站搜尋",
+            "reason": "可讀部分結果，但混入韓國愛寶樂園桌曆等不同事件；更多內容需登入。未將無關貼文互動數計入。"
+          },
+          {
+            "url": "https://www.dcard.tw/@awwrated/post/262324069",
+            "label": "Dcard搜尋線索",
+            "reason": "咒術合作為不同事件，且原始時間與互動未核實，不計分。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 讀賣樂園 2026 10",
+          "site:x.com ジュエルミネーション 2026 10月29日",
+          "site:instagram.com ジュエルミネーション 2026 10 29",
+          "site:youtube.com ジュエルミネーション 2026 10 29",
+          "site:dcard.tw 日本 讀賣樂園 大耳狗 福袋",
+          "site:ptt.cc 日本 2026 10 29"
+        ]
+      },
+      "affiliateFit": {
+        "level": "高",
+        "reason": "讀者有直接買園票的需求，且活動期間長，能自然銜接票種比較；須先分清只看燈、午後設施或全天玩法。",
+        "products": [
+          "讀賣樂園入園券／午後票／一日券",
+          "園區交通沿線住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "先按玩法選票：只看燈、下午入園玩設施，或整天玩，價格和包含項目不同。下面的預訂頁請再核對你的日期、票種與除外設施。",
+        "checks": "確認日期庫存、國籍限制、除外設施及退改條件；一日券不等於便宜入園券，不保證PokéPark資格或分潤資格。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "doutor-cinnamoroll-fukubukuro-20261030",
+      "title": "Doutor大耳狗福袋今天預約，但12月26日才開始取貨",
+      "region": "日本／Doutor參與門市",
+      "category": "購物／美食",
+      "announcementDate": "2026/10/28官方公告；媒體10/28 12:24 JST",
+      "eventDate": "門市預約10/30–12/25；領取與販售12/26–2027/1/11；網路預約10/30 10:00–11/30 JST",
+      "freshness": "今天開放預約；10/28公告僅日期不假裝精確24小時",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/30 12:00 Asia/Taipei（編輯建議）",
+      "why": "大耳狗周邊有視覺鉤子，但對台灣旅客真正關鍵是取貨期；能避免現在赴日的人誤以為預約當天拿得到。",
+      "facts": "門市9種套組2400–12000日圓，預約時付款；7500袋款與12000玩偶袋款不同，最低價不代表有玩偶。取貨12/26起至1/11，門市與數量依實際供應。咖啡券12/26–2027/5/31有效、指定S杯咖啡。網路7500套組12/26起出貨，台灣配送未確認；不承諾外國信用卡或預約庫存。",
+      "sources": [
+        {
+          "label": "官方福袋頁",
+          "url": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/"
+        },
+        {
+          "label": "官方10/28公告",
+          "url": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html"
+        },
+        {
+          "label": "Gourmet Watch交叉確認",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/fukubukuro/2151831.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "Doutor大耳狗福袋今天10月30日開始預約，但不是今天就能帶走。\n\n門市取貨從12月26日才開始，到2027年1月11日。最近去日本、卻不會在年底再去的人，先確認取貨安排再付款，別只看見「今天開賣」。",
+          "門市有9種套組，2,400到12,000日圓；最低價不等於有大耳狗玩偶。\n\n想要周邊可先分清：7,500日圓款是燈芯絨袋搭配吊飾等內容；12,000日圓款有玩偶、托特袋與收納袋，另搭咖啡和兌換券。\n\n預約期10月30日至12月25日，門市預約時就付款；參與店鋪與供應數量要向取貨店確認。",
+          "咖啡券也有使用期限：2026年12月26日至2027年5月31日，兌換指定S杯咖啡，不是任選飲料。\n\n網路另有7,500日圓套組，10月30日日本10:00開放預約、12月26日起出貨；這次未確認可寄台灣，也不保證你的旅行日期收得到。\n\n先確認年底人在不在日本，再選能配合的取貨方式。\n官方：https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/"
+        ],
+        "angles": [
+          {
+            "name": "取貨避錯",
+            "opening": "大耳狗福袋今天能預約，但要等12月26日才開始取貨。"
+          },
+          {
+            "name": "套組比較",
+            "opening": "Doutor福袋2,400日圓起，不代表這個價格就有大耳狗玩偶。"
+          },
+          {
+            "name": "年底行程",
+            "opening": "跨年會去日本的人，可以把Doutor福袋取貨期一起對進行程。"
+          },
+          {
+            "name": "付款提醒",
+            "opening": "門市預約福袋時就付款，先確認取貨日期與店鋪。"
+          },
+          {
+            "name": "網購限制",
+            "opening": "網路有大耳狗福袋，不等於已確認能寄台灣。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方各福袋套組與周邊照片，適合做7500／12000比較；商用授權未核實。",
+            "url": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/"
+          }
+        ],
+        "extensions": [
+          "可延伸：日本福袋預約與取貨日期整理；本題分潤適合度低。"
+        ]
+      },
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 13,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/f/sanrio/p/259238077",
+            "label": "Dcard舊福袋線索",
+            "reason": "2025台灣便利商店福袋，年度、品牌與地區都不符；排除。"
+          }
+        ],
+        "queries": [
+          "site:facebook.com ドトール シナモロール 2027",
+          "site:tiktok.com ドトール シナモロール 福袋2027",
+          "site:x.com ドトール シナモロール 福袋2027",
+          "site:dcard.tw 日本 大耳狗 福袋"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "預約與取貨直接在Doutor，與旅遊票券或住宿關聯弱；不為福袋硬推訂房。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "不硬推旅遊預訂或編造分潤商品。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "oita-light-fantasy-20261030",
+      "title": "大分光之幻想今晚開燈：首日約18:30，不是平日17:00",
+      "region": "九州／大分站府內中央口至市中心",
+      "category": "季節情報",
+      "announcementDate": "JR大分City公告2026/10/2；官方活動頁未列初刊時刻",
+      "eventDate": "10/30–2027/2/14；通常17:00–24:00 JST，首日儀式約17時、點燈約18:30",
+      "freshness": "超過7天例外：今天正式開始，明列10/2原公告",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/30 12:00 Asia/Taipei（編輯建議）",
+      "why": "適合已在大分或別府的旅客安排晚上散步；首日時間不同是有用的行程提醒，但不鼓勵專程為燈景臨時訂機票。",
+      "facts": "主題明日に架ける星，約55萬燈。地點含大分站府內中央口、中央通、府內Aqua Park、Galleria竹町Dome等。正常17–24，10/30約18:30點燈，17時左右是儀式。未將街區活動推定為所有設施免費，也未確認天候變動或即時交通。",
+      "sources": [
+        {
+          "label": "活動官方",
+          "url": "https://hikarioita.net/"
+        },
+        {
+          "label": "大分縣觀光交叉確認",
+          "url": "https://www.visit-oita.jp/events/detail/14516"
+        },
+        {
+          "label": "JR大分City原公告",
+          "url": "https://www.jroitacity.jp/newsevent/detail/?cd=000427"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "大分市住宿列表",
+              "url": "https://www.trip.com/hotels/oita-hotels-list-1286/",
+              "reason": "已核對為大分市，不保證全部在車站或步行區；頁面快取價格日期不採用。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "大分站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/oita-eki.html",
+              "reason": "適合比較車站至夜間散步區的住宿位置。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋本活動未取得可核對的適用商品頁，不造票券。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋回傳長崎豪斯登堡等不同地區商品，不能當大分本活動票券。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今晚在大分想看點燈，請抓日本時間18:30左右，不要直接照一般日的17:00排。\n\n「おおいた光のファンタジー2026」今天10月30日開始。首日約17時是開幕儀式，正式點燈約18:30；之後一般點燈時間才是17:00至24:00。",
+          "今年主題是「明日に架ける星」，會期到2027年2月14日，約55萬盞燈分布在大分站與市中心。\n\n可以先以大分站府內中央口作起點，再看中央通、府內Aqua Park、Galleria竹町Dome等區域，依你住的位置取捨，不必把全部地點硬排成一晚。",
+          "如果原本就在大分或別府旅行，這是一個晚餐後可考慮的散步安排。要跨城回住宿處的人，先查自己的回程班次，不要把點燈到24:00當成交通也營運到同一時間。\n\n首日點燈是「約18:30」，天候及當日調整仍以主辦公告為準。先看官方地點資訊，再決定步行路線。\n官方：https://hikarioita.net/\n大分縣觀光：https://www.visit-oita.jp/events/detail/14516"
+        ],
+        "angles": [
+          {
+            "name": "首日時間",
+            "opening": "大分今晚點燈約18:30，17:00是開幕儀式時間。"
+          },
+          {
+            "name": "晚間散步",
+            "opening": "今晚住大分，可以把車站到市中心燈景排進晚餐後。"
+          },
+          {
+            "name": "季節安排",
+            "opening": "大分光之幻想從10月30日亮到明年2月14日。"
+          },
+          {
+            "name": "交通提醒",
+            "opening": "燈景亮到24:00，不等於回住宿的車也開到24:00。"
+          },
+          {
+            "name": "路線規劃",
+            "opening": "從大分站府內中央口出發，依住宿位置挑你想看的燈區。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺及街區地圖；未確認圖片商用授權，不把宣傳照當今晚實景。",
+            "url": "https://hikarioita.net/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：大分站住宿與晚餐散步路線；住宿不含活動票券，也不捏造優惠。"
+        ]
+      },
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "おおいた光のファンタジー2026 site:instagram.com",
+          "おおいた光のファンタジー2026 site:facebook.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "大分過夜住宿能自然銜接，但今晚出發者多已訂房，先補晚間步行路線再推薦較合適。",
+        "products": [
+          "大分站附近住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果本來就要在大分住一晚，可以把車站、市中心燈景和回飯店路線一起比較；訂房前再核對距離與取消條件。",
+        "checks": "住宿不含活動；輸入實際日期核對空房、步行距離、價格及分潤資格。",
+        "assessedOn": "2026-10-30"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "saga-balloon-morning-cancel-20261030",
+      "title": "佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消",
+      "region": "九州／佐賀嘉瀨川河川敷",
+      "category": "交通／活動",
+      "announcementDate": "2026/10/30官方上午競技取消公告（未標時刻）；地方電視06:30 JST報導",
+      "eventDate": "10/30上午競技取消；另08:25 JST更新取消上午Balloon Fantasia；節期10/30–11/3",
+      "freshness": "今天",
+      "lifecycle": "1天",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "完成查核後立即，Asia/Taipei（編輯建議）",
+      "why": "今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。",
+      "facts": "官方與佐賀電視確認上午競技因雨取消。Balloon Fantasia另有08:25官方取消公告。官方10/27版節目表列下午15時競技，但截至本期未確認下午實施狀態，不能保證起飛，也不能把上午取消擴大成全日或全節取消。",
+      "sources": [
+        {
+          "label": "官方上午競技取消",
+          "url": "https://www.sibf.jp/task/202610030a.html"
+        },
+        {
+          "label": "佐賀電視獨立報導",
+          "url": "https://www.sagatv.co.jp/news/archives/2026103024840"
+        },
+        {
+          "label": "官方造型氣球取消",
+          "url": "https://www.sibf.jp/task/20261030b.html"
+        },
+        {
+          "label": "官方節目表",
+          "url": "https://www.sibf.jp/2026/schedule/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        }
+      ],
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/search?q=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%20since%3A2026-10-28&f=live",
+            "label": "X最近貼文搜尋",
+            "reason": "本期直接開啟轉入登入流程，未能讀到原文互動數。"
+          }
+        ],
+        "queries": [
+          "佐賀バルーン 2026 中止 site:x.com",
+          "佐賀熱氣球 2026 site:threads.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "取消消息是即時行前提醒，讀者通常已有行程；不適合趁取消推銷訂房或氣球行程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "不硬推旅遊預訂或編造分潤商品。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "yomiuriland-jewellumination-20261029",
+      "title": "讀賣樂園寶石燈光秀昨晚開幕：只看燈與玩設施，票種差很多",
+      "region": "關東／東京讀賣樂園",
+      "category": "季節情報／票券",
+      "announcementDate": "已讀官方公告2026/10/15 15:00 JST；非首次公布日保證",
+      "eventDate": "2026/10/29–2027/4/4；營業及點燈時間依日期確認",
+      "freshness": "超過7天例外：10/29剛正式開幕，非把10/15公告當新消息",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "10/30 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "why": "台灣東京自由行容易把入園券、After Pass與一日券混淆；剛開幕的視覺題材加上票價比較，比單純美照更有收藏價值。",
+      "facts": "2026–27主題Growing Light，10/29開幕。成人18–64歲入園券現場1800、官方線上1600日圓；After Pass15時後入園加指定設施，現場3100、官方線上2800日圓。部分設施除外，不能寫所有設施無限搭。各日時間與休園另查；第三方一日票不是這兩個價格，PokéPark KANTO不應視為包含。",
+      "sources": [
+        {
+          "label": "官方本季燈光秀",
+          "url": "https://www.yomiuriland.com/jewellumination/"
+        },
+        {
+          "label": "官方票價",
+          "url": "https://www.yomiuriland.com/charge/"
+        },
+        {
+          "label": "官方10/15公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000519.000041300.html"
+        },
+        {
+          "label": "Time Out交叉確認",
+          "url": "https://www.timeout.jp/tokyo/ja/things-to-do/yomiuri-land-jewellumination"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "小田急讀賣樂園前站周邊住宿",
+              "url": "https://www.trip.com/hotels/kawasaki-yomiuri-lando-mae-railway-station/hotels-c35717r10627990/",
+              "reason": "適合採小田急路線者；不是京王讀賣樂園站，也不等於園區門口。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/yomiuri-land.html",
+              "reason": "比較園區周邊基地，部分飯店數公里外，需另查接駁與步行距離。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園一日券",
+              "url": "https://www.kkday.com/en/product/136740-instant-confirmation-yomiuriland-amusement-park-ticket-tokyo",
+              "reason": "適合全天設施加夜間燈光行程；不是只看燈的入園券或After Pass。",
+              "checks": "頁面限非日本適用旅客，無法取消；選定日期確認營業與設施。頁列HANA・BIYORI需另換實體票；不保證PokéPark入場、所有設施或2026季節額外內容。未核實庫存與分潤資格。",
+              "kind": "商品頁",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "讀賣樂園15時後入園方案",
+              "url": "https://www.klook.com/en-AU/activity/20251-yomiuriland-admission-ticket-tokyo/",
+              "reason": "已讀頁面列15時後入園與指定設施，可比較午後玩法。",
+              "checks": "限非日本護照並須出示，指定日使用；Sky-Go-LAND、Sky Shuttle、蹦極等及PokéPark KANTO除外。頁面刺青限制範圍文字不一致，相關旅客先問客服。核對所選方案、退改與庫存，不引用頁面起價作保證。",
+              "kind": "商品頁",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=%E8%AE%80%E8%B3%A3%E6%A8%82%E5%9C%92",
+            "label": "Threads原站搜尋",
+            "reason": "可讀部分結果，但混入韓國愛寶樂園桌曆等不同事件；更多內容需登入。未將無關貼文互動數計入。"
+          },
+          {
+            "url": "https://www.dcard.tw/@awwrated/post/262324069",
+            "label": "Dcard搜尋線索",
+            "reason": "咒術合作為不同事件，且原始時間與互動未核實，不計分。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 讀賣樂園 2026 10",
+          "site:x.com ジュエルミネーション 2026 10月29日",
+          "site:instagram.com ジュエルミネーション 2026 10 29",
+          "site:youtube.com ジュエルミネーション 2026 10 29",
+          "site:dcard.tw 日本 讀賣樂園 大耳狗 福袋",
+          "site:ptt.cc 日本 2026 10 29"
+        ]
+      },
+      "affiliateFit": {
+        "level": "高",
+        "reason": "讀者有直接買園票的需求，且活動期間長，能自然銜接票種比較；須先分清只看燈、午後設施或全天玩法。",
+        "products": [
+          "讀賣樂園入園券／午後票／一日券",
+          "園區交通沿線住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "先按玩法選票：只看燈、下午入園玩設施，或整天玩，價格和包含項目不同。下面的預訂頁請再核對你的日期、票種與除外設施。",
+        "checks": "確認日期庫存、國籍限制、除外設施及退改條件；一日券不等於便宜入園券，不保證PokéPark資格或分潤資格。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "doutor-cinnamoroll-fukubukuro-20261030",
+      "title": "Doutor大耳狗福袋今天預約，但12月26日才開始取貨",
+      "region": "日本／Doutor參與門市",
+      "category": "購物／美食",
+      "announcementDate": "2026/10/28官方公告；媒體10/28 12:24 JST",
+      "eventDate": "門市預約10/30–12/25；領取與販售12/26–2027/1/11；網路預約10/30 10:00–11/30 JST",
+      "freshness": "今天開放預約；10/28公告僅日期不假裝精確24小時",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/30 12:00 Asia/Taipei（編輯建議）",
+      "why": "大耳狗周邊有視覺鉤子，但對台灣旅客真正關鍵是取貨期；能避免現在赴日的人誤以為預約當天拿得到。",
+      "facts": "門市9種套組2400–12000日圓，預約時付款；7500袋款與12000玩偶袋款不同，最低價不代表有玩偶。取貨12/26起至1/11，門市與數量依實際供應。咖啡券12/26–2027/5/31有效、指定S杯咖啡。網路7500套組12/26起出貨，台灣配送未確認；不承諾外國信用卡或預約庫存。",
+      "sources": [
+        {
+          "label": "官方福袋頁",
+          "url": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/"
+        },
+        {
+          "label": "官方10/28公告",
+          "url": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html"
+        },
+        {
+          "label": "Gourmet Watch交叉確認",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/fukubukuro/2151831.html"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。",
+          "pages": []
+        }
+      ],
+      "score": 84,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 13,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/f/sanrio/p/259238077",
+            "label": "Dcard舊福袋線索",
+            "reason": "2025台灣便利商店福袋，年度、品牌與地區都不符；排除。"
+          }
+        ],
+        "queries": [
+          "site:facebook.com ドトール シナモロール 2027",
+          "site:tiktok.com ドトール シナモロール 福袋2027",
+          "site:x.com ドトール シナモロール 福袋2027",
+          "site:dcard.tw 日本 大耳狗 福袋"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "預約與取貨直接在Doutor，與旅遊票券或住宿關聯弱；不為福袋硬推訂房。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "不硬推旅遊預訂或編造分潤商品。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "oita-light-fantasy-20261030",
+      "title": "大分光之幻想今晚開燈：首日約18:30，不是平日17:00",
+      "region": "九州／大分站府內中央口至市中心",
+      "category": "季節情報",
+      "announcementDate": "JR大分City公告2026/10/2；官方活動頁未列初刊時刻",
+      "eventDate": "10/30–2027/2/14；通常17:00–24:00 JST，首日儀式約17時、點燈約18:30",
+      "freshness": "超過7天例外：今天正式開始，明列10/2原公告",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/30 12:00 Asia/Taipei（編輯建議）",
+      "why": "適合已在大分或別府的旅客安排晚上散步；首日時間不同是有用的行程提醒，但不鼓勵專程為燈景臨時訂機票。",
+      "facts": "主題明日に架ける星，約55萬燈。地點含大分站府內中央口、中央通、府內Aqua Park、Galleria竹町Dome等。正常17–24，10/30約18:30點燈，17時左右是儀式。未將街區活動推定為所有設施免費，也未確認天候變動或即時交通。",
+      "sources": [
+        {
+          "label": "活動官方",
+          "url": "https://hikarioita.net/"
+        },
+        {
+          "label": "大分縣觀光交叉確認",
+          "url": "https://www.visit-oita.jp/events/detail/14516"
+        },
+        {
+          "label": "JR大分City原公告",
+          "url": "https://www.jroitacity.jp/newsevent/detail/?cd=000427"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "大分市住宿列表",
+              "url": "https://www.trip.com/hotels/oita-hotels-list-1286/",
+              "reason": "已核對為大分市，不保證全部在車站或步行區；頁面快取價格日期不採用。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。",
+          "pages": [
+            {
+              "title": "大分站周邊住宿列表",
+              "url": "https://www.booking.com/landmark/jp/oita-eki.html",
+              "reason": "適合比較車站至夜間散步區的住宿位置。",
+              "checks": "住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。",
+              "kind": "住宿列表",
+              "checkedAt": "2026-10-30T10:07:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "搜尋本活動未取得可核對的適用商品頁，不造票券。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋回傳長崎豪斯登堡等不同地區商品，不能當大分本活動票券。",
+          "pages": []
+        }
+      ],
+      "score": 82,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 3,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "おおいた光のファンタジー2026 site:instagram.com",
+          "おおいた光のファンタジー2026 site:facebook.com"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "大分過夜住宿能自然銜接，但今晚出發者多已訂房，先補晚間步行路線再推薦較合適。",
+        "products": [
+          "大分站附近住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果本來就要在大分住一晚，可以把車站、市中心燈景和回飯店路線一起比較；訂房前再核對距離與取消條件。",
+        "checks": "住宿不含活動；輸入實際日期核對空房、步行距離、價格及分潤資格。",
+        "assessedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "lead-20261030-1",
+      "title": "Sanrio HOUSE名古屋PARCO咖啡店",
+      "category": "美食",
+      "region": "中部／名古屋",
+      "announcementDate": "10/15公告、10/29開幕",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://prtimes.jp/main/html/rd/p/000004516.000018505.html/"
+        }
+      ],
+      "reason": "已讀官方稿；未完成當下預約可用性與第二來源衝突文字核對，不據此宣稱停業。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-2",
+      "title": "Venchi紫薯黑芝麻冰淇淋",
+      "category": "美食",
+      "region": "日本",
+      "announcementDate": "10/29上市搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "搜尋索引與開啟快取日期不一致，缺品牌原始日期與販售條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-3",
+      "title": "Dr. Martens大法師聯名靴",
+      "category": "購物",
+      "region": "日本",
+      "announcementDate": "10/29搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "僅索引，缺官方價格與門市查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-4",
+      "title": "IPSA聖誕彩妝",
+      "category": "購物",
+      "region": "日本",
+      "announcementDate": "10/29搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "僅索引，未完成官方品項、日期與可買條件查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-5",
+      "title": "OK超市長吉店開幕",
+      "category": "購物",
+      "region": "關西／大阪",
+      "announcementDate": "9/16公告、10/29開幕",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://ok-corporation.jp/news/new-shop/"
+        }
+      ],
+      "reason": "已讀官方索引；第二來源與旅客交通資訊未完整核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-6",
+      "title": "Doutor大耳狗聖誕蛋糕",
+      "category": "美食",
+      "region": "日本",
+      "announcementDate": "媒體10/30 09時、11/1預約線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2152275.html"
+        }
+      ],
+      "reason": "與福袋不同商品；原文開啟失敗、官方未交叉確認。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-7",
+      "title": "鳴子峽紅葉時間預測",
+      "category": "季節情報",
+      "region": "東北／宮城",
+      "announcementDate": "10/9更新、10/8預測",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://koyo.walkerplus.com/topics/article/203976/"
+        }
+      ],
+      "reason": "原文是舊預測，不是今天實測葉況，不能包裝成目前見頃。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-8",
+      "title": "Neo TAN丹後開放工廠",
+      "category": "活動",
+      "region": "關西／丹後",
+      "announcementDate": "10/30–11/1；初刊未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.uminokyoto.jp/event/"
+        }
+      ],
+      "reason": "官方活動索引已讀，未核對預約、語言與完整原始日期。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-9",
+      "title": "綾部光幻の世界",
+      "category": "活動",
+      "region": "關西／綾部",
+      "announcementDate": "10/30–11/3；初刊未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.uminokyoto.jp/event/"
+        }
+      ],
+      "reason": "官方索引線索，缺完整行動資訊與第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-10",
+      "title": "真庭發酵一泊二日旅行",
+      "category": "旅遊",
+      "region": "中國／岡山",
+      "announcementDate": "10/30–31；預約7月底起",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.okayama-kanko.jp/event/detail_1002544.html"
+        }
+      ],
+      "reason": "已讀官方；需預約，新大阪9時出發已過，沒有核實剩餘名額，不當今天可即訂行程。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-11",
+      "title": "沖繩PARCO CITY大丸松坂屋甜點選物",
+      "category": "美食",
+      "region": "沖繩",
+      "announcementDate": "原始日期未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://locapop.jp/okinawa/"
+        }
+      ],
+      "reason": "第三方索引原頁403，未有官方日期，排除。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "researchLeads": [
+    {
+      "id": "lead-20261030-1",
+      "title": "Sanrio HOUSE名古屋PARCO咖啡店",
+      "category": "美食",
+      "region": "中部／名古屋",
+      "announcementDate": "10/15公告、10/29開幕",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://prtimes.jp/main/html/rd/p/000004516.000018505.html/"
+        }
+      ],
+      "reason": "已讀官方稿；未完成當下預約可用性與第二來源衝突文字核對，不據此宣稱停業。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-2",
+      "title": "Venchi紫薯黑芝麻冰淇淋",
+      "category": "美食",
+      "region": "日本",
+      "announcementDate": "10/29上市搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "搜尋索引與開啟快取日期不一致，缺品牌原始日期與販售條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-3",
+      "title": "Dr. Martens大法師聯名靴",
+      "category": "購物",
+      "region": "日本",
+      "announcementDate": "10/29搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "僅索引，缺官方價格與門市查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-4",
+      "title": "IPSA聖誕彩妝",
+      "category": "購物",
+      "region": "日本",
+      "announcementDate": "10/29搜尋線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1"
+        }
+      ],
+      "reason": "僅索引，未完成官方品項、日期與可買條件查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-5",
+      "title": "OK超市長吉店開幕",
+      "category": "購物",
+      "region": "關西／大阪",
+      "announcementDate": "9/16公告、10/29開幕",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://ok-corporation.jp/news/new-shop/"
+        }
+      ],
+      "reason": "已讀官方索引；第二來源與旅客交通資訊未完整核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-6",
+      "title": "Doutor大耳狗聖誕蛋糕",
+      "category": "美食",
+      "region": "日本",
+      "announcementDate": "媒體10/30 09時、11/1預約線索",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2152275.html"
+        }
+      ],
+      "reason": "與福袋不同商品；原文開啟失敗、官方未交叉確認。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-7",
+      "title": "鳴子峽紅葉時間預測",
+      "category": "季節情報",
+      "region": "東北／宮城",
+      "announcementDate": "10/9更新、10/8預測",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://koyo.walkerplus.com/topics/article/203976/"
+        }
+      ],
+      "reason": "原文是舊預測，不是今天實測葉況，不能包裝成目前見頃。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-8",
+      "title": "Neo TAN丹後開放工廠",
+      "category": "活動",
+      "region": "關西／丹後",
+      "announcementDate": "10/30–11/1；初刊未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.uminokyoto.jp/event/"
+        }
+      ],
+      "reason": "官方活動索引已讀，未核對預約、語言與完整原始日期。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-9",
+      "title": "綾部光幻の世界",
+      "category": "活動",
+      "region": "關西／綾部",
+      "announcementDate": "10/30–11/3；初刊未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.uminokyoto.jp/event/"
+        }
+      ],
+      "reason": "官方索引線索，缺完整行動資訊與第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-10",
+      "title": "真庭發酵一泊二日旅行",
+      "category": "旅遊",
+      "region": "中國／岡山",
+      "announcementDate": "10/30–31；預約7月底起",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://www.okayama-kanko.jp/event/detail_1002544.html"
+        }
+      ],
+      "reason": "已讀官方；需預約，新大阪9時出發已過，沒有核實剩餘名額，不當今天可即訂行程。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261030-11",
+      "title": "沖繩PARCO CITY大丸松坂屋甜點選物",
+      "category": "美食",
+      "region": "沖繩",
+      "announcementDate": "原始日期未確認",
+      "eventDate": "依線索所列，尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成查核",
+          "url": "https://locapop.jp/okinawa/"
+        }
+      ],
+      "reason": "第三方索引原頁403，未有官方日期，排除。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效與完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "先完成新聞查核，不能以分潤需求代替。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "日期、資格與適用商品待查",
+        "assessedOn": "2026-10-30"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-30T10:07:14+08:00",
+        "summary": "未取得本事件合格原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "佐賀下午競技與10/31上午天候",
+      "next": "出發前追查主辦當日實施公告；不能預測一定復飛或取消。",
+      "sources": [
+        {
+          "label": "官方場次",
+          "url": "https://www.sibf.jp/2026/schedule/"
+        }
+      ]
+    },
+    {
+      "title": "大分今晚實際點燈",
+      "next": "未來24小時可查當晚原始照片、時間與互動，排除官方抽獎及不同年份照片。",
+      "sources": [
+        {
+          "label": "主辦",
+          "url": "https://hikarioita.net/"
+        }
+      ]
+    },
+    {
+      "title": "Doutor各門市福袋預約",
+      "next": "追查預約限制與個別店鋪售罄公告；無公告不宣稱已搶光。",
+      "sources": [
+        {
+          "label": "品牌",
+          "url": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/"
+        }
+      ]
+    },
+    {
+      "title": "名古屋Sanrio HOUSE預約條件",
+      "next": "補核11月咖啡預約與商品店入場是否各自預約；未核實不教讀者直接前往。",
+      "sources": [
+        {
+          "label": "官方原稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000004516.000018505.html/"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-30T10:07:14+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 4,
+    "qualifiedTopicCount": 0,
+    "limitation": "4個合格新聞題均補查社群，但無任何題達2位不同作者、48小時原文且讚與留言可核對門檻。不等於無人討論。未把搜尋摘要、官方公告、抽獎或不相干高互動貼文計分；不能稱台灣Threads熱榜。",
+    "platformAccess": {
+      "Threads": "直接搜尋可讀部分原頁，但回傳愛寶樂園桌曆、學校園遊會等不相關內容；更多內容要求登入",
+      "X": "直接搜尋轉登入流程，無合格原文",
+      "Facebook": "站外搜尋未取得本題近期可核對原文",
+      "Instagram": "未取得本題近期原文與互動",
+      "Dcard": "索引混入其他聯名及2025台灣福袋，排除",
+      "PTT": "索引混入3月舊促銷及非旅遊棒球討論，排除",
+      "TikTok": "robots限制，未取得原始證據",
+      "YouTube": "未取得符合本事件時間及互動條件的影片"
+    }
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-30\n搜尋截止：2026-10-30 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台頁查閱截至10:07，撰稿與部署時間不作新聞時效\n本期掃描15個不同事件線索，4題完成查核可發布，11題未通過。合格候選不足15題、精選不足10題，不以舊聞或未確認資訊湊數。4題依編輯內容分數由最優到較弱排序；本期社群樣本不足，無法建立實測熱榜。\n\n【今天日本發生什麼】\n已查證：佐賀熱氣球節10/30上午競技因雨取消，上午造型氣球另取消；不能推定下午或五天全取消。\n已查證：讀賣樂園10/29開始本季燈光秀，入園券、午後票與全天票需分開比較。\n已查證：Doutor大耳狗福袋今天預約，但12/26才開始取貨，適合年底行程先確認。\n已查證：大分今晚首日點燈約18:30，與平日17:00不同。\n編輯觀察：本期最有實用價值的是場次與時間辨識，而非宣稱全網爆紅。\n社群查核：Threads可讀部分原頁但主題不符，X搜尋轉登入，其他平台沒有取得合格近期原始樣本。\n地域掃描涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；未為地域平衡放入不成熟消息。\n\n【TOP選題及候選評分】\n八項順序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值；上限20/20/15/15/10/10/5/5。星等為爆紅／收藏／分享1–5星，皆屬編輯判斷，不保證觀看量。\n\nTOP 1 佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消\n分類／地區：交通／活動／九州／佐賀嘉瀨川河川敷\n公告：2026/10/30官方上午競技取消公告（未標時刻）；地方電視06:30 JST報導\n發生／販售：10/30上午競技取消；另08:25 JST更新取消上午Balloon Fantasia；節期10/30–11/3\n查核：官方與佐賀電視確認上午競技因雨取消。Balloon Fantasia另有08:25官方取消公告。官方10/27版節目表列下午15時競技，但截至本期未確認下午實施狀態，不能保證起飛，也不能把上午取消擴大成全日或全節取消。\n推薦與台灣相關性：今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。\n八項分數：20/20/14/15/9/5/5/4；總分92/100；三種星等：4/4/5\n風險：中；時效：今天；生命週期：1天；現在發 完成查核後立即，Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：佐賀バルーン 2026 中止 site:x.com；佐賀熱氣球 2026 site:threads.com\n排除線索：[{\"url\":\"https://x.com/search?q=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%20since%3A2026-10-28&f=live\",\"label\":\"X最近貼文搜尋\",\"reason\":\"本期直接開啟轉入登入流程，未能讀到原文互動數。\"}]\n分潤：{\"level\":\"低\",\"reason\":\"取消消息是即時行前提醒，讀者通常已有行程；不適合趁取消推銷訂房或氣球行程。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"不硬推旅遊預訂或編造分潤商品。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方上午競技取消](https://www.sibf.jp/task/202610030a.html) [佐賀電視獨立報導](https://www.sagatv.co.jp/news/archives/2026103024840) [官方造型氣球取消](https://www.sibf.jp/task/20261030b.html) [官方節目表](https://www.sibf.jp/2026/schedule/)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]}]\n\nTOP 2 讀賣樂園寶石燈光秀昨晚開幕：只看燈與玩設施，票種差很多\n分類／地區：季節情報／票券／關東／東京讀賣樂園\n公告：已讀官方公告2026/10/15 15:00 JST；非首次公布日保證\n發生／販售：2026/10/29–2027/4/4；營業及點燈時間依日期確認\n查核：2026–27主題Growing Light，10/29開幕。成人18–64歲入園券現場1800、官方線上1600日圓；After Pass15時後入園加指定設施，現場3100、官方線上2800日圓。部分設施除外，不能寫所有設施無限搭。各日時間與休園另查；第三方一日票不是這兩個價格，PokéPark KANTO不應視為包含。\n推薦與台灣相關性：台灣東京自由行容易把入園券、After Pass與一日券混淆；剛開幕的視覺題材加上票價比較，比單純美照更有收藏價值。\n八項分數：19/19/13/14/7/10/4/4；總分90/100；三種星等：4/5/5\n風險：低；時效：超過7天例外：10/29剛正式開幕，非把10/15公告當新消息；生命週期：1個月以上；晚上發 10/30 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：site:threads.com 讀賣樂園 2026 10；site:x.com ジュエルミネーション 2026 10月29日；site:instagram.com ジュエルミネーション 2026 10 29；site:youtube.com ジュエルミネーション 2026 10 29；site:dcard.tw 日本 讀賣樂園 大耳狗 福袋；site:ptt.cc 日本 2026 10 29\n排除線索：[{\"url\":\"https://www.threads.com/search?q=%E8%AE%80%E8%B3%A3%E6%A8%82%E5%9C%92\",\"label\":\"Threads原站搜尋\",\"reason\":\"可讀部分結果，但混入韓國愛寶樂園桌曆等不同事件；更多內容需登入。未將無關貼文互動數計入。\"},{\"url\":\"https://www.dcard.tw/@awwrated/post/262324069\",\"label\":\"Dcard搜尋線索\",\"reason\":\"咒術合作為不同事件，且原始時間與互動未核實，不計分。\"}]\n分潤：{\"level\":\"高\",\"reason\":\"讀者有直接買園票的需求，且活動期間長，能自然銜接票種比較；須先分清只看燈、午後設施或全天玩法。\",\"products\":[\"讀賣樂園入園券／午後票／一日券\",\"園區交通沿線住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"先按玩法選票：只看燈、下午入園玩設施，或整天玩，價格和包含項目不同。下面的預訂頁請再核對你的日期、票種與除外設施。\",\"checks\":\"確認日期庫存、國籍限制、除外設施及退改條件；一日券不等於便宜入園券，不保證PokéPark資格或分潤資格。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方本季燈光秀](https://www.yomiuriland.com/jewellumination/) [官方票價](https://www.yomiuriland.com/charge/) [官方10/15公告](https://prtimes.jp/main/html/rd/p/000000519.000041300.html) [Time Out交叉確認](https://www.timeout.jp/tokyo/ja/things-to-do/yomiuri-land-jewellumination)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"小田急讀賣樂園前站周邊住宿\",\"url\":\"https://www.trip.com/hotels/kawasaki-yomiuri-lando-mae-railway-station/hotels-c35717r10627990/\",\"reason\":\"適合採小田急路線者；不是京王讀賣樂園站，也不等於園區門口。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/yomiuri-land.html\",\"reason\":\"比較園區周邊基地，部分飯店數公里外，需另查接駁與步行距離。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園一日券\",\"url\":\"https://www.kkday.com/en/product/136740-instant-confirmation-yomiuriland-amusement-park-ticket-tokyo\",\"reason\":\"適合全天設施加夜間燈光行程；不是只看燈的入園券或After Pass。\",\"checks\":\"頁面限非日本適用旅客，無法取消；選定日期確認營業與設施。頁列HANA・BIYORI需另換實體票；不保證PokéPark入場、所有設施或2026季節額外內容。未核實庫存與分潤資格。\",\"kind\":\"商品頁\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"klook\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園15時後入園方案\",\"url\":\"https://www.klook.com/en-AU/activity/20251-yomiuriland-admission-ticket-tokyo/\",\"reason\":\"已讀頁面列15時後入園與指定設施，可比較午後玩法。\",\"checks\":\"限非日本護照並須出示，指定日使用；Sky-Go-LAND、Sky Shuttle、蹦極等及PokéPark KANTO除外。頁面刺青限制範圍文字不一致，相關旅客先問客服。核對所選方案、退改與庫存，不引用頁面起價作保證。\",\"kind\":\"商品頁\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]}]\n\nTOP 3 Doutor大耳狗福袋今天預約，但12月26日才開始取貨\n分類／地區：購物／美食／日本／Doutor參與門市\n公告：2026/10/28官方公告；媒體10/28 12:24 JST\n發生／販售：門市預約10/30–12/25；領取與販售12/26–2027/1/11；網路預約10/30 10:00–11/30 JST\n查核：門市9種套組2400–12000日圓，預約時付款；7500袋款與12000玩偶袋款不同，最低價不代表有玩偶。取貨12/26起至1/11，門市與數量依實際供應。咖啡券12/26–2027/5/31有效、指定S杯咖啡。網路7500套組12/26起出貨，台灣配送未確認；不承諾外國信用卡或預約庫存。\n推薦與台灣相關性：大耳狗周邊有視覺鉤子，但對台灣旅客真正關鍵是取貨期；能避免現在赴日的人誤以為預約當天拿得到。\n八項分數：20/16/13/12/8/8/4/3；總分84/100；三種星等：4/4/4\n風險：低；時效：今天開放預約；10/28公告僅日期不假裝精確24小時；生命週期：1個月以上；現在發 10/30 12:00 Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：site:facebook.com ドトール シナモロール 2027；site:tiktok.com ドトール シナモロール 福袋2027；site:x.com ドトール シナモロール 福袋2027；site:dcard.tw 日本 大耳狗 福袋\n排除線索：[{\"url\":\"https://www.dcard.tw/f/sanrio/p/259238077\",\"label\":\"Dcard舊福袋線索\",\"reason\":\"2025台灣便利商店福袋，年度、品牌與地區都不符；排除。\"}]\n分潤：{\"level\":\"低\",\"reason\":\"預約與取貨直接在Doutor，與旅遊票券或住宿關聯弱；不為福袋硬推訂房。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"不硬推旅遊預訂或編造分潤商品。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方福袋頁](https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/) [官方10/28公告](https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html) [Gourmet Watch交叉確認](https://gourmet.watch.impress.co.jp/docs/news/fukubukuro/2151831.html)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]}]\n\nTOP 4 大分光之幻想今晚開燈：首日約18:30，不是平日17:00\n分類／地區：季節情報／九州／大分站府內中央口至市中心\n公告：JR大分City公告2026/10/2；官方活動頁未列初刊時刻\n發生／販售：10/30–2027/2/14；通常17:00–24:00 JST，首日儀式約17時、點燈約18:30\n查核：主題明日に架ける星，約55萬燈。地點含大分站府內中央口、中央通、府內Aqua Park、Galleria竹町Dome等。正常17–24，10/30約18:30點燈，17時左右是儀式。未將街區活動推定為所有設施免費，也未確認天候變動或即時交通。\n推薦與台灣相關性：適合已在大分或別府的旅客安排晚上散步；首日時間不同是有用的行程提醒，但不鼓勵專程為燈景臨時訂機票。\n八項分數：20/16/11/12/7/9/3/4；總分82/100；三種星等：3/4/4\n風險：低；時效：超過7天例外：今天正式開始，明列10/2原公告；生命週期：1個月以上；現在發 10/30 12:00 Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：おおいた光のファンタジー2026 site:instagram.com；おおいた光のファンタジー2026 site:facebook.com\n排除線索：[]\n分潤：{\"level\":\"中\",\"reason\":\"大分過夜住宿能自然銜接，但今晚出發者多已訂房，先補晚間步行路線再推薦較合適。\",\"products\":[\"大分站附近住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果本來就要在大分住一晚，可以把車站、市中心燈景和回飯店路線一起比較；訂房前再核對距離與取消條件。\",\"checks\":\"住宿不含活動；輸入實際日期核對空房、步行距離、價格及分潤資格。\",\"assessedOn\":\"2026-10-30\"}\n來源：[活動官方](https://hikarioita.net/) [大分縣觀光交叉確認](https://www.visit-oita.jp/events/detail/14516) [JR大分City原公告](https://www.jroitacity.jp/newsevent/detail/?cd=000427)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"大分市住宿列表\",\"url\":\"https://www.trip.com/hotels/oita-hotels-list-1286/\",\"reason\":\"已核對為大分市，不保證全部在車站或步行區；頁面快取價格日期不採用。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"大分站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/oita-eki.html\",\"reason\":\"適合比較車站至夜間散步區的住宿位置。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋本活動未取得可核對的適用商品頁，不造票券。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋回傳長崎豪斯登堡等不同地區商品，不能當大分本活動票券。\",\"pages\":[]}]\n\n【未入選11則】\n5. Sanrio HOUSE名古屋PARCO咖啡店｜美食｜中部／名古屋｜10/15公告、10/29開幕｜已讀官方稿；未完成當下預約可用性與第二來源衝突文字核對，不據此宣稱停業。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://prtimes.jp/main/html/rd/p/000004516.000018505.html/)\n6. Venchi紫薯黑芝麻冰淇淋｜美食｜日本｜10/29上市搜尋線索｜搜尋索引與開啟快取日期不一致，缺品牌原始日期與販售條件。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n7. Dr. Martens大法師聯名靴｜購物｜日本｜10/29搜尋線索｜僅索引，缺官方價格與門市查核。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n8. IPSA聖誕彩妝｜購物｜日本｜10/29搜尋線索｜僅索引，未完成官方品項、日期與可買條件查核。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n9. OK超市長吉店開幕｜購物｜關西／大阪｜9/16公告、10/29開幕｜已讀官方索引；第二來源與旅客交通資訊未完整核對。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://ok-corporation.jp/news/new-shop/)\n10. Doutor大耳狗聖誕蛋糕｜美食｜日本｜媒體10/30 09時、11/1預約線索｜與福袋不同商品；原文開啟失敗、官方未交叉確認。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://gourmet.watch.impress.co.jp/docs/news/2152275.html)\n11. 鳴子峽紅葉時間預測｜季節情報｜東北／宮城｜10/9更新、10/8預測｜原文是舊預測，不是今天實測葉況，不能包裝成目前見頃。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://koyo.walkerplus.com/topics/article/203976/)\n12. Neo TAN丹後開放工廠｜活動｜關西／丹後｜10/30–11/1；初刊未確認｜官方活動索引已讀，未核對預約、語言與完整原始日期。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.uminokyoto.jp/event/)\n13. 綾部光幻の世界｜活動｜關西／綾部｜10/30–11/3；初刊未確認｜官方索引線索，缺完整行動資訊與第二來源。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.uminokyoto.jp/event/)\n14. 真庭發酵一泊二日旅行｜旅遊｜中國／岡山｜10/30–31；預約7月底起｜已讀官方；需預約，新大阪9時出發已過，沒有核實剩餘名額，不當今天可即訂行程。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.okayama-kanko.jp/event/detail_1002544.html)\n15. 沖繩PARCO CITY大丸松坂屋甜點選物｜美食｜沖繩｜原始日期未確認｜第三方索引原頁403，未有官方日期，排除。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://locapop.jp/okinawa/)\n\n【編輯推薦】\n{\"id\":\"saga-balloon-morning-cancel-20261030\",\"title\":\"佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消\",\"score\":92,\"reason\":\"今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。\",\"versusSecond\":\"比讀賣樂園更需要今天立即提醒，能避免旅客為已取消上午場次前往；讀賣樂園較適合晚間與長期收藏。僅編輯推薦，不代使用者選題。\",\"publishAt\":\"完成查核後立即，Asia/Taipei（編輯建議）\",\"audience\":\"今天在九州、準備去佐賀會場的台灣旅客與同行者\",\"angle\":\"確認上午取消範圍，下午仍須重新查公告\",\"lifecycle\":\"1天\"}\n\n【社群限制】\n{\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":4,\"qualifiedTopicCount\":0,\"limitation\":\"4個合格新聞題均補查社群，但無任何題達2位不同作者、48小時原文且讚與留言可核對門檻。不等於無人討論。未把搜尋摘要、官方公告、抽獎或不相干高互動貼文計分；不能稱台灣Threads熱榜。\",\"platformAccess\":{\"Threads\":\"直接搜尋可讀部分原頁，但回傳愛寶樂園桌曆、學校園遊會等不相關內容；更多內容要求登入\",\"X\":\"直接搜尋轉登入流程，無合格原文\",\"Facebook\":\"站外搜尋未取得本題近期可核對原文\",\"Instagram\":\"未取得本題近期原文與互動\",\"Dcard\":\"索引混入其他聯名及2025台灣福袋，排除\",\"PTT\":\"索引混入3月舊促銷及非旅遊棒球討論，排除\",\"TikTok\":\"robots限制，未取得原始證據\",\"YouTube\":\"未取得符合本事件時間及互動條件的影片\"}}\n\n【明天追蹤】\n[{\"title\":\"佐賀下午競技與10/31上午天候\",\"next\":\"出發前追查主辦當日實施公告；不能預測一定復飛或取消。\",\"sources\":[{\"label\":\"官方場次\",\"url\":\"https://www.sibf.jp/2026/schedule/\"}]},{\"title\":\"大分今晚實際點燈\",\"next\":\"未來24小時可查當晚原始照片、時間與互動，排除官方抽獎及不同年份照片。\",\"sources\":[{\"label\":\"主辦\",\"url\":\"https://hikarioita.net/\"}]},{\"title\":\"Doutor各門市福袋預約\",\"next\":\"追查預約限制與個別店鋪售罄公告；無公告不宣稱已搶光。\",\"sources\":[{\"label\":\"品牌\",\"url\":\"https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/\"}]},{\"title\":\"名古屋Sanrio HOUSE預約條件\",\"next\":\"補核11月咖啡預約與商品店入場是否各自預約；未核實不教讀者直接前往。\",\"sources\":[{\"label\":\"官方原稿\",\"url\":\"https://prtimes.jp/main/html/rd/p/000004516.000018505.html/\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-30\n搜尋截止：2026-10-30 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台頁查閱截至10:07，撰稿與部署時間不作新聞時效\n本期掃描15個不同事件線索，4題完成查核可發布，11題未通過。合格候選不足15題、精選不足10題，不以舊聞或未確認資訊湊數。4題依編輯內容分數由最優到較弱排序；本期社群樣本不足，無法建立實測熱榜。\n\n【今天日本發生什麼】\n已查證：佐賀熱氣球節10/30上午競技因雨取消，上午造型氣球另取消；不能推定下午或五天全取消。\n已查證：讀賣樂園10/29開始本季燈光秀，入園券、午後票與全天票需分開比較。\n已查證：Doutor大耳狗福袋今天預約，但12/26才開始取貨，適合年底行程先確認。\n已查證：大分今晚首日點燈約18:30，與平日17:00不同。\n編輯觀察：本期最有實用價值的是場次與時間辨識，而非宣稱全網爆紅。\n社群查核：Threads可讀部分原頁但主題不符，X搜尋轉登入，其他平台沒有取得合格近期原始樣本。\n地域掃描涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；未為地域平衡放入不成熟消息。\n\n【TOP選題及候選評分】\n八項順序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值；上限20/20/15/15/10/10/5/5。星等為爆紅／收藏／分享1–5星，皆屬編輯判斷，不保證觀看量。\n\nTOP 1 佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消\n分類／地區：交通／活動／九州／佐賀嘉瀨川河川敷\n公告：2026/10/30官方上午競技取消公告（未標時刻）；地方電視06:30 JST報導\n發生／販售：10/30上午競技取消；另08:25 JST更新取消上午Balloon Fantasia；節期10/30–11/3\n查核：官方與佐賀電視確認上午競技因雨取消。Balloon Fantasia另有08:25官方取消公告。官方10/27版節目表列下午15時競技，但截至本期未確認下午實施狀態，不能保證起飛，也不能把上午取消擴大成全日或全節取消。\n推薦與台灣相關性：今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。\n八項分數：20/20/14/15/9/5/5/4；總分92/100；三種星等：4/4/5\n風險：中；時效：今天；生命週期：1天；現在發 完成查核後立即，Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：佐賀バルーン 2026 中止 site:x.com；佐賀熱氣球 2026 site:threads.com\n排除線索：[{\"url\":\"https://x.com/search?q=%E4%BD%90%E8%B3%80%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%20since%3A2026-10-28&f=live\",\"label\":\"X最近貼文搜尋\",\"reason\":\"本期直接開啟轉入登入流程，未能讀到原文互動數。\"}]\n分潤：{\"level\":\"低\",\"reason\":\"取消消息是即時行前提醒，讀者通常已有行程；不適合趁取消推銷訂房或氣球行程。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"不硬推旅遊預訂或編造分潤商品。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方上午競技取消](https://www.sibf.jp/task/202610030a.html) [佐賀電視獨立報導](https://www.sagatv.co.jp/news/archives/2026103024840) [官方造型氣球取消](https://www.sibf.jp/task/20261030b.html) [官方節目表](https://www.sibf.jp/2026/schedule/)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]}]\n\nTOP 2 讀賣樂園寶石燈光秀昨晚開幕：只看燈與玩設施，票種差很多\n分類／地區：季節情報／票券／關東／東京讀賣樂園\n公告：已讀官方公告2026/10/15 15:00 JST；非首次公布日保證\n發生／販售：2026/10/29–2027/4/4；營業及點燈時間依日期確認\n查核：2026–27主題Growing Light，10/29開幕。成人18–64歲入園券現場1800、官方線上1600日圓；After Pass15時後入園加指定設施，現場3100、官方線上2800日圓。部分設施除外，不能寫所有設施無限搭。各日時間與休園另查；第三方一日票不是這兩個價格，PokéPark KANTO不應視為包含。\n推薦與台灣相關性：台灣東京自由行容易把入園券、After Pass與一日券混淆；剛開幕的視覺題材加上票價比較，比單純美照更有收藏價值。\n八項分數：19/19/13/14/7/10/4/4；總分90/100；三種星等：4/5/5\n風險：低；時效：超過7天例外：10/29剛正式開幕，非把10/15公告當新消息；生命週期：1個月以上；晚上發 10/30 18:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：site:threads.com 讀賣樂園 2026 10；site:x.com ジュエルミネーション 2026 10月29日；site:instagram.com ジュエルミネーション 2026 10 29；site:youtube.com ジュエルミネーション 2026 10 29；site:dcard.tw 日本 讀賣樂園 大耳狗 福袋；site:ptt.cc 日本 2026 10 29\n排除線索：[{\"url\":\"https://www.threads.com/search?q=%E8%AE%80%E8%B3%A3%E6%A8%82%E5%9C%92\",\"label\":\"Threads原站搜尋\",\"reason\":\"可讀部分結果，但混入韓國愛寶樂園桌曆等不同事件；更多內容需登入。未將無關貼文互動數計入。\"},{\"url\":\"https://www.dcard.tw/@awwrated/post/262324069\",\"label\":\"Dcard搜尋線索\",\"reason\":\"咒術合作為不同事件，且原始時間與互動未核實，不計分。\"}]\n分潤：{\"level\":\"高\",\"reason\":\"讀者有直接買園票的需求，且活動期間長，能自然銜接票種比較；須先分清只看燈、午後設施或全天玩法。\",\"products\":[\"讀賣樂園入園券／午後票／一日券\",\"園區交通沿線住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\",\"KKday\",\"Klook\"],\"commentOpening\":\"先按玩法選票：只看燈、下午入園玩設施，或整天玩，價格和包含項目不同。下面的預訂頁請再核對你的日期、票種與除外設施。\",\"checks\":\"確認日期庫存、國籍限制、除外設施及退改條件；一日券不等於便宜入園券，不保證PokéPark資格或分潤資格。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方本季燈光秀](https://www.yomiuriland.com/jewellumination/) [官方票價](https://www.yomiuriland.com/charge/) [官方10/15公告](https://prtimes.jp/main/html/rd/p/000000519.000041300.html) [Time Out交叉確認](https://www.timeout.jp/tokyo/ja/things-to-do/yomiuri-land-jewellumination)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"小田急讀賣樂園前站周邊住宿\",\"url\":\"https://www.trip.com/hotels/kawasaki-yomiuri-lando-mae-railway-station/hotels-c35717r10627990/\",\"reason\":\"適合採小田急路線者；不是京王讀賣樂園站，也不等於園區門口。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/yomiuri-land.html\",\"reason\":\"比較園區周邊基地，部分飯店數公里外，需另查接駁與步行距離。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園一日券\",\"url\":\"https://www.kkday.com/en/product/136740-instant-confirmation-yomiuriland-amusement-park-ticket-tokyo\",\"reason\":\"適合全天設施加夜間燈光行程；不是只看燈的入園券或After Pass。\",\"checks\":\"頁面限非日本適用旅客，無法取消；選定日期確認營業與設施。頁列HANA・BIYORI需另換實體票；不保證PokéPark入場、所有設施或2026季節額外內容。未核實庫存與分潤資格。\",\"kind\":\"商品頁\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"klook\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"讀賣樂園15時後入園方案\",\"url\":\"https://www.klook.com/en-AU/activity/20251-yomiuriland-admission-ticket-tokyo/\",\"reason\":\"已讀頁面列15時後入園與指定設施，可比較午後玩法。\",\"checks\":\"限非日本護照並須出示，指定日使用；Sky-Go-LAND、Sky Shuttle、蹦極等及PokéPark KANTO除外。頁面刺青限制範圍文字不一致，相關旅客先問客服。核對所選方案、退改與庫存，不引用頁面起價作保證。\",\"kind\":\"商品頁\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]}]\n\nTOP 3 Doutor大耳狗福袋今天預約，但12月26日才開始取貨\n分類／地區：購物／美食／日本／Doutor參與門市\n公告：2026/10/28官方公告；媒體10/28 12:24 JST\n發生／販售：門市預約10/30–12/25；領取與販售12/26–2027/1/11；網路預約10/30 10:00–11/30 JST\n查核：門市9種套組2400–12000日圓，預約時付款；7500袋款與12000玩偶袋款不同，最低價不代表有玩偶。取貨12/26起至1/11，門市與數量依實際供應。咖啡券12/26–2027/5/31有效、指定S杯咖啡。網路7500套組12/26起出貨，台灣配送未確認；不承諾外國信用卡或預約庫存。\n推薦與台灣相關性：大耳狗周邊有視覺鉤子，但對台灣旅客真正關鍵是取貨期；能避免現在赴日的人誤以為預約當天拿得到。\n八項分數：20/16/13/12/8/8/4/3；總分84/100；三種星等：4/4/4\n風險：低；時效：今天開放預約；10/28公告僅日期不假裝精確24小時；生命週期：1個月以上；現在發 10/30 12:00 Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：site:facebook.com ドトール シナモロール 2027；site:tiktok.com ドトール シナモロール 福袋2027；site:x.com ドトール シナモロール 福袋2027；site:dcard.tw 日本 大耳狗 福袋\n排除線索：[{\"url\":\"https://www.dcard.tw/f/sanrio/p/259238077\",\"label\":\"Dcard舊福袋線索\",\"reason\":\"2025台灣便利商店福袋，年度、品牌與地區都不符；排除。\"}]\n分潤：{\"level\":\"低\",\"reason\":\"預約與取貨直接在Doutor，與旅遊票券或住宿關聯弱；不為福袋硬推訂房。\",\"products\":[],\"platforms\":[],\"commentOpening\":\"\",\"checks\":\"不硬推旅遊預訂或編造分潤商品。\",\"assessedOn\":\"2026-10-30\"}\n來源：[官方福袋頁](https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/) [官方10/28公告](https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html) [Gourmet Watch交叉確認](https://gourmet.watch.impress.co.jp/docs/news/fukubukuro/2151831.html)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"booking\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"本題為取消提醒或門市商品，沒有適合自然銜接的旅遊預訂商品；本期不推薦平台商品頁。\",\"pages\":[]}]\n\nTOP 4 大分光之幻想今晚開燈：首日約18:30，不是平日17:00\n分類／地區：季節情報／九州／大分站府內中央口至市中心\n公告：JR大分City公告2026/10/2；官方活動頁未列初刊時刻\n發生／販售：10/30–2027/2/14；通常17:00–24:00 JST，首日儀式約17時、點燈約18:30\n查核：主題明日に架ける星，約55萬燈。地點含大分站府內中央口、中央通、府內Aqua Park、Galleria竹町Dome等。正常17–24，10/30約18:30點燈，17時左右是儀式。未將街區活動推定為所有設施免費，也未確認天候變動或即時交通。\n推薦與台灣相關性：適合已在大分或別府的旅客安排晚上散步；首日時間不同是有用的行程提醒，但不鼓勵專程為燈景臨時訂機票。\n八項分數：20/16/11/12/7/9/3/4；總分82/100；三種星等：3/4/4\n風險：低；時效：超過7天例外：今天正式開始，明列10/2原公告；生命週期：1個月以上；現在發 10/30 12:00 Asia/Taipei（編輯建議）\n社群：熱度未確認；未取得至少2名不同作者、48小時內本事件原文與可核對讚數及留言數。分數與星等為編輯預估，非已驗證熱度。 觀測：2026-10-30T10:07:14+08:00\n關鍵字：おおいた光のファンタジー2026 site:instagram.com；おおいた光のファンタジー2026 site:facebook.com\n排除線索：[]\n分潤：{\"level\":\"中\",\"reason\":\"大分過夜住宿能自然銜接，但今晚出發者多已訂房，先補晚間步行路線再推薦較合適。\",\"products\":[\"大分站附近住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果本來就要在大分住一晚，可以把車站、市中心燈景和回飯店路線一起比較；訂房前再核對距離與取消條件。\",\"checks\":\"住宿不含活動；輸入實際日期核對空房、步行距離、價格及分潤資格。\",\"assessedOn\":\"2026-10-30\"}\n來源：[活動官方](https://hikarioita.net/) [大分縣觀光交叉確認](https://www.visit-oita.jp/events/detail/14516) [JR大分City原公告](https://www.jroitacity.jp/newsevent/detail/?cd=000427)\n推薦平台頁與查閱限制：[{\"platform\":\"trip\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"大分市住宿列表\",\"url\":\"https://www.trip.com/hotels/oita-hotels-list-1286/\",\"reason\":\"已核對為大分市，不保證全部在車站或步行區；頁面快取價格日期不採用。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟讀取；依下列適用範圍推薦，未核實庫存或佣金資格。\",\"pages\":[{\"title\":\"大分站周邊住宿列表\",\"url\":\"https://www.booking.com/landmark/jp/oita-eki.html\",\"reason\":\"適合比較車站至夜間散步區的住宿位置。\",\"checks\":\"住宿不含活動門票；自行選日期核對位置、交通、取消條件、庫存及分潤資格，不保證最低價。\",\"kind\":\"住宿列表\",\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"搜尋本活動未取得可核對的適用商品頁，不造票券。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋回傳長崎豪斯登堡等不同地區商品，不能當大分本活動票券。\",\"pages\":[]}]\n\n【未入選11則】\n5. Sanrio HOUSE名古屋PARCO咖啡店｜美食｜中部／名古屋｜10/15公告、10/29開幕｜已讀官方稿；未完成當下預約可用性與第二來源衝突文字核對，不據此宣稱停業。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://prtimes.jp/main/html/rd/p/000004516.000018505.html/)\n6. Venchi紫薯黑芝麻冰淇淋｜美食｜日本｜10/29上市搜尋線索｜搜尋索引與開啟快取日期不一致，缺品牌原始日期與販售條件。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n7. Dr. Martens大法師聯名靴｜購物｜日本｜10/29搜尋線索｜僅索引，缺官方價格與門市查核。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n8. IPSA聖誕彩妝｜購物｜日本｜10/29搜尋線索｜僅索引，未完成官方品項、日期與可買條件查核。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.fashion-press.net/news/calendar/from%3Atoday/?page=1)\n9. OK超市長吉店開幕｜購物｜關西／大阪｜9/16公告、10/29開幕｜已讀官方索引；第二來源與旅客交通資訊未完整核對。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://ok-corporation.jp/news/new-shop/)\n10. Doutor大耳狗聖誕蛋糕｜美食｜日本｜媒體10/30 09時、11/1預約線索｜與福袋不同商品；原文開啟失敗、官方未交叉確認。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://gourmet.watch.impress.co.jp/docs/news/2152275.html)\n11. 鳴子峽紅葉時間預測｜季節情報｜東北／宮城｜10/9更新、10/8預測｜原文是舊預測，不是今天實測葉況，不能包裝成目前見頃。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://koyo.walkerplus.com/topics/article/203976/)\n12. Neo TAN丹後開放工廠｜活動｜關西／丹後｜10/30–11/1；初刊未確認｜官方活動索引已讀，未核對預約、語言與完整原始日期。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.uminokyoto.jp/event/)\n13. 綾部光幻の世界｜活動｜關西／綾部｜10/30–11/3；初刊未確認｜官方索引線索，缺完整行動資訊與第二來源。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.uminokyoto.jp/event/)\n14. 真庭發酵一泊二日旅行｜旅遊｜中國／岡山｜10/30–31；預約7月底起｜已讀官方；需預約，新大阪9時出發已過，沒有核實剩餘名額，不當今天可即訂行程。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://www.okayama-kanko.jp/event/detail_1002544.html)\n15. 沖繩PARCO CITY大丸松坂屋甜點選物｜美食｜沖繩｜原始日期未確認｜第三方索引原頁403，未有官方日期，排除。｜八項與總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成查核](https://locapop.jp/okinawa/)\n\n【編輯推薦】\n{\"id\":\"saga-balloon-morning-cancel-20261030\",\"title\":\"佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消\",\"score\":92,\"reason\":\"今天已在九州或準備前往會場的台灣旅客最需要這則；把上午取消與全日取消分清楚，分享給同行者可直接調整行程。\",\"versusSecond\":\"比讀賣樂園更需要今天立即提醒，能避免旅客為已取消上午場次前往；讀賣樂園較適合晚間與長期收藏。僅編輯推薦，不代使用者選題。\",\"publishAt\":\"完成查核後立即，Asia/Taipei（編輯建議）\",\"audience\":\"今天在九州、準備去佐賀會場的台灣旅客與同行者\",\"angle\":\"確認上午取消範圍，下午仍須重新查公告\",\"lifecycle\":\"1天\"}\n\n【社群限制】\n{\"checkedAt\":\"2026-10-30T10:07:14+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":4,\"qualifiedTopicCount\":0,\"limitation\":\"4個合格新聞題均補查社群，但無任何題達2位不同作者、48小時原文且讚與留言可核對門檻。不等於無人討論。未把搜尋摘要、官方公告、抽獎或不相干高互動貼文計分；不能稱台灣Threads熱榜。\",\"platformAccess\":{\"Threads\":\"直接搜尋可讀部分原頁，但回傳愛寶樂園桌曆、學校園遊會等不相關內容；更多內容要求登入\",\"X\":\"直接搜尋轉登入流程，無合格原文\",\"Facebook\":\"站外搜尋未取得本題近期可核對原文\",\"Instagram\":\"未取得本題近期原文與互動\",\"Dcard\":\"索引混入其他聯名及2025台灣福袋，排除\",\"PTT\":\"索引混入3月舊促銷及非旅遊棒球討論，排除\",\"TikTok\":\"robots限制，未取得原始證據\",\"YouTube\":\"未取得符合本事件時間及互動條件的影片\"}}\n\n【明天追蹤】\n[{\"title\":\"佐賀下午競技與10/31上午天候\",\"next\":\"出發前追查主辦當日實施公告；不能預測一定復飛或取消。\",\"sources\":[{\"label\":\"官方場次\",\"url\":\"https://www.sibf.jp/2026/schedule/\"}]},{\"title\":\"大分今晚實際點燈\",\"next\":\"未來24小時可查當晚原始照片、時間與互動，排除官方抽獎及不同年份照片。\",\"sources\":[{\"label\":\"主辦\",\"url\":\"https://hikarioita.net/\"}]},{\"title\":\"Doutor各門市福袋預約\",\"next\":\"追查預約限制與個別店鋪售罄公告；無公告不宣稱已搶光。\",\"sources\":[{\"label\":\"品牌\",\"url\":\"https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/\"}]},{\"title\":\"名古屋Sanrio HOUSE預約條件\",\"next\":\"補核11月咖啡預約與商品店入場是否各自預約；未核實不教讀者直接前往。\",\"sources\":[{\"label\":\"官方原稿\",\"url\":\"https://prtimes.jp/main/html/rd/p/000004516.000018505.html/\"}]}]\n\n【各題串文，選題後展開】\n佐賀熱氣球節今天上午競技因雨取消：不是整個活動取消\n1/3\n今天要去佐賀熱氣球節的人，先看這個變動：10月30日上午競技已因雨取消。\n\n官方與佐賀電視都已確認；上午的造型氣球展示Balloon Fantasia，也另在日本時間08:25公告取消。這兩則都是「上午」的消息，不能理解成五天活動全部取消。\n\n2/3\n接下來要確認的是下午，不是直接沿用早上的結論。\n\n官方節目表原列下午15:00競技，但截至台灣10:07／日本11:07的查核，我還沒有確認下午是否實施。熱氣球活動受天氣影響，表定時間不等於保證起飛。\n\n已經在九州的旅客，出門前再看主辦的最新公告，保留調整行程的空間。\n\n3/3\n今年節期是10月30日至11月3日，會場在佐賀嘉瀨川河川敷。若同行者只看到「取消」截圖，記得把日期和上午範圍一起傳給他，避免誤判整趟行程。\n\n下一步：先核對你打算看的場次，再決定是否前往；下午狀態請以主辦更新為準。\n上午公告：https://www.sibf.jp/task/202610030a.html\n節目表：https://www.sibf.jp/2026/schedule/\n切角與開頭：[{\"name\":\"即時提醒\",\"opening\":\"今天去佐賀追熱氣球，上午競技已因雨取消。\"},{\"name\":\"範圍辨識\",\"opening\":\"佐賀熱氣球取消的是10月30日上午，別直接當成五天全取消。\"},{\"name\":\"同行分享\",\"opening\":\"準備出發去佐賀會場前，先把這兩則上午取消公告傳給同行者。\"},{\"name\":\"午後安排\",\"opening\":\"下午15:00是表定競技時間，還不能當成保證起飛。\"},{\"name\":\"查詢方法\",\"opening\":\"看佐賀熱氣球公告，日期、場次、更新時間要一起看。\"}]\n圖片：[{\"description\":\"官方取消公告截圖，保留日期及查閱時間；不得用往年氣球照冒充今天起飛。商用授權未確認。\",\"url\":\"https://www.sibf.jp/task/202610030a.html\"}]\n延伸：可延伸：天候取消時的佐賀行程調整與查詢方式；本題不硬搭分潤。\n\n讀賣樂園寶石燈光秀昨晚開幕：只看燈與玩設施，票種差很多\n1/3\n東京讀賣樂園的寶石燈光秀10月29日開幕了。想晚上看燈，先不用直接買一日券。\n\n成人18–64歲的單純入園券，現場1,800日圓、官方線上1,600日圓；如果還想搭設施，15:00後入園的After Pass則是現場3,100、官方線上2,800日圓。先決定玩法，再比價比較準。\n\n2/3\n今年主題是Growing Light，會期從2026年10月29日到2027年4月4日。\n\n行程可以分成兩種：只散步拍燈景，先看入園券；想下午先玩設施再等天黑，就比較After Pass。\n\nAfter Pass只包含指定設施，不能理解成園內所有項目通用；各日營業、點燈與休園安排，也要用官方日曆核對。\n\n3/3\n第三方平台可能賣的是全天一日券，不能拿它和單純入園券直接比較後說哪個一定比較便宜。商品名稱、入園時間、國籍要求和除外設施都要看。\n\n先選出遊日期，再核對票種與回程交通；別把讀賣樂園票當成包含PokéPark KANTO。\n本季活動：https://www.yomiuriland.com/jewellumination/\n官方票價：https://www.yomiuriland.com/charge/\n切角與開頭：[{\"name\":\"票種省錢\",\"opening\":\"只想看讀賣樂園燈光，先別直接買全天一日券。\"},{\"name\":\"開幕消息\",\"opening\":\"讀賣樂園10月29日開燈，今年主題是Growing Light。\"},{\"name\":\"午後玩法\",\"opening\":\"下午15:00後入園玩設施再看燈，After Pass值得和單純入園券分開比。\"},{\"name\":\"購票避錯\",\"opening\":\"同樣寫讀賣樂園門票，入園時間與設施範圍可能不同。\"},{\"name\":\"行程搭配\",\"opening\":\"把東京白天行程接到讀賣樂園夜景前，先確認當日營業日曆。\"}]\n圖片：[{\"description\":\"本季Growing Light官方主視覺與票種表；素材可查找，未確認商用授權。\",\"url\":\"https://www.yomiuriland.com/jewellumination/\"}]\n延伸：可延伸商業內容：入園券、After Pass、一日券比較；小田急與京王交通及周邊住宿。分潤只放獨立留言。\n\nDoutor大耳狗福袋今天預約，但12月26日才開始取貨\n1/3\nDoutor大耳狗福袋今天10月30日開始預約，但不是今天就能帶走。\n\n門市取貨從12月26日才開始，到2027年1月11日。最近去日本、卻不會在年底再去的人，先確認取貨安排再付款，別只看見「今天開賣」。\n\n2/3\n門市有9種套組，2,400到12,000日圓；最低價不等於有大耳狗玩偶。\n\n想要周邊可先分清：7,500日圓款是燈芯絨袋搭配吊飾等內容；12,000日圓款有玩偶、托特袋與收納袋，另搭咖啡和兌換券。\n\n預約期10月30日至12月25日，門市預約時就付款；參與店鋪與供應數量要向取貨店確認。\n\n3/3\n咖啡券也有使用期限：2026年12月26日至2027年5月31日，兌換指定S杯咖啡，不是任選飲料。\n\n網路另有7,500日圓套組，10月30日日本10:00開放預約、12月26日起出貨；這次未確認可寄台灣，也不保證你的旅行日期收得到。\n\n先確認年底人在不在日本，再選能配合的取貨方式。\n官方：https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/\n切角與開頭：[{\"name\":\"取貨避錯\",\"opening\":\"大耳狗福袋今天能預約，但要等12月26日才開始取貨。\"},{\"name\":\"套組比較\",\"opening\":\"Doutor福袋2,400日圓起，不代表這個價格就有大耳狗玩偶。\"},{\"name\":\"年底行程\",\"opening\":\"跨年會去日本的人，可以把Doutor福袋取貨期一起對進行程。\"},{\"name\":\"付款提醒\",\"opening\":\"門市預約福袋時就付款，先確認取貨日期與店鋪。\"},{\"name\":\"網購限制\",\"opening\":\"網路有大耳狗福袋，不等於已確認能寄台灣。\"}]\n圖片：[{\"description\":\"官方各福袋套組與周邊照片，適合做7500／12000比較；商用授權未核實。\",\"url\":\"https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/\"}]\n延伸：可延伸：日本福袋預約與取貨日期整理；本題分潤適合度低。\n\n大分光之幻想今晚開燈：首日約18:30，不是平日17:00\n1/3\n今晚在大分想看點燈，請抓日本時間18:30左右，不要直接照一般日的17:00排。\n\n「おおいた光のファンタジー2026」今天10月30日開始。首日約17時是開幕儀式，正式點燈約18:30；之後一般點燈時間才是17:00至24:00。\n\n2/3\n今年主題是「明日に架ける星」，會期到2027年2月14日，約55萬盞燈分布在大分站與市中心。\n\n可以先以大分站府內中央口作起點，再看中央通、府內Aqua Park、Galleria竹町Dome等區域，依你住的位置取捨，不必把全部地點硬排成一晚。\n\n3/3\n如果原本就在大分或別府旅行，這是一個晚餐後可考慮的散步安排。要跨城回住宿處的人，先查自己的回程班次，不要把點燈到24:00當成交通也營運到同一時間。\n\n首日點燈是「約18:30」，天候及當日調整仍以主辦公告為準。先看官方地點資訊，再決定步行路線。\n官方：https://hikarioita.net/\n大分縣觀光：https://www.visit-oita.jp/events/detail/14516\n切角與開頭：[{\"name\":\"首日時間\",\"opening\":\"大分今晚點燈約18:30，17:00是開幕儀式時間。\"},{\"name\":\"晚間散步\",\"opening\":\"今晚住大分，可以把車站到市中心燈景排進晚餐後。\"},{\"name\":\"季節安排\",\"opening\":\"大分光之幻想從10月30日亮到明年2月14日。\"},{\"name\":\"交通提醒\",\"opening\":\"燈景亮到24:00，不等於回住宿的車也開到24:00。\"},{\"name\":\"路線規劃\",\"opening\":\"從大分站府內中央口出發，依住宿位置挑你想看的燈區。\"}]\n圖片：[{\"description\":\"官方主視覺及街區地圖；未確認圖片商用授權，不把宣傳照當今晚實景。\",\"url\":\"https://hikarioita.net/\"}]\n延伸：可延伸商業內容：大分站住宿與晚餐散步路線；住宿不含活動票券，也不捏造優惠。"
+}
