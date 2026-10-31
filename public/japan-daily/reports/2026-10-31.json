@@ -1,0 +1,2163 @@
+{
+  "date": "2026-10-31",
+  "cutoff": "2026-10-31 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台查閱截至10:07，撰稿部署不改寫新聞時效",
+  "scopeNote": "共整理15個事件／商品線索，3題完成新聞交叉查核，12題排除或待核。合格候選只有3題，不足15題，精選不足10題；不將未確認線索評出假分數。依內容分數90、88、86由最優到較弱排序。無題達社群樣本門檻，因此這是編輯推薦順序，不是實測社群熱榜。",
+  "trends": [
+    "已查證：東寺今晚開始本季夜間拝觀，日夜分開入場；開幕不代表已達紅葉見頃。",
+    "已查證：Weathernews 10/29預測高尾山11/13頃、嵐山11/23頃開始見頃，屬預測而非今天葉況。",
+    "已查證：首里城復興祭今天有免費前導LIVE，明天免費遊行在國際通，需分清場地。",
+    "已查證：首里城特別導覽預約及候補已截止，舊報導的招募資訊不能照單轉貼。",
+    "編輯觀察：今天值得發的是票種、時刻、預測與觀測的差別，不能靠沒有證據的爆紅字眼。",
+    "社群查核：直接開啟Threads，東寺搜尋混入2024舊照與其他寺院；首里城搜尋顯示登入。其餘平台未取得合格近期原始樣本，不代表沒有人討論。",
+    "掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；完整可發題目集中京都、全國紅葉與沖繩，沒有為地區配額湊新聞。"
+  ],
+  "choice": {
+    "id": "toji-autumn-night-20261031",
+    "title": "東寺今晚開放夜間拝觀：1,000日圓，日夜票分開",
+    "score": 90,
+    "reason": "適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。",
+    "versusSecond": "東寺今天正式開始，夜間費用及入場時刻能立即採取行動；紅葉預測仍需後續觀測更新。僅推薦標籤，不替使用者選題。",
+    "publishAt": "10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "正在京都或規劃11月京都行程的台灣旅客",
+    "angle": "夜間票種與最後受付；開幕不是見頃",
+    "lifecycle": "1個月以上"
+  },
+  "top10": [
+    {
+      "id": "toji-autumn-night-20261031",
+      "title": "東寺今晚開放夜間拝觀：1,000日圓，日夜票分開",
+      "region": "關西／京都東寺",
+      "category": "活動／季節情報",
+      "announcementDate": "東寺本季原始公布日未標；星野OMO3相關活動頁2026/9/7更新，不能視為東寺首次公告日",
+      "eventDate": "2026/10/31–12/13；18:00–21:30 JST，最後受付21:00",
+      "freshness": "超過7天例外：今天正式開始；不是今天才公告。原始公布日尚未完全確認",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "why": "適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。",
+      "facts": "東寺本季官方、京都觀光及京阪交叉確認10/31–12/13夜間拝觀。18:00開放、21:30結束、21:00最後受付；成人1000日圓、中學生以下500日圓。金堂、講堂開放，白天與夜間入替。五重塔初層特別公開屬另列日間項目，不寫成夜票包含。開幕不代表已滿山紅葉；當日葉況與臨時天候變動未確認。一般入場以現場受付資訊為準，未核實外國信用卡及事前售票方式。",
+      "sources": [
+        {
+          "label": "東寺本季官方",
+          "url": "https://toji.or.jp/exhibition/2026_autumn/"
+        },
+        {
+          "label": "京都市觀光協會",
+          "url": "https://ja.kyoto.travel/event/single.php?event_id=5098&title=ja.kyoto.travel"
+        },
+        {
+          "label": "京阪活動資訊",
+          "url": "https://www.keihan.co.jp/momiji/kyoto/spot/toji.html"
+        },
+        {
+          "label": "9/7更新的飯店相關活動，非一般入場規則",
+          "url": "https://hoshinoresorts.com/ja/hotels/omo3kyototoji/sp/lightup/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "東寺周邊住宿",
+              "url": "https://jp.trip.com/hotels/kyoto-toji/hotels-c734m20634965/",
+              "kind": "住宿列表",
+              "reason": "適合比較東寺夜遊後回住宿路線；列表不保證每間步行可達。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都東寺附近飯店",
+              "url": "https://www.booking.com/landmark/jp/to-ji.ja.html",
+              "kind": "住宿列表",
+              "reason": "已核對為京都東寺，住宿與入場費分開。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀京都一日遊11855但顯示售罄，且日間行程不等於夜間拝觀；HALE京都東寺288046乾淨商品頁讀取失敗，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋回傳夜遊／櫻花文章與其他寺院票，未取得本季東寺夜間適用商品，不硬推。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "京都東寺今晚10月31日開始夜間拝觀，成人1,000日圓。但白天、晚上是分開入場，別以為白天逛完就能一路留到點燈。\n\n本季到12月13日，夜間開放日本時間18:00–21:30，最後受付是21:00。想接在晚餐後，請用最後受付時間倒推路程。",
+          "夜間可以看點燈庭園，也開放金堂、講堂。中學生以下500日圓；五重塔初層特別公開則是官方另外列出的日間項目，不要把夜票當成包含塔內參觀。\n\n從近鐵東寺站步行約10分鐘，京都站八條口約15分鐘。先想好晚餐與回住宿的方向，再決定走哪一條路。",
+          "今天是夜間活動開幕，不代表楓葉已經全紅。若你的重點是紅葉顏色，出發前再查當地葉況；想看建築、倒影與夜間氛圍，則先核對本季時間和票價。\n\n一般入場請依現場受付安排；這次沒有確認可用外國信用卡或事前購票方式，付款方式可先向寺方確認。\n官方：https://toji.or.jp/exhibition/2026_autumn/"
+        ],
+        "angles": [
+          {
+            "name": "今晚新行程",
+            "opening": "東寺今晚開始夜間拝觀，成人1,000日圓。"
+          },
+          {
+            "name": "票種避錯",
+            "opening": "白天逛東寺，不代表可以直接留到夜間點燈。"
+          },
+          {
+            "name": "時間安排",
+            "opening": "東寺夜間21:30結束，但最後受付是21:00。"
+          },
+          {
+            "name": "內容辨識",
+            "opening": "東寺夜票能看金堂、講堂，別直接當成含五重塔內參觀。"
+          },
+          {
+            "name": "紅葉判讀",
+            "opening": "點燈開幕日，不等於楓葉見頃日。"
+          }
+        ],
+        "images": [
+          {
+            "description": "東寺本季主視覺、夜間費用與日夜入替說明；宣傳照片不當今天葉況，商用授權未核實。",
+            "url": "https://toji.or.jp/exhibition/2026_autumn/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：京都站／東寺周邊住宿與夜間散步路線；飯店房價不含拝觀，商品連結僅放獨立留言。"
+        ]
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/@hideki_0447/post/DC_qcTbyE2G",
+            "label": "東寺舊貼文",
+            "reason": "原站顯示2024/11/30、85讚9留言；年份不符，不能當本季開幕熱度。"
+          },
+          {
+            "url": "https://www.threads.com/@tatuoootuji/post/DfHGSeQmegV",
+            "label": "搜尋回傳的其他寺院",
+            "reason": "原站顯示18小時前、135讚7留言，但內容是仙台西方寺，事件不符。相對時間未換算成確定發布時刻。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 東寺 2026 10",
+          "site:x.com 東寺 2026 10月31日",
+          "site:instagram.com 東寺 2026 10月",
+          "site:dcard.tw 東寺 2026",
+          "site:tiktok.com 東寺 紅葉 2026",
+          "Threads原站搜尋：東寺"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然接京都住宿與夜間路線，但夜間拝觀本身現場付費即可；不是所有讀者都需要額外買行程。",
+        "products": [
+          "東寺／京都站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果還沒決定京都住哪裡，可以把東寺夜間拝觀和回飯店路線一起比較。下方是住宿參考，房費不等於包含拝觀費。",
+        "checks": "確認住宿位置與實際日期空房；日夜入替、夜票內容及臨時公告另查。",
+        "assessedOn": "2026-10-31"
+      }
+    },
+    {
+      "id": "weathernews-autumn-third-20261029",
+      "title": "紅葉新預測：高尾山11月13日、嵐山11月23日頃開始見頃",
+      "region": "全日本／重點關東高尾山、關西嵐山",
+      "category": "季節情報",
+      "announcementDate": "Weathernews 2026/10/29 13:00 JST；Travel Voice 10/30報導",
+      "eventDate": "預測高尾山11/13頃、嵐山11/23頃開始見頃；不是活動或保證日期",
+      "freshness": "48小時：距10/29 13:00 JST約46小時",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "10/31 19:30 Asia/Taipei（編輯建議）",
+      "why": "11月赴日旅客最需要分清當下葉況與未來預測，可分享給同行者調整彈性行程；涵蓋北日本至關西，不只單一景點。",
+      "facts": "已讀Weathernews 10/29 13:00原文與Travel Voice 10/30第三回報導。原文預測高尾山11/13頃、嵐山11/23頃開始見頃，北海道進入紅葉季後半。這些是預測，不是最佳日保證、也不是今天現場觀測。Weathernews見頃定義約七成變色起至落葉開始，不代表某一天全紅。氣溫、風雨可改變進度，預訂需保留彈性。",
+      "sources": [
+        {
+          "label": "Weathernews原始預測",
+          "url": "https://weathernews.jp/news/202610/280211/"
+        },
+        {
+          "label": "Travel Voice第三回報導",
+          "url": "https://www.travelvoice.jp/20261030-160765"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都嵐山周邊住宿",
+              "url": "https://jp.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/",
+              "kind": "住宿列表",
+              "reason": "只對應本題嵐山段落；部分列表飯店較遠，另查路程。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都嵐山地區住宿",
+              "url": "https://www.booking.com/district/jp/kyoto/arashiyama.ja.html",
+              "kind": "住宿列表",
+              "reason": "可比較嵐山基地；不保證11/23空房或當日葉況。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀含嵐山的京都日遊11855，頁列售罄；不當可預訂紅葉行程。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋嵐山紅葉2026行程，回傳舊交通PDF與不相關結果，未有完成日期核對的商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "11月去日本賞楓，先把「開始見頃」和「那天一定最紅」分開。\n\nWeathernews在10月29日公布的預測是：高尾山約11月13日、京都嵐山約11月23日開始進入見頃。這是旅行規劃參考，不是對指定日期的保證。",
+          "這次資訊對行程最有用的地方，是提醒大家不要把不同高度、不同地區排成同一個紅葉時間。\n\n北海道已進入紅葉季後半；高尾山、嵐山則還有往後的預測日期。Weathernews所說的見頃，是景點約七成變色起、到落葉開始這段期間，並不是只有一天能看。",
+          "已訂好機票的人，可以把賞楓日留一點彈性，出發前再核對目的地近期照片、葉況與天氣；還在訂房的人，先看取消期限，不必只為一個預測日期買下不能改的安排。\n\n氣溫和風雨都可能改變進度。這份整理採10月29日發布的預測，不把它寫成10月31日實測。\n原始預測：https://weathernews.jp/news/202610/280211/"
+        ],
+        "angles": [
+          {
+            "name": "預測日期",
+            "opening": "高尾山約11月13日、嵐山約11月23日開始見頃：先記得這是預測。"
+          },
+          {
+            "name": "名詞辨識",
+            "opening": "紅葉見頃不是某一天保證全紅。"
+          },
+          {
+            "name": "行程彈性",
+            "opening": "機票已訂好，賞楓日期仍可以留一點調整空間。"
+          },
+          {
+            "name": "區域比較",
+            "opening": "北海道紅葉季後半，和11月京都不是同一個節奏。"
+          },
+          {
+            "name": "訂房判斷",
+            "opening": "照賞楓預測訂房前，先看取消期限。"
+          }
+        ],
+        "images": [
+          {
+            "description": "Weathernews本次預測圖；保留10/29發布日與預測字樣，商用轉載權未確認，可自製引用來源的日期比較表。",
+            "url": "https://weathernews.jp/news/202610/280211/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：京都住宿取消條件、嵐山交通與賞楓路線；不保證景色、庫存或票券適用。"
+        ]
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1792252538.A.7DF.html",
+            "label": "PTT日光紅葉行程",
+            "reason": "搜尋索引為兩週前行程問題；不是本次10/29第三回預測的48小時內討論，不計分。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 日本 紅葉 2026 10 30",
+          "site:threads.com 紅葉 2026 10月30",
+          "site:ptt.cc 2026 紅葉 10"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "仍有11月住宿安排需求，但預測本身不是可購買商品；先確認目的地與可退改條件再接訂房。",
+        "products": [
+          "嵐山／京都住宿",
+          "依目的地另查交通與賞楓行程"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "日期還有彈性的人，可以先比較住宿位置與退改條件，再配合出發前葉況調整。這份預測不保證指定日一定全紅。",
+        "checks": "預測不保證紅葉；確認交通、實際住宿日期、取消期限與庫存，別把全日本預測套用單一行程商品。",
+        "assessedOn": "2026-10-31"
+      }
+    },
+    {
+      "id": "shuri-festival-20261031",
+      "title": "首里城復興祭今天有免費前導演出，明天國際通遊行",
+      "region": "沖繩／那霸首里城公園、國際通",
+      "category": "活動／旅遊",
+      "announcementDate": "公園官方頁2026/10/19；沖繩Navi 10/30報導（不是首次公告）",
+      "eventDate": "10/31前導LIVE 13:30–16:00；11/1–3本祭；11/1國際通遊行12:30–15:00 JST",
+      "freshness": "超過7天例外：10/19公告，今天前導活動、明天本祭開始",
+      "lifecycle": "3天",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/31查核完成後立即 Asia/Taipei（編輯建議，活動日本13:30開始）",
+      "why": "已在沖繩的台灣旅客今天就能安排，免費演出與明天不同地點的遊行有實用分享價值；臨時跨國赴日規劃時間不足。",
+      "facts": "官方與沖繩Navi確認10/31 13:30–16:00 SYURI NO UTA特別LIVE在首里杜館芝生廣場，觀覽免費；11/1 12:30–15:00琉球王朝繪卷行列在那霸國際通，觀覽免費。主祭11/1–3。官方特別導覽預約與候補均截止；部分項目需付費區入場，不能寫整個公園都免費。本祭不是正殿內部開放公告。參加遊行招募亦已截止，較舊媒體仍提追加招募，以官方最新受付終了為準。",
+      "sources": [
+        {
+          "label": "首里城公園官方活動",
+          "url": "https://oki-park.jp/shurijo/events/detail/10970"
+        },
+        {
+          "label": "沖繩Navi交叉報導",
+          "url": "https://okinawa-navi.jp/magazine/syuricastle_event/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "那霸國際通附近住宿",
+              "url": "https://jp.trip.com/hotels/naha-kokusaidori-street/hotels-c92573m8170213/",
+              "kind": "住宿列表",
+              "reason": "僅供原本需要那霸住宿者比較，不代表觀看遊行需訂房。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "首里城地標住宿頁開啟遇JavaScript／機器人檢查，未核對列表，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀567435，為2026/1/23–26投影與琉球芸能，日期與本次復興祭不同，排除。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀87083首里城付費區票；不是免費LIVE或國際通遊行門票，也不包含已截止特別導覽，本題不推薦購買。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天在沖繩，可以把首里城的免費演出排進下午；明天看遊行，地點則要去那霸國際通。\n\n10月31日日本時間13:30–16:00，首里城復興祭前導「SYURI NO UTA」特別LIVE在首里杜館芝生廣場，觀覽免費。別把今天、明天的地點混在一起。",
+          "11月1日的琉球王朝繪卷行列，時間是日本12:30–15:00，地點在國際通，觀覽同樣免費。復興祭主活動則從11月1日到3日。\n\n想看國王、王妃與琉球服飾隊伍，可以先用官方活動表確認自己要看的場次，再安排去首里城還是國際通。",
+          "免費是指上述演出與遊行觀覽，不是所有園區項目都免費。官方特別導覽的預約、候補已截止，也別把復興祭當成正殿內部開放。\n\n今天要去的人，先看官方場地圖與最新變更；明天要看遊行，就把國際通設為目的地，出發前再確認交通安排。\n官方：https://oki-park.jp/shurijo/events/detail/10970"
+        ],
+        "angles": [
+          {
+            "name": "今日行程",
+            "opening": "首里城今天下午有免費LIVE，明天遊行在國際通。"
+          },
+          {
+            "name": "地點辨識",
+            "opening": "看復興祭前先選場次：首里城公園和國際通不是同一個地點。"
+          },
+          {
+            "name": "免費範圍",
+            "opening": "首里城復興祭有免費觀覽，不代表付費區全部免費。"
+          },
+          {
+            "name": "預約提醒",
+            "opening": "復興祭特別導覽預約與候補已截止，別照舊文再去排。"
+          },
+          {
+            "name": "文化路線",
+            "opening": "11月1日國際通有琉球王朝繪卷行列，先對好12:30開始的場次。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方祭典主視覺與活動地圖，標註10/31與11/1不同會場；商用使用權未確認。",
+            "url": "https://oki-park.jp/shurijo/events/detail/10970"
+          }
+        ],
+        "extensions": [
+          "可延伸：那霸國際通與首里城的分日行程。分潤適合度低；只有原本需住宿者才自然延伸飯店比較。"
+        ]
+      },
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E5%BE%A9%E8%88%88%E7%A5%AD",
+            "label": "Threads原站搜尋",
+            "reason": "直接開啟顯示使用Instagram帳號繼續登入，未取得原文。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=32QIsQraArA",
+            "label": "YouTube沖繩電視搜尋線索",
+            "reason": "2025/10/27內容，年度不符；不把搜尋摘要互動數當本期證據。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 首里城 復興祭",
+          "site:facebook.com 首里城 復興祭 2026",
+          "site:youtube.com 首里城 復興祭 2026 10",
+          "Threads原站搜尋：首里城復興祭"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天及明天的免費活動面向已在沖繩者，多數已訂好住宿；沒有購買祭典門票需求，不硬推付費區票。",
+        "products": [
+          "確有住宿需求者可比較國際通周邊飯店"
+        ],
+        "platforms": [
+          "Trip.com"
+        ],
+        "commentOpening": "若你本來就需要在那霸多住一晚，可另外比較國際通附近住宿。免費觀覽活動不需要因這則貼文另買祭典門票。",
+        "checks": "住宿不含活動、不是祭典必買商品；付費區入場券不等於免費遊行或已截止導覽。",
+        "assessedOn": "2026-10-31"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "toji-autumn-night-20261031",
+      "title": "東寺今晚開放夜間拝觀：1,000日圓，日夜票分開",
+      "region": "關西／京都東寺",
+      "category": "活動／季節情報",
+      "announcementDate": "東寺本季原始公布日未標；星野OMO3相關活動頁2026/9/7更新，不能視為東寺首次公告日",
+      "eventDate": "2026/10/31–12/13；18:00–21:30 JST，最後受付21:00",
+      "freshness": "超過7天例外：今天正式開始；不是今天才公告。原始公布日尚未完全確認",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "why": "適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。",
+      "facts": "東寺本季官方、京都觀光及京阪交叉確認10/31–12/13夜間拝觀。18:00開放、21:30結束、21:00最後受付；成人1000日圓、中學生以下500日圓。金堂、講堂開放，白天與夜間入替。五重塔初層特別公開屬另列日間項目，不寫成夜票包含。開幕不代表已滿山紅葉；當日葉況與臨時天候變動未確認。一般入場以現場受付資訊為準，未核實外國信用卡及事前售票方式。",
+      "sources": [
+        {
+          "label": "東寺本季官方",
+          "url": "https://toji.or.jp/exhibition/2026_autumn/"
+        },
+        {
+          "label": "京都市觀光協會",
+          "url": "https://ja.kyoto.travel/event/single.php?event_id=5098&title=ja.kyoto.travel"
+        },
+        {
+          "label": "京阪活動資訊",
+          "url": "https://www.keihan.co.jp/momiji/kyoto/spot/toji.html"
+        },
+        {
+          "label": "9/7更新的飯店相關活動，非一般入場規則",
+          "url": "https://hoshinoresorts.com/ja/hotels/omo3kyototoji/sp/lightup/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "東寺周邊住宿",
+              "url": "https://jp.trip.com/hotels/kyoto-toji/hotels-c734m20634965/",
+              "kind": "住宿列表",
+              "reason": "適合比較東寺夜遊後回住宿路線；列表不保證每間步行可達。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都東寺附近飯店",
+              "url": "https://www.booking.com/landmark/jp/to-ji.ja.html",
+              "kind": "住宿列表",
+              "reason": "已核對為京都東寺，住宿與入場費分開。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀京都一日遊11855但顯示售罄，且日間行程不等於夜間拝觀；HALE京都東寺288046乾淨商品頁讀取失敗，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "搜尋回傳夜遊／櫻花文章與其他寺院票，未取得本季東寺夜間適用商品，不硬推。",
+          "pages": []
+        }
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/@hideki_0447/post/DC_qcTbyE2G",
+            "label": "東寺舊貼文",
+            "reason": "原站顯示2024/11/30、85讚9留言；年份不符，不能當本季開幕熱度。"
+          },
+          {
+            "url": "https://www.threads.com/@tatuoootuji/post/DfHGSeQmegV",
+            "label": "搜尋回傳的其他寺院",
+            "reason": "原站顯示18小時前、135讚7留言，但內容是仙台西方寺，事件不符。相對時間未換算成確定發布時刻。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 東寺 2026 10",
+          "site:x.com 東寺 2026 10月31日",
+          "site:instagram.com 東寺 2026 10月",
+          "site:dcard.tw 東寺 2026",
+          "site:tiktok.com 東寺 紅葉 2026",
+          "Threads原站搜尋：東寺"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然接京都住宿與夜間路線，但夜間拝觀本身現場付費即可；不是所有讀者都需要額外買行程。",
+        "products": [
+          "東寺／京都站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果還沒決定京都住哪裡，可以把東寺夜間拝觀和回飯店路線一起比較。下方是住宿參考，房費不等於包含拝觀費。",
+        "checks": "確認住宿位置與實際日期空房；日夜入替、夜票內容及臨時公告另查。",
+        "assessedOn": "2026-10-31"
+      }
+    },
+    {
+      "id": "weathernews-autumn-third-20261029",
+      "title": "紅葉新預測：高尾山11月13日、嵐山11月23日頃開始見頃",
+      "region": "全日本／重點關東高尾山、關西嵐山",
+      "category": "季節情報",
+      "announcementDate": "Weathernews 2026/10/29 13:00 JST；Travel Voice 10/30報導",
+      "eventDate": "預測高尾山11/13頃、嵐山11/23頃開始見頃；不是活動或保證日期",
+      "freshness": "48小時：距10/29 13:00 JST約46小時",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "10/31 19:30 Asia/Taipei（編輯建議）",
+      "why": "11月赴日旅客最需要分清當下葉況與未來預測，可分享給同行者調整彈性行程；涵蓋北日本至關西，不只單一景點。",
+      "facts": "已讀Weathernews 10/29 13:00原文與Travel Voice 10/30第三回報導。原文預測高尾山11/13頃、嵐山11/23頃開始見頃，北海道進入紅葉季後半。這些是預測，不是最佳日保證、也不是今天現場觀測。Weathernews見頃定義約七成變色起至落葉開始，不代表某一天全紅。氣溫、風雨可改變進度，預訂需保留彈性。",
+      "sources": [
+        {
+          "label": "Weathernews原始預測",
+          "url": "https://weathernews.jp/news/202610/280211/"
+        },
+        {
+          "label": "Travel Voice第三回報導",
+          "url": "https://www.travelvoice.jp/20261030-160765"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都嵐山周邊住宿",
+              "url": "https://jp.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/",
+              "kind": "住宿列表",
+              "reason": "只對應本題嵐山段落；部分列表飯店較遠，另查路程。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "京都嵐山地區住宿",
+              "url": "https://www.booking.com/district/jp/kyoto/arashiyama.ja.html",
+              "kind": "住宿列表",
+              "reason": "可比較嵐山基地；不保證11/23空房或當日葉況。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀含嵐山的京都日遊11855，頁列售罄；不當可預訂紅葉行程。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋嵐山紅葉2026行程，回傳舊交通PDF與不相關結果，未有完成日期核對的商品。",
+          "pages": []
+        }
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 18,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 5,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1792252538.A.7DF.html",
+            "label": "PTT日光紅葉行程",
+            "reason": "搜尋索引為兩週前行程問題；不是本次10/29第三回預測的48小時內討論，不計分。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 日本 紅葉 2026 10 30",
+          "site:threads.com 紅葉 2026 10月30",
+          "site:ptt.cc 2026 紅葉 10"
+        ]
+      },
+      "affiliateFit": {
+        "level": "中",
+        "reason": "仍有11月住宿安排需求，但預測本身不是可購買商品；先確認目的地與可退改條件再接訂房。",
+        "products": [
+          "嵐山／京都住宿",
+          "依目的地另查交通與賞楓行程"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "日期還有彈性的人，可以先比較住宿位置與退改條件，再配合出發前葉況調整。這份預測不保證指定日一定全紅。",
+        "checks": "預測不保證紅葉；確認交通、實際住宿日期、取消期限與庫存，別把全日本預測套用單一行程商品。",
+        "assessedOn": "2026-10-31"
+      }
+    },
+    {
+      "id": "shuri-festival-20261031",
+      "title": "首里城復興祭今天有免費前導演出，明天國際通遊行",
+      "region": "沖繩／那霸首里城公園、國際通",
+      "category": "活動／旅遊",
+      "announcementDate": "公園官方頁2026/10/19；沖繩Navi 10/30報導（不是首次公告）",
+      "eventDate": "10/31前導LIVE 13:30–16:00；11/1–3本祭；11/1國際通遊行12:30–15:00 JST",
+      "freshness": "超過7天例外：10/19公告，今天前導活動、明天本祭開始",
+      "lifecycle": "3天",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "10/31查核完成後立即 Asia/Taipei（編輯建議，活動日本13:30開始）",
+      "why": "已在沖繩的台灣旅客今天就能安排，免費演出與明天不同地點的遊行有實用分享價值；臨時跨國赴日規劃時間不足。",
+      "facts": "官方與沖繩Navi確認10/31 13:30–16:00 SYURI NO UTA特別LIVE在首里杜館芝生廣場，觀覽免費；11/1 12:30–15:00琉球王朝繪卷行列在那霸國際通，觀覽免費。主祭11/1–3。官方特別導覽預約與候補均截止；部分項目需付費區入場，不能寫整個公園都免費。本祭不是正殿內部開放公告。參加遊行招募亦已截止，較舊媒體仍提追加招募，以官方最新受付終了為準。",
+      "sources": [
+        {
+          "label": "首里城公園官方活動",
+          "url": "https://oki-park.jp/shurijo/events/detail/10970"
+        },
+        {
+          "label": "沖繩Navi交叉報導",
+          "url": "https://okinawa-navi.jp/magazine/syuricastle_event/"
+        }
+      ],
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區；不是活動票券，未確認空房或佣金。",
+          "pages": [
+            {
+              "title": "那霸國際通附近住宿",
+              "url": "https://jp.trip.com/hotels/naha-kokusaidori-street/hotels-c92573m8170213/",
+              "kind": "住宿列表",
+              "reason": "僅供原本需要那霸住宿者比較，不代表觀看遊行需訂房。",
+              "checks": "自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。",
+              "checkedAt": "2026-10-31T10:07:18+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "首里城地標住宿頁開啟遇JavaScript／機器人檢查，未核對列表，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀567435，為2026/1/23–26投影與琉球芸能，日期與本次復興祭不同，排除。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀87083首里城付費區票；不是免費LIVE或國際通遊行門票，也不包含已截止特別導覽，本題不推薦購買。",
+          "pages": []
+        }
+      ],
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.threads.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E5%BE%A9%E8%88%88%E7%A5%AD",
+            "label": "Threads原站搜尋",
+            "reason": "直接開啟顯示使用Instagram帳號繼續登入，未取得原文。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=32QIsQraArA",
+            "label": "YouTube沖繩電視搜尋線索",
+            "reason": "2025/10/27內容，年度不符；不把搜尋摘要互動數當本期證據。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 首里城 復興祭",
+          "site:facebook.com 首里城 復興祭 2026",
+          "site:youtube.com 首里城 復興祭 2026 10",
+          "Threads原站搜尋：首里城復興祭"
+        ]
+      },
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天及明天的免費活動面向已在沖繩者，多數已訂好住宿；沒有購買祭典門票需求，不硬推付費區票。",
+        "products": [
+          "確有住宿需求者可比較國際通周邊飯店"
+        ],
+        "platforms": [
+          "Trip.com"
+        ],
+        "commentOpening": "若你本來就需要在那霸多住一晚，可另外比較國際通附近住宿。免費觀覽活動不需要因這則貼文另買祭典門票。",
+        "checks": "住宿不含活動、不是祭典必買商品；付費區入場券不等於免費遊行或已截止導覽。",
+        "assessedOn": "2026-10-31"
+      }
+    },
+    {
+      "id": "lead-20261031-1",
+      "title": "ALL SHIKOKU Rail Pass 12月新制",
+      "category": "交通／票券",
+      "region": "四國",
+      "announcementDate": "10/29官方；12/1發售分生效",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf"
+        }
+      ],
+      "reason": "官方PDF已讀：指定席與價格調整；第二來源原文未成功核對，不把索引與同稿當獨立查證。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-2",
+      "title": "筑波山交通實驗",
+      "category": "交通",
+      "region": "關東／茨城",
+      "announcementDate": "10/30公告線索；10/31–11/8",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://wwwdisaster.nilim.go.jp/lab/bcg/kisya/html/kisya20261030.htm"
+        }
+      ],
+      "reason": "官方原頁逾時，未核對路線、票價、取消條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-3",
+      "title": "富士山初冠雪相關報導",
+      "category": "季節情報",
+      "region": "中部／富士山",
+      "announcementDate": "10/30報導線索",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://news.livedoor.com/article/detail/32695695/"
+        }
+      ],
+      "reason": "尚未補齊氣象機關原始公告與觀測日期，不當已查證事實。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-4",
+      "title": "白色戀人公園道民企劃",
+      "category": "活動",
+      "region": "北海道",
+      "announcementDate": "10/31線索；初刊未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.shiroikoibitopark.jp/event/"
+        }
+      ],
+      "reason": "官方索引讀取未顯示完整規則；道民資格不能直接套台灣旅客。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-5",
+      "title": "九州跨縣鐵路萬聖活動",
+      "category": "活動／交通",
+      "region": "九州／福岡周邊",
+      "announcementDate": "10/31活動線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.crossroadfukuoka.jp/event/17373"
+        }
+      ],
+      "reason": "觀光局線索尚缺個別站點時刻與第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-6",
+      "title": "いずみマチ・テラス",
+      "category": "季節情報",
+      "region": "九州／鹿兒島出水",
+      "announcementDate": "10/31–11/3線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kagoshima-kankou.com/event"
+        }
+      ],
+      "reason": "僅官方活動索引，尚未取得完整場地與費用。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-7",
+      "title": "しょうざん夜間點燈",
+      "category": "季節情報",
+      "region": "關西／京都",
+      "announcementDate": "10/31–12/6線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://ja.kyoto.travel/times/night/article/single.php?id=454"
+        }
+      ],
+      "reason": "觀光文章線索，尚缺主辦原始活動頁及票種核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-8",
+      "title": "京都GRID文化活動",
+      "category": "活動",
+      "region": "關西／京都",
+      "announcementDate": "10/31線索；原始日期未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://roamkyoto.com/ja/events/?area=yamashina"
+        }
+      ],
+      "reason": "僅地區活動索引，無完整主辦交叉來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-9",
+      "title": "ガンガラー之谷マブイオト17",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "10/31–11/1線索；原始日期未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://okinawa-navi.jp/magazine/event_october/"
+        }
+      ],
+      "reason": "未查核票種、剩餘名額與交通，不當即訂商品。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-10",
+      "title": "京都現代建築祭週末開放",
+      "category": "活動",
+      "region": "關西／京都",
+      "announcementDate": "10/31線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://benly.com/kyoto/kyoto-city/?weekend=1&ym=2026-11"
+        }
+      ],
+      "reason": "未讀完整官方預約規定；不可把可看建築外觀當免費內部入場。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-11",
+      "title": "首里城1月投影與琉球芸能",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "2026/1/23–26",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kkday.com/ja/product/567435"
+        }
+      ],
+      "reason": "實際讀取確認是已過期1月活動，非10月底復興祭；排除舊商品。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-12",
+      "title": "京都清水寺嵐山東寺巴士一日遊",
+      "category": "旅遊",
+      "region": "關西／京都",
+      "announcementDate": "商品初刊未標；當次頁列售罄",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kkday.com/ja/product/11855"
+        }
+      ],
+      "reason": "實際讀取為日間行程並售罄，非夜間拝觀新消息，不具今日選題時效。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "researchLeads": [
+    {
+      "id": "lead-20261031-1",
+      "title": "ALL SHIKOKU Rail Pass 12月新制",
+      "category": "交通／票券",
+      "region": "四國",
+      "announcementDate": "10/29官方；12/1發售分生效",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf"
+        }
+      ],
+      "reason": "官方PDF已讀：指定席與價格調整；第二來源原文未成功核對，不把索引與同稿當獨立查證。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-2",
+      "title": "筑波山交通實驗",
+      "category": "交通",
+      "region": "關東／茨城",
+      "announcementDate": "10/30公告線索；10/31–11/8",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://wwwdisaster.nilim.go.jp/lab/bcg/kisya/html/kisya20261030.htm"
+        }
+      ],
+      "reason": "官方原頁逾時，未核對路線、票價、取消條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-3",
+      "title": "富士山初冠雪相關報導",
+      "category": "季節情報",
+      "region": "中部／富士山",
+      "announcementDate": "10/30報導線索",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://news.livedoor.com/article/detail/32695695/"
+        }
+      ],
+      "reason": "尚未補齊氣象機關原始公告與觀測日期，不當已查證事實。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-4",
+      "title": "白色戀人公園道民企劃",
+      "category": "活動",
+      "region": "北海道",
+      "announcementDate": "10/31線索；初刊未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.shiroikoibitopark.jp/event/"
+        }
+      ],
+      "reason": "官方索引讀取未顯示完整規則；道民資格不能直接套台灣旅客。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-5",
+      "title": "九州跨縣鐵路萬聖活動",
+      "category": "活動／交通",
+      "region": "九州／福岡周邊",
+      "announcementDate": "10/31活動線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.crossroadfukuoka.jp/event/17373"
+        }
+      ],
+      "reason": "觀光局線索尚缺個別站點時刻與第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-6",
+      "title": "いずみマチ・テラス",
+      "category": "季節情報",
+      "region": "九州／鹿兒島出水",
+      "announcementDate": "10/31–11/3線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kagoshima-kankou.com/event"
+        }
+      ],
+      "reason": "僅官方活動索引，尚未取得完整場地與費用。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-7",
+      "title": "しょうざん夜間點燈",
+      "category": "季節情報",
+      "region": "關西／京都",
+      "announcementDate": "10/31–12/6線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://ja.kyoto.travel/times/night/article/single.php?id=454"
+        }
+      ],
+      "reason": "觀光文章線索，尚缺主辦原始活動頁及票種核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-8",
+      "title": "京都GRID文化活動",
+      "category": "活動",
+      "region": "關西／京都",
+      "announcementDate": "10/31線索；原始日期未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://roamkyoto.com/ja/events/?area=yamashina"
+        }
+      ],
+      "reason": "僅地區活動索引，無完整主辦交叉來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-9",
+      "title": "ガンガラー之谷マブイオト17",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "10/31–11/1線索；原始日期未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://okinawa-navi.jp/magazine/event_october/"
+        }
+      ],
+      "reason": "未查核票種、剩餘名額與交通，不當即訂商品。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-10",
+      "title": "京都現代建築祭週末開放",
+      "category": "活動",
+      "region": "關西／京都",
+      "announcementDate": "10/31線索；公告日未確認",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://benly.com/kyoto/kyoto-city/?weekend=1&ym=2026-11"
+        }
+      ],
+      "reason": "未讀完整官方預約規定；不可把可看建築外觀當免費內部入場。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-11",
+      "title": "首里城1月投影與琉球芸能",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "2026/1/23–26",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kkday.com/ja/product/567435"
+        }
+      ],
+      "reason": "實際讀取確認是已過期1月活動，非10月底復興祭；排除舊商品。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261031-12",
+      "title": "京都清水寺嵐山東寺巴士一日遊",
+      "category": "旅遊",
+      "region": "關西／京都",
+      "announcementDate": "商品初刊未標；當次頁列售罄",
+      "eventDate": "見日期線索，除已讀過期商品外尚未完全確認",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.kkday.com/ja/product/11855"
+        }
+      ],
+      "reason": "實際讀取為日間行程並售罄，非夜間拝觀新消息，不具今日選題時效。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未通過時效或完整查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成查核或已過期，不以分潤需求替代新聞品質。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "適用日期、資格與內容待查",
+        "assessedOn": "2026-10-31"
+      },
+      "socialHeat": {
+        "checkedAt": "2026-10-31T10:07:18+08:00",
+        "summary": "沒有合格本事件近期原始社群證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "東寺開幕夜後的原始貼文",
+      "next": "明天查當晚照片、精確時間及互動；排除往年紅葉照，不承諾一定能取得熱度。",
+      "sources": [
+        {
+          "label": "東寺",
+          "url": "https://toji.or.jp/exhibition/2026_autumn/"
+        }
+      ]
+    },
+    {
+      "title": "首里城11/1國際通遊行",
+      "next": "明天確認交通與天候變更、現場公開貼文；不預先宣稱如期或人潮爆滿。",
+      "sources": [
+        {
+          "label": "公園",
+          "url": "https://oki-park.jp/shurijo/events/detail/10970"
+        }
+      ]
+    },
+    {
+      "title": "四國鐵路周遊券新制",
+      "next": "補讀第二來源與外國旅客資格，分清12/1發售分和使用日；尚未完成不先推票。",
+      "sources": [
+        {
+          "label": "研究線索，非完成新聞查核",
+          "url": "https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf"
+        }
+      ]
+    },
+    {
+      "title": "紅葉預測的下一次更新",
+      "next": "未來24–72小時觀察北日本風雨後葉況，日期需依新公告；不把預測自動變實測。",
+      "sources": [
+        {
+          "label": "Weathernews",
+          "url": "https://weathernews.jp/news/202610/280211/"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-10-31T10:07:18+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 4,
+    "qualifiedTopicCount": 0,
+    "limitation": "3題合格新聞與四國周遊券線索皆補查社群；沒有達到2位不同作者、48小時內本事件原文及可核對讚與留言的題目。直接原站所得舊照、異地貼文全部排除。不把搜尋篇數或官方公告當民間熱度，不建立假低分。",
+    "platformAccess": {
+      "Threads": "直接原站東寺搜尋可見部分貼文與數字，但年份／事件不符；首里城搜尋顯示登入。紅葉與四國另做站外搜尋未取合格樣本。",
+      "X": "已做東寺站外搜尋，未取得本題近期可核對原文；本期未直接登入X。",
+      "Facebook": "已搜尋首里城復興祭，無合格近期原文",
+      "Instagram": "已搜尋東寺，無合格近期原文與互動",
+      "Dcard": "已搜尋東寺，無符合本季事件的近期完整證據",
+      "PTT": "紅葉搜尋出兩週前日光行程及非旅遊討論，時間或事件不符",
+      "TikTok": "搜尋工具回報robots限制，並回傳2年前及3.9年前東寺內容，排除",
+      "YouTube": "首里城搜尋回傳2025祭典影片，年度不符"
+    }
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-10-31\n截止：2026-10-31 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台查閱截至10:07，撰稿部署不改寫新聞時效\n共整理15個事件／商品線索，3題完成新聞交叉查核，12題排除或待核。合格候選只有3題，不足15題，精選不足10題；不將未確認線索評出假分數。依內容分數90、88、86由最優到較弱排序。無題達社群樣本門檻，因此這是編輯推薦順序，不是實測社群熱榜。\n\n【今天日本發生什麼】\n已查證：東寺今晚開始本季夜間拝觀，日夜分開入場；開幕不代表已達紅葉見頃。\n已查證：Weathernews 10/29預測高尾山11/13頃、嵐山11/23頃開始見頃，屬預測而非今天葉況。\n已查證：首里城復興祭今天有免費前導LIVE，明天免費遊行在國際通，需分清場地。\n已查證：首里城特別導覽預約及候補已截止，舊報導的招募資訊不能照單轉貼。\n編輯觀察：今天值得發的是票種、時刻、預測與觀測的差別，不能靠沒有證據的爆紅字眼。\n社群查核：直接開啟Threads，東寺搜尋混入2024舊照與其他寺院；首里城搜尋顯示登入。其餘平台未取得合格近期原始樣本，不代表沒有人討論。\n掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；完整可發題目集中京都、全國紅葉與沖繩，沒有為地區配額湊新聞。\n\n八項分數順序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值，上限20/20/15/15/10/10/5/5。星等為爆紅／收藏／分享1–5星，編輯判斷不保證觀看。\n\nTOP 1 東寺今晚開放夜間拝觀：1,000日圓，日夜票分開\n分類／地區：活動／季節情報／關西／京都東寺\n公告：東寺本季原始公布日未標；星野OMO3相關活動頁2026/9/7更新，不能視為東寺首次公告日\n事件：2026/10/31–12/13；18:00–21:30 JST，最後受付21:00\n查核與限制：東寺本季官方、京都觀光及京阪交叉確認10/31–12/13夜間拝觀。18:00開放、21:30結束、21:00最後受付；成人1000日圓、中學生以下500日圓。金堂、講堂開放，白天與夜間入替。五重塔初層特別公開屬另列日間項目，不寫成夜票包含。開幕不代表已滿山紅葉；當日葉況與臨時天候變動未確認。一般入場以現場受付資訊為準，未核實外國信用卡及事前售票方式。\n推薦及台灣相關性：適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。\n八項分數：20/19/13/14/6/10/4/4＝90/100；星等：4/5/5\n風險：低；時效：超過7天例外：今天正式開始；不是今天才公告。原始公布日尚未完全確認；生命週期：1個月以上；發布：現在發 10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.threads.com/@hideki_0447/post/DC_qcTbyE2G\",\"label\":\"東寺舊貼文\",\"reason\":\"原站顯示2024/11/30、85讚9留言；年份不符，不能當本季開幕熱度。\"},{\"url\":\"https://www.threads.com/@tatuoootuji/post/DfHGSeQmegV\",\"label\":\"搜尋回傳的其他寺院\",\"reason\":\"原站顯示18小時前、135讚7留言，但內容是仙台西方寺，事件不符。相對時間未換算成確定發布時刻。\"}],\"queries\":[\"site:threads.com 東寺 2026 10\",\"site:x.com 東寺 2026 10月31日\",\"site:instagram.com 東寺 2026 10月\",\"site:dcard.tw 東寺 2026\",\"site:tiktok.com 東寺 紅葉 2026\",\"Threads原站搜尋：東寺\"]}\n分潤：{\"level\":\"中\",\"reason\":\"可自然接京都住宿與夜間路線，但夜間拝觀本身現場付費即可；不是所有讀者都需要額外買行程。\",\"products\":[\"東寺／京都站周邊住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果還沒決定京都住哪裡，可以把東寺夜間拝觀和回飯店路線一起比較。下方是住宿參考，房費不等於包含拝觀費。\",\"checks\":\"確認住宿位置與實際日期空房；日夜入替、夜票內容及臨時公告另查。\",\"assessedOn\":\"2026-10-31\"}\n來源：[東寺本季官方](https://toji.or.jp/exhibition/2026_autumn/) [京都市觀光協會](https://ja.kyoto.travel/event/single.php?event_id=5098&title=ja.kyoto.travel) [京阪活動資訊](https://www.keihan.co.jp/momiji/kyoto/spot/toji.html) [9/7更新的飯店相關活動，非一般入場規則](https://hoshinoresorts.com/ja/hotels/omo3kyototoji/sp/lightup/)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"東寺周邊住宿\",\"url\":\"https://jp.trip.com/hotels/kyoto-toji/hotels-c734m20634965/\",\"kind\":\"住宿列表\",\"reason\":\"適合比較東寺夜遊後回住宿路線；列表不保證每間步行可達。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都東寺附近飯店\",\"url\":\"https://www.booking.com/landmark/jp/to-ji.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"已核對為京都東寺，住宿與入場費分開。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀京都一日遊11855但顯示售罄，且日間行程不等於夜間拝觀；HALE京都東寺288046乾淨商品頁讀取失敗，不推薦。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋回傳夜遊／櫻花文章與其他寺院票，未取得本季東寺夜間適用商品，不硬推。\",\"pages\":[]}]\n\nTOP 2 紅葉新預測：高尾山11月13日、嵐山11月23日頃開始見頃\n分類／地區：季節情報／全日本／重點關東高尾山、關西嵐山\n公告：Weathernews 2026/10/29 13:00 JST；Travel Voice 10/30報導\n事件：預測高尾山11/13頃、嵐山11/23頃開始見頃；不是活動或保證日期\n查核與限制：已讀Weathernews 10/29 13:00原文與Travel Voice 10/30第三回報導。原文預測高尾山11/13頃、嵐山11/23頃開始見頃，北海道進入紅葉季後半。這些是預測，不是最佳日保證、也不是今天現場觀測。Weathernews見頃定義約七成變色起至落葉開始，不代表某一天全紅。氣溫、風雨可改變進度，預訂需保留彈性。\n推薦及台灣相關性：11月赴日旅客最需要分清當下葉況與未來預測，可分享給同行者調整彈性行程；涵蓋北日本至關西，不只單一景點。\n八項分數：18/20/13/15/5/8/4/5＝88/100；星等：4/5/5\n風險：中；時效：48小時：距10/29 13:00 JST約46小時；生命週期：1週；發布：晚上發 10/31 19:30 Asia/Taipei（編輯建議）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.ptt.cc/bbs/Japan_Travel/M.1792252538.A.7DF.html\",\"label\":\"PTT日光紅葉行程\",\"reason\":\"搜尋索引為兩週前行程問題；不是本次10/29第三回預測的48小時內討論，不計分。\"}],\"queries\":[\"site:threads.com 日本 紅葉 2026 10 30\",\"site:threads.com 紅葉 2026 10月30\",\"site:ptt.cc 2026 紅葉 10\"]}\n分潤：{\"level\":\"中\",\"reason\":\"仍有11月住宿安排需求，但預測本身不是可購買商品；先確認目的地與可退改條件再接訂房。\",\"products\":[\"嵐山／京都住宿\",\"依目的地另查交通與賞楓行程\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"日期還有彈性的人，可以先比較住宿位置與退改條件，再配合出發前葉況調整。這份預測不保證指定日一定全紅。\",\"checks\":\"預測不保證紅葉；確認交通、實際住宿日期、取消期限與庫存，別把全日本預測套用單一行程商品。\",\"assessedOn\":\"2026-10-31\"}\n來源：[Weathernews原始預測](https://weathernews.jp/news/202610/280211/) [Travel Voice第三回報導](https://www.travelvoice.jp/20261030-160765)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都嵐山周邊住宿\",\"url\":\"https://jp.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/\",\"kind\":\"住宿列表\",\"reason\":\"只對應本題嵐山段落；部分列表飯店較遠，另查路程。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都嵐山地區住宿\",\"url\":\"https://www.booking.com/district/jp/kyoto/arashiyama.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"可比較嵐山基地；不保證11/23空房或當日葉況。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀含嵐山的京都日遊11855，頁列售罄；不當可預訂紅葉行程。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已搜尋嵐山紅葉2026行程，回傳舊交通PDF與不相關結果，未有完成日期核對的商品。\",\"pages\":[]}]\n\nTOP 3 首里城復興祭今天有免費前導演出，明天國際通遊行\n分類／地區：活動／旅遊／沖繩／那霸首里城公園、國際通\n公告：公園官方頁2026/10/19；沖繩Navi 10/30報導（不是首次公告）\n事件：10/31前導LIVE 13:30–16:00；11/1–3本祭；11/1國際通遊行12:30–15:00 JST\n查核與限制：官方與沖繩Navi確認10/31 13:30–16:00 SYURI NO UTA特別LIVE在首里杜館芝生廣場，觀覽免費；11/1 12:30–15:00琉球王朝繪卷行列在那霸國際通，觀覽免費。主祭11/1–3。官方特別導覽預約與候補均截止；部分項目需付費區入場，不能寫整個公園都免費。本祭不是正殿內部開放公告。參加遊行招募亦已截止，較舊媒體仍提追加招募，以官方最新受付終了為準。\n推薦及台灣相關性：已在沖繩的台灣旅客今天就能安排，免費演出與明天不同地點的遊行有實用分享價值；臨時跨國赴日規劃時間不足。\n八項分數：20/17/12/13/8/9/4/3＝86/100；星等：4/4/5\n風險：低；時效：超過7天例外：10/19公告，今天前導活動、明天本祭開始；生命週期：3天；發布：現在發 10/31查核完成後立即 Asia/Taipei（編輯建議，活動日本13:30開始）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.threads.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E5%BE%A9%E8%88%88%E7%A5%AD\",\"label\":\"Threads原站搜尋\",\"reason\":\"直接開啟顯示使用Instagram帳號繼續登入，未取得原文。\"},{\"url\":\"https://www.youtube.com/watch?v=32QIsQraArA\",\"label\":\"YouTube沖繩電視搜尋線索\",\"reason\":\"2025/10/27內容，年度不符；不把搜尋摘要互動數當本期證據。\"}],\"queries\":[\"site:threads.com 首里城 復興祭\",\"site:facebook.com 首里城 復興祭 2026\",\"site:youtube.com 首里城 復興祭 2026 10\",\"Threads原站搜尋：首里城復興祭\"]}\n分潤：{\"level\":\"低\",\"reason\":\"今天及明天的免費活動面向已在沖繩者，多數已訂好住宿；沒有購買祭典門票需求，不硬推付費區票。\",\"products\":[\"確有住宿需求者可比較國際通周邊飯店\"],\"platforms\":[\"Trip.com\"],\"commentOpening\":\"若你本來就需要在那霸多住一晚，可另外比較國際通附近住宿。免費觀覽活動不需要因這則貼文另買祭典門票。\",\"checks\":\"住宿不含活動、不是祭典必買商品；付費區入場券不等於免費遊行或已截止導覽。\",\"assessedOn\":\"2026-10-31\"}\n來源：[首里城公園官方活動](https://oki-park.jp/shurijo/events/detail/10970) [沖繩Navi交叉報導](https://okinawa-navi.jp/magazine/syuricastle_event/)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"那霸國際通附近住宿\",\"url\":\"https://jp.trip.com/hotels/naha-kokusaidori-street/hotels-c92573m8170213/\",\"kind\":\"住宿列表\",\"reason\":\"僅供原本需要那霸住宿者比較，不代表觀看遊行需訂房。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"首里城地標住宿頁開啟遇JavaScript／機器人檢查，未核對列表，不推薦。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已讀567435，為2026/1/23–26投影與琉球芸能，日期與本次復興祭不同，排除。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀87083首里城付費區票；不是免費LIVE或國際通遊行門票，也不包含已截止特別導覽，本題不推薦購買。\",\"pages\":[]}]\n\n【12個未入選線索】\n4. ALL SHIKOKU Rail Pass 12月新制｜交通／票券｜四國｜10/29官方；12/1發售分生效｜官方PDF已讀：指定席與價格調整；第二來源原文未成功核對，不把索引與同稿當獨立查證。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf)\n5. 筑波山交通實驗｜交通｜關東／茨城｜10/30公告線索；10/31–11/8｜官方原頁逾時，未核對路線、票價、取消條件。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://wwwdisaster.nilim.go.jp/lab/bcg/kisya/html/kisya20261030.htm)\n6. 富士山初冠雪相關報導｜季節情報｜中部／富士山｜10/30報導線索｜尚未補齊氣象機關原始公告與觀測日期，不當已查證事實。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://news.livedoor.com/article/detail/32695695/)\n7. 白色戀人公園道民企劃｜活動｜北海道｜10/31線索；初刊未確認｜官方索引讀取未顯示完整規則；道民資格不能直接套台灣旅客。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.shiroikoibitopark.jp/event/)\n8. 九州跨縣鐵路萬聖活動｜活動／交通｜九州／福岡周邊｜10/31活動線索；公告日未確認｜觀光局線索尚缺個別站點時刻與第二來源。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.crossroadfukuoka.jp/event/17373)\n9. いずみマチ・テラス｜季節情報｜九州／鹿兒島出水｜10/31–11/3線索；公告日未確認｜僅官方活動索引，尚未取得完整場地與費用。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kagoshima-kankou.com/event)\n10. しょうざん夜間點燈｜季節情報｜關西／京都｜10/31–12/6線索；公告日未確認｜觀光文章線索，尚缺主辦原始活動頁及票種核對。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://ja.kyoto.travel/times/night/article/single.php?id=454)\n11. 京都GRID文化活動｜活動｜關西／京都｜10/31線索；原始日期未確認｜僅地區活動索引，無完整主辦交叉來源。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://roamkyoto.com/ja/events/?area=yamashina)\n12. ガンガラー之谷マブイオト17｜活動｜沖繩｜10/31–11/1線索；原始日期未確認｜未查核票種、剩餘名額與交通，不當即訂商品。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://okinawa-navi.jp/magazine/event_october/)\n13. 京都現代建築祭週末開放｜活動｜關西／京都｜10/31線索；公告日未確認｜未讀完整官方預約規定；不可把可看建築外觀當免費內部入場。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://benly.com/kyoto/kyoto-city/?weekend=1&ym=2026-11)\n14. 首里城1月投影與琉球芸能｜活動｜沖繩｜2026/1/23–26｜實際讀取確認是已過期1月活動，非10月底復興祭；排除舊商品。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kkday.com/ja/product/567435)\n15. 京都清水寺嵐山東寺巴士一日遊｜旅遊｜關西／京都｜商品初刊未標；當次頁列售罄｜實際讀取為日間行程並售罄，非夜間拝觀新消息，不具今日選題時效。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kkday.com/ja/product/11855)\n\n【編輯推薦】\n{\"id\":\"toji-autumn-night-20261031\",\"title\":\"東寺今晚開放夜間拝觀：1,000日圓，日夜票分開\",\"score\":90,\"reason\":\"適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。\",\"versusSecond\":\"東寺今天正式開始，夜間費用及入場時刻能立即採取行動；紅葉預測仍需後續觀測更新。僅推薦標籤，不替使用者選題。\",\"publishAt\":\"10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\"audience\":\"正在京都或規劃11月京都行程的台灣旅客\",\"angle\":\"夜間票種與最後受付；開幕不是見頃\",\"lifecycle\":\"1個月以上\"}\n\n【社群方法與限制】\n{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":4,\"qualifiedTopicCount\":0,\"limitation\":\"3題合格新聞與四國周遊券線索皆補查社群；沒有達到2位不同作者、48小時內本事件原文及可核對讚與留言的題目。直接原站所得舊照、異地貼文全部排除。不把搜尋篇數或官方公告當民間熱度，不建立假低分。\",\"platformAccess\":{\"Threads\":\"直接原站東寺搜尋可見部分貼文與數字，但年份／事件不符；首里城搜尋顯示登入。紅葉與四國另做站外搜尋未取合格樣本。\",\"X\":\"已做東寺站外搜尋，未取得本題近期可核對原文；本期未直接登入X。\",\"Facebook\":\"已搜尋首里城復興祭，無合格近期原文\",\"Instagram\":\"已搜尋東寺，無合格近期原文與互動\",\"Dcard\":\"已搜尋東寺，無符合本季事件的近期完整證據\",\"PTT\":\"紅葉搜尋出兩週前日光行程及非旅遊討論，時間或事件不符\",\"TikTok\":\"搜尋工具回報robots限制，並回傳2年前及3.9年前東寺內容，排除\",\"YouTube\":\"首里城搜尋回傳2025祭典影片，年度不符\"}}\n\n【明天追蹤】\n[{\"title\":\"東寺開幕夜後的原始貼文\",\"next\":\"明天查當晚照片、精確時間及互動；排除往年紅葉照，不承諾一定能取得熱度。\",\"sources\":[{\"label\":\"東寺\",\"url\":\"https://toji.or.jp/exhibition/2026_autumn/\"}]},{\"title\":\"首里城11/1國際通遊行\",\"next\":\"明天確認交通與天候變更、現場公開貼文；不預先宣稱如期或人潮爆滿。\",\"sources\":[{\"label\":\"公園\",\"url\":\"https://oki-park.jp/shurijo/events/detail/10970\"}]},{\"title\":\"四國鐵路周遊券新制\",\"next\":\"補讀第二來源與外國旅客資格，分清12/1發售分和使用日；尚未完成不先推票。\",\"sources\":[{\"label\":\"研究線索，非完成新聞查核\",\"url\":\"https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf\"}]},{\"title\":\"紅葉預測的下一次更新\",\"next\":\"未來24–72小時觀察北日本風雨後葉況，日期需依新公告；不把預測自動變實測。\",\"sources\":[{\"label\":\"Weathernews\",\"url\":\"https://weathernews.jp/news/202610/280211/\"}]}]",
+  "fullText": "日本每日內容雷達\n日期：2026-10-31\n截止：2026-10-31 10:07 Asia/Taipei（日本11:07 Asia/Tokyo）；平台查閱截至10:07，撰稿部署不改寫新聞時效\n共整理15個事件／商品線索，3題完成新聞交叉查核，12題排除或待核。合格候選只有3題，不足15題，精選不足10題；不將未確認線索評出假分數。依內容分數90、88、86由最優到較弱排序。無題達社群樣本門檻，因此這是編輯推薦順序，不是實測社群熱榜。\n\n【今天日本發生什麼】\n已查證：東寺今晚開始本季夜間拝觀，日夜分開入場；開幕不代表已達紅葉見頃。\n已查證：Weathernews 10/29預測高尾山11/13頃、嵐山11/23頃開始見頃，屬預測而非今天葉況。\n已查證：首里城復興祭今天有免費前導LIVE，明天免費遊行在國際通，需分清場地。\n已查證：首里城特別導覽預約及候補已截止，舊報導的招募資訊不能照單轉貼。\n編輯觀察：今天值得發的是票種、時刻、預測與觀測的差別，不能靠沒有證據的爆紅字眼。\n社群查核：直接開啟Threads，東寺搜尋混入2024舊照與其他寺院；首里城搜尋顯示登入。其餘平台未取得合格近期原始樣本，不代表沒有人討論。\n掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩；完整可發題目集中京都、全國紅葉與沖繩，沒有為地區配額湊新聞。\n\n八項分數順序：即時性／台灣旅客相關性／社群討論潛力／實用性／稀缺性／視覺吸引力／標題吸引力／延伸內容價值，上限20/20/15/15/10/10/5/5。星等為爆紅／收藏／分享1–5星，編輯判斷不保證觀看。\n\nTOP 1 東寺今晚開放夜間拝觀：1,000日圓，日夜票分開\n分類／地區：活動／季節情報／關西／京都東寺\n公告：東寺本季原始公布日未標；星野OMO3相關活動頁2026/9/7更新，不能視為東寺首次公告日\n事件：2026/10/31–12/13；18:00–21:30 JST，最後受付21:00\n查核與限制：東寺本季官方、京都觀光及京阪交叉確認10/31–12/13夜間拝觀。18:00開放、21:30結束、21:00最後受付；成人1000日圓、中學生以下500日圓。金堂、講堂開放，白天與夜間入替。五重塔初層特別公開屬另列日間項目，不寫成夜票包含。開幕不代表已滿山紅葉；當日葉況與臨時天候變動未確認。一般入場以現場受付資訊為準，未核實外國信用卡及事前售票方式。\n推薦及台灣相關性：適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。\n八項分數：20/19/13/14/6/10/4/4＝90/100；星等：4/5/5\n風險：低；時效：超過7天例外：今天正式開始；不是今天才公告。原始公布日尚未完全確認；生命週期：1個月以上；發布：現在發 10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.threads.com/@hideki_0447/post/DC_qcTbyE2G\",\"label\":\"東寺舊貼文\",\"reason\":\"原站顯示2024/11/30、85讚9留言；年份不符，不能當本季開幕熱度。\"},{\"url\":\"https://www.threads.com/@tatuoootuji/post/DfHGSeQmegV\",\"label\":\"搜尋回傳的其他寺院\",\"reason\":\"原站顯示18小時前、135讚7留言，但內容是仙台西方寺，事件不符。相對時間未換算成確定發布時刻。\"}],\"queries\":[\"site:threads.com 東寺 2026 10\",\"site:x.com 東寺 2026 10月31日\",\"site:instagram.com 東寺 2026 10月\",\"site:dcard.tw 東寺 2026\",\"site:tiktok.com 東寺 紅葉 2026\",\"Threads原站搜尋：東寺\"]}\n分潤：{\"level\":\"中\",\"reason\":\"可自然接京都住宿與夜間路線，但夜間拝觀本身現場付費即可；不是所有讀者都需要額外買行程。\",\"products\":[\"東寺／京都站周邊住宿\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"如果還沒決定京都住哪裡，可以把東寺夜間拝觀和回飯店路線一起比較。下方是住宿參考，房費不等於包含拝觀費。\",\"checks\":\"確認住宿位置與實際日期空房；日夜入替、夜票內容及臨時公告另查。\",\"assessedOn\":\"2026-10-31\"}\n來源：[東寺本季官方](https://toji.or.jp/exhibition/2026_autumn/) [京都市觀光協會](https://ja.kyoto.travel/event/single.php?event_id=5098&title=ja.kyoto.travel) [京阪活動資訊](https://www.keihan.co.jp/momiji/kyoto/spot/toji.html) [9/7更新的飯店相關活動，非一般入場規則](https://hoshinoresorts.com/ja/hotels/omo3kyototoji/sp/lightup/)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"東寺周邊住宿\",\"url\":\"https://jp.trip.com/hotels/kyoto-toji/hotels-c734m20634965/\",\"kind\":\"住宿列表\",\"reason\":\"適合比較東寺夜遊後回住宿路線；列表不保證每間步行可達。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都東寺附近飯店\",\"url\":\"https://www.booking.com/landmark/jp/to-ji.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"已核對為京都東寺，住宿與入場費分開。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀京都一日遊11855但顯示售罄，且日間行程不等於夜間拝觀；HALE京都東寺288046乾淨商品頁讀取失敗，不推薦。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"搜尋回傳夜遊／櫻花文章與其他寺院票，未取得本季東寺夜間適用商品，不硬推。\",\"pages\":[]}]\n\nTOP 2 紅葉新預測：高尾山11月13日、嵐山11月23日頃開始見頃\n分類／地區：季節情報／全日本／重點關東高尾山、關西嵐山\n公告：Weathernews 2026/10/29 13:00 JST；Travel Voice 10/30報導\n事件：預測高尾山11/13頃、嵐山11/23頃開始見頃；不是活動或保證日期\n查核與限制：已讀Weathernews 10/29 13:00原文與Travel Voice 10/30第三回報導。原文預測高尾山11/13頃、嵐山11/23頃開始見頃，北海道進入紅葉季後半。這些是預測，不是最佳日保證、也不是今天現場觀測。Weathernews見頃定義約七成變色起至落葉開始，不代表某一天全紅。氣溫、風雨可改變進度，預訂需保留彈性。\n推薦及台灣相關性：11月赴日旅客最需要分清當下葉況與未來預測，可分享給同行者調整彈性行程；涵蓋北日本至關西，不只單一景點。\n八項分數：18/20/13/15/5/8/4/5＝88/100；星等：4/5/5\n風險：中；時效：48小時：距10/29 13:00 JST約46小時；生命週期：1週；發布：晚上發 10/31 19:30 Asia/Taipei（編輯建議）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.ptt.cc/bbs/Japan_Travel/M.1792252538.A.7DF.html\",\"label\":\"PTT日光紅葉行程\",\"reason\":\"搜尋索引為兩週前行程問題；不是本次10/29第三回預測的48小時內討論，不計分。\"}],\"queries\":[\"site:threads.com 日本 紅葉 2026 10 30\",\"site:threads.com 紅葉 2026 10月30\",\"site:ptt.cc 2026 紅葉 10\"]}\n分潤：{\"level\":\"中\",\"reason\":\"仍有11月住宿安排需求，但預測本身不是可購買商品；先確認目的地與可退改條件再接訂房。\",\"products\":[\"嵐山／京都住宿\",\"依目的地另查交通與賞楓行程\"],\"platforms\":[\"Trip.com\",\"Booking.com\"],\"commentOpening\":\"日期還有彈性的人，可以先比較住宿位置與退改條件，再配合出發前葉況調整。這份預測不保證指定日一定全紅。\",\"checks\":\"預測不保證紅葉；確認交通、實際住宿日期、取消期限與庫存，別把全日本預測套用單一行程商品。\",\"assessedOn\":\"2026-10-31\"}\n來源：[Weathernews原始預測](https://weathernews.jp/news/202610/280211/) [Travel Voice第三回報導](https://www.travelvoice.jp/20261030-160765)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都嵐山周邊住宿\",\"url\":\"https://jp.trip.com/hotels/kyoto-arashiyama/hotels-c734m6790061/\",\"kind\":\"住宿列表\",\"reason\":\"只對應本題嵐山段落；部分列表飯店較遠，另查路程。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"京都嵐山地區住宿\",\"url\":\"https://www.booking.com/district/jp/kyoto/arashiyama.ja.html\",\"kind\":\"住宿列表\",\"reason\":\"可比較嵐山基地；不保證11/23空房或當日葉況。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"kkday\",\"note\":\"已讀含嵐山的京都日遊11855，頁列售罄；不當可預訂紅葉行程。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已搜尋嵐山紅葉2026行程，回傳舊交通PDF與不相關結果，未有完成日期核對的商品。\",\"pages\":[]}]\n\nTOP 3 首里城復興祭今天有免費前導演出，明天國際通遊行\n分類／地區：活動／旅遊／沖繩／那霸首里城公園、國際通\n公告：公園官方頁2026/10/19；沖繩Navi 10/30報導（不是首次公告）\n事件：10/31前導LIVE 13:30–16:00；11/1–3本祭；11/1國際通遊行12:30–15:00 JST\n查核與限制：官方與沖繩Navi確認10/31 13:30–16:00 SYURI NO UTA特別LIVE在首里杜館芝生廣場，觀覽免費；11/1 12:30–15:00琉球王朝繪卷行列在那霸國際通，觀覽免費。主祭11/1–3。官方特別導覽預約與候補均截止；部分項目需付費區入場，不能寫整個公園都免費。本祭不是正殿內部開放公告。參加遊行招募亦已截止，較舊媒體仍提追加招募，以官方最新受付終了為準。\n推薦及台灣相關性：已在沖繩的台灣旅客今天就能安排，免費演出與明天不同地點的遊行有實用分享價值；臨時跨國赴日規劃時間不足。\n八項分數：20/17/12/13/8/9/4/3＝86/100；星等：4/4/5\n風險：低；時效：超過7天例外：10/19公告，今天前導活動、明天本祭開始；生命週期：3天；發布：現在發 10/31查核完成後立即 Asia/Taipei（編輯建議，活動日本13:30開始）\n社群：{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"summary\":\"熱度未確認；沒有取得兩位不同作者、最近48小時本事件原文及可核對讚數與留言數。星等與內容分數是編輯判斷。\",\"evidence\":[],\"leads\":[{\"url\":\"https://www.threads.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E5%BE%A9%E8%88%88%E7%A5%AD\",\"label\":\"Threads原站搜尋\",\"reason\":\"直接開啟顯示使用Instagram帳號繼續登入，未取得原文。\"},{\"url\":\"https://www.youtube.com/watch?v=32QIsQraArA\",\"label\":\"YouTube沖繩電視搜尋線索\",\"reason\":\"2025/10/27內容，年度不符；不把搜尋摘要互動數當本期證據。\"}],\"queries\":[\"site:threads.com 首里城 復興祭\",\"site:facebook.com 首里城 復興祭 2026\",\"site:youtube.com 首里城 復興祭 2026 10\",\"Threads原站搜尋：首里城復興祭\"]}\n分潤：{\"level\":\"低\",\"reason\":\"今天及明天的免費活動面向已在沖繩者，多數已訂好住宿；沒有購買祭典門票需求，不硬推付費區票。\",\"products\":[\"確有住宿需求者可比較國際通周邊飯店\"],\"platforms\":[\"Trip.com\"],\"commentOpening\":\"若你本來就需要在那霸多住一晚，可另外比較國際通附近住宿。免費觀覽活動不需要因這則貼文另買祭典門票。\",\"checks\":\"住宿不含活動、不是祭典必買商品；付費區入場券不等於免費遊行或已截止導覽。\",\"assessedOn\":\"2026-10-31\"}\n來源：[首里城公園官方活動](https://oki-park.jp/shurijo/events/detail/10970) [沖繩Navi交叉報導](https://okinawa-navi.jp/magazine/syuricastle_event/)\n平台頁及排除原因：[{\"platform\":\"trip\",\"note\":\"已開啟核對地區；不是活動票券，未確認空房或佣金。\",\"pages\":[{\"title\":\"那霸國際通附近住宿\",\"url\":\"https://jp.trip.com/hotels/naha-kokusaidori-street/hotels-c92573m8170213/\",\"kind\":\"住宿列表\",\"reason\":\"僅供原本需要那霸住宿者比較，不代表觀看遊行需訂房。\",\"checks\":\"自行輸入住宿日期，確認位置、交通、取消規定與庫存；住宿不含活動入場，不保證最低價格或分潤資格。\",\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"verified\":true}]},{\"platform\":\"booking\",\"note\":\"首里城地標住宿頁開啟遇JavaScript／機器人檢查，未核對列表，不推薦。\",\"pages\":[]},{\"platform\":\"kkday\",\"note\":\"已讀567435，為2026/1/23–26投影與琉球芸能，日期與本次復興祭不同，排除。\",\"pages\":[]},{\"platform\":\"klook\",\"note\":\"已讀87083首里城付費區票；不是免費LIVE或國際通遊行門票，也不包含已截止特別導覽，本題不推薦購買。\",\"pages\":[]}]\n\n【12個未入選線索】\n4. ALL SHIKOKU Rail Pass 12月新制｜交通／票券｜四國｜10/29官方；12/1發售分生效｜官方PDF已讀：指定席與價格調整；第二來源原文未成功核對，不把索引與同稿當獨立查證。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf)\n5. 筑波山交通實驗｜交通｜關東／茨城｜10/30公告線索；10/31–11/8｜官方原頁逾時，未核對路線、票價、取消條件。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://wwwdisaster.nilim.go.jp/lab/bcg/kisya/html/kisya20261030.htm)\n6. 富士山初冠雪相關報導｜季節情報｜中部／富士山｜10/30報導線索｜尚未補齊氣象機關原始公告與觀測日期，不當已查證事實。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://news.livedoor.com/article/detail/32695695/)\n7. 白色戀人公園道民企劃｜活動｜北海道｜10/31線索；初刊未確認｜官方索引讀取未顯示完整規則；道民資格不能直接套台灣旅客。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.shiroikoibitopark.jp/event/)\n8. 九州跨縣鐵路萬聖活動｜活動／交通｜九州／福岡周邊｜10/31活動線索；公告日未確認｜觀光局線索尚缺個別站點時刻與第二來源。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.crossroadfukuoka.jp/event/17373)\n9. いずみマチ・テラス｜季節情報｜九州／鹿兒島出水｜10/31–11/3線索；公告日未確認｜僅官方活動索引，尚未取得完整場地與費用。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kagoshima-kankou.com/event)\n10. しょうざん夜間點燈｜季節情報｜關西／京都｜10/31–12/6線索；公告日未確認｜觀光文章線索，尚缺主辦原始活動頁及票種核對。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://ja.kyoto.travel/times/night/article/single.php?id=454)\n11. 京都GRID文化活動｜活動｜關西／京都｜10/31線索；原始日期未確認｜僅地區活動索引，無完整主辦交叉來源。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://roamkyoto.com/ja/events/?area=yamashina)\n12. ガンガラー之谷マブイオト17｜活動｜沖繩｜10/31–11/1線索；原始日期未確認｜未查核票種、剩餘名額與交通，不當即訂商品。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://okinawa-navi.jp/magazine/event_october/)\n13. 京都現代建築祭週末開放｜活動｜關西／京都｜10/31線索；公告日未確認｜未讀完整官方預約規定；不可把可看建築外觀當免費內部入場。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://benly.com/kyoto/kyoto-city/?weekend=1&ym=2026-11)\n14. 首里城1月投影與琉球芸能｜活動｜沖繩｜2026/1/23–26｜實際讀取確認是已過期1月活動，非10月底復興祭；排除舊商品。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kkday.com/ja/product/567435)\n15. 京都清水寺嵐山東寺巴士一日遊｜旅遊｜關西／京都｜商品初刊未標；當次頁列售罄｜實際讀取為日間行程並售罄，非夜間拝觀新消息，不具今日選題時效。｜八項及總分、星等、風險、生命週期、分潤未評估；先收藏觀察；熱度未確認。[研究線索，非完成新聞查核](https://www.kkday.com/ja/product/11855)\n\n【編輯推薦】\n{\"id\":\"toji-autumn-night-20261031\",\"title\":\"東寺今晚開放夜間拝觀：1,000日圓，日夜票分開\",\"score\":90,\"reason\":\"適合正在京都或規劃11月京都的台灣旅客；開幕日加上日夜票與最後受付辨識，能直接改善晚間行程安排。\",\"versusSecond\":\"東寺今天正式開始，夜間費用及入場時刻能立即採取行動；紅葉預測仍需後續觀測更新。僅推薦標籤，不替使用者選題。\",\"publishAt\":\"10/31 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\"audience\":\"正在京都或規劃11月京都行程的台灣旅客\",\"angle\":\"夜間票種與最後受付；開幕不是見頃\",\"lifecycle\":\"1個月以上\"}\n\n【社群方法與限制】\n{\"checkedAt\":\"2026-10-31T10:07:18+08:00\",\"windowHours\":48,\"methodVersion\":\"public-sample-v1\",\"searchedTopicCount\":4,\"qualifiedTopicCount\":0,\"limitation\":\"3題合格新聞與四國周遊券線索皆補查社群；沒有達到2位不同作者、48小時內本事件原文及可核對讚與留言的題目。直接原站所得舊照、異地貼文全部排除。不把搜尋篇數或官方公告當民間熱度，不建立假低分。\",\"platformAccess\":{\"Threads\":\"直接原站東寺搜尋可見部分貼文與數字，但年份／事件不符；首里城搜尋顯示登入。紅葉與四國另做站外搜尋未取合格樣本。\",\"X\":\"已做東寺站外搜尋，未取得本題近期可核對原文；本期未直接登入X。\",\"Facebook\":\"已搜尋首里城復興祭，無合格近期原文\",\"Instagram\":\"已搜尋東寺，無合格近期原文與互動\",\"Dcard\":\"已搜尋東寺，無符合本季事件的近期完整證據\",\"PTT\":\"紅葉搜尋出兩週前日光行程及非旅遊討論，時間或事件不符\",\"TikTok\":\"搜尋工具回報robots限制，並回傳2年前及3.9年前東寺內容，排除\",\"YouTube\":\"首里城搜尋回傳2025祭典影片，年度不符\"}}\n\n【明天追蹤】\n[{\"title\":\"東寺開幕夜後的原始貼文\",\"next\":\"明天查當晚照片、精確時間及互動；排除往年紅葉照，不承諾一定能取得熱度。\",\"sources\":[{\"label\":\"東寺\",\"url\":\"https://toji.or.jp/exhibition/2026_autumn/\"}]},{\"title\":\"首里城11/1國際通遊行\",\"next\":\"明天確認交通與天候變更、現場公開貼文；不預先宣稱如期或人潮爆滿。\",\"sources\":[{\"label\":\"公園\",\"url\":\"https://oki-park.jp/shurijo/events/detail/10970\"}]},{\"title\":\"四國鐵路周遊券新制\",\"next\":\"補讀第二來源與外國旅客資格，分清12/1發售分和使用日；尚未完成不先推票。\",\"sources\":[{\"label\":\"研究線索，非完成新聞查核\",\"url\":\"https://www.jr-shikoku.co.jp/03_news/press/assets/2026/10/29/20261029%2001.pdf\"}]},{\"title\":\"紅葉預測的下一次更新\",\"next\":\"未來24–72小時觀察北日本風雨後葉況，日期需依新公告；不把預測自動變實測。\",\"sources\":[{\"label\":\"Weathernews\",\"url\":\"https://weathernews.jp/news/202610/280211/\"}]}]\n\n【各題串文，選題後展開】\n東寺今晚開放夜間拝觀：1,000日圓，日夜票分開\n1/3\n京都東寺今晚10月31日開始夜間拝觀，成人1,000日圓。但白天、晚上是分開入場，別以為白天逛完就能一路留到點燈。\n\n本季到12月13日，夜間開放日本時間18:00–21:30，最後受付是21:00。想接在晚餐後，請用最後受付時間倒推路程。\n\n2/3\n夜間可以看點燈庭園，也開放金堂、講堂。中學生以下500日圓；五重塔初層特別公開則是官方另外列出的日間項目，不要把夜票當成包含塔內參觀。\n\n從近鐵東寺站步行約10分鐘，京都站八條口約15分鐘。先想好晚餐與回住宿的方向，再決定走哪一條路。\n\n3/3\n今天是夜間活動開幕，不代表楓葉已經全紅。若你的重點是紅葉顏色，出發前再查當地葉況；想看建築、倒影與夜間氛圍，則先核對本季時間和票價。\n\n一般入場請依現場受付安排；這次沒有確認可用外國信用卡或事前購票方式，付款方式可先向寺方確認。\n官方：https://toji.or.jp/exhibition/2026_autumn/\n切角與開頭：[{\"name\":\"今晚新行程\",\"opening\":\"東寺今晚開始夜間拝觀，成人1,000日圓。\"},{\"name\":\"票種避錯\",\"opening\":\"白天逛東寺，不代表可以直接留到夜間點燈。\"},{\"name\":\"時間安排\",\"opening\":\"東寺夜間21:30結束，但最後受付是21:00。\"},{\"name\":\"內容辨識\",\"opening\":\"東寺夜票能看金堂、講堂，別直接當成含五重塔內參觀。\"},{\"name\":\"紅葉判讀\",\"opening\":\"點燈開幕日，不等於楓葉見頃日。\"}]\n圖片：[{\"description\":\"東寺本季主視覺、夜間費用與日夜入替說明；宣傳照片不當今天葉況，商用授權未核實。\",\"url\":\"https://toji.or.jp/exhibition/2026_autumn/\"}]\n延伸：可延伸商業內容：京都站／東寺周邊住宿與夜間散步路線；飯店房價不含拝觀，商品連結僅放獨立留言。\n\n紅葉新預測：高尾山11月13日、嵐山11月23日頃開始見頃\n1/3\n11月去日本賞楓，先把「開始見頃」和「那天一定最紅」分開。\n\nWeathernews在10月29日公布的預測是：高尾山約11月13日、京都嵐山約11月23日開始進入見頃。這是旅行規劃參考，不是對指定日期的保證。\n\n2/3\n這次資訊對行程最有用的地方，是提醒大家不要把不同高度、不同地區排成同一個紅葉時間。\n\n北海道已進入紅葉季後半；高尾山、嵐山則還有往後的預測日期。Weathernews所說的見頃，是景點約七成變色起、到落葉開始這段期間，並不是只有一天能看。\n\n3/3\n已訂好機票的人，可以把賞楓日留一點彈性，出發前再核對目的地近期照片、葉況與天氣；還在訂房的人，先看取消期限，不必只為一個預測日期買下不能改的安排。\n\n氣溫和風雨都可能改變進度。這份整理採10月29日發布的預測，不把它寫成10月31日實測。\n原始預測：https://weathernews.jp/news/202610/280211/\n切角與開頭：[{\"name\":\"預測日期\",\"opening\":\"高尾山約11月13日、嵐山約11月23日開始見頃：先記得這是預測。\"},{\"name\":\"名詞辨識\",\"opening\":\"紅葉見頃不是某一天保證全紅。\"},{\"name\":\"行程彈性\",\"opening\":\"機票已訂好，賞楓日期仍可以留一點調整空間。\"},{\"name\":\"區域比較\",\"opening\":\"北海道紅葉季後半，和11月京都不是同一個節奏。\"},{\"name\":\"訂房判斷\",\"opening\":\"照賞楓預測訂房前，先看取消期限。\"}]\n圖片：[{\"description\":\"Weathernews本次預測圖；保留10/29發布日與預測字樣，商用轉載權未確認，可自製引用來源的日期比較表。\",\"url\":\"https://weathernews.jp/news/202610/280211/\"}]\n延伸：可延伸商業內容：京都住宿取消條件、嵐山交通與賞楓路線；不保證景色、庫存或票券適用。\n\n首里城復興祭今天有免費前導演出，明天國際通遊行\n1/3\n今天在沖繩，可以把首里城的免費演出排進下午；明天看遊行，地點則要去那霸國際通。\n\n10月31日日本時間13:30–16:00，首里城復興祭前導「SYURI NO UTA」特別LIVE在首里杜館芝生廣場，觀覽免費。別把今天、明天的地點混在一起。\n\n2/3\n11月1日的琉球王朝繪卷行列，時間是日本12:30–15:00，地點在國際通，觀覽同樣免費。復興祭主活動則從11月1日到3日。\n\n想看國王、王妃與琉球服飾隊伍，可以先用官方活動表確認自己要看的場次，再安排去首里城還是國際通。\n\n3/3\n免費是指上述演出與遊行觀覽，不是所有園區項目都免費。官方特別導覽的預約、候補已截止，也別把復興祭當成正殿內部開放。\n\n今天要去的人，先看官方場地圖與最新變更；明天要看遊行，就把國際通設為目的地，出發前再確認交通安排。\n官方：https://oki-park.jp/shurijo/events/detail/10970\n切角與開頭：[{\"name\":\"今日行程\",\"opening\":\"首里城今天下午有免費LIVE，明天遊行在國際通。\"},{\"name\":\"地點辨識\",\"opening\":\"看復興祭前先選場次：首里城公園和國際通不是同一個地點。\"},{\"name\":\"免費範圍\",\"opening\":\"首里城復興祭有免費觀覽，不代表付費區全部免費。\"},{\"name\":\"預約提醒\",\"opening\":\"復興祭特別導覽預約與候補已截止，別照舊文再去排。\"},{\"name\":\"文化路線\",\"opening\":\"11月1日國際通有琉球王朝繪卷行列，先對好12:30開始的場次。\"}]\n圖片：[{\"description\":\"官方祭典主視覺與活動地圖，標註10/31與11/1不同會場；商用使用權未確認。\",\"url\":\"https://oki-park.jp/shurijo/events/detail/10970\"}]\n延伸：可延伸：那霸國際通與首里城的分日行程。分潤適合度低；只有原本需住宿者才自然延伸飯店比較。"
+}
