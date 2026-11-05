@@ -1,0 +1,1815 @@
+{
+  "date": "2026-11-05",
+  "cutoff": "2026-11-05 10:02 Asia/Taipei（日本11:02 Asia/Tokyo）；商品與社群查閱時間另列，部署時間不當新聞時間",
+  "scopeNote": "整理15筆研究紀錄，其中松雲山莊付帶活動為同事件合併，實際14個不同事件：4題通過主要事實交叉查核、10個獨立事件未入選，另保留1筆關站來源紀錄。合格候選不足15、精選不足10，不湊數。地區掃描有涵蓋限制；不能宣稱完整全日本搜尋。4題依內容潛力91、90、88、81由最優至較弱排列，熱度全部未確認，不是社群實測榜。",
+  "trends": [
+    "已查證：夜行こまち今天14:00日本時間開放一般預約，座椅過夜且一關停約6小時。",
+    "已查證：年末年始EX限定優惠今天開賣，2人以上及方向限制是首要條件。",
+    "已查證：EX優惠在乘車前40天停售，不能沿用一般一個月前才訂票的習慣。",
+    "已查證：六本木櫸坂今天開始，首日點燈時刻與平常不同；確切首日時刻尚未確認。",
+    "已查證：松雲山莊今天夜間點燈，入園免費，但本期未核實今天葉況。",
+    "編輯觀察：今天選題重點在開賣與開幕的例外條件，昨天旭山休園、御堂筋及羽田awai沒有查到新進展，不重複入榜。",
+    "社群限制：PTT有夜行こまち討論索引，但原頁讀取失敗，且主文為新聞轉貼；不採為可計分原創熱度。"
+  ],
+  "choice": {
+    "id": "amanecer-komachi-20261227",
+    "title": "夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時",
+    "score": 91,
+    "reason": "新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。",
+    "versusSecond": "夜行新幹線今天下午開賣、過夜方式有明確討論切角；EX價格實用但條件較多且仍有11天以上規劃窗口。兩者皆非實測社群第一名。",
+    "publishAt": "11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）",
+    "audience": "年末赴東北且對特殊鐵道體驗有興趣的台灣旅客",
+    "angle": "座椅過夜、一關停站與購買前提說清楚",
+    "lifecycle": "1週"
+  },
+  "top10": [
+    {
+      "id": "amanecer-komachi-20261227",
+      "title": "夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時",
+      "category": "交通／票券",
+      "region": "關東→東北／東京、一關、盛岡、秋田",
+      "announcementDate": "JR東日本官方發稿2026/11/4 15:20 JST；鐵道頻道11/5 07:40報導，不把後者當首次公布",
+      "eventDate": "12/27東京21:44發→12/28秋田08:45到；一般販售11/5 14:00–12/13 23:59 JST",
+      "freshness": "A級／24小時：官方發稿距截止未滿24小時；今天一般預約開始",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）",
+      "why": "新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。",
+      "facts": "JR東日本官方PR TIMES發稿與鐵道頻道編輯報導交叉確認，後者基於同一發布資料，不冒稱兩次獨立採訪。E6團體臨時列車12/27東京21:44發、12/28盛岡06:23到、秋田08:45到。東京–秋田普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，均每人含稅，只售靠窗席。非臥鋪；一關23:57–翌晨06:00停站，不能出改札，車內燈常亮，可能有保養噪音。官網指定日本の旅、鉄道の旅網路申請；一般11/5 14:00起，一部分JRE POINT Stage3以上先行到13:59。直接商品頁讀取失敗，外國地址、海外卡、台灣旅客完成預約資格、庫存及退改未完全確認。資訊報導可發布，不能保證台灣旅客人人可直接買，也不宣稱JR PASS適用。轉往函館另有商品，22,000日圓不等於含新函館北斗。",
+      "sources": [
+        {
+          "label": "JR東日本官方發稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000001564.000017557.html"
+        },
+        {
+          "label": "鐵道頻道編輯報導",
+          "url": "https://tetsudo-ch.com/13043659.html"
+        },
+        {
+          "label": "官方公告所指商品頁，讀取失敗，資格待核",
+          "url": "https://www.jrview-travel.com/reserve/travelItem/detail?courseNo=26B0266"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "主商品在官方指定管道銷售，四平台未查得對應商品；海外購買資格仍待核，不把一般新幹線票混當本列車。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "東京晚上出發、隔天早上到秋田的「アマネセルこまち」，今天11月5日日本時間14:00開放一般預約。東京到秋田普通車成人22,000日圓，運行日是12月27日晚至28日早上。\n\n先說最容易誤會的地方：它是E6新幹線座椅過夜，不是臥鋪列車，而且半夜會在一關停約6小時。",
+          "預定日本時間12/27 21:44從東京出發，12/28 06:23到盛岡、08:45到秋田。只賣靠窗席，普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，都是每人含稅。\n\n想繼續到函館，要另看轉乘方案，不能把東京到秋田的22,000日圓當成包含新函館北斗。公告時刻仍可能調整。",
+          "一關停站期間不能出改札，車內燈會一直亮著，也可能遇到線路保養的聲音與震動。飲料和食物先買好，不要把這段過夜想成安靜、熄燈的飯店。\n\n喜歡特殊列車體驗的人可能會有興趣；如果你隔天需要精神很好地開車或排滿行程，先想想自己能不能接受座椅過夜。",
+          "預約走官方指定「日本の旅、鉄道の旅」網站，一般販售到12月13日23:59日本時間；有販售期間不代表一定有位。\n\n這次商品頁未能讀取，台灣旅客使用海外地址、信用卡完成預約的條件尚未確認。請先向營運方確認資格與退改，再安排前後住宿；不要直接用一般新幹線票或JR PASS代替。\nJR東日本公告與購買入口：https://prtimes.jp/main/html/rd/p/000001564.000017557.html"
+        ],
+        "angles": [
+          {
+            "name": "今天預約",
+            "opening": "夜行こまち今天日本14:00開賣，但它不是臥鋪。"
+          },
+          {
+            "name": "體驗差異",
+            "opening": "新幹線過夜，包含在一關停約6小時。"
+          },
+          {
+            "name": "價格範圍",
+            "opening": "22,000日圓是東京到秋田，不是一路包到函館。"
+          },
+          {
+            "name": "睡眠取捨",
+            "opening": "靠窗座椅、整晚亮燈：這班夜行新幹線適合你嗎？"
+          },
+          {
+            "name": "購買前提",
+            "opening": "先核對官方旅行商品資格，再安排12/27的東京夜出發。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方E6列車照片與時刻圖；提供下載不等於取得商用授權，使用前確認。",
+            "url": "https://prtimes.jp/main/html/rd/p/000001564.000017557.html"
+          }
+        ],
+        "extensions": [
+          "延伸內容：夜行座椅體驗與日間新幹線比較；先核對海外預約條件，不硬接其他平台普通車票。"
+        ]
+      },
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 10,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Railway/M.1793774365.A.587.html",
+            "label": "PTT 11/4夜行こまち新聞討論線索",
+            "reason": "索引列11/4 14:39與乘坐體驗疑問；原頁開啟失敗，且主文為新聞轉貼，不能填verified或把推文當獨立原創樣本。未記入排序或互動數。"
+          }
+        ],
+        "queries": [
+          "site:threads.com \"アマネセルこまち\"",
+          "site:x.com \"アマネセルこまち\"",
+          "site:facebook.com \"アマネセルこまち\"",
+          "site:dcard.tw \"夜行新幹線\" \"2026\"",
+          "site:ptt.cc \"アマネセル\""
+        ]
+      }
+    },
+    {
+      "id": "ex-yearend-sale-20261105",
+      "title": "年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止",
+      "category": "票券／交通",
+      "region": "東京／品川／新橫濱↔名古屋、京都、新大阪、岡山、廣島",
+      "announcementDate": "官方活動頁未標首次公告日期；鐵道頻道2026/11/4 07:00 JST報導，非原始公告日",
+      "eventDate": "11/5 05:30 JST開賣；12/25–31往東京，2027/1/2–4往名古屋至廣島方向；各乘車日前40天停售",
+      "freshness": "今天正式販售例外；原始公告日未確認，不以媒體日期冒充",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 12:00 Asia/Taipei（編輯建議）",
+      "why": "跨年跨城市行程的台灣旅客可能省交通費，但人數、方向及提前40天截止比最大折扣更重要。",
+      "facts": "JR東海活動原頁與鐵道頻道交叉確認；這是Smart EX／EX預約2–6人同單限定のぞみ普通車指定席。12/25–31只限往東京，1/2–4只限往廣島方向，1/1沒有設定。東京／品川／新橫濱與名古屋成人單程每人10,000日圓、京都／新大阪12,000、岡山14,000、廣島15,000，兒童半價。11/5 05:30開賣，乘車前40天停售；12/25乘車11/15截止。初訂不能選座，前一個月08:00後依序確定列車時刻與座位、10:00後可改座。限定席數不代表已售罄。官方未寫國籍限制，但本期未驗證海外信用卡、英文介面是否同樣能買此特定商品；不保證人人可買。",
+      "sources": [
+        {
+          "label": "JR東海正式活動規則",
+          "url": "https://recommend.jr-central.co.jp/exhayatoku-limitedsale/"
+        },
+        {
+          "label": "鐵道頻道11/4整理",
+          "url": "https://tetsudo-ch.com/13041395.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "優惠限定官方EX服務購買，不應把其他平台一般票券宣稱有同折扣；以省錢資訊為主。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "跨年要在東京、關西之間移動，今天開賣的「EX早特☆期間限定セール！」可以比較。但先看三個門檻：同時訂2–6人、乘車方向限定、最晚乘車前40天就得買。\n\n不是整個跨年期間雙向都適用。12月25日至31日只限往東京；2027年1月2日至4日才是往名古屋、關西、岡山及廣島方向。1月1日沒有設定。",
+          "適用的是のぞみ普通車指定席。東京、品川、新橫濱與各設定區間，成人單程每人價格：\n\n・名古屋：10,000日圓\n・京都、新大阪：12,000日圓\n・岡山：14,000日圓\n・廣島：15,000日圓\n\n兒童半價，但至少2人同時預約；不是兩個人合計這個價格。請先對照日期與方向，再比較原本準備搭的車次。",
+          "11月5日日本時間05:30開始販售，透過Smart EX或EX預約。12月25日乘車的票，11月15日就截止，不是等到搭車前一個月才開放。\n\n初訂不能選座，乘車日前一個月08:00後依序確定車次、時刻與座位，10:00後才可變更座位。席數有限，不能保證同行座位或你想要的班次。",
+          "先準備乘車日期、方向、人數，再到官方活動頁核對截止日與予約條件。本期未確認海外信用卡及英文介面是否支援這個特定優惠，請以自己的帳號實際顯示及客服答覆為準。\n\n也別在其他平台買一般新幹線票後，期待自動套用這個EX優惠。\n官方規則與預約入口：https://recommend.jr-central.co.jp/exhayatoku-limitedsale/"
+        ],
+        "angles": [
+          {
+            "name": "40天期限",
+            "opening": "跨年新幹線優惠，可能在搭車前40天就停售。"
+          },
+          {
+            "name": "方向避錯",
+            "opening": "12月底往東京、1月初離開東京，這波優惠有方向限制。"
+          },
+          {
+            "name": "人數門檻",
+            "opening": "新大阪12,000日圓是每人單程，而且要2人以上同訂。"
+          },
+          {
+            "name": "選位提醒",
+            "opening": "這波EX早特初訂不能選座，不是結帳就選好靠窗位。"
+          },
+          {
+            "name": "平台辨識",
+            "opening": "EX限定價格不等於其他平台的一般新幹線票也能買到。"
+          }
+        ],
+        "images": [
+          {
+            "description": "JR東海區間價格表、乘車日與停售日對照表；商用授權未查明。",
+            "url": "https://recommend.jr-central.co.jp/exhayatoku-limitedsale/"
+          }
+        ],
+        "extensions": [
+          "延伸內容：跨年東京／關西移動日期比較表；官方EX商品不與第三方一般票混推。"
+        ]
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com \"EX早特\" \"2026\"",
+          "site:facebook.com \"新幹線\" \"11月5日\" \"2026\""
+        ]
+      }
+    },
+    {
+      "id": "keyakizaka-opening-20261105",
+      "title": "六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場",
+      "category": "季節情報／活動",
+      "region": "東京／六本木櫸坂通",
+      "announcementDate": "森大樓2026/9/30公布CHRISTMAS HILLS；活動頁未標首次更新時刻",
+      "eventDate": "11/5–12/25；通常17:00–22:00 JST，首日開始時刻不同且本期未確認",
+      "freshness": "超過7天例外：今天正式開始；不是今天新公告",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 12:30 Asia/Taipei（編輯建議）",
+      "why": "東京旅客熟悉的夜遊地點今晚開始，提醒首日時刻例外比只轉貼美照更實用。",
+      "facts": "森大樓9/30公告、六本木官方活動頁及Kyochika交叉確認11/5–12/25。約400公尺白藍SNOW&BLUE點燈，通常17–22；官方明示首日開始時間不同，本期未找到可靠確切時刻，不能宣稱今晚17時準時亮燈。Kyochika列觀覽免費；其他付費設施不包含。官方另列JRA小型動態場景11/5–12/27，不可誤套用為主線12/27截止。人潮與撮影可能使時間臨時改動。",
+      "sources": [
+        {
+          "label": "六本木主辦活動頁",
+          "url": "https://www.roppongihills.com/sp/christmashills/102/"
+        },
+        {
+          "label": "森大樓9/30原公告",
+          "url": "https://www.mori.co.jp/press/release/260930_2/"
+        },
+        {
+          "label": "Kyochika活動交叉頁",
+          "url": "https://www.kyochika.jp/event/roppongi-keyakizaka-illumination-2026/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸六本木住宿及晚餐後路線，但看街道點燈不需要買套票。",
+        "products": [
+          "六本木周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果還在比較東京住宿，可以把六本木晚間散步的回程一起考慮。下方是住宿參考，不代表包含展望台或其他付費設施。",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對六本木住宿範圍，不引用快取價格。",
+          "pages": [
+            {
+              "title": "東京六本木附近住宿",
+              "url": "https://www.trip.com/hotels/tokyo-roppongi-hills/hotels-c228m5468898/",
+              "kind": "住宿列表",
+              "reason": "用於比較夜遊後回住宿距離，不是活動套票。",
+              "checks": "需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。",
+              "checkedAt": "2026-11-05T10:01:50+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對六本木住宿範圍，不引用快取價格。",
+          "pages": [
+            {
+              "title": "東京六本木附近住宿",
+              "url": "https://www.booking.com/district/jp/tokyo/roppongi.html",
+              "kind": "住宿列表",
+              "reason": "用於比較夜遊後回住宿距離，不是活動套票。",
+              "checks": "需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。",
+              "checkedAt": "2026-11-05T10:01:50+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "找到冬季點燈行程156515，但乾淨原頁讀取失敗，不能確認2026季節與櫸坂是否必含，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋櫸坂2026，沒有取得可核對的本季適用商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "六本木櫸坂今晚11月5日開始今年的點燈，但如果你準備17:00到，先再查一次官方公告：主辦明寫「首日點燈開始時間不同」。\n\n本季到12月25日，通常時間是日本17:00–22:00。今晚確切開始時刻這次未確認，不能把平常時間直接當成開幕時間。",
+          "約400公尺的櫸坂通會以白藍色「SNOW&BLUE」呈現冬季夜景，街道觀覽免費，可以跟附近晚餐放在同一晚。這不代表森美術館、展望台等其他設施也免費。\n\n官方頁有拍照位置地圖，先選好步行路線；拍照請留在合法通行空間，別為了車道中央的角度衝到路上。",
+          "日期也要分清楚：櫸坂主線到12月25日，官方另外列的JRA小型動態場景才到12月27日，不是所有項目都同一天結束。\n\n今晚出發前查一次主辦最新安排；後續也可能因人潮或拍攝調整點燈時間。建議搭大眾運輸，先查好回住宿路線。\n官方時間與拍照地圖：https://www.roppongihills.com/sp/christmashills/102/"
+        ],
+        "angles": [
+          {
+            "name": "開幕避錯",
+            "opening": "櫸坂今晚開幕，但首日不能直接照17:00安排。"
+          },
+          {
+            "name": "夜間行程",
+            "opening": "東京晚餐後多一個選項：櫸坂11/5–12/25點燈。"
+          },
+          {
+            "name": "地圖攻略",
+            "opening": "約400公尺櫸坂夜景，先看官方拍照位置再排路線。"
+          },
+          {
+            "name": "日期辨識",
+            "opening": "12/25與12/27是不同項目，別把櫸坂結束日記錯。"
+          },
+          {
+            "name": "費用範圍",
+            "opening": "櫸坂街道免費觀覽，不等於附近展望台也免費。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方白藍點燈主視覺、PHOTO SPOT MAP；不是今天現場照，商用授權未確認。",
+            "url": "https://www.roppongihills.com/sp/christmashills/102/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：六本木住宿與晚餐後散步路線；商品連結僅在獨立留言。"
+        ]
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=-QtV15D4JfI",
+            "label": "搜尋混入2025點燈影片",
+            "reason": "2025/11/4內容，年度錯誤；不將其觀看或按讚數當2026熱度。"
+          }
+        ],
+        "queries": [
+          "site:threads.com けやき坂 2026 11月5日",
+          "site:instagram.com \"けやき坂\" \"2026\"",
+          "site:tiktok.com 六本木 2026 11月5日"
+        ]
+      }
+    },
+    {
+      "id": "shounsanso-lightup-20261105",
+      "title": "新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅",
+      "category": "季節情報",
+      "region": "新潟／柏崎松雲山莊",
+      "announcementDate": "柏崎市活動頁更新2026/10/5；10/7市長記者會再介紹，首次公布日未確定",
+      "eventDate": "2026/11/5–11/29，日落約17:00–21:00 JST",
+      "freshness": "超過7天例外：今天正式開始，原活動頁10/5更新",
+      "lifecycle": "1週",
+      "risk": "低",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/5 18:30 Asia/Taipei（編輯建議）",
+      "why": "提供東京大阪之外的新潟夜間行程；適合已在柏崎附近者，避免因宣傳紅葉照專程誤判當下葉況。",
+      "facts": "柏崎市與Walkerplus活動資料交叉確認11/5–29，日落約17–21，庭園入場免費。茶席、美術館及部分停車另計。市頁10/5更新；Walker原文這次讀到10/19青葉狀態，搜尋摘要卻顯示11/4更新，兩者不一致，不把摘要當今日觀測。本期未確認11/5實際葉況與臨時停辦。Komachi舊網址原頁顯示10月底關站，雖搜尋摘要仍有內容，已排除為有效交叉來源。夜間回程交通、末班巴士及付帶活動名額尚未核實，不推薦未確認套裝行程。",
+      "sources": [
+        {
+          "label": "柏崎市活動頁",
+          "url": "https://www.city.kashiwazaki.lg.jp/event_information/43629.html"
+        },
+        {
+          "label": "Walkerplus本季時間與費用",
+          "url": "https://koyo.walkerplus.com/detail/ar0415e154546/data.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "較適合已在新潟附近者追加行程；葉況與夜間回程未核，不為免費庭園硬推遠程住宿或套票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11月5日，新潟柏崎的松雲山莊開始夜間點燈，庭園入場免費，本季到11月29日。日本時間日落約17:00開始，亮到21:00。\n\n如果你剛好在新潟附近，這是一個可考慮的晚間行程；但開幕日不等於楓葉全紅，本次還沒有確認今天的現場葉況。",
+          "免費的是庭園入場，不是所有體驗。茶席、美術館、部分停車都有另外的費用或規則，不要看到「免費點燈」就把整段行程當零花費。\n\n松雲山莊平常開到17:00，只有點燈期間延長到21:00。先選好抵達及回程方式，再決定留到幾點；這次沒有核實末班巴士，別用閉園時間推算還有車。",
+          "想以紅葉顏色為主要目的，出發前再查柏崎市的葉況與活動公告。網路宣傳照可能是往年，搜尋結果的更新日期也不一定等於原頁的最新觀測。\n\n把「有點燈」和「已見頃」分開看，才不會為了一張紅葉照片改整趟路線。\n官方本季時間與付帶項目：https://www.city.kashiwazaki.lg.jp/event_information/43629.html"
+        ],
+        "angles": [
+          {
+            "name": "地方新行程",
+            "opening": "松雲山莊今晚開始夜間點燈，柏崎晚餐後多一個選項。"
+          },
+          {
+            "name": "葉況辨識",
+            "opening": "今天開幕，不等於松雲山莊今天就全紅。"
+          },
+          {
+            "name": "免費範圍",
+            "opening": "庭園免費，但茶席與部分停車另計。"
+          },
+          {
+            "name": "回程規劃",
+            "opening": "點燈到21:00，不代表末班巴士也等到那時。"
+          },
+          {
+            "name": "資料避錯",
+            "opening": "搜尋摘要的新日期，不一定是今天的紅葉實況。"
+          }
+        ],
+        "images": [
+          {
+            "description": "柏崎市庭園及夜間宣傳照，應標示宣傳照片，不當11/5實況；商用授權未確認。",
+            "url": "https://www.city.kashiwazaki.lg.jp/event_information/43629.html"
+          }
+        ],
+        "extensions": [
+          "延伸內容：柏崎夜間行程與葉況查詢；先補交通查核，不硬接商品。"
+        ]
+      },
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com 松雲山荘 2026 11月",
+          "site:youtube.com 松雲山荘 2026 11月",
+          "site:threads.com \"松雲山荘\" \"2026\""
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "amanecer-komachi-20261227",
+      "title": "夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時",
+      "category": "交通／票券",
+      "region": "關東→東北／東京、一關、盛岡、秋田",
+      "announcementDate": "JR東日本官方發稿2026/11/4 15:20 JST；鐵道頻道11/5 07:40報導，不把後者當首次公布",
+      "eventDate": "12/27東京21:44發→12/28秋田08:45到；一般販售11/5 14:00–12/13 23:59 JST",
+      "freshness": "A級／24小時：官方發稿距截止未滿24小時；今天一般預約開始",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 5,
+        "save": 4,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）",
+      "why": "新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。",
+      "facts": "JR東日本官方PR TIMES發稿與鐵道頻道編輯報導交叉確認，後者基於同一發布資料，不冒稱兩次獨立採訪。E6團體臨時列車12/27東京21:44發、12/28盛岡06:23到、秋田08:45到。東京–秋田普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，均每人含稅，只售靠窗席。非臥鋪；一關23:57–翌晨06:00停站，不能出改札，車內燈常亮，可能有保養噪音。官網指定日本の旅、鉄道の旅網路申請；一般11/5 14:00起，一部分JRE POINT Stage3以上先行到13:59。直接商品頁讀取失敗，外國地址、海外卡、台灣旅客完成預約資格、庫存及退改未完全確認。資訊報導可發布，不能保證台灣旅客人人可直接買，也不宣稱JR PASS適用。轉往函館另有商品，22,000日圓不等於含新函館北斗。",
+      "sources": [
+        {
+          "label": "JR東日本官方發稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000001564.000017557.html"
+        },
+        {
+          "label": "鐵道頻道編輯報導",
+          "url": "https://tetsudo-ch.com/13043659.html"
+        },
+        {
+          "label": "官方公告所指商品頁，讀取失敗，資格待核",
+          "url": "https://www.jrview-travel.com/reserve/travelItem/detail?courseNo=26B0266"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "主商品在官方指定管道銷售，四平台未查得對應商品；海外購買資格仍待核，不把一般新幹線票混當本列車。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本團體列車適用商品；不以一般JR票或住宿替代。",
+          "pages": []
+        }
+      ],
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 12,
+        "稀缺性": 10,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Railway/M.1793774365.A.587.html",
+            "label": "PTT 11/4夜行こまち新聞討論線索",
+            "reason": "索引列11/4 14:39與乘坐體驗疑問；原頁開啟失敗，且主文為新聞轉貼，不能填verified或把推文當獨立原創樣本。未記入排序或互動數。"
+          }
+        ],
+        "queries": [
+          "site:threads.com \"アマネセルこまち\"",
+          "site:x.com \"アマネセルこまち\"",
+          "site:facebook.com \"アマネセルこまち\"",
+          "site:dcard.tw \"夜行新幹線\" \"2026\"",
+          "site:ptt.cc \"アマネセル\""
+        ]
+      }
+    },
+    {
+      "id": "ex-yearend-sale-20261105",
+      "title": "年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止",
+      "category": "票券／交通",
+      "region": "東京／品川／新橫濱↔名古屋、京都、新大阪、岡山、廣島",
+      "announcementDate": "官方活動頁未標首次公告日期；鐵道頻道2026/11/4 07:00 JST報導，非原始公告日",
+      "eventDate": "11/5 05:30 JST開賣；12/25–31往東京，2027/1/2–4往名古屋至廣島方向；各乘車日前40天停售",
+      "freshness": "今天正式販售例外；原始公告日未確認，不以媒體日期冒充",
+      "lifecycle": "1週",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 12:00 Asia/Taipei（編輯建議）",
+      "why": "跨年跨城市行程的台灣旅客可能省交通費，但人數、方向及提前40天截止比最大折扣更重要。",
+      "facts": "JR東海活動原頁與鐵道頻道交叉確認；這是Smart EX／EX預約2–6人同單限定のぞみ普通車指定席。12/25–31只限往東京，1/2–4只限往廣島方向，1/1沒有設定。東京／品川／新橫濱與名古屋成人單程每人10,000日圓、京都／新大阪12,000、岡山14,000、廣島15,000，兒童半價。11/5 05:30開賣，乘車前40天停售；12/25乘車11/15截止。初訂不能選座，前一個月08:00後依序確定列車時刻與座位、10:00後可改座。限定席數不代表已售罄。官方未寫國籍限制，但本期未驗證海外信用卡、英文介面是否同樣能買此特定商品；不保證人人可買。",
+      "sources": [
+        {
+          "label": "JR東海正式活動規則",
+          "url": "https://recommend.jr-central.co.jp/exhayatoku-limitedsale/"
+        },
+        {
+          "label": "鐵道頻道11/4整理",
+          "url": "https://tetsudo-ch.com/13041395.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "優惠限定官方EX服務購買，不應把其他平台一般票券宣稱有同折扣；以省錢資訊為主。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未確認四平台販售本EX限定商品，不用一般車票替代。",
+          "pages": []
+        }
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 6,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com \"EX早特\" \"2026\"",
+          "site:facebook.com \"新幹線\" \"11月5日\" \"2026\""
+        ]
+      }
+    },
+    {
+      "id": "keyakizaka-opening-20261105",
+      "title": "六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場",
+      "category": "季節情報／活動",
+      "region": "東京／六本木櫸坂通",
+      "announcementDate": "森大樓2026/9/30公布CHRISTMAS HILLS；活動頁未標首次更新時刻",
+      "eventDate": "11/5–12/25；通常17:00–22:00 JST，首日開始時刻不同且本期未確認",
+      "freshness": "超過7天例外：今天正式開始；不是今天新公告",
+      "lifecycle": "1個月以上",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/5 12:30 Asia/Taipei（編輯建議）",
+      "why": "東京旅客熟悉的夜遊地點今晚開始，提醒首日時刻例外比只轉貼美照更實用。",
+      "facts": "森大樓9/30公告、六本木官方活動頁及Kyochika交叉確認11/5–12/25。約400公尺白藍SNOW&BLUE點燈，通常17–22；官方明示首日開始時間不同，本期未找到可靠確切時刻，不能宣稱今晚17時準時亮燈。Kyochika列觀覽免費；其他付費設施不包含。官方另列JRA小型動態場景11/5–12/27，不可誤套用為主線12/27截止。人潮與撮影可能使時間臨時改動。",
+      "sources": [
+        {
+          "label": "六本木主辦活動頁",
+          "url": "https://www.roppongihills.com/sp/christmashills/102/"
+        },
+        {
+          "label": "森大樓9/30原公告",
+          "url": "https://www.mori.co.jp/press/release/260930_2/"
+        },
+        {
+          "label": "Kyochika活動交叉頁",
+          "url": "https://www.kyochika.jp/event/roppongi-keyakizaka-illumination-2026/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可延伸六本木住宿及晚餐後路線，但看街道點燈不需要買套票。",
+        "products": [
+          "六本木周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果還在比較東京住宿，可以把六本木晚間散步的回程一起考慮。下方是住宿參考，不代表包含展望台或其他付費設施。",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對六本木住宿範圍，不引用快取價格。",
+          "pages": [
+            {
+              "title": "東京六本木附近住宿",
+              "url": "https://www.trip.com/hotels/tokyo-roppongi-hills/hotels-c228m5468898/",
+              "kind": "住宿列表",
+              "reason": "用於比較夜遊後回住宿距離，不是活動套票。",
+              "checks": "需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。",
+              "checkedAt": "2026-11-05T10:01:50+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對六本木住宿範圍，不引用快取價格。",
+          "pages": [
+            {
+              "title": "東京六本木附近住宿",
+              "url": "https://www.booking.com/district/jp/tokyo/roppongi.html",
+              "kind": "住宿列表",
+              "reason": "用於比較夜遊後回住宿距離，不是活動套票。",
+              "checks": "需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。",
+              "checkedAt": "2026-11-05T10:01:50+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "找到冬季點燈行程156515，但乾淨原頁讀取失敗，不能確認2026季節與櫸坂是否必含，不推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋櫸坂2026，沒有取得可核對的本季適用商品。",
+          "pages": []
+        }
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 5,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=-QtV15D4JfI",
+            "label": "搜尋混入2025點燈影片",
+            "reason": "2025/11/4內容，年度錯誤；不將其觀看或按讚數當2026熱度。"
+          }
+        ],
+        "queries": [
+          "site:threads.com けやき坂 2026 11月5日",
+          "site:instagram.com \"けやき坂\" \"2026\"",
+          "site:tiktok.com 六本木 2026 11月5日"
+        ]
+      }
+    },
+    {
+      "id": "shounsanso-lightup-20261105",
+      "title": "新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅",
+      "category": "季節情報",
+      "region": "新潟／柏崎松雲山莊",
+      "announcementDate": "柏崎市活動頁更新2026/10/5；10/7市長記者會再介紹，首次公布日未確定",
+      "eventDate": "2026/11/5–11/29，日落約17:00–21:00 JST",
+      "freshness": "超過7天例外：今天正式開始，原活動頁10/5更新",
+      "lifecycle": "1週",
+      "risk": "低",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/5 18:30 Asia/Taipei（編輯建議）",
+      "why": "提供東京大阪之外的新潟夜間行程；適合已在柏崎附近者，避免因宣傳紅葉照專程誤判當下葉況。",
+      "facts": "柏崎市與Walkerplus活動資料交叉確認11/5–29，日落約17–21，庭園入場免費。茶席、美術館及部分停車另計。市頁10/5更新；Walker原文這次讀到10/19青葉狀態，搜尋摘要卻顯示11/4更新，兩者不一致，不把摘要當今日觀測。本期未確認11/5實際葉況與臨時停辦。Komachi舊網址原頁顯示10月底關站，雖搜尋摘要仍有內容，已排除為有效交叉來源。夜間回程交通、末班巴士及付帶活動名額尚未核實，不推薦未確認套裝行程。",
+      "sources": [
+        {
+          "label": "柏崎市活動頁",
+          "url": "https://www.city.kashiwazaki.lg.jp/event_information/43629.html"
+        },
+        {
+          "label": "Walkerplus本季時間與費用",
+          "url": "https://koyo.walkerplus.com/detail/ar0415e154546/data.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "較適合已在新潟附近者追加行程；葉況與夜間回程未核，不為免費庭園硬推遠程住宿或套票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "免費庭園、現況及回程待核，未推薦外部票券或住宿商品。",
+          "pages": []
+        }
+      ],
+      "score": 81,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 13,
+        "社群討論潛力": 10,
+        "實用性": 12,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com 松雲山荘 2026 11月",
+          "site:youtube.com 松雲山荘 2026 11月",
+          "site:threads.com \"松雲山荘\" \"2026\""
+        ]
+      }
+    },
+    {
+      "id": "lead-20261105-0",
+      "title": "仙台地下鐵24／36小時票",
+      "category": "票券",
+      "region": "東北／仙台",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://tetsudo-ch.com/13041402.html"
+        }
+      ],
+      "reason": "已讀11/4報導，11/6–8使用線索；未補到交通局原頁，兒童免費票與啟用期限不先確定。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-1",
+      "title": "JRびゅう黑五一般販售",
+      "category": "票券",
+      "region": "東日本／四國商品",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://news.livedoor.com/article/detail/32704173/"
+        }
+      ],
+      "reason": "已讀11/1報導，11/4一般販售；仍缺官方商品資格、庫存及第二波細節，未入選。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-2",
+      "title": "Asoview會員資料事件",
+      "category": "重大時事",
+      "region": "全國",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.traicy.com/category/tour/"
+        }
+      ],
+      "reason": "11/4索引線索；未讀原始調查公告，不能把外洩人數摘要寫成確定影響範圍。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-3",
+      "title": "chicTrip與FunNow即時預約",
+      "category": "旅遊",
+      "region": "全國",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.travelvision.jp/news/IT/"
+        }
+      ],
+      "reason": "11/4索引線索，具台灣關聯但實際日本適用商家與官方條款未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-4",
+      "title": "札幌11/4觀光資訊",
+      "category": "季節情報",
+      "region": "北海道／札幌",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.sapporo.travel/today/?date=20251104"
+        }
+      ],
+      "reason": "網址含2025而索引寫2026，日期矛盾未釐清，不當今年即時消息。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-5",
+      "title": "福岡こびとの森點燈",
+      "category": "活動",
+      "region": "九州／福岡",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://rkb.jp/event_top/"
+        }
+      ],
+      "reason": "11/6–1/31索引線索，主辦票價與限制待核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-6",
+      "title": "沖繩海邊陶器市集",
+      "category": "購物／活動",
+      "region": "沖繩／讀谷",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://okinawa-navi.jp/event/"
+        }
+      ],
+      "reason": "至11/23索引線索，今天新進展與原始公告未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-7",
+      "title": "名古屋香氛快閃",
+      "category": "購物",
+      "region": "中部／名古屋",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.zaikei.co.jp/releases/3698199/"
+        }
+      ],
+      "reason": "11/4產品發布轉載線索，未確認快閃日期與店面現貨，不能以發稿日替代販售期。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-8",
+      "title": "JALじゃらん三日促銷",
+      "category": "住宿／航空",
+      "region": "全國",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.traicy.com/category/tour/"
+        }
+      ],
+      "reason": "11/4索引稱至11/7，海外旅客適用及組合限制未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-9",
+      "title": "小樽日和山燈塔開放",
+      "category": "旅遊",
+      "region": "北海道／小樽",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://otaru.gr.jp/tourist/202611"
+        }
+      ],
+      "reason": "長期開放至11/30的月份列表，非今天新進展，不用舊消息湊題。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261105-10",
+      "title": "松雲山莊秋彩付帶活動",
+      "category": "活動",
+      "region": "新潟／柏崎",
+      "announcementDate": "見線索說明；首次公告日尚未確認",
+      "eventDate": "未完成核對",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://www.week.co.jp/event/event.php?pgno=46594"
+        }
+      ],
+      "reason": "與入選點燈同事件，不另算新題；原頁顯示關站，索引舊內容不作交叉來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效／事實查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完成事實與需求核對",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。",
+        "assessedOn": "2026-11-05"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未完成新聞查核",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未完成新聞查核",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-05T10:02:08+08:00",
+        "summary": "無合格證據",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "夜行こまち一般販售與海外資格",
+      "next": "11/5 14:00後至未來48小時查官方商品狀態、海外地址與付款條件；不預言售罄。",
+      "sources": [
+        {
+          "label": "官方公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000001564.000017557.html"
+        }
+      ]
+    },
+    {
+      "title": "櫸坂首日點燈與現場原文",
+      "next": "未來24小時查官方首日時刻及2026現場貼文，排除2025影片。",
+      "sources": [
+        {
+          "label": "活動",
+          "url": "https://www.roppongihills.com/sp/christmashills/102/"
+        }
+      ]
+    },
+    {
+      "title": "松雲山莊開幕葉況",
+      "next": "未來24–72小時查柏崎市現況更新，不能用開幕宣傳照替代葉況。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.city.kashiwazaki.lg.jp/event_information/43629.html"
+        }
+      ]
+    },
+    {
+      "title": "仙台限時地鐵票",
+      "next": "補查交通局與仙台MaaS正式使用期限及兒童票規則後才推薦。",
+      "sources": [
+        {
+          "label": "待查線索",
+          "url": "https://tetsudo-ch.com/13041402.html"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-11-05T10:02:08+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 4,
+    "qualifiedTopicCount": 0,
+    "limitation": "已對4個入選事件補查社群站外索引；沒有取得2位不同作者完整原創原文、時間、讚與留言。PTT原頁失敗、TikTok robots、部分結果年份錯誤。未完成各平台站內直接搜尋，不能宣稱完整社群監測。",
+    "platformAccess": {
+      "Threads": "廣搜與四題補查未取得可核對近期原文",
+      "X": "夜行こまち查詢未取得合格原文",
+      "Facebook": "夜行こまち及EX查詢未取得合格原文",
+      "Instagram": "櫸坂、松雲山莊未取得完整近期數字",
+      "Dcard": "夜行新幹線未取得合格原文",
+      "PTT": "找到11/4新聞轉貼索引但原頁無法讀取，不採索引數字",
+      "TikTok": "robots限制，回傳舊活動／其他展覽，排除",
+      "YouTube": "松雲山莊未取得合格原文；櫸坂搜尋混入2025影片，排除"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-05\n截止：2026-11-05 10:02 Asia/Taipei（日本11:02 Asia/Tokyo）；商品與社群查閱時間另列，部署時間不當新聞時間\n整理15筆研究紀錄，其中松雲山莊付帶活動為同事件合併，實際14個不同事件：4題通過主要事實交叉查核、10個獨立事件未入選，另保留1筆關站來源紀錄。合格候選不足15、精選不足10，不湊數。地區掃描有涵蓋限制；不能宣稱完整全日本搜尋。4題依內容潛力91、90、88、81由最優至較弱排列，熱度全部未確認，不是社群實測榜。\n\n【今天日本發生什麼】\n已查證：夜行こまち今天14:00日本時間開放一般預約，座椅過夜且一關停約6小時。\n已查證：年末年始EX限定優惠今天開賣，2人以上及方向限制是首要條件。\n已查證：EX優惠在乘車前40天停售，不能沿用一般一個月前才訂票的習慣。\n已查證：六本木櫸坂今天開始，首日點燈時刻與平常不同；確切首日時刻尚未確認。\n已查證：松雲山莊今天夜間點燈，入園免費，但本期未核實今天葉況。\n編輯觀察：今天選題重點在開賣與開幕的例外條件，昨天旭山休園、御堂筋及羽田awai沒有查到新進展，不重複入榜。\n社群限制：PTT有夜行こまち討論索引，但原頁讀取失敗，且主文為新聞轉貼；不採為可計分原創熱度。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。星等爆紅/收藏/分享1–5，為編輯評估。\n\nTOP 1 夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\n{\n  \"id\": \"amanecer-komachi-20261227\",\n  \"title\": \"夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\",\n  \"category\": \"交通／票券\",\n  \"region\": \"關東→東北／東京、一關、盛岡、秋田\",\n  \"announcementDate\": \"JR東日本官方發稿2026/11/4 15:20 JST；鐵道頻道11/5 07:40報導，不把後者當首次公布\",\n  \"eventDate\": \"12/27東京21:44發→12/28秋田08:45到；一般販售11/5 14:00–12/13 23:59 JST\",\n  \"freshness\": \"A級／24小時：官方發稿距截止未滿24小時；今天一般預約開始\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"中\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 4,\n    \"share\": 5\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）\",\n  \"why\": \"新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。\",\n  \"facts\": \"JR東日本官方PR TIMES發稿與鐵道頻道編輯報導交叉確認，後者基於同一發布資料，不冒稱兩次獨立採訪。E6團體臨時列車12/27東京21:44發、12/28盛岡06:23到、秋田08:45到。東京–秋田普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，均每人含稅，只售靠窗席。非臥鋪；一關23:57–翌晨06:00停站，不能出改札，車內燈常亮，可能有保養噪音。官網指定日本の旅、鉄道の旅網路申請；一般11/5 14:00起，一部分JRE POINT Stage3以上先行到13:59。直接商品頁讀取失敗，外國地址、海外卡、台灣旅客完成預約資格、庫存及退改未完全確認。資訊報導可發布，不能保證台灣旅客人人可直接買，也不宣稱JR PASS適用。轉往函館另有商品，22,000日圓不等於含新函館北斗。\",\n  \"sources\": [\n    {\n      \"label\": \"JR東日本官方發稿\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000001564.000017557.html\"\n    },\n    {\n      \"label\": \"鐵道頻道編輯報導\",\n      \"url\": \"https://tetsudo-ch.com/13043659.html\"\n    },\n    {\n      \"label\": \"官方公告所指商品頁，讀取失敗，資格待核\",\n      \"url\": \"https://www.jrview-travel.com/reserve/travelItem/detail?courseNo=26B0266\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"主商品在官方指定管道銷售，四平台未查得對應商品；海外購買資格仍待核，不把一般新幹線票混當本列車。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 12,\n    \"稀缺性\": 10,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Railway/M.1793774365.A.587.html\",\n        \"label\": \"PTT 11/4夜行こまち新聞討論線索\",\n        \"reason\": \"索引列11/4 14:39與乘坐體驗疑問；原頁開啟失敗，且主文為新聞轉貼，不能填verified或把推文當獨立原創樣本。未記入排序或互動數。\"\n      }\n    ],\n    \"queries\": [\n      \"site:threads.com \\\"アマネセルこまち\\\"\",\n      \"site:x.com \\\"アマネセルこまち\\\"\",\n      \"site:facebook.com \\\"アマネセルこまち\\\"\",\n      \"site:dcard.tw \\\"夜行新幹線\\\" \\\"2026\\\"\",\n      \"site:ptt.cc \\\"アマネセル\\\"\"\n    ]\n  }\n}\n\nTOP 2 年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止\n{\n  \"id\": \"ex-yearend-sale-20261105\",\n  \"title\": \"年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止\",\n  \"category\": \"票券／交通\",\n  \"region\": \"東京／品川／新橫濱↔名古屋、京都、新大阪、岡山、廣島\",\n  \"announcementDate\": \"官方活動頁未標首次公告日期；鐵道頻道2026/11/4 07:00 JST報導，非原始公告日\",\n  \"eventDate\": \"11/5 05:30 JST開賣；12/25–31往東京，2027/1/2–4往名古屋至廣島方向；各乘車日前40天停售\",\n  \"freshness\": \"今天正式販售例外；原始公告日未確認，不以媒體日期冒充\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"中\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 5\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 12:00 Asia/Taipei（編輯建議）\",\n  \"why\": \"跨年跨城市行程的台灣旅客可能省交通費，但人數、方向及提前40天截止比最大折扣更重要。\",\n  \"facts\": \"JR東海活動原頁與鐵道頻道交叉確認；這是Smart EX／EX預約2–6人同單限定のぞみ普通車指定席。12/25–31只限往東京，1/2–4只限往廣島方向，1/1沒有設定。東京／品川／新橫濱與名古屋成人單程每人10,000日圓、京都／新大阪12,000、岡山14,000、廣島15,000，兒童半價。11/5 05:30開賣，乘車前40天停售；12/25乘車11/15截止。初訂不能選座，前一個月08:00後依序確定列車時刻與座位、10:00後可改座。限定席數不代表已售罄。官方未寫國籍限制，但本期未驗證海外信用卡、英文介面是否同樣能買此特定商品；不保證人人可買。\",\n  \"sources\": [\n    {\n      \"label\": \"JR東海正式活動規則\",\n      \"url\": \"https://recommend.jr-central.co.jp/exhayatoku-limitedsale/\"\n    },\n    {\n      \"label\": \"鐵道頻道11/4整理\",\n      \"url\": \"https://tetsudo-ch.com/13041395.html\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"優惠限定官方EX服務購買，不應把其他平台一般票券宣稱有同折扣；以省錢資訊為主。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 13,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"site:threads.com \\\"EX早特\\\" \\\"2026\\\"\",\n      \"site:facebook.com \\\"新幹線\\\" \\\"11月5日\\\" \\\"2026\\\"\"\n    ]\n  }\n}\n\nTOP 3 六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場\n{\n  \"id\": \"keyakizaka-opening-20261105\",\n  \"title\": \"六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場\",\n  \"category\": \"季節情報／活動\",\n  \"region\": \"東京／六本木櫸坂通\",\n  \"announcementDate\": \"森大樓2026/9/30公布CHRISTMAS HILLS；活動頁未標首次更新時刻\",\n  \"eventDate\": \"11/5–12/25；通常17:00–22:00 JST，首日開始時刻不同且本期未確認\",\n  \"freshness\": \"超過7天例外：今天正式開始；不是今天新公告\",\n  \"lifecycle\": \"1個月以上\",\n  \"risk\": \"低\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 12:30 Asia/Taipei（編輯建議）\",\n  \"why\": \"東京旅客熟悉的夜遊地點今晚開始，提醒首日時刻例外比只轉貼美照更實用。\",\n  \"facts\": \"森大樓9/30公告、六本木官方活動頁及Kyochika交叉確認11/5–12/25。約400公尺白藍SNOW&BLUE點燈，通常17–22；官方明示首日開始時間不同，本期未找到可靠確切時刻，不能宣稱今晚17時準時亮燈。Kyochika列觀覽免費；其他付費設施不包含。官方另列JRA小型動態場景11/5–12/27，不可誤套用為主線12/27截止。人潮與撮影可能使時間臨時改動。\",\n  \"sources\": [\n    {\n      \"label\": \"六本木主辦活動頁\",\n      \"url\": \"https://www.roppongihills.com/sp/christmashills/102/\"\n    },\n    {\n      \"label\": \"森大樓9/30原公告\",\n      \"url\": \"https://www.mori.co.jp/press/release/260930_2/\"\n    },\n    {\n      \"label\": \"Kyochika活動交叉頁\",\n      \"url\": \"https://www.kyochika.jp/event/roppongi-keyakizaka-illumination-2026/\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸六本木住宿及晚餐後路線，但看街道點燈不需要買套票。\",\n    \"products\": [\n      \"六本木周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"如果還在比較東京住宿，可以把六本木晚間散步的回程一起考慮。下方是住宿參考，不代表包含展望台或其他付費設施。\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已開啟核對六本木住宿範圍，不引用快取價格。\",\n      \"pages\": [\n        {\n          \"title\": \"東京六本木附近住宿\",\n          \"url\": \"https://www.trip.com/hotels/tokyo-roppongi-hills/hotels-c228m5468898/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"用於比較夜遊後回住宿距離，不是活動套票。\",\n          \"checks\": \"需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。\",\n          \"checkedAt\": \"2026-11-05T10:01:50+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟核對六本木住宿範圍，不引用快取價格。\",\n      \"pages\": [\n        {\n          \"title\": \"東京六本木附近住宿\",\n          \"url\": \"https://www.booking.com/district/jp/tokyo/roppongi.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"用於比較夜遊後回住宿距離，不是活動套票。\",\n          \"checks\": \"需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。\",\n          \"checkedAt\": \"2026-11-05T10:01:50+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"找到冬季點燈行程156515，但乾淨原頁讀取失敗，不能確認2026季節與櫸坂是否必含，不推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已搜尋櫸坂2026，沒有取得可核對的本季適用商品。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 88,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 14,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.youtube.com/watch?v=-QtV15D4JfI\",\n        \"label\": \"搜尋混入2025點燈影片\",\n        \"reason\": \"2025/11/4內容，年度錯誤；不將其觀看或按讚數當2026熱度。\"\n      }\n    ],\n    \"queries\": [\n      \"site:threads.com けやき坂 2026 11月5日\",\n      \"site:instagram.com \\\"けやき坂\\\" \\\"2026\\\"\",\n      \"site:tiktok.com 六本木 2026 11月5日\"\n    ]\n  }\n}\n\nTOP 4 新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅\n{\n  \"id\": \"shounsanso-lightup-20261105\",\n  \"title\": \"新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅\",\n  \"category\": \"季節情報\",\n  \"region\": \"新潟／柏崎松雲山莊\",\n  \"announcementDate\": \"柏崎市活動頁更新2026/10/5；10/7市長記者會再介紹，首次公布日未確定\",\n  \"eventDate\": \"2026/11/5–11/29，日落約17:00–21:00 JST\",\n  \"freshness\": \"超過7天例外：今天正式開始，原活動頁10/5更新\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"低\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"11/5 18:30 Asia/Taipei（編輯建議）\",\n  \"why\": \"提供東京大阪之外的新潟夜間行程；適合已在柏崎附近者，避免因宣傳紅葉照專程誤判當下葉況。\",\n  \"facts\": \"柏崎市與Walkerplus活動資料交叉確認11/5–29，日落約17–21，庭園入場免費。茶席、美術館及部分停車另計。市頁10/5更新；Walker原文這次讀到10/19青葉狀態，搜尋摘要卻顯示11/4更新，兩者不一致，不把摘要當今日觀測。本期未確認11/5實際葉況與臨時停辦。Komachi舊網址原頁顯示10月底關站，雖搜尋摘要仍有內容，已排除為有效交叉來源。夜間回程交通、末班巴士及付帶活動名額尚未核實，不推薦未確認套裝行程。\",\n  \"sources\": [\n    {\n      \"label\": \"柏崎市活動頁\",\n      \"url\": \"https://www.city.kashiwazaki.lg.jp/event_information/43629.html\"\n    },\n    {\n      \"label\": \"Walkerplus本季時間與費用\",\n      \"url\": \"https://koyo.walkerplus.com/detail/ar0415e154546/data.html\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"較適合已在新潟附近者追加行程；葉況與夜間回程未核，不為免費庭園硬推遠程住宿或套票。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 10,\n    \"實用性\": 12,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"site:instagram.com 松雲山荘 2026 11月\",\n      \"site:youtube.com 松雲山荘 2026 11月\",\n      \"site:threads.com \\\"松雲山荘\\\" \\\"2026\\\"\"\n    ]\n  }\n}\n【未入選及合併來源紀錄】\n[\n  {\n    \"id\": \"lead-20261105-0\",\n    \"title\": \"仙台地下鐵24／36小時票\",\n    \"category\": \"票券\",\n    \"region\": \"東北／仙台\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://tetsudo-ch.com/13041402.html\"\n      }\n    ],\n    \"reason\": \"已讀11/4報導，11/6–8使用線索；未補到交通局原頁，兒童免費票與啟用期限不先確定。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-1\",\n    \"title\": \"JRびゅう黑五一般販售\",\n    \"category\": \"票券\",\n    \"region\": \"東日本／四國商品\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://news.livedoor.com/article/detail/32704173/\"\n      }\n    ],\n    \"reason\": \"已讀11/1報導，11/4一般販售；仍缺官方商品資格、庫存及第二波細節，未入選。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-2\",\n    \"title\": \"Asoview會員資料事件\",\n    \"category\": \"重大時事\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.traicy.com/category/tour/\"\n      }\n    ],\n    \"reason\": \"11/4索引線索；未讀原始調查公告，不能把外洩人數摘要寫成確定影響範圍。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-3\",\n    \"title\": \"chicTrip與FunNow即時預約\",\n    \"category\": \"旅遊\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.travelvision.jp/news/IT/\"\n      }\n    ],\n    \"reason\": \"11/4索引線索，具台灣關聯但實際日本適用商家與官方條款未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-4\",\n    \"title\": \"札幌11/4觀光資訊\",\n    \"category\": \"季節情報\",\n    \"region\": \"北海道／札幌\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.sapporo.travel/today/?date=20251104\"\n      }\n    ],\n    \"reason\": \"網址含2025而索引寫2026，日期矛盾未釐清，不當今年即時消息。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-5\",\n    \"title\": \"福岡こびとの森點燈\",\n    \"category\": \"活動\",\n    \"region\": \"九州／福岡\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://rkb.jp/event_top/\"\n      }\n    ],\n    \"reason\": \"11/6–1/31索引線索，主辦票價與限制待核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-6\",\n    \"title\": \"沖繩海邊陶器市集\",\n    \"category\": \"購物／活動\",\n    \"region\": \"沖繩／讀谷\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"至11/23索引線索，今天新進展與原始公告未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-7\",\n    \"title\": \"名古屋香氛快閃\",\n    \"category\": \"購物\",\n    \"region\": \"中部／名古屋\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.zaikei.co.jp/releases/3698199/\"\n      }\n    ],\n    \"reason\": \"11/4產品發布轉載線索，未確認快閃日期與店面現貨，不能以發稿日替代販售期。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-8\",\n    \"title\": \"JALじゃらん三日促銷\",\n    \"category\": \"住宿／航空\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.traicy.com/category/tour/\"\n      }\n    ],\n    \"reason\": \"11/4索引稱至11/7，海外旅客適用及組合限制未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-9\",\n    \"title\": \"小樽日和山燈塔開放\",\n    \"category\": \"旅遊\",\n    \"region\": \"北海道／小樽\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://otaru.gr.jp/tourist/202611\"\n      }\n    ],\n    \"reason\": \"長期開放至11/30的月份列表，非今天新進展，不用舊消息湊題。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-10\",\n    \"title\": \"松雲山莊秋彩付帶活動\",\n    \"category\": \"活動\",\n    \"region\": \"新潟／柏崎\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.week.co.jp/event/event.php?pgno=46594\"\n      }\n    ],\n    \"reason\": \"與入選點燈同事件，不另算新題；原頁顯示關站，索引舊內容不作交叉來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群方法與限制】\n{\n  \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 4,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"已對4個入選事件補查社群站外索引；沒有取得2位不同作者完整原創原文、時間、讚與留言。PTT原頁失敗、TikTok robots、部分結果年份錯誤。未完成各平台站內直接搜尋，不能宣稱完整社群監測。\",\n  \"platformAccess\": {\n    \"Threads\": \"廣搜與四題補查未取得可核對近期原文\",\n    \"X\": \"夜行こまち查詢未取得合格原文\",\n    \"Facebook\": \"夜行こまち及EX查詢未取得合格原文\",\n    \"Instagram\": \"櫸坂、松雲山莊未取得完整近期數字\",\n    \"Dcard\": \"夜行新幹線未取得合格原文\",\n    \"PTT\": \"找到11/4新聞轉貼索引但原頁無法讀取，不採索引數字\",\n    \"TikTok\": \"robots限制，回傳舊活動／其他展覽，排除\",\n    \"YouTube\": \"松雲山莊未取得合格原文；櫸坂搜尋混入2025影片，排除\"\n  }\n}\n【編輯推薦】\n{\"id\":\"amanecer-komachi-20261227\",\"title\":\"夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\",\"score\":91,\"reason\":\"新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。\",\"versusSecond\":\"夜行新幹線今天下午開賣、過夜方式有明確討論切角；EX價格實用但條件較多且仍有11天以上規劃窗口。兩者皆非實測社群第一名。\",\"publishAt\":\"11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）\",\"audience\":\"年末赴東北且對特殊鐵道體驗有興趣的台灣旅客\",\"angle\":\"座椅過夜、一關停站與購買前提說清楚\",\"lifecycle\":\"1週\"}\n【追蹤】\n[{\"title\":\"夜行こまち一般販售與海外資格\",\"next\":\"11/5 14:00後至未來48小時查官方商品狀態、海外地址與付款條件；不預言售罄。\",\"sources\":[{\"label\":\"官方公告\",\"url\":\"https://prtimes.jp/main/html/rd/p/000001564.000017557.html\"}]},{\"title\":\"櫸坂首日點燈與現場原文\",\"next\":\"未來24小時查官方首日時刻及2026現場貼文，排除2025影片。\",\"sources\":[{\"label\":\"活動\",\"url\":\"https://www.roppongihills.com/sp/christmashills/102/\"}]},{\"title\":\"松雲山莊開幕葉況\",\"next\":\"未來24–72小時查柏崎市現況更新，不能用開幕宣傳照替代葉況。\",\"sources\":[{\"label\":\"官方\",\"url\":\"https://www.city.kashiwazaki.lg.jp/event_information/43629.html\"}]},{\"title\":\"仙台限時地鐵票\",\"next\":\"補查交通局與仙台MaaS正式使用期限及兒童票規則後才推薦。\",\"sources\":[{\"label\":\"待查線索\",\"url\":\"https://tetsudo-ch.com/13041402.html\"}]}]",
+  "fullText": "日本每日內容雷達\n2026-11-05\n截止：2026-11-05 10:02 Asia/Taipei（日本11:02 Asia/Tokyo）；商品與社群查閱時間另列，部署時間不當新聞時間\n整理15筆研究紀錄，其中松雲山莊付帶活動為同事件合併，實際14個不同事件：4題通過主要事實交叉查核、10個獨立事件未入選，另保留1筆關站來源紀錄。合格候選不足15、精選不足10，不湊數。地區掃描有涵蓋限制；不能宣稱完整全日本搜尋。4題依內容潛力91、90、88、81由最優至較弱排列，熱度全部未確認，不是社群實測榜。\n\n【今天日本發生什麼】\n已查證：夜行こまち今天14:00日本時間開放一般預約，座椅過夜且一關停約6小時。\n已查證：年末年始EX限定優惠今天開賣，2人以上及方向限制是首要條件。\n已查證：EX優惠在乘車前40天停售，不能沿用一般一個月前才訂票的習慣。\n已查證：六本木櫸坂今天開始，首日點燈時刻與平常不同；確切首日時刻尚未確認。\n已查證：松雲山莊今天夜間點燈，入園免費，但本期未核實今天葉況。\n編輯觀察：今天選題重點在開賣與開幕的例外條件，昨天旭山休園、御堂筋及羽田awai沒有查到新進展，不重複入榜。\n社群限制：PTT有夜行こまち討論索引，但原頁讀取失敗，且主文為新聞轉貼；不採為可計分原創熱度。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。星等爆紅/收藏/分享1–5，為編輯評估。\n\nTOP 1 夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\n{\n  \"id\": \"amanecer-komachi-20261227\",\n  \"title\": \"夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\",\n  \"category\": \"交通／票券\",\n  \"region\": \"關東→東北／東京、一關、盛岡、秋田\",\n  \"announcementDate\": \"JR東日本官方發稿2026/11/4 15:20 JST；鐵道頻道11/5 07:40報導，不把後者當首次公布\",\n  \"eventDate\": \"12/27東京21:44發→12/28秋田08:45到；一般販售11/5 14:00–12/13 23:59 JST\",\n  \"freshness\": \"A級／24小時：官方發稿距截止未滿24小時；今天一般預約開始\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"中\",\n  \"stars\": {\n    \"viral\": 5,\n    \"save\": 4,\n    \"share\": 5\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）\",\n  \"why\": \"新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。\",\n  \"facts\": \"JR東日本官方PR TIMES發稿與鐵道頻道編輯報導交叉確認，後者基於同一發布資料，不冒稱兩次獨立採訪。E6團體臨時列車12/27東京21:44發、12/28盛岡06:23到、秋田08:45到。東京–秋田普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，均每人含稅，只售靠窗席。非臥鋪；一關23:57–翌晨06:00停站，不能出改札，車內燈常亮，可能有保養噪音。官網指定日本の旅、鉄道の旅網路申請；一般11/5 14:00起，一部分JRE POINT Stage3以上先行到13:59。直接商品頁讀取失敗，外國地址、海外卡、台灣旅客完成預約資格、庫存及退改未完全確認。資訊報導可發布，不能保證台灣旅客人人可直接買，也不宣稱JR PASS適用。轉往函館另有商品，22,000日圓不等於含新函館北斗。\",\n  \"sources\": [\n    {\n      \"label\": \"JR東日本官方發稿\",\n      \"url\": \"https://prtimes.jp/main/html/rd/p/000001564.000017557.html\"\n    },\n    {\n      \"label\": \"鐵道頻道編輯報導\",\n      \"url\": \"https://tetsudo-ch.com/13043659.html\"\n    },\n    {\n      \"label\": \"官方公告所指商品頁，讀取失敗，資格待核\",\n      \"url\": \"https://www.jrview-travel.com/reserve/travelItem/detail?courseNo=26B0266\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"主商品在官方指定管道銷售，四平台未查得對應商品；海外購買資格仍待核，不把一般新幹線票混當本列車。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未取得本團體列車適用商品；不以一般JR票或住宿替代。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 91,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 18,\n    \"社群討論潛力\": 14,\n    \"實用性\": 12,\n    \"稀缺性\": 10,\n    \"視覺吸引力\": 8,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.ptt.cc/bbs/Railway/M.1793774365.A.587.html\",\n        \"label\": \"PTT 11/4夜行こまち新聞討論線索\",\n        \"reason\": \"索引列11/4 14:39與乘坐體驗疑問；原頁開啟失敗，且主文為新聞轉貼，不能填verified或把推文當獨立原創樣本。未記入排序或互動數。\"\n      }\n    ],\n    \"queries\": [\n      \"site:threads.com \\\"アマネセルこまち\\\"\",\n      \"site:x.com \\\"アマネセルこまち\\\"\",\n      \"site:facebook.com \\\"アマネセルこまち\\\"\",\n      \"site:dcard.tw \\\"夜行新幹線\\\" \\\"2026\\\"\",\n      \"site:ptt.cc \\\"アマネセル\\\"\"\n    ]\n  }\n}\n\nTOP 2 年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止\n{\n  \"id\": \"ex-yearend-sale-20261105\",\n  \"title\": \"年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止\",\n  \"category\": \"票券／交通\",\n  \"region\": \"東京／品川／新橫濱↔名古屋、京都、新大阪、岡山、廣島\",\n  \"announcementDate\": \"官方活動頁未標首次公告日期；鐵道頻道2026/11/4 07:00 JST報導，非原始公告日\",\n  \"eventDate\": \"11/5 05:30 JST開賣；12/25–31往東京，2027/1/2–4往名古屋至廣島方向；各乘車日前40天停售\",\n  \"freshness\": \"今天正式販售例外；原始公告日未確認，不以媒體日期冒充\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"中\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 5\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 12:00 Asia/Taipei（編輯建議）\",\n  \"why\": \"跨年跨城市行程的台灣旅客可能省交通費，但人數、方向及提前40天截止比最大折扣更重要。\",\n  \"facts\": \"JR東海活動原頁與鐵道頻道交叉確認；這是Smart EX／EX預約2–6人同單限定のぞみ普通車指定席。12/25–31只限往東京，1/2–4只限往廣島方向，1/1沒有設定。東京／品川／新橫濱與名古屋成人單程每人10,000日圓、京都／新大阪12,000、岡山14,000、廣島15,000，兒童半價。11/5 05:30開賣，乘車前40天停售；12/25乘車11/15截止。初訂不能選座，前一個月08:00後依序確定列車時刻與座位、10:00後可改座。限定席數不代表已售罄。官方未寫國籍限制，但本期未驗證海外信用卡、英文介面是否同樣能買此特定商品；不保證人人可買。\",\n  \"sources\": [\n    {\n      \"label\": \"JR東海正式活動規則\",\n      \"url\": \"https://recommend.jr-central.co.jp/exhayatoku-limitedsale/\"\n    },\n    {\n      \"label\": \"鐵道頻道11/4整理\",\n      \"url\": \"https://tetsudo-ch.com/13041395.html\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"優惠限定官方EX服務購買，不應把其他平台一般票券宣稱有同折扣；以省錢資訊為主。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"未確認四平台販售本EX限定商品，不用一般車票替代。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 90,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 20,\n    \"社群討論潛力\": 13,\n    \"實用性\": 15,\n    \"稀缺性\": 7,\n    \"視覺吸引力\": 6,\n    \"標題吸引力\": 5,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"site:threads.com \\\"EX早特\\\" \\\"2026\\\"\",\n      \"site:facebook.com \\\"新幹線\\\" \\\"11月5日\\\" \\\"2026\\\"\"\n    ]\n  }\n}\n\nTOP 3 六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場\n{\n  \"id\": \"keyakizaka-opening-20261105\",\n  \"title\": \"六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場\",\n  \"category\": \"季節情報／活動\",\n  \"region\": \"東京／六本木櫸坂通\",\n  \"announcementDate\": \"森大樓2026/9/30公布CHRISTMAS HILLS；活動頁未標首次更新時刻\",\n  \"eventDate\": \"11/5–12/25；通常17:00–22:00 JST，首日開始時刻不同且本期未確認\",\n  \"freshness\": \"超過7天例外：今天正式開始；不是今天新公告\",\n  \"lifecycle\": \"1個月以上\",\n  \"risk\": \"低\",\n  \"stars\": {\n    \"viral\": 4,\n    \"save\": 5,\n    \"share\": 4\n  },\n  \"publishDecision\": \"現在發\",\n  \"publishAt\": \"11/5 12:30 Asia/Taipei（編輯建議）\",\n  \"why\": \"東京旅客熟悉的夜遊地點今晚開始，提醒首日時刻例外比只轉貼美照更實用。\",\n  \"facts\": \"森大樓9/30公告、六本木官方活動頁及Kyochika交叉確認11/5–12/25。約400公尺白藍SNOW&BLUE點燈，通常17–22；官方明示首日開始時間不同，本期未找到可靠確切時刻，不能宣稱今晚17時準時亮燈。Kyochika列觀覽免費；其他付費設施不包含。官方另列JRA小型動態場景11/5–12/27，不可誤套用為主線12/27截止。人潮與撮影可能使時間臨時改動。\",\n  \"sources\": [\n    {\n      \"label\": \"六本木主辦活動頁\",\n      \"url\": \"https://www.roppongihills.com/sp/christmashills/102/\"\n    },\n    {\n      \"label\": \"森大樓9/30原公告\",\n      \"url\": \"https://www.mori.co.jp/press/release/260930_2/\"\n    },\n    {\n      \"label\": \"Kyochika活動交叉頁\",\n      \"url\": \"https://www.kyochika.jp/event/roppongi-keyakizaka-illumination-2026/\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"中\",\n    \"reason\": \"可延伸六本木住宿及晚餐後路線，但看街道點燈不需要買套票。\",\n    \"products\": [\n      \"六本木周邊住宿\"\n    ],\n    \"platforms\": [\n      \"Trip.com\",\n      \"Booking.com\"\n    ],\n    \"commentOpening\": \"如果還在比較東京住宿，可以把六本木晚間散步的回程一起考慮。下方是住宿參考，不代表包含展望台或其他付費設施。\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"已開啟核對六本木住宿範圍，不引用快取價格。\",\n      \"pages\": [\n        {\n          \"title\": \"東京六本木附近住宿\",\n          \"url\": \"https://www.trip.com/hotels/tokyo-roppongi-hills/hotels-c228m5468898/\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"用於比較夜遊後回住宿距離，不是活動套票。\",\n          \"checks\": \"需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。\",\n          \"checkedAt\": \"2026-11-05T10:01:50+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"已開啟核對六本木住宿範圍，不引用快取價格。\",\n      \"pages\": [\n        {\n          \"title\": \"東京六本木附近住宿\",\n          \"url\": \"https://www.booking.com/district/jp/tokyo/roppongi.html\",\n          \"kind\": \"住宿列表\",\n          \"reason\": \"用於比較夜遊後回住宿距離，不是活動套票。\",\n          \"checks\": \"需查實際日期、空房、取消規則、位置；不保證價格、步行距離或分潤資格。\",\n          \"checkedAt\": \"2026-11-05T10:01:50+08:00\",\n          \"verified\": true\n        }\n      ]\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"找到冬季點燈行程156515，但乾淨原頁讀取失敗，不能確認2026季節與櫸坂是否必含，不推薦。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"已搜尋櫸坂2026，沒有取得可核對的本季適用商品。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 88,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 19,\n    \"社群討論潛力\": 12,\n    \"實用性\": 14,\n    \"稀缺性\": 5,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [\n      {\n        \"url\": \"https://www.youtube.com/watch?v=-QtV15D4JfI\",\n        \"label\": \"搜尋混入2025點燈影片\",\n        \"reason\": \"2025/11/4內容，年度錯誤；不將其觀看或按讚數當2026熱度。\"\n      }\n    ],\n    \"queries\": [\n      \"site:threads.com けやき坂 2026 11月5日\",\n      \"site:instagram.com \\\"けやき坂\\\" \\\"2026\\\"\",\n      \"site:tiktok.com 六本木 2026 11月5日\"\n    ]\n  }\n}\n\nTOP 4 新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅\n{\n  \"id\": \"shounsanso-lightup-20261105\",\n  \"title\": \"新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅\",\n  \"category\": \"季節情報\",\n  \"region\": \"新潟／柏崎松雲山莊\",\n  \"announcementDate\": \"柏崎市活動頁更新2026/10/5；10/7市長記者會再介紹，首次公布日未確定\",\n  \"eventDate\": \"2026/11/5–11/29，日落約17:00–21:00 JST\",\n  \"freshness\": \"超過7天例外：今天正式開始，原活動頁10/5更新\",\n  \"lifecycle\": \"1週\",\n  \"risk\": \"低\",\n  \"stars\": {\n    \"viral\": 3,\n    \"save\": 4,\n    \"share\": 4\n  },\n  \"publishDecision\": \"晚上發\",\n  \"publishAt\": \"11/5 18:30 Asia/Taipei（編輯建議）\",\n  \"why\": \"提供東京大阪之外的新潟夜間行程；適合已在柏崎附近者，避免因宣傳紅葉照專程誤判當下葉況。\",\n  \"facts\": \"柏崎市與Walkerplus活動資料交叉確認11/5–29，日落約17–21，庭園入場免費。茶席、美術館及部分停車另計。市頁10/5更新；Walker原文這次讀到10/19青葉狀態，搜尋摘要卻顯示11/4更新，兩者不一致，不把摘要當今日觀測。本期未確認11/5實際葉況與臨時停辦。Komachi舊網址原頁顯示10月底關站，雖搜尋摘要仍有內容，已排除為有效交叉來源。夜間回程交通、末班巴士及付帶活動名額尚未核實，不推薦未確認套裝行程。\",\n  \"sources\": [\n    {\n      \"label\": \"柏崎市活動頁\",\n      \"url\": \"https://www.city.kashiwazaki.lg.jp/event_information/43629.html\"\n    },\n    {\n      \"label\": \"Walkerplus本季時間與費用\",\n      \"url\": \"https://koyo.walkerplus.com/detail/ar0415e154546/data.html\"\n    }\n  ],\n  \"affiliateFit\": {\n    \"level\": \"低\",\n    \"reason\": \"較適合已在新潟附近者追加行程；葉況與夜間回程未核，不為免費庭園硬推遠程住宿或套票。\",\n    \"products\": [],\n    \"platforms\": [],\n    \"commentOpening\": \"\",\n    \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n    \"assessedOn\": \"2026-11-05\"\n  },\n  \"affiliatePages\": [\n    {\n      \"platform\": \"trip\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"booking\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"kkday\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    },\n    {\n      \"platform\": \"klook\",\n      \"note\": \"免費庭園、現況及回程待核，未推薦外部票券或住宿商品。\",\n      \"pages\": []\n    }\n  ],\n  \"score\": 81,\n  \"scoreBreakdown\": {\n    \"即時性\": 20,\n    \"台灣旅客相關性\": 13,\n    \"社群討論潛力\": 10,\n    \"實用性\": 12,\n    \"稀缺性\": 8,\n    \"視覺吸引力\": 10,\n    \"標題吸引力\": 4,\n    \"延伸內容價值\": 4\n  },\n  \"socialHeat\": {\n    \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n    \"summary\": \"熱度未確認；無兩位不同作者、48小時內原創原文與可核對讚及留言的完整樣本。分數與星等為編輯判斷。\",\n    \"evidence\": [],\n    \"leads\": [],\n    \"queries\": [\n      \"site:instagram.com 松雲山荘 2026 11月\",\n      \"site:youtube.com 松雲山荘 2026 11月\",\n      \"site:threads.com \\\"松雲山荘\\\" \\\"2026\\\"\"\n    ]\n  }\n}\n【未入選及合併來源紀錄】\n[\n  {\n    \"id\": \"lead-20261105-0\",\n    \"title\": \"仙台地下鐵24／36小時票\",\n    \"category\": \"票券\",\n    \"region\": \"東北／仙台\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://tetsudo-ch.com/13041402.html\"\n      }\n    ],\n    \"reason\": \"已讀11/4報導，11/6–8使用線索；未補到交通局原頁，兒童免費票與啟用期限不先確定。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-1\",\n    \"title\": \"JRびゅう黑五一般販售\",\n    \"category\": \"票券\",\n    \"region\": \"東日本／四國商品\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://news.livedoor.com/article/detail/32704173/\"\n      }\n    ],\n    \"reason\": \"已讀11/1報導，11/4一般販售；仍缺官方商品資格、庫存及第二波細節，未入選。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-2\",\n    \"title\": \"Asoview會員資料事件\",\n    \"category\": \"重大時事\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.traicy.com/category/tour/\"\n      }\n    ],\n    \"reason\": \"11/4索引線索；未讀原始調查公告，不能把外洩人數摘要寫成確定影響範圍。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-3\",\n    \"title\": \"chicTrip與FunNow即時預約\",\n    \"category\": \"旅遊\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.travelvision.jp/news/IT/\"\n      }\n    ],\n    \"reason\": \"11/4索引線索，具台灣關聯但實際日本適用商家與官方條款未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-4\",\n    \"title\": \"札幌11/4觀光資訊\",\n    \"category\": \"季節情報\",\n    \"region\": \"北海道／札幌\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.sapporo.travel/today/?date=20251104\"\n      }\n    ],\n    \"reason\": \"網址含2025而索引寫2026，日期矛盾未釐清，不當今年即時消息。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-5\",\n    \"title\": \"福岡こびとの森點燈\",\n    \"category\": \"活動\",\n    \"region\": \"九州／福岡\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://rkb.jp/event_top/\"\n      }\n    ],\n    \"reason\": \"11/6–1/31索引線索，主辦票價與限制待核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-6\",\n    \"title\": \"沖繩海邊陶器市集\",\n    \"category\": \"購物／活動\",\n    \"region\": \"沖繩／讀谷\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"至11/23索引線索，今天新進展與原始公告未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-7\",\n    \"title\": \"名古屋香氛快閃\",\n    \"category\": \"購物\",\n    \"region\": \"中部／名古屋\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.zaikei.co.jp/releases/3698199/\"\n      }\n    ],\n    \"reason\": \"11/4產品發布轉載線索，未確認快閃日期與店面現貨，不能以發稿日替代販售期。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-8\",\n    \"title\": \"JALじゃらん三日促銷\",\n    \"category\": \"住宿／航空\",\n    \"region\": \"全國\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.traicy.com/category/tour/\"\n      }\n    ],\n    \"reason\": \"11/4索引稱至11/7，海外旅客適用及組合限制未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-9\",\n    \"title\": \"小樽日和山燈塔開放\",\n    \"category\": \"旅遊\",\n    \"region\": \"北海道／小樽\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://otaru.gr.jp/tourist/202611\"\n      }\n    ],\n    \"reason\": \"長期開放至11/30的月份列表，非今天新進展，不用舊消息湊題。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261105-10\",\n    \"title\": \"松雲山莊秋彩付帶活動\",\n    \"category\": \"活動\",\n    \"region\": \"新潟／柏崎\",\n    \"announcementDate\": \"見線索說明；首次公告日尚未確認\",\n    \"eventDate\": \"未完成核對\",\n    \"sources\": [\n      {\n        \"label\": \"待查線索\",\n        \"url\": \"https://www.week.co.jp/event/event.php?pgno=46594\"\n      }\n    ],\n    \"reason\": \"與入選點燈同事件，不另算新題；原頁顯示關站，索引舊內容不作交叉來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效／事實查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"尚未完成事實與需求核對\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品適用日期、包含內容、庫存、付款資格與佣金資格需另核，不保證有位或可分潤。\",\n      \"assessedOn\": \"2026-11-05\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未完成新聞查核\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n      \"summary\": \"無合格證據\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群方法與限制】\n{\n  \"checkedAt\": \"2026-11-05T10:02:08+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 4,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"已對4個入選事件補查社群站外索引；沒有取得2位不同作者完整原創原文、時間、讚與留言。PTT原頁失敗、TikTok robots、部分結果年份錯誤。未完成各平台站內直接搜尋，不能宣稱完整社群監測。\",\n  \"platformAccess\": {\n    \"Threads\": \"廣搜與四題補查未取得可核對近期原文\",\n    \"X\": \"夜行こまち查詢未取得合格原文\",\n    \"Facebook\": \"夜行こまち及EX查詢未取得合格原文\",\n    \"Instagram\": \"櫸坂、松雲山莊未取得完整近期數字\",\n    \"Dcard\": \"夜行新幹線未取得合格原文\",\n    \"PTT\": \"找到11/4新聞轉貼索引但原頁無法讀取，不採索引數字\",\n    \"TikTok\": \"robots限制，回傳舊活動／其他展覽，排除\",\n    \"YouTube\": \"松雲山莊未取得合格原文；櫸坂搜尋混入2025影片，排除\"\n  }\n}\n【編輯推薦】\n{\"id\":\"amanecer-komachi-20261227\",\"title\":\"夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\",\"score\":91,\"reason\":\"新幹線過夜方式具有討論性，且今天開賣有行動時點；同時把不是臥鋪、長時間停站和購買資格未核清楚，適合年末赴東北鐵道迷。\",\"versusSecond\":\"夜行新幹線今天下午開賣、過夜方式有明確討論切角；EX價格實用但條件較多且仍有11天以上規劃窗口。兩者皆非實測社群第一名。\",\"publishAt\":\"11/5 11:30 Asia/Taipei（編輯建議；日本14:00為台灣13:00開賣）\",\"audience\":\"年末赴東北且對特殊鐵道體驗有興趣的台灣旅客\",\"angle\":\"座椅過夜、一關停站與購買前提說清楚\",\"lifecycle\":\"1週\"}\n【追蹤】\n[{\"title\":\"夜行こまち一般販售與海外資格\",\"next\":\"11/5 14:00後至未來48小時查官方商品狀態、海外地址與付款條件；不預言售罄。\",\"sources\":[{\"label\":\"官方公告\",\"url\":\"https://prtimes.jp/main/html/rd/p/000001564.000017557.html\"}]},{\"title\":\"櫸坂首日點燈與現場原文\",\"next\":\"未來24小時查官方首日時刻及2026現場貼文，排除2025影片。\",\"sources\":[{\"label\":\"活動\",\"url\":\"https://www.roppongihills.com/sp/christmashills/102/\"}]},{\"title\":\"松雲山莊開幕葉況\",\"next\":\"未來24–72小時查柏崎市現況更新，不能用開幕宣傳照替代葉況。\",\"sources\":[{\"label\":\"官方\",\"url\":\"https://www.city.kashiwazaki.lg.jp/event_information/43629.html\"}]},{\"title\":\"仙台限時地鐵票\",\"next\":\"補查交通局與仙台MaaS正式使用期限及兒童票規則後才推薦。\",\"sources\":[{\"label\":\"待查線索\",\"url\":\"https://tetsudo-ch.com/13041402.html\"}]}]\n【選題後逐題顯示的完整串文】\n夜行新幹線今天14:00開賣：東京到秋田22,000日圓，一關停約6小時\n1/4\n東京晚上出發、隔天早上到秋田的「アマネセルこまち」，今天11月5日日本時間14:00開放一般預約。東京到秋田普通車成人22,000日圓，運行日是12月27日晚至28日早上。\n\n先說最容易誤會的地方：它是E6新幹線座椅過夜，不是臥鋪列車，而且半夜會在一關停約6小時。\n\n2/4\n預定日本時間12/27 21:44從東京出發，12/28 06:23到盛岡、08:45到秋田。只賣靠窗席，普通車成人22,000日圓、小學生以下15,000日圓；綠色車廂29,000日圓，都是每人含稅。\n\n想繼續到函館，要另看轉乘方案，不能把東京到秋田的22,000日圓當成包含新函館北斗。公告時刻仍可能調整。\n\n3/4\n一關停站期間不能出改札，車內燈會一直亮著，也可能遇到線路保養的聲音與震動。飲料和食物先買好，不要把這段過夜想成安靜、熄燈的飯店。\n\n喜歡特殊列車體驗的人可能會有興趣；如果你隔天需要精神很好地開車或排滿行程，先想想自己能不能接受座椅過夜。\n\n4/4\n預約走官方指定「日本の旅、鉄道の旅」網站，一般販售到12月13日23:59日本時間；有販售期間不代表一定有位。\n\n這次商品頁未能讀取，台灣旅客使用海外地址、信用卡完成預約的條件尚未確認。請先向營運方確認資格與退改，再安排前後住宿；不要直接用一般新幹線票或JR PASS代替。\nJR東日本公告與購買入口：https://prtimes.jp/main/html/rd/p/000001564.000017557.html\n{\"angles\":[{\"name\":\"今天預約\",\"opening\":\"夜行こまち今天日本14:00開賣，但它不是臥鋪。\"},{\"name\":\"體驗差異\",\"opening\":\"新幹線過夜，包含在一關停約6小時。\"},{\"name\":\"價格範圍\",\"opening\":\"22,000日圓是東京到秋田，不是一路包到函館。\"},{\"name\":\"睡眠取捨\",\"opening\":\"靠窗座椅、整晚亮燈：這班夜行新幹線適合你嗎？\"},{\"name\":\"購買前提\",\"opening\":\"先核對官方旅行商品資格，再安排12/27的東京夜出發。\"}],\"images\":[{\"description\":\"官方E6列車照片與時刻圖；提供下載不等於取得商用授權，使用前確認。\",\"url\":\"https://prtimes.jp/main/html/rd/p/000001564.000017557.html\"}],\"extensions\":[\"延伸內容：夜行座椅體驗與日間新幹線比較；先核對海外預約條件，不硬接其他平台普通車票。\"]}\n\n年末年始新幹線優惠今天開賣：2人以上、方向限定、40天前截止\n1/4\n跨年要在東京、關西之間移動，今天開賣的「EX早特☆期間限定セール！」可以比較。但先看三個門檻：同時訂2–6人、乘車方向限定、最晚乘車前40天就得買。\n\n不是整個跨年期間雙向都適用。12月25日至31日只限往東京；2027年1月2日至4日才是往名古屋、關西、岡山及廣島方向。1月1日沒有設定。\n\n2/4\n適用的是のぞみ普通車指定席。東京、品川、新橫濱與各設定區間，成人單程每人價格：\n\n・名古屋：10,000日圓\n・京都、新大阪：12,000日圓\n・岡山：14,000日圓\n・廣島：15,000日圓\n\n兒童半價，但至少2人同時預約；不是兩個人合計這個價格。請先對照日期與方向，再比較原本準備搭的車次。\n\n3/4\n11月5日日本時間05:30開始販售，透過Smart EX或EX預約。12月25日乘車的票，11月15日就截止，不是等到搭車前一個月才開放。\n\n初訂不能選座，乘車日前一個月08:00後依序確定車次、時刻與座位，10:00後才可變更座位。席數有限，不能保證同行座位或你想要的班次。\n\n4/4\n先準備乘車日期、方向、人數，再到官方活動頁核對截止日與予約條件。本期未確認海外信用卡及英文介面是否支援這個特定優惠，請以自己的帳號實際顯示及客服答覆為準。\n\n也別在其他平台買一般新幹線票後，期待自動套用這個EX優惠。\n官方規則與預約入口：https://recommend.jr-central.co.jp/exhayatoku-limitedsale/\n{\"angles\":[{\"name\":\"40天期限\",\"opening\":\"跨年新幹線優惠，可能在搭車前40天就停售。\"},{\"name\":\"方向避錯\",\"opening\":\"12月底往東京、1月初離開東京，這波優惠有方向限制。\"},{\"name\":\"人數門檻\",\"opening\":\"新大阪12,000日圓是每人單程，而且要2人以上同訂。\"},{\"name\":\"選位提醒\",\"opening\":\"這波EX早特初訂不能選座，不是結帳就選好靠窗位。\"},{\"name\":\"平台辨識\",\"opening\":\"EX限定價格不等於其他平台的一般新幹線票也能買到。\"}],\"images\":[{\"description\":\"JR東海區間價格表、乘車日與停售日對照表；商用授權未查明。\",\"url\":\"https://recommend.jr-central.co.jp/exhayatoku-limitedsale/\"}],\"extensions\":[\"延伸內容：跨年東京／關西移動日期比較表；官方EX商品不與第三方一般票混推。\"]}\n\n六本木櫸坂今晚開幕：首日點燈時間不同，別直接照17:00到場\n1/3\n六本木櫸坂今晚11月5日開始今年的點燈，但如果你準備17:00到，先再查一次官方公告：主辦明寫「首日點燈開始時間不同」。\n\n本季到12月25日，通常時間是日本17:00–22:00。今晚確切開始時刻這次未確認，不能把平常時間直接當成開幕時間。\n\n2/3\n約400公尺的櫸坂通會以白藍色「SNOW&BLUE」呈現冬季夜景，街道觀覽免費，可以跟附近晚餐放在同一晚。這不代表森美術館、展望台等其他設施也免費。\n\n官方頁有拍照位置地圖，先選好步行路線；拍照請留在合法通行空間，別為了車道中央的角度衝到路上。\n\n3/3\n日期也要分清楚：櫸坂主線到12月25日，官方另外列的JRA小型動態場景才到12月27日，不是所有項目都同一天結束。\n\n今晚出發前查一次主辦最新安排；後續也可能因人潮或拍攝調整點燈時間。建議搭大眾運輸，先查好回住宿路線。\n官方時間與拍照地圖：https://www.roppongihills.com/sp/christmashills/102/\n{\"angles\":[{\"name\":\"開幕避錯\",\"opening\":\"櫸坂今晚開幕，但首日不能直接照17:00安排。\"},{\"name\":\"夜間行程\",\"opening\":\"東京晚餐後多一個選項：櫸坂11/5–12/25點燈。\"},{\"name\":\"地圖攻略\",\"opening\":\"約400公尺櫸坂夜景，先看官方拍照位置再排路線。\"},{\"name\":\"日期辨識\",\"opening\":\"12/25與12/27是不同項目，別把櫸坂結束日記錯。\"},{\"name\":\"費用範圍\",\"opening\":\"櫸坂街道免費觀覽，不等於附近展望台也免費。\"}],\"images\":[{\"description\":\"官方白藍點燈主視覺、PHOTO SPOT MAP；不是今天現場照，商用授權未確認。\",\"url\":\"https://www.roppongihills.com/sp/christmashills/102/\"}],\"extensions\":[\"可延伸商業內容：六本木住宿與晚餐後散步路線；商品連結僅在獨立留言。\"]}\n\n新潟松雲山莊今晚開始免費夜間點燈，開幕不等於楓葉全紅\n1/3\n今天11月5日，新潟柏崎的松雲山莊開始夜間點燈，庭園入場免費，本季到11月29日。日本時間日落約17:00開始，亮到21:00。\n\n如果你剛好在新潟附近，這是一個可考慮的晚間行程；但開幕日不等於楓葉全紅，本次還沒有確認今天的現場葉況。\n\n2/3\n免費的是庭園入場，不是所有體驗。茶席、美術館、部分停車都有另外的費用或規則，不要看到「免費點燈」就把整段行程當零花費。\n\n松雲山莊平常開到17:00，只有點燈期間延長到21:00。先選好抵達及回程方式，再決定留到幾點；這次沒有核實末班巴士，別用閉園時間推算還有車。\n\n3/3\n想以紅葉顏色為主要目的，出發前再查柏崎市的葉況與活動公告。網路宣傳照可能是往年，搜尋結果的更新日期也不一定等於原頁的最新觀測。\n\n把「有點燈」和「已見頃」分開看，才不會為了一張紅葉照片改整趟路線。\n官方本季時間與付帶項目：https://www.city.kashiwazaki.lg.jp/event_information/43629.html\n{\"angles\":[{\"name\":\"地方新行程\",\"opening\":\"松雲山莊今晚開始夜間點燈，柏崎晚餐後多一個選項。\"},{\"name\":\"葉況辨識\",\"opening\":\"今天開幕，不等於松雲山莊今天就全紅。\"},{\"name\":\"免費範圍\",\"opening\":\"庭園免費，但茶席與部分停車另計。\"},{\"name\":\"回程規劃\",\"opening\":\"點燈到21:00，不代表末班巴士也等到那時。\"},{\"name\":\"資料避錯\",\"opening\":\"搜尋摘要的新日期，不一定是今天的紅葉實況。\"}],\"images\":[{\"description\":\"柏崎市庭園及夜間宣傳照，應標示宣傳照片，不當11/5實況；商用授權未確認。\",\"url\":\"https://www.city.kashiwazaki.lg.jp/event_information/43629.html\"}],\"extensions\":[\"延伸內容：柏崎夜間行程與葉況查詢；先補交通查核，不硬接商品。\"]}"
+}
