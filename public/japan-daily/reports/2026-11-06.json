@@ -1,0 +1,1557 @@
+{
+  "date": "2026-11-06",
+  "cutoff": "2026-11-06 10:06 Asia/Taipei（日本11:06 Asia/Tokyo）",
+  "scopeNote": "本期15個不同事件線索，2題完成主要事實交叉核對，13題仍僅線索、未入選，不虛構分數。全國搜尋涵蓋多區，但北陸／中部等未取得合格新題，並非完整全國監測。原始社群搜尋未取得合格樣本，不能建立熱榜；精選依編輯分數90、86由優到弱，未確認熱度不等於熱度低。昨天四題無已核實新進展，不重複刊登。",
+  "trends": [
+    "已查證：長瀞月之石紅葉公園11/6開始夜間活動。",
+    "已查證：長瀞11/5觀測仍逐漸轉色，並非見頃。",
+    "已查證：御船山樂園11/6開幕，日間與夜間票須區分。",
+    "編輯觀察：點燈開始與紅葉實況是不同訊息，行程應分別確認。",
+    "查核限制：兩題均未取得合格社群熱度證據，不能稱爆紅。",
+    "平台限制：KKday御船山商品標題與內文不同，長瀞商品未核2026；不為分潤硬推。"
+  ],
+  "choice": {
+    "id": "nagatoro-lightup-20261106",
+    "title": "長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色",
+    "score": 90,
+    "reason": "500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。",
+    "versusSecond": "長瀞有前一日葉況與明確現地購票方法，對近郊自由行更容易立即採用；御船山當日葉況與付款仍待核。",
+    "publishAt": "11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "11月東京近郊自由行旅客",
+    "lifecycle": "1週"
+  },
+  "top10": [
+    {
+      "id": "nagatoro-lightup-20261106",
+      "title": "長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色",
+      "region": "關東／埼玉縣長瀞町月之石紅葉公園",
+      "category": "季節情報／票券",
+      "announcementDate": "活動頁2026/10/25；10/26另公告網頁公開；最新葉況11/5，無時刻",
+      "eventDate": "2026/11/6–11/29 16:00–21:00（日本時間）",
+      "freshness": "今天開始例外；原活動公告超過7天，葉況11/5不冒稱精確24小時",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "why": "500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。",
+      "facts": "官方活動頁與Enjoy Tokyo、Jorudan交叉核對期間與夜間活動。中學生以上500日圓入場通行證，紅葉祭期間可多次進入公園；小學生以下免費。今日起現地16–21時販售。上長瀞站步行5分鐘。11/5官方觀測為色づき進む，並非全紅或見頃。官方未列國籍限制。活動可能因葉況調整或人流管制；回程末班與即時天候未核，不承諾隨到隨入。",
+      "sources": [
+        {
+          "label": "觀光協會活動原頁",
+          "url": "https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/"
+        },
+        {
+          "label": "11/5官方葉況",
+          "url": "https://www.nagatoro.gr.jp/category/news/"
+        },
+        {
+          "label": "Enjoy Tokyo活動詳情",
+          "url": "https://www.enjoytokyo.jp/event/705945/"
+        },
+        {
+          "label": "Jorudan 10/27活動說明",
+          "url": "https://sp.jorudan.co.jp/leaf/news/jrd_261027_3.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "夜遊有住宿需求，但東京往返亦可；須先核回程及飯店位置，不能把住宿當門票。",
+        "products": [
+          "活動地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "長瀞列表原頁讀取Cache miss；未推薦：https://www.trip.com/hotels/nagatoro-chang-jing/hotels-c111728m21763312/",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "長瀞及周邊住宿列表",
+              "url": "https://www.booking.com/city/jp/nagatoro.html",
+              "kind": "住宿列表",
+              "reason": "供夜遊後住宿比較；頁面亦混列周邊城市，逐家確認距離。",
+              "checks": "不是含夜楓門票方案；實際日期、交通與接送另查。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀154954長瀞夜楓行程，但頁面未找到2026日期，快取較舊，未確認本季可用，不推薦或自動帶入。原頁：https://www.kkday.com/ja/product/154954-saitama-maple-viewing-tour-tsuki-no-ishi-momiji-park-illumination-nagatoro-river-cruise-tokyo",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "長瀞紅葉點燈搜尋未取得可核對商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com 長瀞 2026 11月 紅葉",
+          "site:facebook.com 長瀞 紅葉 2026 11月",
+          "site:instagram.com 長瀞 紅葉 2026 11月5日",
+          "site:dcard.tw 御船山 長瀞 2026",
+          "site:tiktok.com 長瀞 紅葉 2026",
+          "site:youtube.com 長瀞 紅葉 2026 11月5日"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "東京近郊看夜楓，長瀞今天開始點燈。500日圓買的是可重訪的入場通行證，不只是一次進場。\n\n月之石紅葉公園活動是11/6～11/29、日本時間16:00～21:00。不過11/5官方葉況仍是「逐漸轉色」，想看整片紅葉的人，先別把開幕日當成最佳觀賞日。",
+          "怎麼安排比較順？公園從上長瀞站走約5分鐘，今天起通行證在現地16:00～21:00販售。\n\n中學生以上500日圓，小學生以下免費；官方說明可在紅葉祭期間多次進入公園。保留票券，也先查好當天回程班次，21:00是活動結束時間，不是已確認的末班車時間。",
+          "我會先比較出發前最新葉況，再決定現在去看點燈，或稍後再排賞楓。日期可能隨葉況調整，人多也可能管制入場，別把行程壓得太滿。\n\n活動、售票及限制看官方：https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/\n葉況另看：https://www.nagatoro.gr.jp/category/news/"
+        ],
+        "angles": [
+          {
+            "name": "票券",
+            "opening": "500日圓的長瀞夜楓票，可以在紅葉祭期間重訪。"
+          },
+          {
+            "name": "葉況",
+            "opening": "長瀞今天點燈，但昨天官方葉況還不是見頃。"
+          },
+          {
+            "name": "交通",
+            "opening": "從上長瀞站走5分鐘的夜楓，先把回程班次查好。"
+          },
+          {
+            "name": "親子",
+            "opening": "長瀞夜楓中學生以上500日圓，小學生以下免費。"
+          },
+          {
+            "name": "售票",
+            "opening": "今天起長瀞夜楓票改在現地16:00～21:00販售。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動頁的庭園照片、日期與票價說明。素材可找到，但商用及轉載授權未核；不可將示意圖標成今日實況。",
+            "url": "https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：活動地區住宿與夜間交通攻略；房價、庫存、接送與門票包含項目分別確認。"
+        ]
+      }
+    },
+    {
+      "id": "mifuneyama-autumn-20261106",
+      "title": "御船山樂園紅葉祭今天開始：夜票600日圓，日夜共通900日圓",
+      "region": "九州／佐賀縣武雄市御船山樂園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方季節頁未標首次公告日；非今日新公告，因11/6開幕例外納入",
+      "eventDate": "2026/11/6–12/6；日間8:00–17:30、夜間17:30–22:00（日本時間）",
+      "freshness": "今天開幕例外；首次公布日期尚未確認，不列A級新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "why": "九州秋季行程能直接比較單時段與日夜票；持續一個月，還有規劃窗口。",
+      "facts": "官方季節頁、飯店在樂天的自有資訊頁，以及生活部落格交叉核對日期與票價；飯店與園區屬相關來源，不稱獨立採訪。成人定義中學生以上；單時段600日圓、小學生300日圓；共通票900／400日圓。官方雨天照常，並未保證惡劣天候永不取消。未取得今天葉況，不寫已全紅。官網未明示一般入園必須預約；售票方式與付款工具尚未完全確認，出發前向園方核對。22:00為夜間開園結束，非最後入場時刻。",
+      "sources": [
+        {
+          "label": "園區官方",
+          "url": "https://www.mifuneyamarakuen.jp/autumn/"
+        },
+        {
+          "label": "飯店自有樂天頁",
+          "url": "https://hotel.travel.rakuten.co.jp/hinfo/13417/"
+        },
+        {
+          "label": "外部日期票價交叉核對",
+          "url": "https://yuuekiinfo.com/archives/6285"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然延伸武雄住宿；一日團須確認包含夜楓且適用2026，不能僅憑賞楓標題推薦。",
+        "products": [
+          "活動地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "御船山樂園飯店",
+              "url": "https://www.trip.com/hotels/takeo-hotel-detail-1498444/mifuneyama-rakuen-hotel",
+              "kind": "商品頁",
+              "reason": "已核對武雄4100及鄰近園區，適合比較夜遊住宿。",
+              "checks": "日期、入住人數、餐食、入園優惠的確認方式與庫存待核。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "武雄住宿列表",
+              "url": "https://www.booking.com/city/jp/takeo.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "可比較武雄溫泉住宿，並非全部步行可達園區。",
+              "checks": "讀取內容含較舊日曆；僅核對目的地，不採房價與空房。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀533587，頁面標題與內文列出的景點有差異，夜楓時段與2026適用日未確認，排除推薦。https://www.kkday.com/ja/product/533587",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀165406，套票區顯示無可選方案；未核對指定日期成團與夜楓包含，暫不推薦。https://www.klook.com/ja/activity/165406-autumn-only-kyushu-saga-fall-color-viewing-day-tour-chinese-and/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:x.com 御船山楽園 2026 11月5日",
+          "site:dcard.tw 御船山 長瀞 2026"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "九州賞楓想同時看白天和夜景，御船山樂園要選對票。11/6今天開始紅葉祭：成人單看日間或夜間600日圓，日夜共通900日圓。\n\n活動到12/6，地點在佐賀武雄。這是活動開幕消息，今天的實際紅葉程度尚未核實，不能直接當成滿紅保證。",
+          "時段和票種一起看：\n・日間8:00～17:30；夜間17:30～22:00。\n・中學生以上：單時段600、日夜共通900日圓。\n・小學生：單時段300、日夜共通400日圓。\n\n以上是日本時間與入園費；餐飲另計。22:00是夜間開園結束時間，最後入場時刻及付款方式，出發前還要向園方確認。",
+          "想排武雄一日遊，先決定要看白天、夜間，還是兩個時段，再安排交通或住宿。別把名稱有「御船山賞楓」的一日團，直接當成包含晚間點燈。\n\n官方列雨天照常，但仍應在出發前確認臨時公告與回程安排。園區照片可以參考景觀，不能當成今天實況。\n官方日期、票價與注意事項：https://www.mifuneyamarakuen.jp/autumn/"
+        ],
+        "angles": [
+          {
+            "name": "票種",
+            "opening": "御船山單時段600、日夜共通900日圓，先決定要看哪個時段。"
+          },
+          {
+            "name": "消息",
+            "opening": "御船山紅葉祭今天開始，到12/6都有安排窗口。"
+          },
+          {
+            "name": "避雷",
+            "opening": "有御船山的賞楓團，不一定含17:30後的夜景。"
+          },
+          {
+            "name": "行程",
+            "opening": "武雄夜楓開園到22:00，交通安排得另外查。"
+          },
+          {
+            "name": "葉況",
+            "opening": "紅葉祭開幕不代表全紅；御船山今天葉況仍待確認。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動頁的庭園照片、日期與票價說明。素材可找到，但商用及轉載授權未核；不可將示意圖標成今日實況。",
+            "url": "https://www.mifuneyamarakuen.jp/autumn/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：活動地區住宿與夜間交通攻略；房價、庫存、接送與門票包含項目分別確認。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "nagatoro-lightup-20261106",
+      "title": "長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色",
+      "region": "關東／埼玉縣長瀞町月之石紅葉公園",
+      "category": "季節情報／票券",
+      "announcementDate": "活動頁2026/10/25；10/26另公告網頁公開；最新葉況11/5，無時刻",
+      "eventDate": "2026/11/6–11/29 16:00–21:00（日本時間）",
+      "freshness": "今天開始例外；原活動公告超過7天，葉況11/5不冒稱精確24小時",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "why": "500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。",
+      "facts": "官方活動頁與Enjoy Tokyo、Jorudan交叉核對期間與夜間活動。中學生以上500日圓入場通行證，紅葉祭期間可多次進入公園；小學生以下免費。今日起現地16–21時販售。上長瀞站步行5分鐘。11/5官方觀測為色づき進む，並非全紅或見頃。官方未列國籍限制。活動可能因葉況調整或人流管制；回程末班與即時天候未核，不承諾隨到隨入。",
+      "sources": [
+        {
+          "label": "觀光協會活動原頁",
+          "url": "https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/"
+        },
+        {
+          "label": "11/5官方葉況",
+          "url": "https://www.nagatoro.gr.jp/category/news/"
+        },
+        {
+          "label": "Enjoy Tokyo活動詳情",
+          "url": "https://www.enjoytokyo.jp/event/705945/"
+        },
+        {
+          "label": "Jorudan 10/27活動說明",
+          "url": "https://sp.jorudan.co.jp/leaf/news/jrd_261027_3.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "夜遊有住宿需求，但東京往返亦可；須先核回程及飯店位置，不能把住宿當門票。",
+        "products": [
+          "活動地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "長瀞列表原頁讀取Cache miss；未推薦：https://www.trip.com/hotels/nagatoro-chang-jing/hotels-c111728m21763312/",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "長瀞及周邊住宿列表",
+              "url": "https://www.booking.com/city/jp/nagatoro.html",
+              "kind": "住宿列表",
+              "reason": "供夜遊後住宿比較；頁面亦混列周邊城市，逐家確認距離。",
+              "checks": "不是含夜楓門票方案；實際日期、交通與接送另查。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀154954長瀞夜楓行程，但頁面未找到2026日期，快取較舊，未確認本季可用，不推薦或自動帶入。原頁：https://www.kkday.com/ja/product/154954-saitama-maple-viewing-tour-tsuki-no-ishi-momiji-park-illumination-nagatoro-river-cruise-tokyo",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "長瀞紅葉點燈搜尋未取得可核對商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com 長瀞 2026 11月 紅葉",
+          "site:facebook.com 長瀞 紅葉 2026 11月",
+          "site:instagram.com 長瀞 紅葉 2026 11月5日",
+          "site:dcard.tw 御船山 長瀞 2026",
+          "site:tiktok.com 長瀞 紅葉 2026",
+          "site:youtube.com 長瀞 紅葉 2026 11月5日"
+        ]
+      }
+    },
+    {
+      "id": "mifuneyama-autumn-20261106",
+      "title": "御船山樂園紅葉祭今天開始：夜票600日圓，日夜共通900日圓",
+      "region": "九州／佐賀縣武雄市御船山樂園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方季節頁未標首次公告日；非今日新公告，因11/6開幕例外納入",
+      "eventDate": "2026/11/6–12/6；日間8:00–17:30、夜間17:30–22:00（日本時間）",
+      "freshness": "今天開幕例外；首次公布日期尚未確認，不列A級新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "why": "九州秋季行程能直接比較單時段與日夜票；持續一個月，還有規劃窗口。",
+      "facts": "官方季節頁、飯店在樂天的自有資訊頁，以及生活部落格交叉核對日期與票價；飯店與園區屬相關來源，不稱獨立採訪。成人定義中學生以上；單時段600日圓、小學生300日圓；共通票900／400日圓。官方雨天照常，並未保證惡劣天候永不取消。未取得今天葉況，不寫已全紅。官網未明示一般入園必須預約；售票方式與付款工具尚未完全確認，出發前向園方核對。22:00為夜間開園結束，非最後入場時刻。",
+      "sources": [
+        {
+          "label": "園區官方",
+          "url": "https://www.mifuneyamarakuen.jp/autumn/"
+        },
+        {
+          "label": "飯店自有樂天頁",
+          "url": "https://hotel.travel.rakuten.co.jp/hinfo/13417/"
+        },
+        {
+          "label": "外部日期票價交叉核對",
+          "url": "https://yuuekiinfo.com/archives/6285"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "可自然延伸武雄住宿；一日團須確認包含夜楓且適用2026，不能僅憑賞楓標題推薦。",
+        "products": [
+          "活動地區住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 17,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "publishDecision": "現在發",
+      "publishAt": "11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "御船山樂園飯店",
+              "url": "https://www.trip.com/hotels/takeo-hotel-detail-1498444/mifuneyama-rakuen-hotel",
+              "kind": "商品頁",
+              "reason": "已核對武雄4100及鄰近園區，適合比較夜遊住宿。",
+              "checks": "日期、入住人數、餐食、入園優惠的確認方式與庫存待核。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。",
+          "pages": [
+            {
+              "title": "武雄住宿列表",
+              "url": "https://www.booking.com/city/jp/takeo.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "可比較武雄溫泉住宿，並非全部步行可達園區。",
+              "checks": "讀取內容含較舊日曆；僅核對目的地，不採房價與空房。",
+              "checkedAt": "2026-11-06T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀533587，頁面標題與內文列出的景點有差異，夜楓時段與2026適用日未確認，排除推薦。https://www.kkday.com/ja/product/533587",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀165406，套票區顯示無可選方案；未核對指定日期成團與夜楓包含，暫不推薦。https://www.klook.com/ja/activity/165406-autumn-only-kyushu-saga-fall-color-viewing-day-tour-chinese-and/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:x.com 御船山楽園 2026 11月5日",
+          "site:dcard.tw 御船山 長瀞 2026"
+        ]
+      }
+    },
+    {
+      "id": "lead-20261106-0",
+      "title": "上野東京Christmas Advent",
+      "category": "活動",
+      "region": "東京",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.enjoytokyo.jp/event/list/its17/"
+        }
+      ],
+      "reason": "索引列11/6開幕；未取得主辦完整原頁與各區域條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-1",
+      "title": "御堂筋點燈",
+      "category": "活動",
+      "region": "大阪",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.japan47go.travel/ja/event"
+        }
+      ],
+      "reason": "索引列11/3開始；未取得今天新進展，不重包裝。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-2",
+      "title": "森のまつり",
+      "category": "活動",
+      "region": "靜岡",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.japan47go.travel/ja/event"
+        }
+      ],
+      "reason": "索引列11/6–8，交通管制與官方詳細時程未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-3",
+      "title": "巢鴨中山道菊祭",
+      "category": "活動",
+      "region": "東京",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.japan47go.travel/ja/event"
+        }
+      ],
+      "reason": "索引列11/6–14；缺第二來源及完整行動資訊。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-4",
+      "title": "かの’nこと清流Fes.",
+      "category": "活動",
+      "region": "山口",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.japan47go.travel/ja/event"
+        }
+      ],
+      "reason": "索引列11/6–23，內容與適用條件未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-5",
+      "title": "東京各地Open Factory",
+      "category": "旅遊",
+      "region": "東京青梅等",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.gotokyo.org/jp/event/openfactory/202611.html"
+        }
+      ],
+      "reason": "有官方活動線索，但各場預約、語言及名額未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-6",
+      "title": "Art Collaboration Kyoto",
+      "category": "活動",
+      "region": "京都",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://japanwhatson.com/ja/months/2026-11/"
+        }
+      ],
+      "reason": "索引列11/7–9，尚未完成官方交叉查證。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-7",
+      "title": "門司港Grandmarket",
+      "category": "活動",
+      "region": "福岡",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://tech-kawasaki.jp/fairs/calendar/2026-11"
+        }
+      ],
+      "reason": "索引列11/6–8；營業及雨備未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-8",
+      "title": "北海道Premium Pass",
+      "category": "票券",
+      "region": "北海道",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://prtimes.jp/main/html/rd/p/000000020.000180800.html"
+        }
+      ],
+      "reason": "索引列11/2推出，未完成第二來源及外國旅客使用限制核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-9",
+      "title": "松島紅葉點燈",
+      "category": "季節情報",
+      "region": "宮城",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://rikyu-m.com/koyo/"
+        }
+      ],
+      "reason": "找到11/2更新索引；未確認新進展與票價，不納入精選。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-10",
+      "title": "沖繩残波點燈",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.benly.com/prefecture.php?area=okinawa&ym=2026-11"
+        }
+      ],
+      "reason": "索引列11/5，主辦原頁與外客進場資格未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-11",
+      "title": "沖繩MONGOL800音樂祭",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://www.matsuri-dokoro.jp/ja/day/okinawa"
+        }
+      ],
+      "reason": "索引列週末舉辦；售票狀態與交通未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261106-12",
+      "title": "佐田岬馬拉松交通",
+      "category": "交通",
+      "region": "四國愛媛",
+      "announcementDate": "首次公告日期未核",
+      "eventDate": "見線索，未完成查核",
+      "sources": [
+        {
+          "label": "搜尋線索，非已完成查證",
+          "url": "https://ehime-now.com/events/month/2026-11"
+        }
+      ],
+      "reason": "找到停車與接駁線索，未讀到官方管制內容，不寫確定影響。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成新聞查核",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。",
+        "assessedOn": "2026-11-06"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚無核對適用的推薦頁面，不代表平台沒有販售。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-06T10:06:14+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "長瀞首晚及週末葉況",
+      "next": "未來24–72小時查看官方新照片、管制與變色進度；不預測一定見頃。",
+      "sources": [
+        {
+          "label": "官方更新",
+          "url": "https://www.nagatoro.gr.jp/category/news/"
+        }
+      ]
+    },
+    {
+      "title": "御船山夜楓與實際售票",
+      "next": "追查首晚公告、最新葉況及售票／付款方式；開幕不代表滿紅。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.mifuneyamarakuen.jp/autumn/"
+        }
+      ]
+    },
+    {
+      "title": "上野聖誕活動各區開放",
+      "next": "索引指向分區開幕，須補主辦原頁和收費／預約條件後才推薦。",
+      "sources": [
+        {
+          "label": "待查索引",
+          "url": "https://www.enjoytokyo.jp/event/list/its17/"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-11-06T10:06:14+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 2,
+    "qualifiedTopicCount": 0,
+    "limitation": "只有兩個精選完成針對性社群索引補查，非全部15題；未完成平台內建搜尋。沒有兩位作者的原文、時間及讚／留言，故不建熱榜。",
+    "platformAccess": {
+      "Threads": "長瀞查詢無合格原文",
+      "Facebook": "長瀞查詢無合格原文",
+      "Instagram": "長瀞查詢無合格原文",
+      "X": "御船山查詢無合格原文",
+      "Dcard": "兩地查詢無合格原文",
+      "PTT": "日本11/5廣搜多為舊文或不相關事件，未納入",
+      "TikTok": "robots限制；搜尋混入泛旅遊舊內容",
+      "YouTube": "長瀞日期查詢無合格原文"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-06\n搜尋截止：2026-11-06 10:06 Asia/Taipei（日本11:06 Asia/Tokyo）\n本期15個不同事件線索，2題完成主要事實交叉核對，13題仍僅線索、未入選，不虛構分數。全國搜尋涵蓋多區，但北陸／中部等未取得合格新題，並非完整全國監測。原始社群搜尋未取得合格樣本，不能建立熱榜；精選依編輯分數90、86由優到弱，未確認熱度不等於熱度低。昨天四題無已核實新進展，不重複刊登。\n\n【今天日本發生什麼】\n已查證：長瀞月之石紅葉公園11/6開始夜間活動。\n已查證：長瀞11/5觀測仍逐漸轉色，並非見頃。\n已查證：御船山樂園11/6開幕，日間與夜間票須區分。\n編輯觀察：點燈開始與紅葉實況是不同訊息，行程應分別確認。\n查核限制：兩題均未取得合格社群熱度證據，不能稱爆紅。\n平台限制：KKday御船山商品標題與內文不同，長瀞商品未核2026；不為分潤硬推。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數與星等皆編輯預估，非驗證熱度。\n【精選完整查核】\n[\n  {\n    \"id\": \"nagatoro-lightup-20261106\",\n    \"title\": \"長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色\",\n    \"region\": \"關東／埼玉縣長瀞町月之石紅葉公園\",\n    \"category\": \"季節情報／票券\",\n    \"announcementDate\": \"活動頁2026/10/25；10/26另公告網頁公開；最新葉況11/5，無時刻\",\n    \"eventDate\": \"2026/11/6–11/29 16:00–21:00（日本時間）\",\n    \"freshness\": \"今天開始例外；原活動公告超過7天，葉況11/5不冒稱精確24小時\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"why\": \"500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。\",\n    \"facts\": \"官方活動頁與Enjoy Tokyo、Jorudan交叉核對期間與夜間活動。中學生以上500日圓入場通行證，紅葉祭期間可多次進入公園；小學生以下免費。今日起現地16–21時販售。上長瀞站步行5分鐘。11/5官方觀測為色づき進む，並非全紅或見頃。官方未列國籍限制。活動可能因葉況調整或人流管制；回程末班與即時天候未核，不承諾隨到隨入。\",\n    \"sources\": [\n      {\n        \"label\": \"觀光協會活動原頁\",\n        \"url\": \"https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/\"\n      },\n      {\n        \"label\": \"11/5官方葉況\",\n        \"url\": \"https://www.nagatoro.gr.jp/category/news/\"\n      },\n      {\n        \"label\": \"Enjoy Tokyo活動詳情\",\n        \"url\": \"https://www.enjoytokyo.jp/event/705945/\"\n      },\n      {\n        \"label\": \"Jorudan 10/27活動說明\",\n        \"url\": \"https://sp.jorudan.co.jp/leaf/news/jrd_261027_3.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"夜遊有住宿需求，但東京往返亦可；須先核回程及飯店位置，不能把住宿當門票。\",\n      \"products\": [\n        \"活動地區住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1週\",\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"長瀞列表原頁讀取Cache miss；未推薦：https://www.trip.com/hotels/nagatoro-chang-jing/hotels-c111728m21763312/\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"長瀞及周邊住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/nagatoro.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供夜遊後住宿比較；頁面亦混列周邊城市，逐家確認距離。\",\n            \"checks\": \"不是含夜楓門票方案；實際日期、交通與接送另查。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀154954長瀞夜楓行程，但頁面未找到2026日期，快取較舊，未確認本季可用，不推薦或自動帶入。原頁：https://www.kkday.com/ja/product/154954-saitama-maple-viewing-tour-tsuki-no-ishi-momiji-park-illumination-nagatoro-river-cruise-tokyo\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"長瀞紅葉點燈搜尋未取得可核對商品頁。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com 長瀞 2026 11月 紅葉\",\n        \"site:facebook.com 長瀞 紅葉 2026 11月\",\n        \"site:instagram.com 長瀞 紅葉 2026 11月5日\",\n        \"site:dcard.tw 御船山 長瀞 2026\",\n        \"site:tiktok.com 長瀞 紅葉 2026\",\n        \"site:youtube.com 長瀞 紅葉 2026 11月5日\"\n      ]\n    }\n  },\n  {\n    \"id\": \"mifuneyama-autumn-20261106\",\n    \"title\": \"御船山樂園紅葉祭今天開始：夜票600日圓，日夜共通900日圓\",\n    \"region\": \"九州／佐賀縣武雄市御船山樂園\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"官方季節頁未標首次公告日；非今日新公告，因11/6開幕例外納入\",\n    \"eventDate\": \"2026/11/6–12/6；日間8:00–17:30、夜間17:30–22:00（日本時間）\",\n    \"freshness\": \"今天開幕例外；首次公布日期尚未確認，不列A級新公告\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"why\": \"九州秋季行程能直接比較單時段與日夜票；持續一個月，還有規劃窗口。\",\n    \"facts\": \"官方季節頁、飯店在樂天的自有資訊頁，以及生活部落格交叉核對日期與票價；飯店與園區屬相關來源，不稱獨立採訪。成人定義中學生以上；單時段600日圓、小學生300日圓；共通票900／400日圓。官方雨天照常，並未保證惡劣天候永不取消。未取得今天葉況，不寫已全紅。官網未明示一般入園必須預約；售票方式與付款工具尚未完全確認，出發前向園方核對。22:00為夜間開園結束，非最後入場時刻。\",\n    \"sources\": [\n      {\n        \"label\": \"園區官方\",\n        \"url\": \"https://www.mifuneyamarakuen.jp/autumn/\"\n      },\n      {\n        \"label\": \"飯店自有樂天頁\",\n        \"url\": \"https://hotel.travel.rakuten.co.jp/hinfo/13417/\"\n      },\n      {\n        \"label\": \"外部日期票價交叉核對\",\n        \"url\": \"https://yuuekiinfo.com/archives/6285\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"可自然延伸武雄住宿；一日團須確認包含夜楓且適用2026，不能僅憑賞楓標題推薦。\",\n      \"products\": [\n        \"活動地區住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"score\": 86,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 17,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1週\",\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"御船山樂園飯店\",\n            \"url\": \"https://www.trip.com/hotels/takeo-hotel-detail-1498444/mifuneyama-rakuen-hotel\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"已核對武雄4100及鄰近園區，適合比較夜遊住宿。\",\n            \"checks\": \"日期、入住人數、餐食、入園優惠的確認方式與庫存待核。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"武雄住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/takeo.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"可比較武雄溫泉住宿，並非全部步行可達園區。\",\n            \"checks\": \"讀取內容含較舊日曆；僅核對目的地，不採房價與空房。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀533587，頁面標題與內文列出的景點有差異，夜楓時段與2026適用日未確認，排除推薦。https://www.kkday.com/ja/product/533587\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已讀165406，套票區顯示無可選方案；未核對指定日期成團與夜楓包含，暫不推薦。https://www.klook.com/ja/activity/165406-autumn-only-kyushu-saga-fall-color-viewing-day-tour-chinese-and/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:x.com 御船山楽園 2026 11月5日\",\n        \"site:dcard.tw 御船山 長瀞 2026\"\n      ]\n    }\n  }\n]\n【候選池未入選紀錄】\n[\n  {\n    \"id\": \"lead-20261106-0\",\n    \"title\": \"上野東京Christmas Advent\",\n    \"category\": \"活動\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.enjoytokyo.jp/event/list/its17/\"\n      }\n    ],\n    \"reason\": \"索引列11/6開幕；未取得主辦完整原頁與各區域條件。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-1\",\n    \"title\": \"御堂筋點燈\",\n    \"category\": \"活動\",\n    \"region\": \"大阪\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/3開始；未取得今天新進展，不重包裝。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-2\",\n    \"title\": \"森のまつり\",\n    \"category\": \"活動\",\n    \"region\": \"靜岡\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–8，交通管制與官方詳細時程未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-3\",\n    \"title\": \"巢鴨中山道菊祭\",\n    \"category\": \"活動\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–14；缺第二來源及完整行動資訊。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-4\",\n    \"title\": \"かの’nこと清流Fes.\",\n    \"category\": \"活動\",\n    \"region\": \"山口\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–23，內容與適用條件未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-5\",\n    \"title\": \"東京各地Open Factory\",\n    \"category\": \"旅遊\",\n    \"region\": \"東京青梅等\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.gotokyo.org/jp/event/openfactory/202611.html\"\n      }\n    ],\n    \"reason\": \"有官方活動線索，但各場預約、語言及名額未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-6\",\n    \"title\": \"Art Collaboration Kyoto\",\n    \"category\": \"活動\",\n    \"region\": \"京都\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://japanwhatson.com/ja/months/2026-11/\"\n      }\n    ],\n    \"reason\": \"索引列11/7–9，尚未完成官方交叉查證。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-7\",\n    \"title\": \"門司港Grandmarket\",\n    \"category\": \"活動\",\n    \"region\": \"福岡\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://tech-kawasaki.jp/fairs/calendar/2026-11\"\n      }\n    ],\n    \"reason\": \"索引列11/6–8；營業及雨備未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-8\",\n    \"title\": \"北海道Premium Pass\",\n    \"category\": \"票券\",\n    \"region\": \"北海道\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000020.000180800.html\"\n      }\n    ],\n    \"reason\": \"索引列11/2推出，未完成第二來源及外國旅客使用限制核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-9\",\n    \"title\": \"松島紅葉點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"宮城\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://rikyu-m.com/koyo/\"\n      }\n    ],\n    \"reason\": \"找到11/2更新索引；未確認新進展與票價，不納入精選。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-10\",\n    \"title\": \"沖繩残波點燈\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.benly.com/prefecture.php?area=okinawa&ym=2026-11\"\n      }\n    ],\n    \"reason\": \"索引列11/5，主辦原頁與外客進場資格未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-11\",\n    \"title\": \"沖繩MONGOL800音樂祭\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.matsuri-dokoro.jp/ja/day/okinawa\"\n      }\n    ],\n    \"reason\": \"索引列週末舉辦；售票狀態與交通未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-12\",\n    \"title\": \"佐田岬馬拉松交通\",\n    \"category\": \"交通\",\n    \"region\": \"四國愛媛\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://ehime-now.com/events/month/2026-11\"\n      }\n    ],\n    \"reason\": \"找到停車與接駁線索，未讀到官方管制內容，不寫確定影響。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群限制】\n{\n  \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 2,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"只有兩個精選完成針對性社群索引補查，非全部15題；未完成平台內建搜尋。沒有兩位作者的原文、時間及讚／留言，故不建熱榜。\",\n  \"platformAccess\": {\n    \"Threads\": \"長瀞查詢無合格原文\",\n    \"Facebook\": \"長瀞查詢無合格原文\",\n    \"Instagram\": \"長瀞查詢無合格原文\",\n    \"X\": \"御船山查詢無合格原文\",\n    \"Dcard\": \"兩地查詢無合格原文\",\n    \"PTT\": \"日本11/5廣搜多為舊文或不相關事件，未納入\",\n    \"TikTok\": \"robots限制；搜尋混入泛旅遊舊內容\",\n    \"YouTube\": \"長瀞日期查詢無合格原文\"\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"nagatoro-lightup-20261106\",\n  \"title\": \"長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色\",\n  \"score\": 90,\n  \"reason\": \"500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。\",\n  \"versusSecond\": \"長瀞有前一日葉況與明確現地購票方法，對近郊自由行更容易立即採用；御船山當日葉況與付款仍待核。\",\n  \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"11月東京近郊自由行旅客\",\n  \"lifecycle\": \"1週\"\n}\n【明天追蹤】\n[\n  {\n    \"title\": \"長瀞首晚及週末葉況\",\n    \"next\": \"未來24–72小時查看官方新照片、管制與變色進度；不預測一定見頃。\",\n    \"sources\": [\n      {\n        \"label\": \"官方更新\",\n        \"url\": \"https://www.nagatoro.gr.jp/category/news/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"御船山夜楓與實際售票\",\n    \"next\": \"追查首晚公告、最新葉況及售票／付款方式；開幕不代表滿紅。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.mifuneyamarakuen.jp/autumn/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"上野聖誕活動各區開放\",\n    \"next\": \"索引指向分區開幕，須補主辦原頁和收費／預約條件後才推薦。\",\n    \"sources\": [\n      {\n        \"label\": \"待查索引\",\n        \"url\": \"https://www.enjoytokyo.jp/event/list/its17/\"\n      }\n    ]\n  }\n]",
+  "fullText": "日本每日內容雷達\n2026-11-06\n搜尋截止：2026-11-06 10:06 Asia/Taipei（日本11:06 Asia/Tokyo）\n本期15個不同事件線索，2題完成主要事實交叉核對，13題仍僅線索、未入選，不虛構分數。全國搜尋涵蓋多區，但北陸／中部等未取得合格新題，並非完整全國監測。原始社群搜尋未取得合格樣本，不能建立熱榜；精選依編輯分數90、86由優到弱，未確認熱度不等於熱度低。昨天四題無已核實新進展，不重複刊登。\n\n【今天日本發生什麼】\n已查證：長瀞月之石紅葉公園11/6開始夜間活動。\n已查證：長瀞11/5觀測仍逐漸轉色，並非見頃。\n已查證：御船山樂園11/6開幕，日間與夜間票須區分。\n編輯觀察：點燈開始與紅葉實況是不同訊息，行程應分別確認。\n查核限制：兩題均未取得合格社群熱度證據，不能稱爆紅。\n平台限制：KKday御船山商品標題與內文不同，長瀞商品未核2026；不為分潤硬推。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數與星等皆編輯預估，非驗證熱度。\n【精選完整查核】\n[\n  {\n    \"id\": \"nagatoro-lightup-20261106\",\n    \"title\": \"長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色\",\n    \"region\": \"關東／埼玉縣長瀞町月之石紅葉公園\",\n    \"category\": \"季節情報／票券\",\n    \"announcementDate\": \"活動頁2026/10/25；10/26另公告網頁公開；最新葉況11/5，無時刻\",\n    \"eventDate\": \"2026/11/6–11/29 16:00–21:00（日本時間）\",\n    \"freshness\": \"今天開始例外；原活動公告超過7天，葉況11/5不冒稱精確24小時\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"why\": \"500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。\",\n    \"facts\": \"官方活動頁與Enjoy Tokyo、Jorudan交叉核對期間與夜間活動。中學生以上500日圓入場通行證，紅葉祭期間可多次進入公園；小學生以下免費。今日起現地16–21時販售。上長瀞站步行5分鐘。11/5官方觀測為色づき進む，並非全紅或見頃。官方未列國籍限制。活動可能因葉況調整或人流管制；回程末班與即時天候未核，不承諾隨到隨入。\",\n    \"sources\": [\n      {\n        \"label\": \"觀光協會活動原頁\",\n        \"url\": \"https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/\"\n      },\n      {\n        \"label\": \"11/5官方葉況\",\n        \"url\": \"https://www.nagatoro.gr.jp/category/news/\"\n      },\n      {\n        \"label\": \"Enjoy Tokyo活動詳情\",\n        \"url\": \"https://www.enjoytokyo.jp/event/705945/\"\n      },\n      {\n        \"label\": \"Jorudan 10/27活動說明\",\n        \"url\": \"https://sp.jorudan.co.jp/leaf/news/jrd_261027_3.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"夜遊有住宿需求，但東京往返亦可；須先核回程及飯店位置，不能把住宿當門票。\",\n      \"products\": [\n        \"活動地區住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1週\",\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"長瀞列表原頁讀取Cache miss；未推薦：https://www.trip.com/hotels/nagatoro-chang-jing/hotels-c111728m21763312/\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"長瀞及周邊住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/nagatoro.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供夜遊後住宿比較；頁面亦混列周邊城市，逐家確認距離。\",\n            \"checks\": \"不是含夜楓門票方案；實際日期、交通與接送另查。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀154954長瀞夜楓行程，但頁面未找到2026日期，快取較舊，未確認本季可用，不推薦或自動帶入。原頁：https://www.kkday.com/ja/product/154954-saitama-maple-viewing-tour-tsuki-no-ishi-momiji-park-illumination-nagatoro-river-cruise-tokyo\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"長瀞紅葉點燈搜尋未取得可核對商品頁。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com 長瀞 2026 11月 紅葉\",\n        \"site:facebook.com 長瀞 紅葉 2026 11月\",\n        \"site:instagram.com 長瀞 紅葉 2026 11月5日\",\n        \"site:dcard.tw 御船山 長瀞 2026\",\n        \"site:tiktok.com 長瀞 紅葉 2026\",\n        \"site:youtube.com 長瀞 紅葉 2026 11月5日\"\n      ]\n    }\n  },\n  {\n    \"id\": \"mifuneyama-autumn-20261106\",\n    \"title\": \"御船山樂園紅葉祭今天開始：夜票600日圓，日夜共通900日圓\",\n    \"region\": \"九州／佐賀縣武雄市御船山樂園\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"官方季節頁未標首次公告日；非今日新公告，因11/6開幕例外納入\",\n    \"eventDate\": \"2026/11/6–12/6；日間8:00–17:30、夜間17:30–22:00（日本時間）\",\n    \"freshness\": \"今天開幕例外；首次公布日期尚未確認，不列A級新公告\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"why\": \"九州秋季行程能直接比較單時段與日夜票；持續一個月，還有規劃窗口。\",\n    \"facts\": \"官方季節頁、飯店在樂天的自有資訊頁，以及生活部落格交叉核對日期與票價；飯店與園區屬相關來源，不稱獨立採訪。成人定義中學生以上；單時段600日圓、小學生300日圓；共通票900／400日圓。官方雨天照常，並未保證惡劣天候永不取消。未取得今天葉況，不寫已全紅。官網未明示一般入園必須預約；售票方式與付款工具尚未完全確認，出發前向園方核對。22:00為夜間開園結束，非最後入場時刻。\",\n    \"sources\": [\n      {\n        \"label\": \"園區官方\",\n        \"url\": \"https://www.mifuneyamarakuen.jp/autumn/\"\n      },\n      {\n        \"label\": \"飯店自有樂天頁\",\n        \"url\": \"https://hotel.travel.rakuten.co.jp/hinfo/13417/\"\n      },\n      {\n        \"label\": \"外部日期票價交叉核對\",\n        \"url\": \"https://yuuekiinfo.com/archives/6285\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"可自然延伸武雄住宿；一日團須確認包含夜楓且適用2026，不能僅憑賞楓標題推薦。\",\n      \"products\": [\n        \"活動地區住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果想把夜間賞楓排得從容一些，可以比較附近住宿；請先確認交通、入住日期與方案包含內容。\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"score\": 86,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 17,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1週\",\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"御船山樂園飯店\",\n            \"url\": \"https://www.trip.com/hotels/takeo-hotel-detail-1498444/mifuneyama-rakuen-hotel\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"已核對武雄4100及鄰近園區，適合比較夜遊住宿。\",\n            \"checks\": \"日期、入住人數、餐食、入園優惠的確認方式與庫存待核。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已閱讀並核對地區；只供查找，不保證庫存、價格或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"武雄住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/takeo.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"可比較武雄溫泉住宿，並非全部步行可達園區。\",\n            \"checks\": \"讀取內容含較舊日曆；僅核對目的地，不採房價與空房。\",\n            \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀533587，頁面標題與內文列出的景點有差異，夜楓時段與2026適用日未確認，排除推薦。https://www.kkday.com/ja/product/533587\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已讀165406，套票區顯示無可選方案；未核對指定日期成團與夜楓包含，暫不推薦。https://www.klook.com/ja/activity/165406-autumn-only-kyushu-saga-fall-color-viewing-day-tour-chinese-and/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"熱度未確認：沒有兩位不同作者的近期原文及完整互動數據。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:x.com 御船山楽園 2026 11月5日\",\n        \"site:dcard.tw 御船山 長瀞 2026\"\n      ]\n    }\n  }\n]\n【候選池未入選紀錄】\n[\n  {\n    \"id\": \"lead-20261106-0\",\n    \"title\": \"上野東京Christmas Advent\",\n    \"category\": \"活動\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.enjoytokyo.jp/event/list/its17/\"\n      }\n    ],\n    \"reason\": \"索引列11/6開幕；未取得主辦完整原頁與各區域條件。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-1\",\n    \"title\": \"御堂筋點燈\",\n    \"category\": \"活動\",\n    \"region\": \"大阪\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/3開始；未取得今天新進展，不重包裝。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-2\",\n    \"title\": \"森のまつり\",\n    \"category\": \"活動\",\n    \"region\": \"靜岡\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–8，交通管制與官方詳細時程未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-3\",\n    \"title\": \"巢鴨中山道菊祭\",\n    \"category\": \"活動\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–14；缺第二來源及完整行動資訊。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-4\",\n    \"title\": \"かの’nこと清流Fes.\",\n    \"category\": \"活動\",\n    \"region\": \"山口\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.japan47go.travel/ja/event\"\n      }\n    ],\n    \"reason\": \"索引列11/6–23，內容與適用條件未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-5\",\n    \"title\": \"東京各地Open Factory\",\n    \"category\": \"旅遊\",\n    \"region\": \"東京青梅等\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.gotokyo.org/jp/event/openfactory/202611.html\"\n      }\n    ],\n    \"reason\": \"有官方活動線索，但各場預約、語言及名額未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-6\",\n    \"title\": \"Art Collaboration Kyoto\",\n    \"category\": \"活動\",\n    \"region\": \"京都\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://japanwhatson.com/ja/months/2026-11/\"\n      }\n    ],\n    \"reason\": \"索引列11/7–9，尚未完成官方交叉查證。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-7\",\n    \"title\": \"門司港Grandmarket\",\n    \"category\": \"活動\",\n    \"region\": \"福岡\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://tech-kawasaki.jp/fairs/calendar/2026-11\"\n      }\n    ],\n    \"reason\": \"索引列11/6–8；營業及雨備未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-8\",\n    \"title\": \"北海道Premium Pass\",\n    \"category\": \"票券\",\n    \"region\": \"北海道\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000020.000180800.html\"\n      }\n    ],\n    \"reason\": \"索引列11/2推出，未完成第二來源及外國旅客使用限制核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-9\",\n    \"title\": \"松島紅葉點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"宮城\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://rikyu-m.com/koyo/\"\n      }\n    ],\n    \"reason\": \"找到11/2更新索引；未確認新進展與票價，不納入精選。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-10\",\n    \"title\": \"沖繩残波點燈\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.benly.com/prefecture.php?area=okinawa&ym=2026-11\"\n      }\n    ],\n    \"reason\": \"索引列11/5，主辦原頁與外客進場資格未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-11\",\n    \"title\": \"沖繩MONGOL800音樂祭\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://www.matsuri-dokoro.jp/ja/day/okinawa\"\n      }\n    ],\n    \"reason\": \"索引列週末舉辦；售票狀態與交通未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261106-12\",\n    \"title\": \"佐田岬馬拉松交通\",\n    \"category\": \"交通\",\n    \"region\": \"四國愛媛\",\n    \"announcementDate\": \"首次公告日期未核\",\n    \"eventDate\": \"見線索，未完成查核\",\n    \"sources\": [\n      {\n        \"label\": \"搜尋線索，非已完成查證\",\n        \"url\": \"https://ehime-now.com/events/month/2026-11\"\n      }\n    ],\n    \"reason\": \"找到停車與接駁線索，未讀到官方管制內容，不寫確定影響。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成新聞查核\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"核對實際入住日期、回程交通、是否含門票、房型與取消條件；庫存及分潤資格未確認。\",\n      \"assessedOn\": \"2026-11-06\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚無核對適用的推薦頁面，不代表平台沒有販售。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群限制】\n{\n  \"checkedAt\": \"2026-11-06T10:06:14+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 2,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"只有兩個精選完成針對性社群索引補查，非全部15題；未完成平台內建搜尋。沒有兩位作者的原文、時間及讚／留言，故不建熱榜。\",\n  \"platformAccess\": {\n    \"Threads\": \"長瀞查詢無合格原文\",\n    \"Facebook\": \"長瀞查詢無合格原文\",\n    \"Instagram\": \"長瀞查詢無合格原文\",\n    \"X\": \"御船山查詢無合格原文\",\n    \"Dcard\": \"兩地查詢無合格原文\",\n    \"PTT\": \"日本11/5廣搜多為舊文或不相關事件，未納入\",\n    \"TikTok\": \"robots限制；搜尋混入泛旅遊舊內容\",\n    \"YouTube\": \"長瀞日期查詢無合格原文\"\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"nagatoro-lightup-20261106\",\n  \"title\": \"長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色\",\n  \"score\": 90,\n  \"reason\": \"500日圓票的可重訪條件、今日售票地點及葉況差異，能直接幫東京近郊旅客安排夜遊。\",\n  \"versusSecond\": \"長瀞有前一日葉況與明確現地購票方法，對近郊自由行更容易立即採用；御船山當日葉況與付款仍待核。\",\n  \"publishAt\": \"11/6 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"11月東京近郊自由行旅客\",\n  \"lifecycle\": \"1週\"\n}\n【明天追蹤】\n[\n  {\n    \"title\": \"長瀞首晚及週末葉況\",\n    \"next\": \"未來24–72小時查看官方新照片、管制與變色進度；不預測一定見頃。\",\n    \"sources\": [\n      {\n        \"label\": \"官方更新\",\n        \"url\": \"https://www.nagatoro.gr.jp/category/news/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"御船山夜楓與實際售票\",\n    \"next\": \"追查首晚公告、最新葉況及售票／付款方式；開幕不代表滿紅。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.mifuneyamarakuen.jp/autumn/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"上野聖誕活動各區開放\",\n    \"next\": \"索引指向分區開幕，須補主辦原頁和收費／預約條件後才推薦。\",\n    \"sources\": [\n      {\n        \"label\": \"待查索引\",\n        \"url\": \"https://www.enjoytokyo.jp/event/list/its17/\"\n      }\n    ]\n  }\n]\n【各題串文、切角、圖片與延伸】\n[\n  {\n    \"title\": \"長瀞夜楓今天開幕：500日圓通行證可重訪，昨天葉況仍在轉色\",\n    \"threads\": [\n      \"東京近郊看夜楓，長瀞今天開始點燈。500日圓買的是可重訪的入場通行證，不只是一次進場。\\n\\n月之石紅葉公園活動是11/6～11/29、日本時間16:00～21:00。不過11/5官方葉況仍是「逐漸轉色」，想看整片紅葉的人，先別把開幕日當成最佳觀賞日。\",\n      \"怎麼安排比較順？公園從上長瀞站走約5分鐘，今天起通行證在現地16:00～21:00販售。\\n\\n中學生以上500日圓，小學生以下免費；官方說明可在紅葉祭期間多次進入公園。保留票券，也先查好當天回程班次，21:00是活動結束時間，不是已確認的末班車時間。\",\n      \"我會先比較出發前最新葉況，再決定現在去看點燈，或稍後再排賞楓。日期可能隨葉況調整，人多也可能管制入場，別把行程壓得太滿。\\n\\n活動、售票及限制看官方：https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/\\n葉況另看：https://www.nagatoro.gr.jp/category/news/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"票券\",\n        \"opening\": \"500日圓的長瀞夜楓票，可以在紅葉祭期間重訪。\"\n      },\n      {\n        \"name\": \"葉況\",\n        \"opening\": \"長瀞今天點燈，但昨天官方葉況還不是見頃。\"\n      },\n      {\n        \"name\": \"交通\",\n        \"opening\": \"從上長瀞站走5分鐘的夜楓，先把回程班次查好。\"\n      },\n      {\n        \"name\": \"親子\",\n        \"opening\": \"長瀞夜楓中學生以上500日圓，小學生以下免費。\"\n      },\n      {\n        \"name\": \"售票\",\n        \"opening\": \"今天起長瀞夜楓票改在現地16:00～21:00販售。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動頁的庭園照片、日期與票價說明。素材可找到，但商用及轉載授權未核；不可將示意圖標成今日實況。\",\n        \"url\": \"https://www.nagatoro.gr.jp/2026/10/長瀞紅葉まつり2026/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：活動地區住宿與夜間交通攻略；房價、庫存、接送與門票包含項目分別確認。\"\n    ]\n  },\n  {\n    \"title\": \"御船山樂園紅葉祭今天開始：夜票600日圓，日夜共通900日圓\",\n    \"threads\": [\n      \"九州賞楓想同時看白天和夜景，御船山樂園要選對票。11/6今天開始紅葉祭：成人單看日間或夜間600日圓，日夜共通900日圓。\\n\\n活動到12/6，地點在佐賀武雄。這是活動開幕消息，今天的實際紅葉程度尚未核實，不能直接當成滿紅保證。\",\n      \"時段和票種一起看：\\n・日間8:00～17:30；夜間17:30～22:00。\\n・中學生以上：單時段600、日夜共通900日圓。\\n・小學生：單時段300、日夜共通400日圓。\\n\\n以上是日本時間與入園費；餐飲另計。22:00是夜間開園結束時間，最後入場時刻及付款方式，出發前還要向園方確認。\",\n      \"想排武雄一日遊，先決定要看白天、夜間，還是兩個時段，再安排交通或住宿。別把名稱有「御船山賞楓」的一日團，直接當成包含晚間點燈。\\n\\n官方列雨天照常，但仍應在出發前確認臨時公告與回程安排。園區照片可以參考景觀，不能當成今天實況。\\n官方日期、票價與注意事項：https://www.mifuneyamarakuen.jp/autumn/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"票種\",\n        \"opening\": \"御船山單時段600、日夜共通900日圓，先決定要看哪個時段。\"\n      },\n      {\n        \"name\": \"消息\",\n        \"opening\": \"御船山紅葉祭今天開始，到12/6都有安排窗口。\"\n      },\n      {\n        \"name\": \"避雷\",\n        \"opening\": \"有御船山的賞楓團，不一定含17:30後的夜景。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"武雄夜楓開園到22:00，交通安排得另外查。\"\n      },\n      {\n        \"name\": \"葉況\",\n        \"opening\": \"紅葉祭開幕不代表全紅；御船山今天葉況仍待確認。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動頁的庭園照片、日期與票價說明。素材可找到，但商用及轉載授權未核；不可將示意圖標成今日實況。\",\n        \"url\": \"https://www.mifuneyamarakuen.jp/autumn/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：活動地區住宿與夜間交通攻略；房價、庫存、接送與門票包含項目分別確認。\"\n    ]\n  }\n]"
+}
