@@ -1,0 +1,1547 @@
+{
+  "date": "2026-11-07",
+  "cutoff": "2026-11-07 10:07:25 Asia/Taipei（日本11:07:25 Asia/Tokyo）",
+  "scopeNote": "本期建立15個不同事件線索，2題完成主要事實交叉查核、13題待核，未湊足10個合格選題。待核題不虛構分數或星等。本次多地搜尋不代表全國所有分類完整覆蓋；交通、九州與關西未取得合格新題。2題均為今日開始／實施的舊公告例外，不是24小時新公告。沒有合格自然社群樣本，無法建立本期熱榜，以下依編輯內容分數排序。",
+  "trends": [
+    "已查證：兼六園11月第一場免費點燈是今晚，整月只列7個指定夜晚。",
+    "已查證：兼六園11/8未在本次活動日期內，不能把日期區間當成每日開放。",
+    "已查證：淺草酉之市今年為11/7與11/19，祭典時間與花屋敷營業時間分開。",
+    "已查證：花屋敷指定熊手1支最多2人免入園；熊手購買、遊樂設施與飲食另計。",
+    "編輯觀察：今天適合發布可立即使用的日期與資格提醒，不能把開幕當葉況見頃。",
+    "限制：兩題均無可排名社群原文數據；零合格樣本不代表沒有人討論。"
+  ],
+  "choice": {
+    "id": "kenrokuen-autumn-20261107",
+    "title": "兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單",
+    "score": 90,
+    "reason": "能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。",
+    "versusSecond": "兼六園有清楚可保存的七日清單，還能規劃後續週末；花屋敷今天的行動時間短且營業細節仍需確認。此為編輯推薦，不預先代使用者選題。",
+    "publishAt": "11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "11月金澤與北陸自由行旅客",
+    "lifecycle": "1週"
+  },
+  "top10": [
+    {
+      "id": "kenrokuen-autumn-20261107",
+      "title": "兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單",
+      "region": "北陸／石川縣金澤市兼六園、金澤城公園及玉泉院丸庭園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方頁未標首次公布日期；秋之段9月已有場次，不當作今日新公告",
+      "eventDate": "2026/11/7、14、15、21、22、28、29；18:00–20:45，21:00閉園（日本時間）",
+      "freshness": "今天11月首場例外；首次公布日期未確認，不能列A級新公告",
+      "lifecycle": "1週",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "why": "能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。",
+      "facts": "兼六園觀光協會與金澤市觀光協會分別列出相同7個日期及時間，並確認點燈時段免費入園。11/8未列在本活動名單，不能推論所有其他庭園或城市燈光也不開。18:00–20:45為活動時間，21:00閉園；未將20:45另稱最後入場。一般點燈參觀未見要求事前預約或國籍限制；特別料理與其他付費服務不包含。未取得今晚葉況及即時天候／臨時取消資訊，出發前再查；不保證已全紅。官方交通為兼六園下・金澤城站步行約3分鐘，夜間班次未核。",
+      "sources": [
+        {
+          "label": "兼六園觀光協會原頁",
+          "url": "https://kenrokuen.or.jp/events/lightup-2609/"
+        },
+        {
+          "label": "金澤市觀光協會交叉確認",
+          "url": "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_30047.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "夜間行程可接金澤住宿，後續週末仍有規劃時間；點燈本身免費，不能硬推入園票。",
+        "products": [
+          "金澤住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "若打算留在金澤看夜景，可以比較住宿位置與回程交通；住宿方案不等於包含任何付費活動。",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.trip.com/hotels/kanazawa-hotels-list-3663/",
+              "kind": "住宿列表",
+              "reason": "供後續指定週末夜遊住宿比較，不是點燈套票。",
+              "checks": "輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。",
+              "checkedAt": "2026-11-07T10:04:49+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.booking.com/city/jp/kanazawa.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "供後續指定週末夜遊住宿比較，不是點燈套票。",
+              "checks": "輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。",
+              "checkedAt": "2026-11-07T10:04:49+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "10:04 Asia/Taipei已讀兼六園普通門票；本題點燈免費，不推薦為此買票，亦不自動帶入。原頁：https://www.kkday.com/zh-tw/product/578624",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "10:04已開啟金澤目的地頁，但未核對可銜接夜間活動的具體住宿／交通，暫不推薦。https://www.klook.com/destination/c445-kanazawa/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com 兼六園 2026 11月",
+          "site:threads.com 兼六園 2026 11月7日",
+          "site:x.com 兼六園 2026 11月7日",
+          "site:tiktok.com 兼六園 2026"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "兼六園今晚免費點燈，但明天11/8不在這次的活動名單裡。11月去金澤，先對日期再排晚餐。\n\n2026年11月只有7個指定夜晚：7、14、15、21、22、28、29日。日本時間18:00～20:45點燈、21:00閉園；免費的是這些點燈時段的入園，不是整個11月白天都免費。",
+          "這次可一起安排兼六園、金澤城公園與玉泉院丸庭園。市觀光協會列的交通方式，是到「兼六園下・金澤城」站再步行約3分鐘。\n\n一般點燈參觀的官方說明未列預約要求；茶店特別料理是另外的消費，部分需要預約。夜間免費入園，不必為了這段活動先買白天入園票。回程公車時間則要另查。",
+          "想拍夜楓，出門前再看官方臨時公告和當天葉況。活動開始不代表已經滿紅，宣傳照片也不能當作今晚實況。\n\n如果只能11/8到金澤，別照著「11/7～29」這種簡寫安排兼六園點燈；改看上面的指定日，或另外安排白天參觀。日期、時間與限制以官方為準：https://kenrokuen.or.jp/events/lightup-2609/"
+        ],
+        "angles": [
+          {
+            "name": "日期避雷",
+            "opening": "兼六園今晚免費點燈，但11/8不在活動名單。"
+          },
+          {
+            "name": "省門票",
+            "opening": "金澤11月7個夜晚，兼六園點燈時段免入園費。"
+          },
+          {
+            "name": "行程",
+            "opening": "金澤晚餐前先看日期：兼六園11月點燈18:00開始。"
+          },
+          {
+            "name": "收藏日曆",
+            "opening": "11月去兼六園看夜景，把7、14、15、21、22、28、29圈起來。"
+          },
+          {
+            "name": "照片辨識",
+            "opening": "兼六園今天有點燈，不等於今天已經全紅。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動頁主視覺與日程，可作查找素材來源；商用／轉載授權未確認，照片不冒充今日實況。",
+            "url": "https://kenrokuen.or.jp/events/lightup-2609/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：金澤夜遊住宿與回程交通；住宿不視為含餐或活動票。"
+        ]
+      }
+    },
+    {
+      "id": "asakusa-torinoichi-20261107",
+      "title": "淺草酉之市今天登場：指定熊手1支，花屋敷最多2人免入園費",
+      "region": "關東／東京台東區鷲神社、長國寺及淺草花屋敷",
+      "category": "活動／票券",
+      "announcementDate": "花屋敷2026/10/22公告；地方媒體10/24；台東區9/24更新，非今日新公告",
+      "eventDate": "2026/11/7、11/19；酉之市各日0:00–24:00（日本時間）；花屋敷須依自身營業時間",
+      "freshness": "今天實施例外；原公告10/22已超過7天",
+      "lifecycle": "1天",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "why": "今天身在東京的旅客可立即採用；熊手數量與免費範圍是容易誤解但實用的分享重點。",
+      "facts": "鷲神社與台東區核對酉之市11/7及11/19、0–24時；花屋敷10/22官方原文與10/24地方媒體條件整理交叉核對指定熊手1支最多2人免入園。地方媒體引用官方並補查票券規則，不聲稱兩次獨立採訪；PR TIMES同品牌稿不另計。僅淺草鷲神社酉之市購買的熊手，未見國籍限制、熊手尺寸或最低價規定；其他地點、舊熊手、かっこめ御守是否適用未明，不擴大解釋。熊手購買費及設施、飲食另計，不計算保證省下金額。花屋敷今日營業／最後入園、現場人流限制尚未完全確認，酉之市24小時不代表花屋敷24小時。一般入園優惠官方以現場持熊手為條件，未列預約要求。",
+      "sources": [
+        {
+          "label": "花屋敷原始公告",
+          "url": "https://www.hanayashiki.jp/news/archives/20261022/"
+        },
+        {
+          "label": "地方媒體條件整理（原頁以系統信任憑證讀取）",
+          "url": "https://taito-media.tokyo.jp/archives/3858"
+        },
+        {
+          "label": "鷲神社日程",
+          "url": "https://otorisama.or.jp/sm/kotoshi_m/"
+        },
+        {
+          "label": "台東區日程及交通",
+          "url": "https://www.city.taito.lg.jp/event/kanko/torinoithi.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今日現地活動且優惠本身不需要購平台門票，多數旅客已有住宿；不為免費入園硬推票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "花屋敷關鍵字搜尋混入掛川公園與寶塚球場，地點不符，不採用；未取得適用商品原頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "10:04已讀淺草住宿列表，與現地免費入園關聯弱，本題不硬推。https://www.booking.com/district/jp/tokyo/asakusa.ja.html",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "10:04開啟153530淺草和服頁只讀到殘缺內容，且和服非本題免費資格，不推薦。https://www.kkday.com/zh-cn/product/153530",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "10:04已讀淺草目的地頁，未確認酉之市／熊手活動商品，低適合度不硬推。https://www.klook.com/zh-TW/destination/p50200180-asakusa/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=PoLGA2P80tE",
+            "label": "搜尋命中的舊年酉之市影片",
+            "reason": "2024內容及官方來源，不符合2026本題近期自然討論。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=MrBIFxY5xzs",
+            "label": "搜尋命中的舊年官方直播",
+            "reason": "2025官方內容，不能拿來作2026熱度；未採互動數。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 酉之市 2026",
+          "site:x.com 酉の市 2026 11月7日",
+          "site:facebook.com 花やしき 熊手 2026",
+          "site:instagram.com 酉の市 2026 11月7日",
+          "site:dcard.tw 酉之市",
+          "site:ptt.cc 酉之市 2026",
+          "site:youtube.com 酉の市 2026 11月7日"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天逛淺草酉之市，如果原本就打算買熊手，可以順路安排花屋敷：指定熊手1支，最多2人免入園費。\n\n優惠只在2026/11/7、11/19，熊手須在淺草鷲神社的酉之市購買。免費的是入園，遊樂設施不是免費搭；也別把家裡舊熊手或別處買的，直接當成符合資格。",
+          "行程要分開看兩個時鐘。鷲神社與台東區公告的酉之市是當日0:00～24:00，但花屋敷有自己的營業時間，並不跟著通宵。\n\n台東區列入谷站步行約9分鐘、筑波快線淺草站約11分鐘可到祭典區；銀座線等其他淺草站的位置不同。先逛祭典、買符合條件的熊手，再在遊樂園營業時段持熊手前往。",
+          "熊手本身要付費，所以比較適合本來就想帶縁起物回家的旅客。尺寸、價格與能否帶回台灣都要依實際商品確認，不能保證為了免費入園特地買就比較省。\n\n出發前先核對花屋敷當天營業時間與現場受理方式；今天最後入園時間尚未核實。官方條件：https://www.hanayashiki.jp/news/archives/20261022/\n酉之市日期：https://otorisama.or.jp/sm/kotoshi_m/"
+        ],
+        "angles": [
+          {
+            "name": "具體利益",
+            "opening": "淺草酉之市買指定熊手，1支最多2人免花屋敷入園費。"
+          },
+          {
+            "name": "免費範圍",
+            "opening": "今天花屋敷熊手優惠免的是入園費，遊樂設施另計。"
+          },
+          {
+            "name": "時間避雷",
+            "opening": "淺草酉之市通宵舉辦，不代表花屋敷也通宵。"
+          },
+          {
+            "name": "行程",
+            "opening": "今天去淺草，想逛酉之市又進花屋敷，要先安排熊手購買順序。"
+          },
+          {
+            "name": "適用條件",
+            "opening": "家裡的熊手先別拿出門：花屋敷這次指定淺草鷲神社酉之市購入。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動頁主視覺與日程，可作查找素材來源；商用／轉載授權未確認，照片不冒充今日實況。",
+            "url": "https://www.hanayashiki.jp/news/archives/20261022/"
+          }
+        ],
+        "extensions": [
+          "可延伸淺草站出口、酉之市與花屋敷動線攻略；本題不硬推分潤商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "kenrokuen-autumn-20261107",
+      "title": "兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單",
+      "region": "北陸／石川縣金澤市兼六園、金澤城公園及玉泉院丸庭園",
+      "category": "季節情報／活動",
+      "announcementDate": "官方頁未標首次公布日期；秋之段9月已有場次，不當作今日新公告",
+      "eventDate": "2026/11/7、14、15、21、22、28、29；18:00–20:45，21:00閉園（日本時間）",
+      "freshness": "今天11月首場例外；首次公布日期未確認，不能列A級新公告",
+      "lifecycle": "1週",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "why": "能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。",
+      "facts": "兼六園觀光協會與金澤市觀光協會分別列出相同7個日期及時間，並確認點燈時段免費入園。11/8未列在本活動名單，不能推論所有其他庭園或城市燈光也不開。18:00–20:45為活動時間，21:00閉園；未將20:45另稱最後入場。一般點燈參觀未見要求事前預約或國籍限制；特別料理與其他付費服務不包含。未取得今晚葉況及即時天候／臨時取消資訊，出發前再查；不保證已全紅。官方交通為兼六園下・金澤城站步行約3分鐘，夜間班次未核。",
+      "sources": [
+        {
+          "label": "兼六園觀光協會原頁",
+          "url": "https://kenrokuen.or.jp/events/lightup-2609/"
+        },
+        {
+          "label": "金澤市觀光協會交叉確認",
+          "url": "https://www.kanazawa-kankoukyoukai.or.jp/event/detail_30047.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "夜間行程可接金澤住宿，後續週末仍有規劃時間；點燈本身免費，不能硬推入園票。",
+        "products": [
+          "金澤住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "若打算留在金澤看夜景，可以比較住宿位置與回程交通；住宿方案不等於包含任何付費活動。",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.trip.com/hotels/kanazawa-hotels-list-3663/",
+              "kind": "住宿列表",
+              "reason": "供後續指定週末夜遊住宿比較，不是點燈套票。",
+              "checks": "輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。",
+              "checkedAt": "2026-11-07T10:04:49+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.booking.com/city/jp/kanazawa.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "供後續指定週末夜遊住宿比較，不是點燈套票。",
+              "checks": "輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。",
+              "checkedAt": "2026-11-07T10:04:49+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "10:04 Asia/Taipei已讀兼六園普通門票；本題點燈免費，不推薦為此買票，亦不自動帶入。原頁：https://www.kkday.com/zh-tw/product/578624",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "10:04已開啟金澤目的地頁，但未核對可銜接夜間活動的具體住宿／交通，暫不推薦。https://www.klook.com/destination/c445-kanazawa/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com 兼六園 2026 11月",
+          "site:threads.com 兼六園 2026 11月7日",
+          "site:x.com 兼六園 2026 11月7日",
+          "site:tiktok.com 兼六園 2026"
+        ]
+      }
+    },
+    {
+      "id": "asakusa-torinoichi-20261107",
+      "title": "淺草酉之市今天登場：指定熊手1支，花屋敷最多2人免入園費",
+      "region": "關東／東京台東區鷲神社、長國寺及淺草花屋敷",
+      "category": "活動／票券",
+      "announcementDate": "花屋敷2026/10/22公告；地方媒體10/24；台東區9/24更新，非今日新公告",
+      "eventDate": "2026/11/7、11/19；酉之市各日0:00–24:00（日本時間）；花屋敷須依自身營業時間",
+      "freshness": "今天實施例外；原公告10/22已超過7天",
+      "lifecycle": "1天",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "why": "今天身在東京的旅客可立即採用；熊手數量與免費範圍是容易誤解但實用的分享重點。",
+      "facts": "鷲神社與台東區核對酉之市11/7及11/19、0–24時；花屋敷10/22官方原文與10/24地方媒體條件整理交叉核對指定熊手1支最多2人免入園。地方媒體引用官方並補查票券規則，不聲稱兩次獨立採訪；PR TIMES同品牌稿不另計。僅淺草鷲神社酉之市購買的熊手，未見國籍限制、熊手尺寸或最低價規定；其他地點、舊熊手、かっこめ御守是否適用未明，不擴大解釋。熊手購買費及設施、飲食另計，不計算保證省下金額。花屋敷今日營業／最後入園、現場人流限制尚未完全確認，酉之市24小時不代表花屋敷24小時。一般入園優惠官方以現場持熊手為條件，未列預約要求。",
+      "sources": [
+        {
+          "label": "花屋敷原始公告",
+          "url": "https://www.hanayashiki.jp/news/archives/20261022/"
+        },
+        {
+          "label": "地方媒體條件整理（原頁以系統信任憑證讀取）",
+          "url": "https://taito-media.tokyo.jp/archives/3858"
+        },
+        {
+          "label": "鷲神社日程",
+          "url": "https://otorisama.or.jp/sm/kotoshi_m/"
+        },
+        {
+          "label": "台東區日程及交通",
+          "url": "https://www.city.taito.lg.jp/event/kanko/torinoithi.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今日現地活動且優惠本身不需要購平台門票，多數旅客已有住宿；不為免費入園硬推票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "score": 86,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "花屋敷關鍵字搜尋混入掛川公園與寶塚球場，地點不符，不採用；未取得適用商品原頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "10:04已讀淺草住宿列表，與現地免費入園關聯弱，本題不硬推。https://www.booking.com/district/jp/tokyo/asakusa.ja.html",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "10:04開啟153530淺草和服頁只讀到殘缺內容，且和服非本題免費資格，不推薦。https://www.kkday.com/zh-cn/product/153530",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "10:04已讀淺草目的地頁，未確認酉之市／熊手活動商品，低適合度不硬推。https://www.klook.com/zh-TW/destination/p50200180-asakusa/",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.youtube.com/watch?v=PoLGA2P80tE",
+            "label": "搜尋命中的舊年酉之市影片",
+            "reason": "2024內容及官方來源，不符合2026本題近期自然討論。"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=MrBIFxY5xzs",
+            "label": "搜尋命中的舊年官方直播",
+            "reason": "2025官方內容，不能拿來作2026熱度；未採互動數。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 酉之市 2026",
+          "site:x.com 酉の市 2026 11月7日",
+          "site:facebook.com 花やしき 熊手 2026",
+          "site:instagram.com 酉の市 2026 11月7日",
+          "site:dcard.tw 酉之市",
+          "site:ptt.cc 酉之市 2026",
+          "site:youtube.com 酉の市 2026 11月7日"
+        ]
+      }
+    },
+    {
+      "id": "lead-20261107-0",
+      "title": "鳥取池田家墓所點燈",
+      "category": "活動",
+      "region": "鳥取",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.tottori-guide.jp/808/204/2017/36152.html"
+        }
+      ],
+      "reason": "官方月曆原頁已開，索引指11/7–29；個別日程、時間及第二來源未完成。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-1",
+      "title": "北本祭宵祭",
+      "category": "活動",
+      "region": "埼玉",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://chocotabi-saitama.jp/event/?cat_event=experience"
+        }
+      ],
+      "reason": "索引指11/7；未完成主辦日程及交通管制查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-2",
+      "title": "富山Rail & Cycle",
+      "category": "旅遊",
+      "region": "富山",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.toyamashi-kankoukyoukai.jp/event/?cal_month=11&cal_year=2026"
+        }
+      ],
+      "reason": "索引指11/7；參加資格、預約與路線未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-3",
+      "title": "成羽愛宕花火",
+      "category": "活動",
+      "region": "岡山",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://machievent.com/chugoku/calendar/"
+        }
+      ],
+      "reason": "索引指11/7；未取得天候、當日舉辦公告與官方第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-4",
+      "title": "廣島大いのこ祭",
+      "category": "活動",
+      "region": "廣島",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://machievent.com/chugoku/calendar/"
+        }
+      ],
+      "reason": "索引指11/7–8；未完成旅客動線與主辦時程查核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-5",
+      "title": "沖繩Oriental飯店5周年美食活動",
+      "category": "美食",
+      "region": "沖繩",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.okinawastory.jp/event/list?from=2026-11-01&page=4&to=2026-11-30"
+        }
+      ],
+      "reason": "官方活動列表已開，索引指11/4–12/10；餐價、外客使用及預約未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-6",
+      "title": "石垣島祭",
+      "category": "活動",
+      "region": "沖繩石垣",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://matcha-jp.com/tw/27809"
+        }
+      ],
+      "reason": "索引指11/7–8；主辦原頁、現場狀態及交通尚未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-7",
+      "title": "廣島巴士祭",
+      "category": "交通／活動",
+      "region": "廣島",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.kanko-h.com/event/?date=2026-11-07"
+        }
+      ],
+      "reason": "索引指11/7–8；預約及體驗限制未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-8",
+      "title": "滝野紅葉祭",
+      "category": "季節情報",
+      "region": "北海道",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.matsuri-dokoro.jp/ja/day/hokkaido"
+        }
+      ],
+      "reason": "索引為進行中活動，未核今日新進展，不重包裝成新消息。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-9",
+      "title": "北海道＆東日本Pass冬季販售",
+      "category": "票券",
+      "region": "北海道／東北／關東",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://jr-group.jp/hokkaido-eastjapanpass/"
+        }
+      ],
+      "reason": "搜尋顯示11/6頁面；站名不能當JR官方，原始公告、票價及2026適用條件未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-10",
+      "title": "Little World東北美食祭",
+      "category": "美食",
+      "region": "中部愛知犬山",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.shachihoko.news/nagoya-events-2026-nov-2-8/"
+        }
+      ],
+      "reason": "索引列11/7開始；園方原頁、門票與餐價未完成核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-11",
+      "title": "御所たらいうどんFair",
+      "category": "美食",
+      "region": "四國德島阿波市",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://matsurimap.app/ja/events?area=shikoku&month=2026-11"
+        }
+      ],
+      "reason": "索引指11/6–8；參加店家與優惠資格未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261107-12",
+      "title": "花屋敷Black Friday",
+      "category": "活動／票券",
+      "region": "東京",
+      "announcementDate": "首次公布日期未確認",
+      "eventDate": "搜尋線索日期尚待核對",
+      "sources": [
+        {
+          "label": "候選線索，非完整查核",
+          "url": "https://www.walkerplus.com/event/ar0313e621266/data.html"
+        }
+      ],
+      "reason": "與熊手優惠為不同活動；索引列11/7–27，平日票與姓名優惠未完成官方核對，不混寫。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成事件查核，不虛構商品適合度",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。",
+        "assessedOn": "2026-11-07"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "尚未取得適用的推薦頁面，不代表沒有商品。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-07T10:07:25+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "兼六園首晚狀態及下一場",
+      "next": "追查11/7現場公告與葉況；下一指定日為11/14，11/8不在本活動名單。不預測熱度一定上升。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://kenrokuen.or.jp/events/lightup-2609/"
+        }
+      ]
+    },
+    {
+      "title": "花屋敷熊手優惠現場受理與11/19場",
+      "next": "追查營業、受理及熊手種類細節；原文未明的御守／舊熊手資格不可自行放寬。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.hanayashiki.jp/news/archives/20261022/"
+        }
+      ]
+    },
+    {
+      "title": "鳥取池田家墓所點燈",
+      "next": "未來24–72小時補個別主辦頁、指定夜晚、票價及交通，再判斷是否適合台灣旅客。",
+      "sources": [
+        {
+          "label": "官方月曆線索",
+          "url": "https://www.tottori-guide.jp/808/204/2017/36152.html"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-11-07T10:07:25+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 2,
+    "qualifiedTopicCount": 0,
+    "limitation": "已對2題作社群索引搜尋，另13題未完成逐題補查；未完成平台內建搜尋。未取得兩名作者、48小時原文、可核對讚與留言。不能建立社群榜，不以新聞數代替。",
+    "platformAccess": {
+      "Threads": "日本旅遊及兩題關鍵字，無合格原文",
+      "X": "兩題關鍵字，無可用近期原始互動數",
+      "Facebook": "花屋敷熊手搜尋未取得合格原文",
+      "Instagram": "酉之市日期搜尋未取得合格原文",
+      "Dcard": "酉之市搜尋無合格近期原文",
+      "PTT": "酉之市2026搜尋無合格近期原文",
+      "YouTube": "命中2024／2025官方影片，排除",
+      "TikTok": "搜尋遭robots限制，未取得可核對原文"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-07\n搜尋截止：2026-11-07 10:07:25 Asia/Taipei（日本11:07:25 Asia/Tokyo）\n本期建立15個不同事件線索，2題完成主要事實交叉查核、13題待核，未湊足10個合格選題。待核題不虛構分數或星等。本次多地搜尋不代表全國所有分類完整覆蓋；交通、九州與關西未取得合格新題。2題均為今日開始／實施的舊公告例外，不是24小時新公告。沒有合格自然社群樣本，無法建立本期熱榜，以下依編輯內容分數排序。\n\n【今天日本發生什麼】\n已查證：兼六園11月第一場免費點燈是今晚，整月只列7個指定夜晚。\n已查證：兼六園11/8未在本次活動日期內，不能把日期區間當成每日開放。\n已查證：淺草酉之市今年為11/7與11/19，祭典時間與花屋敷營業時間分開。\n已查證：花屋敷指定熊手1支最多2人免入園；熊手購買、遊樂設施與飲食另計。\n編輯觀察：今天適合發布可立即使用的日期與資格提醒，不能把開幕當葉況見頃。\n限制：兩題均無可排名社群原文數據；零合格樣本不代表沒有人討論。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數及星等為編輯預估，非已驗證熱度。\n【精選完整查核】\n[\n  {\n    \"id\": \"kenrokuen-autumn-20261107\",\n    \"title\": \"兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單\",\n    \"region\": \"北陸／石川縣金澤市兼六園、金澤城公園及玉泉院丸庭園\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"官方頁未標首次公布日期；秋之段9月已有場次，不當作今日新公告\",\n    \"eventDate\": \"2026/11/7、14、15、21、22、28、29；18:00–20:45，21:00閉園（日本時間）\",\n    \"freshness\": \"今天11月首場例外；首次公布日期未確認，不能列A級新公告\",\n    \"lifecycle\": \"1週\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"低\",\n    \"why\": \"能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。\",\n    \"facts\": \"兼六園觀光協會與金澤市觀光協會分別列出相同7個日期及時間，並確認點燈時段免費入園。11/8未列在本活動名單，不能推論所有其他庭園或城市燈光也不開。18:00–20:45為活動時間，21:00閉園；未將20:45另稱最後入場。一般點燈參觀未見要求事前預約或國籍限制；特別料理與其他付費服務不包含。未取得今晚葉況及即時天候／臨時取消資訊，出發前再查；不保證已全紅。官方交通為兼六園下・金澤城站步行約3分鐘，夜間班次未核。\",\n    \"sources\": [\n      {\n        \"label\": \"兼六園觀光協會原頁\",\n        \"url\": \"https://kenrokuen.or.jp/events/lightup-2609/\"\n      },\n      {\n        \"label\": \"金澤市觀光協會交叉確認\",\n        \"url\": \"https://www.kanazawa-kankoukyoukai.or.jp/event/detail_30047.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"夜間行程可接金澤住宿，後續週末仍有規劃時間；點燈本身免費，不能硬推入園票。\",\n      \"products\": [\n        \"金澤住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"若打算留在金澤看夜景，可以比較住宿位置與回程交通；住宿方案不等於包含任何付費活動。\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"金澤住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/kanazawa-hotels-list-3663/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供後續指定週末夜遊住宿比較，不是點燈套票。\",\n            \"checks\": \"輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。\",\n            \"checkedAt\": \"2026-11-07T10:04:49+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"金澤住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/kanazawa.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供後續指定週末夜遊住宿比較，不是點燈套票。\",\n            \"checks\": \"輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。\",\n            \"checkedAt\": \"2026-11-07T10:04:49+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"10:04 Asia/Taipei已讀兼六園普通門票；本題點燈免費，不推薦為此買票，亦不自動帶入。原頁：https://www.kkday.com/zh-tw/product/578624\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"10:04已開啟金澤目的地頁，但未核對可銜接夜間活動的具體住宿／交通，暫不推薦。https://www.klook.com/destination/c445-kanazawa/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com 兼六園 2026 11月\",\n        \"site:threads.com 兼六園 2026 11月7日\",\n        \"site:x.com 兼六園 2026 11月7日\",\n        \"site:tiktok.com 兼六園 2026\"\n      ]\n    }\n  },\n  {\n    \"id\": \"asakusa-torinoichi-20261107\",\n    \"title\": \"淺草酉之市今天登場：指定熊手1支，花屋敷最多2人免入園費\",\n    \"region\": \"關東／東京台東區鷲神社、長國寺及淺草花屋敷\",\n    \"category\": \"活動／票券\",\n    \"announcementDate\": \"花屋敷2026/10/22公告；地方媒體10/24；台東區9/24更新，非今日新公告\",\n    \"eventDate\": \"2026/11/7、11/19；酉之市各日0:00–24:00（日本時間）；花屋敷須依自身營業時間\",\n    \"freshness\": \"今天實施例外；原公告10/22已超過7天\",\n    \"lifecycle\": \"1天\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"risk\": \"中\",\n    \"why\": \"今天身在東京的旅客可立即採用；熊手數量與免費範圍是容易誤解但實用的分享重點。\",\n    \"facts\": \"鷲神社與台東區核對酉之市11/7及11/19、0–24時；花屋敷10/22官方原文與10/24地方媒體條件整理交叉核對指定熊手1支最多2人免入園。地方媒體引用官方並補查票券規則，不聲稱兩次獨立採訪；PR TIMES同品牌稿不另計。僅淺草鷲神社酉之市購買的熊手，未見國籍限制、熊手尺寸或最低價規定；其他地點、舊熊手、かっこめ御守是否適用未明，不擴大解釋。熊手購買費及設施、飲食另計，不計算保證省下金額。花屋敷今日營業／最後入園、現場人流限制尚未完全確認，酉之市24小時不代表花屋敷24小時。一般入園優惠官方以現場持熊手為條件，未列預約要求。\",\n    \"sources\": [\n      {\n        \"label\": \"花屋敷原始公告\",\n        \"url\": \"https://www.hanayashiki.jp/news/archives/20261022/\"\n      },\n      {\n        \"label\": \"地方媒體條件整理（原頁以系統信任憑證讀取）\",\n        \"url\": \"https://taito-media.tokyo.jp/archives/3858\"\n      },\n      {\n        \"label\": \"鷲神社日程\",\n        \"url\": \"https://otorisama.or.jp/sm/kotoshi_m/\"\n      },\n      {\n        \"label\": \"台東區日程及交通\",\n        \"url\": \"https://www.city.taito.lg.jp/event/kanko/torinoithi.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"今日現地活動且優惠本身不需要購平台門票，多數旅客已有住宿；不為免費入園硬推票券。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"score\": 86,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 8,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 3\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"花屋敷關鍵字搜尋混入掛川公園與寶塚球場，地點不符，不採用；未取得適用商品原頁。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"10:04已讀淺草住宿列表，與現地免費入園關聯弱，本題不硬推。https://www.booking.com/district/jp/tokyo/asakusa.ja.html\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"10:04開啟153530淺草和服頁只讀到殘缺內容，且和服非本題免費資格，不推薦。https://www.kkday.com/zh-cn/product/153530\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"10:04已讀淺草目的地頁，未確認酉之市／熊手活動商品，低適合度不硬推。https://www.klook.com/zh-TW/destination/p50200180-asakusa/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://www.youtube.com/watch?v=PoLGA2P80tE\",\n          \"label\": \"搜尋命中的舊年酉之市影片\",\n          \"reason\": \"2024內容及官方來源，不符合2026本題近期自然討論。\"\n        },\n        {\n          \"url\": \"https://www.youtube.com/watch?v=MrBIFxY5xzs\",\n          \"label\": \"搜尋命中的舊年官方直播\",\n          \"reason\": \"2025官方內容，不能拿來作2026熱度；未採互動數。\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com 酉之市 2026\",\n        \"site:x.com 酉の市 2026 11月7日\",\n        \"site:facebook.com 花やしき 熊手 2026\",\n        \"site:instagram.com 酉の市 2026 11月7日\",\n        \"site:dcard.tw 酉之市\",\n        \"site:ptt.cc 酉之市 2026\",\n        \"site:youtube.com 酉の市 2026 11月7日\"\n      ]\n    }\n  }\n]\n【候選池未入選紀錄】\n[\n  {\n    \"id\": \"lead-20261107-0\",\n    \"title\": \"鳥取池田家墓所點燈\",\n    \"category\": \"活動\",\n    \"region\": \"鳥取\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.tottori-guide.jp/808/204/2017/36152.html\"\n      }\n    ],\n    \"reason\": \"官方月曆原頁已開，索引指11/7–29；個別日程、時間及第二來源未完成。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-1\",\n    \"title\": \"北本祭宵祭\",\n    \"category\": \"活動\",\n    \"region\": \"埼玉\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://chocotabi-saitama.jp/event/?cat_event=experience\"\n      }\n    ],\n    \"reason\": \"索引指11/7；未完成主辦日程及交通管制查核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-2\",\n    \"title\": \"富山Rail & Cycle\",\n    \"category\": \"旅遊\",\n    \"region\": \"富山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.toyamashi-kankoukyoukai.jp/event/?cal_month=11&cal_year=2026\"\n      }\n    ],\n    \"reason\": \"索引指11/7；參加資格、預約與路線未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-3\",\n    \"title\": \"成羽愛宕花火\",\n    \"category\": \"活動\",\n    \"region\": \"岡山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://machievent.com/chugoku/calendar/\"\n      }\n    ],\n    \"reason\": \"索引指11/7；未取得天候、當日舉辦公告與官方第二來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-4\",\n    \"title\": \"廣島大いのこ祭\",\n    \"category\": \"活動\",\n    \"region\": \"廣島\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://machievent.com/chugoku/calendar/\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；未完成旅客動線與主辦時程查核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-5\",\n    \"title\": \"沖繩Oriental飯店5周年美食活動\",\n    \"category\": \"美食\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.okinawastory.jp/event/list?from=2026-11-01&page=4&to=2026-11-30\"\n      }\n    ],\n    \"reason\": \"官方活動列表已開，索引指11/4–12/10；餐價、外客使用及預約未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-6\",\n    \"title\": \"石垣島祭\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩石垣\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://matcha-jp.com/tw/27809\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；主辦原頁、現場狀態及交通尚未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-7\",\n    \"title\": \"廣島巴士祭\",\n    \"category\": \"交通／活動\",\n    \"region\": \"廣島\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.kanko-h.com/event/?date=2026-11-07\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；預約及體驗限制未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-8\",\n    \"title\": \"滝野紅葉祭\",\n    \"category\": \"季節情報\",\n    \"region\": \"北海道\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.matsuri-dokoro.jp/ja/day/hokkaido\"\n      }\n    ],\n    \"reason\": \"索引為進行中活動，未核今日新進展，不重包裝成新消息。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-9\",\n    \"title\": \"北海道＆東日本Pass冬季販售\",\n    \"category\": \"票券\",\n    \"region\": \"北海道／東北／關東\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://jr-group.jp/hokkaido-eastjapanpass/\"\n      }\n    ],\n    \"reason\": \"搜尋顯示11/6頁面；站名不能當JR官方，原始公告、票價及2026適用條件未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-10\",\n    \"title\": \"Little World東北美食祭\",\n    \"category\": \"美食\",\n    \"region\": \"中部愛知犬山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.shachihoko.news/nagoya-events-2026-nov-2-8/\"\n      }\n    ],\n    \"reason\": \"索引列11/7開始；園方原頁、門票與餐價未完成核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-11\",\n    \"title\": \"御所たらいうどんFair\",\n    \"category\": \"美食\",\n    \"region\": \"四國德島阿波市\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n      }\n    ],\n    \"reason\": \"索引指11/6–8；參加店家與優惠資格未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-12\",\n    \"title\": \"花屋敷Black Friday\",\n    \"category\": \"活動／票券\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.walkerplus.com/event/ar0313e621266/data.html\"\n      }\n    ],\n    \"reason\": \"與熊手優惠為不同活動；索引列11/7–27，平日票與姓名優惠未完成官方核對，不混寫。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群限制】\n{\n  \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 2,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"已對2題作社群索引搜尋，另13題未完成逐題補查；未完成平台內建搜尋。未取得兩名作者、48小時原文、可核對讚與留言。不能建立社群榜，不以新聞數代替。\",\n  \"platformAccess\": {\n    \"Threads\": \"日本旅遊及兩題關鍵字，無合格原文\",\n    \"X\": \"兩題關鍵字，無可用近期原始互動數\",\n    \"Facebook\": \"花屋敷熊手搜尋未取得合格原文\",\n    \"Instagram\": \"酉之市日期搜尋未取得合格原文\",\n    \"Dcard\": \"酉之市搜尋無合格近期原文\",\n    \"PTT\": \"酉之市2026搜尋無合格近期原文\",\n    \"YouTube\": \"命中2024／2025官方影片，排除\",\n    \"TikTok\": \"搜尋遭robots限制，未取得可核對原文\"\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"kenrokuen-autumn-20261107\",\n  \"title\": \"兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單\",\n  \"score\": 90,\n  \"reason\": \"能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。\",\n  \"versusSecond\": \"兼六園有清楚可保存的七日清單，還能規劃後續週末；花屋敷今天的行動時間短且營業細節仍需確認。此為編輯推薦，不預先代使用者選題。\",\n  \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"11月金澤與北陸自由行旅客\",\n  \"lifecycle\": \"1週\"\n}\n【明天追蹤】\n[\n  {\n    \"title\": \"兼六園首晚狀態及下一場\",\n    \"next\": \"追查11/7現場公告與葉況；下一指定日為11/14，11/8不在本活動名單。不預測熱度一定上升。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://kenrokuen.or.jp/events/lightup-2609/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"花屋敷熊手優惠現場受理與11/19場\",\n    \"next\": \"追查營業、受理及熊手種類細節；原文未明的御守／舊熊手資格不可自行放寬。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.hanayashiki.jp/news/archives/20261022/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"鳥取池田家墓所點燈\",\n    \"next\": \"未來24–72小時補個別主辦頁、指定夜晚、票價及交通，再判斷是否適合台灣旅客。\",\n    \"sources\": [\n      {\n        \"label\": \"官方月曆線索\",\n        \"url\": \"https://www.tottori-guide.jp/808/204/2017/36152.html\"\n      }\n    ]\n  }\n]",
+  "fullText": "日本每日內容雷達\n2026-11-07\n搜尋截止：2026-11-07 10:07:25 Asia/Taipei（日本11:07:25 Asia/Tokyo）\n本期建立15個不同事件線索，2題完成主要事實交叉查核、13題待核，未湊足10個合格選題。待核題不虛構分數或星等。本次多地搜尋不代表全國所有分類完整覆蓋；交通、九州與關西未取得合格新題。2題均為今日開始／實施的舊公告例外，不是24小時新公告。沒有合格自然社群樣本，無法建立本期熱榜，以下依編輯內容分數排序。\n\n【今天日本發生什麼】\n已查證：兼六園11月第一場免費點燈是今晚，整月只列7個指定夜晚。\n已查證：兼六園11/8未在本次活動日期內，不能把日期區間當成每日開放。\n已查證：淺草酉之市今年為11/7與11/19，祭典時間與花屋敷營業時間分開。\n已查證：花屋敷指定熊手1支最多2人免入園；熊手購買、遊樂設施與飲食另計。\n編輯觀察：今天適合發布可立即使用的日期與資格提醒，不能把開幕當葉況見頃。\n限制：兩題均無可排名社群原文數據；零合格樣本不代表沒有人討論。\n八項分數順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數及星等為編輯預估，非已驗證熱度。\n【精選完整查核】\n[\n  {\n    \"id\": \"kenrokuen-autumn-20261107\",\n    \"title\": \"兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單\",\n    \"region\": \"北陸／石川縣金澤市兼六園、金澤城公園及玉泉院丸庭園\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"官方頁未標首次公布日期；秋之段9月已有場次，不當作今日新公告\",\n    \"eventDate\": \"2026/11/7、14、15、21、22、28、29；18:00–20:45，21:00閉園（日本時間）\",\n    \"freshness\": \"今天11月首場例外；首次公布日期未確認，不能列A級新公告\",\n    \"lifecycle\": \"1週\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"低\",\n    \"why\": \"能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。\",\n    \"facts\": \"兼六園觀光協會與金澤市觀光協會分別列出相同7個日期及時間，並確認點燈時段免費入園。11/8未列在本活動名單，不能推論所有其他庭園或城市燈光也不開。18:00–20:45為活動時間，21:00閉園；未將20:45另稱最後入場。一般點燈參觀未見要求事前預約或國籍限制；特別料理與其他付費服務不包含。未取得今晚葉況及即時天候／臨時取消資訊，出發前再查；不保證已全紅。官方交通為兼六園下・金澤城站步行約3分鐘，夜間班次未核。\",\n    \"sources\": [\n      {\n        \"label\": \"兼六園觀光協會原頁\",\n        \"url\": \"https://kenrokuen.or.jp/events/lightup-2609/\"\n      },\n      {\n        \"label\": \"金澤市觀光協會交叉確認\",\n        \"url\": \"https://www.kanazawa-kankoukyoukai.or.jp/event/detail_30047.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"夜間行程可接金澤住宿，後續週末仍有規劃時間；點燈本身免費，不能硬推入園票。\",\n      \"products\": [\n        \"金澤住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"若打算留在金澤看夜景，可以比較住宿位置與回程交通；住宿方案不等於包含任何付費活動。\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"金澤住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/kanazawa-hotels-list-3663/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供後續指定週末夜遊住宿比較，不是點燈套票。\",\n            \"checks\": \"輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。\",\n            \"checkedAt\": \"2026-11-07T10:04:49+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已實際閱讀金澤住宿列表；未核空房、最低價或分潤資格。\",\n        \"pages\": [\n          {\n            \"title\": \"金澤住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/kanazawa.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"供後續指定週末夜遊住宿比較，不是點燈套票。\",\n            \"checks\": \"輸入入住日期，逐家核對距離、回程交通、餐食與取消條件。\",\n            \"checkedAt\": \"2026-11-07T10:04:49+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"10:04 Asia/Taipei已讀兼六園普通門票；本題點燈免費，不推薦為此買票，亦不自動帶入。原頁：https://www.kkday.com/zh-tw/product/578624\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"10:04已開啟金澤目的地頁，但未核對可銜接夜間活動的具體住宿／交通，暫不推薦。https://www.klook.com/destination/c445-kanazawa/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com 兼六園 2026 11月\",\n        \"site:threads.com 兼六園 2026 11月7日\",\n        \"site:x.com 兼六園 2026 11月7日\",\n        \"site:tiktok.com 兼六園 2026\"\n      ]\n    }\n  },\n  {\n    \"id\": \"asakusa-torinoichi-20261107\",\n    \"title\": \"淺草酉之市今天登場：指定熊手1支，花屋敷最多2人免入園費\",\n    \"region\": \"關東／東京台東區鷲神社、長國寺及淺草花屋敷\",\n    \"category\": \"活動／票券\",\n    \"announcementDate\": \"花屋敷2026/10/22公告；地方媒體10/24；台東區9/24更新，非今日新公告\",\n    \"eventDate\": \"2026/11/7、11/19；酉之市各日0:00–24:00（日本時間）；花屋敷須依自身營業時間\",\n    \"freshness\": \"今天實施例外；原公告10/22已超過7天\",\n    \"lifecycle\": \"1天\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"risk\": \"中\",\n    \"why\": \"今天身在東京的旅客可立即採用；熊手數量與免費範圍是容易誤解但實用的分享重點。\",\n    \"facts\": \"鷲神社與台東區核對酉之市11/7及11/19、0–24時；花屋敷10/22官方原文與10/24地方媒體條件整理交叉核對指定熊手1支最多2人免入園。地方媒體引用官方並補查票券規則，不聲稱兩次獨立採訪；PR TIMES同品牌稿不另計。僅淺草鷲神社酉之市購買的熊手，未見國籍限制、熊手尺寸或最低價規定；其他地點、舊熊手、かっこめ御守是否適用未明，不擴大解釋。熊手購買費及設施、飲食另計，不計算保證省下金額。花屋敷今日營業／最後入園、現場人流限制尚未完全確認，酉之市24小時不代表花屋敷24小時。一般入園優惠官方以現場持熊手為條件，未列預約要求。\",\n    \"sources\": [\n      {\n        \"label\": \"花屋敷原始公告\",\n        \"url\": \"https://www.hanayashiki.jp/news/archives/20261022/\"\n      },\n      {\n        \"label\": \"地方媒體條件整理（原頁以系統信任憑證讀取）\",\n        \"url\": \"https://taito-media.tokyo.jp/archives/3858\"\n      },\n      {\n        \"label\": \"鷲神社日程\",\n        \"url\": \"https://otorisama.or.jp/sm/kotoshi_m/\"\n      },\n      {\n        \"label\": \"台東區日程及交通\",\n        \"url\": \"https://www.city.taito.lg.jp/event/kanko/torinoithi.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"今日現地活動且優惠本身不需要購平台門票，多數旅客已有住宿；不為免費入園硬推票券。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"score\": 86,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 18,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 7,\n      \"視覺吸引力\": 8,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 3\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"花屋敷關鍵字搜尋混入掛川公園與寶塚球場，地點不符，不採用；未取得適用商品原頁。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"10:04已讀淺草住宿列表，與現地免費入園關聯弱，本題不硬推。https://www.booking.com/district/jp/tokyo/asakusa.ja.html\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"10:04開啟153530淺草和服頁只讀到殘缺內容，且和服非本題免費資格，不推薦。https://www.kkday.com/zh-cn/product/153530\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"10:04已讀淺草目的地頁，未確認酉之市／熊手活動商品，低適合度不硬推。https://www.klook.com/zh-TW/destination/p50200180-asakusa/\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"熱度未確認；沒有兩位不同作者的48小時原文及可核對讚／留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://www.youtube.com/watch?v=PoLGA2P80tE\",\n          \"label\": \"搜尋命中的舊年酉之市影片\",\n          \"reason\": \"2024內容及官方來源，不符合2026本題近期自然討論。\"\n        },\n        {\n          \"url\": \"https://www.youtube.com/watch?v=MrBIFxY5xzs\",\n          \"label\": \"搜尋命中的舊年官方直播\",\n          \"reason\": \"2025官方內容，不能拿來作2026熱度；未採互動數。\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com 酉之市 2026\",\n        \"site:x.com 酉の市 2026 11月7日\",\n        \"site:facebook.com 花やしき 熊手 2026\",\n        \"site:instagram.com 酉の市 2026 11月7日\",\n        \"site:dcard.tw 酉之市\",\n        \"site:ptt.cc 酉之市 2026\",\n        \"site:youtube.com 酉の市 2026 11月7日\"\n      ]\n    }\n  }\n]\n【候選池未入選紀錄】\n[\n  {\n    \"id\": \"lead-20261107-0\",\n    \"title\": \"鳥取池田家墓所點燈\",\n    \"category\": \"活動\",\n    \"region\": \"鳥取\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.tottori-guide.jp/808/204/2017/36152.html\"\n      }\n    ],\n    \"reason\": \"官方月曆原頁已開，索引指11/7–29；個別日程、時間及第二來源未完成。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-1\",\n    \"title\": \"北本祭宵祭\",\n    \"category\": \"活動\",\n    \"region\": \"埼玉\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://chocotabi-saitama.jp/event/?cat_event=experience\"\n      }\n    ],\n    \"reason\": \"索引指11/7；未完成主辦日程及交通管制查核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-2\",\n    \"title\": \"富山Rail & Cycle\",\n    \"category\": \"旅遊\",\n    \"region\": \"富山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.toyamashi-kankoukyoukai.jp/event/?cal_month=11&cal_year=2026\"\n      }\n    ],\n    \"reason\": \"索引指11/7；參加資格、預約與路線未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-3\",\n    \"title\": \"成羽愛宕花火\",\n    \"category\": \"活動\",\n    \"region\": \"岡山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://machievent.com/chugoku/calendar/\"\n      }\n    ],\n    \"reason\": \"索引指11/7；未取得天候、當日舉辦公告與官方第二來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-4\",\n    \"title\": \"廣島大いのこ祭\",\n    \"category\": \"活動\",\n    \"region\": \"廣島\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://machievent.com/chugoku/calendar/\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；未完成旅客動線與主辦時程查核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-5\",\n    \"title\": \"沖繩Oriental飯店5周年美食活動\",\n    \"category\": \"美食\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.okinawastory.jp/event/list?from=2026-11-01&page=4&to=2026-11-30\"\n      }\n    ],\n    \"reason\": \"官方活動列表已開，索引指11/4–12/10；餐價、外客使用及預約未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-6\",\n    \"title\": \"石垣島祭\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩石垣\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://matcha-jp.com/tw/27809\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；主辦原頁、現場狀態及交通尚未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-7\",\n    \"title\": \"廣島巴士祭\",\n    \"category\": \"交通／活動\",\n    \"region\": \"廣島\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.kanko-h.com/event/?date=2026-11-07\"\n      }\n    ],\n    \"reason\": \"索引指11/7–8；預約及體驗限制未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-8\",\n    \"title\": \"滝野紅葉祭\",\n    \"category\": \"季節情報\",\n    \"region\": \"北海道\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.matsuri-dokoro.jp/ja/day/hokkaido\"\n      }\n    ],\n    \"reason\": \"索引為進行中活動，未核今日新進展，不重包裝成新消息。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-9\",\n    \"title\": \"北海道＆東日本Pass冬季販售\",\n    \"category\": \"票券\",\n    \"region\": \"北海道／東北／關東\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://jr-group.jp/hokkaido-eastjapanpass/\"\n      }\n    ],\n    \"reason\": \"搜尋顯示11/6頁面；站名不能當JR官方，原始公告、票價及2026適用條件未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-10\",\n    \"title\": \"Little World東北美食祭\",\n    \"category\": \"美食\",\n    \"region\": \"中部愛知犬山\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.shachihoko.news/nagoya-events-2026-nov-2-8/\"\n      }\n    ],\n    \"reason\": \"索引列11/7開始；園方原頁、門票與餐價未完成核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-11\",\n    \"title\": \"御所たらいうどんFair\",\n    \"category\": \"美食\",\n    \"region\": \"四國德島阿波市\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n      }\n    ],\n    \"reason\": \"索引指11/6–8；參加店家與優惠資格未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261107-12\",\n    \"title\": \"花屋敷Black Friday\",\n    \"category\": \"活動／票券\",\n    \"region\": \"東京\",\n    \"announcementDate\": \"首次公布日期未確認\",\n    \"eventDate\": \"搜尋線索日期尚待核對\",\n    \"sources\": [\n      {\n        \"label\": \"候選線索，非完整查核\",\n        \"url\": \"https://www.walkerplus.com/event/ar0313e621266/data.html\"\n      }\n    ],\n    \"reason\": \"與熊手優惠為不同活動；索引列11/7–27，平日票與姓名優惠未完成官方核對，不混寫。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"未完成事件查核，不虛構商品適合度\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、交通、包含項目、取消條件、庫存與分潤資格須另核。\",\n      \"assessedOn\": \"2026-11-07\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"尚未取得適用的推薦頁面，不代表沒有商品。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群限制】\n{\n  \"checkedAt\": \"2026-11-07T10:07:25+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 2,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"已對2題作社群索引搜尋，另13題未完成逐題補查；未完成平台內建搜尋。未取得兩名作者、48小時原文、可核對讚與留言。不能建立社群榜，不以新聞數代替。\",\n  \"platformAccess\": {\n    \"Threads\": \"日本旅遊及兩題關鍵字，無合格原文\",\n    \"X\": \"兩題關鍵字，無可用近期原始互動數\",\n    \"Facebook\": \"花屋敷熊手搜尋未取得合格原文\",\n    \"Instagram\": \"酉之市日期搜尋未取得合格原文\",\n    \"Dcard\": \"酉之市搜尋無合格近期原文\",\n    \"PTT\": \"酉之市2026搜尋無合格近期原文\",\n    \"YouTube\": \"命中2024／2025官方影片，排除\",\n    \"TikTok\": \"搜尋遭robots限制，未取得可核對原文\"\n  }\n}\n【編輯推薦】\n{\n  \"id\": \"kenrokuen-autumn-20261107\",\n  \"title\": \"兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單\",\n  \"score\": 90,\n  \"reason\": \"能直接避免把11/7至29誤讀成每天舉辦；今晚及後續六場皆有安排價值，台灣北陸自由行旅客容易收藏日期表。\",\n  \"versusSecond\": \"兼六園有清楚可保存的七日清單，還能規劃後續週末；花屋敷今天的行動時間短且營業細節仍需確認。此為編輯推薦，不預先代使用者選題。\",\n  \"publishAt\": \"11/7 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"11月金澤與北陸自由行旅客\",\n  \"lifecycle\": \"1週\"\n}\n【明天追蹤】\n[\n  {\n    \"title\": \"兼六園首晚狀態及下一場\",\n    \"next\": \"追查11/7現場公告與葉況；下一指定日為11/14，11/8不在本活動名單。不預測熱度一定上升。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://kenrokuen.or.jp/events/lightup-2609/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"花屋敷熊手優惠現場受理與11/19場\",\n    \"next\": \"追查營業、受理及熊手種類細節；原文未明的御守／舊熊手資格不可自行放寬。\",\n    \"sources\": [\n      {\n        \"label\": \"官方\",\n        \"url\": \"https://www.hanayashiki.jp/news/archives/20261022/\"\n      }\n    ]\n  },\n  {\n    \"title\": \"鳥取池田家墓所點燈\",\n    \"next\": \"未來24–72小時補個別主辦頁、指定夜晚、票價及交通，再判斷是否適合台灣旅客。\",\n    \"sources\": [\n      {\n        \"label\": \"官方月曆線索\",\n        \"url\": \"https://www.tottori-guide.jp/808/204/2017/36152.html\"\n      }\n    ]\n  }\n]\n【各題串文、切角、配圖與延伸】\n[\n  {\n    \"title\": \"兼六園今晚免費點燈：11月只有7個指定夜晚，明天不在名單\",\n    \"threads\": [\n      \"兼六園今晚免費點燈，但明天11/8不在這次的活動名單裡。11月去金澤，先對日期再排晚餐。\\n\\n2026年11月只有7個指定夜晚：7、14、15、21、22、28、29日。日本時間18:00～20:45點燈、21:00閉園；免費的是這些點燈時段的入園，不是整個11月白天都免費。\",\n      \"這次可一起安排兼六園、金澤城公園與玉泉院丸庭園。市觀光協會列的交通方式，是到「兼六園下・金澤城」站再步行約3分鐘。\\n\\n一般點燈參觀的官方說明未列預約要求；茶店特別料理是另外的消費，部分需要預約。夜間免費入園，不必為了這段活動先買白天入園票。回程公車時間則要另查。\",\n      \"想拍夜楓，出門前再看官方臨時公告和當天葉況。活動開始不代表已經滿紅，宣傳照片也不能當作今晚實況。\\n\\n如果只能11/8到金澤，別照著「11/7～29」這種簡寫安排兼六園點燈；改看上面的指定日，或另外安排白天參觀。日期、時間與限制以官方為準：https://kenrokuen.or.jp/events/lightup-2609/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"日期避雷\",\n        \"opening\": \"兼六園今晚免費點燈，但11/8不在活動名單。\"\n      },\n      {\n        \"name\": \"省門票\",\n        \"opening\": \"金澤11月7個夜晚，兼六園點燈時段免入園費。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"金澤晚餐前先看日期：兼六園11月點燈18:00開始。\"\n      },\n      {\n        \"name\": \"收藏日曆\",\n        \"opening\": \"11月去兼六園看夜景，把7、14、15、21、22、28、29圈起來。\"\n      },\n      {\n        \"name\": \"照片辨識\",\n        \"opening\": \"兼六園今天有點燈，不等於今天已經全紅。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動頁主視覺與日程，可作查找素材來源；商用／轉載授權未確認，照片不冒充今日實況。\",\n        \"url\": \"https://kenrokuen.or.jp/events/lightup-2609/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：金澤夜遊住宿與回程交通；住宿不視為含餐或活動票。\"\n    ]\n  },\n  {\n    \"title\": \"淺草酉之市今天登場：指定熊手1支，花屋敷最多2人免入園費\",\n    \"threads\": [\n      \"今天逛淺草酉之市，如果原本就打算買熊手，可以順路安排花屋敷：指定熊手1支，最多2人免入園費。\\n\\n優惠只在2026/11/7、11/19，熊手須在淺草鷲神社的酉之市購買。免費的是入園，遊樂設施不是免費搭；也別把家裡舊熊手或別處買的，直接當成符合資格。\",\n      \"行程要分開看兩個時鐘。鷲神社與台東區公告的酉之市是當日0:00～24:00，但花屋敷有自己的營業時間，並不跟著通宵。\\n\\n台東區列入谷站步行約9分鐘、筑波快線淺草站約11分鐘可到祭典區；銀座線等其他淺草站的位置不同。先逛祭典、買符合條件的熊手，再在遊樂園營業時段持熊手前往。\",\n      \"熊手本身要付費，所以比較適合本來就想帶縁起物回家的旅客。尺寸、價格與能否帶回台灣都要依實際商品確認，不能保證為了免費入園特地買就比較省。\\n\\n出發前先核對花屋敷當天營業時間與現場受理方式；今天最後入園時間尚未核實。官方條件：https://www.hanayashiki.jp/news/archives/20261022/\\n酉之市日期：https://otorisama.or.jp/sm/kotoshi_m/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"具體利益\",\n        \"opening\": \"淺草酉之市買指定熊手，1支最多2人免花屋敷入園費。\"\n      },\n      {\n        \"name\": \"免費範圍\",\n        \"opening\": \"今天花屋敷熊手優惠免的是入園費，遊樂設施另計。\"\n      },\n      {\n        \"name\": \"時間避雷\",\n        \"opening\": \"淺草酉之市通宵舉辦，不代表花屋敷也通宵。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"今天去淺草，想逛酉之市又進花屋敷，要先安排熊手購買順序。\"\n      },\n      {\n        \"name\": \"適用條件\",\n        \"opening\": \"家裡的熊手先別拿出門：花屋敷這次指定淺草鷲神社酉之市購入。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動頁主視覺與日程，可作查找素材來源；商用／轉載授權未確認，照片不冒充今日實況。\",\n        \"url\": \"https://www.hanayashiki.jp/news/archives/20261022/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸淺草站出口、酉之市與花屋敷動線攻略；本題不硬推分潤商品。\"\n    ]\n  }\n]"
+}
