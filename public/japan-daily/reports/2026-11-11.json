@@ -1,0 +1,1773 @@
+{
+  "date": "2026-11-11",
+  "cutoff": "2026-11-11 10:05:00 Asia/Taipei（日本11:05:00 Asia/Tokyo）",
+  "scopeNote": "15個不同事件線索，3題完成主要事實交叉核對、12題待查；不是15題全部合格，未完成者不虛構八項分數或星等。廣泛搜尋但東北、北陸、中國與四國未完成合格當地事件查核，不能宣稱全面覆蓋。3題社群均不達兩作者門檻，無法建立本期熱榜，以下按編輯內容分數排序。已查既有11/10報告，旭山相較11/4休園消息有今日開園新進展；缺報歷史不以今天資料倒填。",
+  "trends": [
+    "已查證：丸龜釜揚烏龍麵今天指定優惠，並190、大290、得380日圓，非全菜單適用。",
+    "已查證：旭山動物園今天冬期開園，10:30開門、15:00最後入園、15:30閉園。",
+    "已查證：旭山一般高中生以上1000日圓，700日圓有市民資格，不能當遊客通用價。",
+    "已查證：大阪站今晚18:30預定點燈儀式；18:00整理券屬抽獎活動。",
+    "編輯觀察：今天最有即時價值的是指定日優惠與營運切換，不能因為今天開始就稱今天才公布。",
+    "查核限制：沒有合格近期社群互動樣本；旭山首頁時段與專頁有矛盾，採冬期日曆及票頁一致資訊。"
+  ],
+  "choice": {
+    "id": "marugame-kamaage-20261111",
+    "title": "丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓",
+    "score": 90,
+    "reason": "今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。",
+    "versusSecond": "丸龜指定日優惠今日午餐即可採用，錯過今天需等11/21；旭山冬期資訊可持續使用較久。分潤需求則第二題較自然。推薦標籤不代使用者選題。",
+    "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "目前在日本、準備找午餐的台灣旅客",
+    "lifecycle": "1天"
+  },
+  "top10": [
+    {
+      "id": "marugame-kamaage-20261111",
+      "title": "丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓",
+      "category": "美食",
+      "region": "日本全國參加丸龜製麵門市",
+      "announcementDate": "官方活動頁未列首次公告日；可核對報導2026/10/30 17:55日本時間",
+      "eventDate": "2026/11/11本次優惠；另有11/1及11/21，不是11月每天",
+      "freshness": "超過7天例外：今天指定優惠日；10/30已有報導，不當新公告",
+      "lifecycle": "1天",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "why": "今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。",
+      "facts": "官方活動頁及價目圖片、週刊ASCII核對11/1、11/11、11/21釜揚げうどん活動。含稅並190、大290、得380日圓，原價390、580、770。官方稱半額，但按官方價目引用，不自行算成195或385。僅指定烏龍麵，不把配菜天婦羅或其他麵款算進優惠。排除東京Dome City、駒澤大學、東洋大學、町田パリオ店；其他門市可能因設施或臨時休業不同。未列國籍條件，活動頁另項App券不混成此優惠必要條件。未核對各門市今日即時營業、外帶及所有支付方式，不作承諾。兩來源為官方與依品牌資訊編輯的媒體，不稱兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "丸龜官方活動",
+          "url": "https://jp.marugame.com/campaign/sogyokanshasai2026/"
+        },
+        {
+          "label": "官方含稅價目圖片",
+          "url": "https://jp.marugame.com/synced-assets/campaign_sogyokanshasai2026/img/event01-mv.png"
+        },
+        {
+          "label": "週刊ASCII 10/30報導",
+          "url": "https://weekly.ascii.jp/elem/000/004/447/4447389/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市單碗優惠與預訂需求弱，不為190日圓麵食硬接住宿或行程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2028010158660407753",
+            "label": "搜尋命中X趨勢摘要",
+            "reason": "非近期原始民間貼文，且為3月事件，不採計。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 丸亀 2026 11月11日",
+          "site:x.com 丸亀製麺 2026 11月11日"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天在日本想吃丸龜，先看清楚優惠麵款：11/11是「釜揚げうどん」指定優惠日，不是全部烏龍麵都半價。\n\n官方含稅價是並190、大290、得380日圓。優惠限參加門市，天婦羅、配菜和其他麵款不能一起當成這個價格。",
+          "點餐時對照「釜揚げうどん」與尺寸，再看店頭價目。東京Dome City、駒澤大學、東洋大學、町田パリオ店不在這次活動範圍，其他門市也可能因設施規定或休業調整。\n\n官方頁上的App優惠券是另一項活動，別誤以為這碗指定優惠一定要先領App券；本活動說明沒有列國籍限制。",
+          "錯過今天也不用把其他日期當成同價：下一個指定日是11/21，並不是整個11月天天都有。\n\n適合原本就在附近、想順路吃一餐的人。出發前確認要去的店今天有營業、參加活動及現場價格；我們沒有逐店即時營業或庫存資料。完整活動與例外門市：https://jp.marugame.com/campaign/sogyokanshasai2026/"
+        ],
+        "angles": [
+          {
+            "name": "今日午餐",
+            "opening": "11/11在日本，丸龜釜揚烏龍麵並190日圓；不是全部麵款都適用。"
+          },
+          {
+            "name": "價格",
+            "opening": "丸龜今天指定麵款三種尺寸：190、290、380日圓，皆含稅。"
+          },
+          {
+            "name": "門市避雷",
+            "opening": "想吃丸龜今天的優惠，先排除這4間不參加的門市。"
+          },
+          {
+            "name": "日期",
+            "opening": "丸龜11月的指定優惠日不只1日，今天11日也是其中一次。"
+          },
+          {
+            "name": "品項辨識",
+            "opening": "去丸龜點餐前記住「釜揚げうどん」：今天優惠不是任選烏龍麵。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。",
+            "url": "https://jp.marugame.com/campaign/sogyokanshasai2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸日本連鎖餐飲價格與活動日期比較，不硬接旅遊分潤。"
+        ]
+      }
+    },
+    {
+      "id": "asahiyama-winter-20261111",
+      "title": "旭山動物園今天冬季開園：10:30開門、15:00最後入園",
+      "category": "旅遊／票券",
+      "region": "北海道旭川／旭山動物園",
+      "announcementDate": "官方月曆未列首次公布日；交叉來源9C Hotel 11/5；票價頁10/1更新不冒充新公告",
+      "eventDate": "冬期2026/11/11～2027/4/7；12/30～1/1休園；10:30～15:30、最後入園15:00日本時間",
+      "freshness": "今天冬季開園；既有公告之生效提醒，非新公布",
+      "lifecycle": "1個月以上",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "why": "今天重新開園是相較11/4休園提醒的新進展；冬季開門、閉園及最後入園容易混淆，直接影響北海道行程。",
+      "facts": "官方11月活動日曆、官方一般費用頁、9C Hotel 11/5指南與官方導向KKday票頁互核。冬期10:30～15:30，最後入園15:00。一般高中生以上1000日圓、國中生以下免費；旭川市民700不是一般台灣遊客票價。12/30～1/1休園。首頁搜尋顯示夏季時段與專頁矛盾，採明列冬期日期的日曆及售票頁，未將首頁錯誤時段寫入草稿。原冬期新聞連結今日404，保留限制，不聲稱讀到其公告內容。未核本季企鵝散步開始公告，開園不代表散步已開始。QR同筆多人票需同時入園、不保證免排隊；一般遊客可購，不列市民優惠。交叉來源為住宿業者指南及售票平台，不冒稱獨立新聞採訪。",
+      "sources": [
+        {
+          "label": "旭山官方11月日曆",
+          "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html"
+        },
+        {
+          "label": "官方票價與電子票規則",
+          "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html"
+        },
+        {
+          "label": "9C Hotel 11/5冬期指南",
+          "url": "https://9chotel.jp/asahikawa-zoo-winter-november-2026/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬季行程有直接入園票及旭川住宿需求；已核實際入場票頁，留言可自然銜接，不能保證企鵝散步。",
+        "products": [
+          "旭山動物園入場票",
+          "旭川住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "要安排旭山動物園，可以先確認你的日期是否開園，再比較入場票與旭川住宿；住宿不含門票，冬季開園也不等於企鵝散步已開始。",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭川住宿列表",
+              "url": "https://www.trip.com/hotels/asahikawa-hotels-list-4280/",
+              "kind": "住宿列表",
+              "reason": "已核地區為旭川，可接動物園旅行住宿需求。",
+              "checks": "另輸入入住日；不保證每家近園區，不含入園票，快取價格非即時報價。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭川住宿列表",
+              "url": "https://www.booking.com/city/jp/asahikawa.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已核城市為旭川，供既有北海道行程比較。",
+              "checks": "頁面快取日期不代表目前空房，須核入住日、回程交通及取消條件；不含門票。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭山動物園入場票",
+              "url": "https://www.kkday.com/ja/product/128506-hokkaido-asahiyama-zoo-admission-ticket-japan",
+              "kind": "商品頁",
+              "reason": "本季2026/5/1～2027/4/7票券，園區與冬季時段一致，保留乾淨網址。",
+              "checks": "高中生以上購票；免費年齡、QR同筆一起入園、休園日及原則不退款須確認；電子票不保證免排隊或企鵝散步。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟https://www.klook.com/zh-HK/destination/p50097286-asahiyama-zoo/，包含不同季節與組合行程；個別方案季節與包含內容未核，不列確定推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/@toxins/post/260250927",
+            "label": "Dcard旅遊舊索引",
+            "reason": "無可核對本期48小時原文及指標，不採計。"
+          },
+          {
+            "url": "https://www.dcard.tw/f/japan_travel/p/262383854/b/1",
+            "label": "Dcard快取相對日期",
+            "reason": "不把快取的昨天換算為今天前一天；缺絕對發布時間及指標。"
+          }
+        ],
+        "queries": [
+          "site:facebook.com 旭山動物園 2026 11月11日",
+          "site:dcard.tw 旭山動物園 2026 冬季",
+          "site:youtube.com 旭山動物園 2026 11月11日",
+          "site:threads.com 旭山動物園 2026 11月"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今天11/11起，旭山動物園進入冬季開園期。排北海道行程時先記兩個時間：日本時間10:30開門、15:00最後入園，15:30閉園。\n\n冬期到2027/4/7，但12/30～1/1休園。別沿用夏季時刻，也別把15:30當成還能進場的時間。",
+          "一般高中生以上入園票1000日圓，國中生以下免費。看到700日圓時先看資格，那是旭川市民價，不是一般台灣旅客票價。\n\n若買電子票，先存好QR與訂單規則；同筆多人票需一起入園，電子票也不等於保證免排隊。先依人數與年齡確認需要幾張，避免替免費年齡多買。",
+          "行程別只算去程，回程交通也要配合15:30閉園。冬期開園不代表企鵝散步已經開始；這次沒有查到本季開始公告，別把散步當成今天必看的項目。\n\n出發前用官方當月日曆重查日期與時段，特別是跨年行程：https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\n票價與電子票規則：https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html"
+        ],
+        "angles": [
+          {
+            "name": "營業時段",
+            "opening": "旭山動物園今天冬季開園，15:00就停止入園。"
+          },
+          {
+            "name": "票價資格",
+            "opening": "旭山動物園一般成人1000日圓，700日圓另有市民資格。"
+          },
+          {
+            "name": "企鵝提醒",
+            "opening": "旭山動物園冬季開園了，但不能直接當成企鵝散步也開始。"
+          },
+          {
+            "name": "跨年安排",
+            "opening": "跨年去旭山動物園，12/30～1/1休園要先避開。"
+          },
+          {
+            "name": "電子票",
+            "opening": "旭山動物園買一筆多人電子票，要記得一起入園。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。",
+            "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：依既有旅行計畫比較本地住宿、交通與適用票券；住宿不含活動票，不保證庫存或優惠。"
+        ]
+      }
+    },
+    {
+      "id": "osaka-twilight-ceremony-20261111",
+      "title": "大阪站今晚18:30點燈儀式：18:00發的是抽獎整理券",
+      "category": "活動／季節情報",
+      "region": "關西大阪／大阪站城5F時空之廣場",
+      "announcementDate": "官方活動頁未列發布日期；Raxus 11/9報導引11/2發布資料，原始發布時刻未核",
+      "eventDate": "2026/11/11 18:30點燈儀式預定；抽獎整理券18:00、抽獎18:20日本時間；整體活動11/2～12/25",
+      "freshness": "今天舉行點燈儀式；非今天才公告",
+      "lifecycle": "1天",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "why": "今晚已在大阪的人能順路安排；抽獎券與觀賞入場條件易混淆，值得具體澄清。",
+      "facts": "官方儀式頁及整體活動頁、Raxus11/9報導核對大阪站5F時空之廣場、11/11 18:30預定儀式。官方18:00發抽選會整理券、18:20抽選會；媒體用觀覽整理券措辭不採，不寫成所有觀看者必須領券。整體活動頁日期11/2～12/25，不能把11/11儀式日當成所有活動共同開幕日。媒體列一般點燈17～23，官方所讀文字未完整交叉支持，草稿不承諾每天時段。免費與免預約適用範圍未完全核實，不擅自宣稱；現場管制、天候、嘉賓與抽獎資格以當日主辦公告為準。來源為官方及據發布資料編輯媒體，非兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "官方點燈儀式",
+          "url": "https://osakastationcity.com/event/6461/"
+        },
+        {
+          "label": "官方整體活動範圍",
+          "url": "https://osakastationcity.com/event/6459/"
+        },
+        {
+          "label": "Raxus 11/9交叉報導",
+          "url": "https://media.raxus.inc/news/umeda-twilight-fantasy-tom-jerry-illumination/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "今晚活動規劃時間短，多數旅客已訂行程；可接梅田住宿攻略，但不為看儀式勸改訂房。",
+        "products": [
+          "梅田住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你本來就在規劃大阪住宿，可以把梅田交通和回飯店動線一起比較；住宿不包含活動資格，也不保證現場觀賞位置。",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "梅田附近住宿列表",
+              "url": "https://www.trip.com/hotels/osaka-umeda/hotels-c219m6790135/",
+              "kind": "住宿列表",
+              "reason": "已核梅田地區，供原有大阪住宿計畫比較。",
+              "checks": "快取報價日期非今日，需輸入入住日期確認；不含抽獎或觀賞資格，不保證每家步行距離。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "大阪梅田住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已核大阪梅田區，適合交通與住宿動線比較。",
+              "checks": "區域列表不代表每家就在大阪站，需核距離、房型、入住日及取消條件，不含活動票。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com Twilight Fantasy 2026",
+          "site:ptt.cc 大阪 點燈 2026 11月",
+          "site:tiktok.com Twilight Fantasy 2026",
+          "site:x.com Twilight Fantasy 2026 11月"
+        ]
+      },
+      "draft": {
+        "threads": [
+          "今晚在大阪站，點燈儀式預定日本時間18:30開始，地點是大阪站城5F「時空の広場」。\n\n11/11這場儀式的時間別和其他日期的一般點燈時段混在一起。若看到18:00，那是官方列的抽獎整理券發放時間，不是點燈開始。",
+          "主辦列的順序是：18:00發抽獎整理券、18:20抽獎、18:30點燈儀式預定。\n\n這張券官方寫的是「抽選会整理券」，不能直接解讀成所有觀看者都必須先領的入場券。想參加抽獎，先確認現場資格與發券方式；單純看點燈，也要配合當日人流管制。",
+          "找場地時認大阪站城5F「時空の広場」，不要和梅田其他展望台混淆。整體活動頁列11/2～12/25，今晚是其中的點燈儀式，並非所有內容都今天才開始。\n\n適合原本就在大阪站周邊的人順路安排。每日常態點燈時間、現場觀賞規則與臨時變更，出門前再看主辦；不要直接把今晚儀式時間套到明天。官方儀式資訊：https://osakastationcity.com/event/6461/"
+        ],
+        "angles": [
+          {
+            "name": "今晚時間",
+            "opening": "今晚大阪站點燈儀式18:30，18:00不是亮燈時間。"
+          },
+          {
+            "name": "整理券",
+            "opening": "大阪站今晚18:00發的是抽獎整理券，不要直接當成所有人的入場券。"
+          },
+          {
+            "name": "場地",
+            "opening": "大阪站今晚的點燈儀式在5F時空之廣場，別走到其他展望台。"
+          },
+          {
+            "name": "時間順序",
+            "opening": "大阪站今晚18:20抽獎、18:30預定點燈，行程先分清楚。"
+          },
+          {
+            "name": "活動日期",
+            "opening": "大阪站整體活動11/2就開始，11/11是點燈儀式日。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。",
+            "url": "https://osakastationcity.com/event/6461/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：依既有旅行計畫比較本地住宿、交通與適用票券；住宿不含活動票，不保證庫存或優惠。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "marugame-kamaage-20261111",
+      "title": "丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓",
+      "category": "美食",
+      "region": "日本全國參加丸龜製麵門市",
+      "announcementDate": "官方活動頁未列首次公告日；可核對報導2026/10/30 17:55日本時間",
+      "eventDate": "2026/11/11本次優惠；另有11/1及11/21，不是11月每天",
+      "freshness": "超過7天例外：今天指定優惠日；10/30已有報導，不當新公告",
+      "lifecycle": "1天",
+      "risk": "低",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "why": "今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。",
+      "facts": "官方活動頁及價目圖片、週刊ASCII核對11/1、11/11、11/21釜揚げうどん活動。含稅並190、大290、得380日圓，原價390、580、770。官方稱半額，但按官方價目引用，不自行算成195或385。僅指定烏龍麵，不把配菜天婦羅或其他麵款算進優惠。排除東京Dome City、駒澤大學、東洋大學、町田パリオ店；其他門市可能因設施或臨時休業不同。未列國籍條件，活動頁另項App券不混成此優惠必要條件。未核對各門市今日即時營業、外帶及所有支付方式，不作承諾。兩來源為官方與依品牌資訊編輯的媒體，不稱兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "丸龜官方活動",
+          "url": "https://jp.marugame.com/campaign/sogyokanshasai2026/"
+        },
+        {
+          "label": "官方含稅價目圖片",
+          "url": "https://jp.marugame.com/synced-assets/campaign_sogyokanshasai2026/img/event01-mv.png"
+        },
+        {
+          "label": "週刊ASCII 10/30報導",
+          "url": "https://weekly.ascii.jp/elem/000/004/447/4447389/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市單碗優惠與預訂需求弱，不為190日圓麵食硬接住宿或行程。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2028010158660407753",
+            "label": "搜尋命中X趨勢摘要",
+            "reason": "非近期原始民間貼文，且為3月事件，不採計。"
+          }
+        ],
+        "queries": [
+          "site:threads.com 丸亀 2026 11月11日",
+          "site:x.com 丸亀製麺 2026 11月11日"
+        ]
+      }
+    },
+    {
+      "id": "asahiyama-winter-20261111",
+      "title": "旭山動物園今天冬季開園：10:30開門、15:00最後入園",
+      "category": "旅遊／票券",
+      "region": "北海道旭川／旭山動物園",
+      "announcementDate": "官方月曆未列首次公布日；交叉來源9C Hotel 11/5；票價頁10/1更新不冒充新公告",
+      "eventDate": "冬期2026/11/11～2027/4/7；12/30～1/1休園；10:30～15:30、最後入園15:00日本時間",
+      "freshness": "今天冬季開園；既有公告之生效提醒，非新公布",
+      "lifecycle": "1個月以上",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "why": "今天重新開園是相較11/4休園提醒的新進展；冬季開門、閉園及最後入園容易混淆，直接影響北海道行程。",
+      "facts": "官方11月活動日曆、官方一般費用頁、9C Hotel 11/5指南與官方導向KKday票頁互核。冬期10:30～15:30，最後入園15:00。一般高中生以上1000日圓、國中生以下免費；旭川市民700不是一般台灣遊客票價。12/30～1/1休園。首頁搜尋顯示夏季時段與專頁矛盾，採明列冬期日期的日曆及售票頁，未將首頁錯誤時段寫入草稿。原冬期新聞連結今日404，保留限制，不聲稱讀到其公告內容。未核本季企鵝散步開始公告，開園不代表散步已開始。QR同筆多人票需同時入園、不保證免排隊；一般遊客可購，不列市民優惠。交叉來源為住宿業者指南及售票平台，不冒稱獨立新聞採訪。",
+      "sources": [
+        {
+          "label": "旭山官方11月日曆",
+          "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html"
+        },
+        {
+          "label": "官方票價與電子票規則",
+          "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html"
+        },
+        {
+          "label": "9C Hotel 11/5冬期指南",
+          "url": "https://9chotel.jp/asahikawa-zoo-winter-november-2026/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬季行程有直接入園票及旭川住宿需求；已核實際入場票頁，留言可自然銜接，不能保證企鵝散步。",
+        "products": [
+          "旭山動物園入場票",
+          "旭川住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "要安排旭山動物園，可以先確認你的日期是否開園，再比較入場票與旭川住宿；住宿不含門票，冬季開園也不等於企鵝散步已開始。",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 6,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭川住宿列表",
+              "url": "https://www.trip.com/hotels/asahikawa-hotels-list-4280/",
+              "kind": "住宿列表",
+              "reason": "已核地區為旭川，可接動物園旅行住宿需求。",
+              "checks": "另輸入入住日；不保證每家近園區，不含入園票，快取價格非即時報價。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭川住宿列表",
+              "url": "https://www.booking.com/city/jp/asahikawa.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已核城市為旭川，供既有北海道行程比較。",
+              "checks": "頁面快取日期不代表目前空房，須核入住日、回程交通及取消條件；不含門票。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "旭山動物園入場票",
+              "url": "https://www.kkday.com/ja/product/128506-hokkaido-asahiyama-zoo-admission-ticket-japan",
+              "kind": "商品頁",
+              "reason": "本季2026/5/1～2027/4/7票券，園區與冬季時段一致，保留乾淨網址。",
+              "checks": "高中生以上購票；免費年齡、QR同筆一起入園、休園日及原則不退款須確認；電子票不保證免排隊或企鵝散步。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已開啟https://www.klook.com/zh-HK/destination/p50097286-asahiyama-zoo/，包含不同季節與組合行程；個別方案季節與包含內容未核，不列確定推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/@toxins/post/260250927",
+            "label": "Dcard旅遊舊索引",
+            "reason": "無可核對本期48小時原文及指標，不採計。"
+          },
+          {
+            "url": "https://www.dcard.tw/f/japan_travel/p/262383854/b/1",
+            "label": "Dcard快取相對日期",
+            "reason": "不把快取的昨天換算為今天前一天；缺絕對發布時間及指標。"
+          }
+        ],
+        "queries": [
+          "site:facebook.com 旭山動物園 2026 11月11日",
+          "site:dcard.tw 旭山動物園 2026 冬季",
+          "site:youtube.com 旭山動物園 2026 11月11日",
+          "site:threads.com 旭山動物園 2026 11月"
+        ]
+      }
+    },
+    {
+      "id": "osaka-twilight-ceremony-20261111",
+      "title": "大阪站今晚18:30點燈儀式：18:00發的是抽獎整理券",
+      "category": "活動／季節情報",
+      "region": "關西大阪／大阪站城5F時空之廣場",
+      "announcementDate": "官方活動頁未列發布日期；Raxus 11/9報導引11/2發布資料，原始發布時刻未核",
+      "eventDate": "2026/11/11 18:30點燈儀式預定；抽獎整理券18:00、抽獎18:20日本時間；整體活動11/2～12/25",
+      "freshness": "今天舉行點燈儀式；非今天才公告",
+      "lifecycle": "1天",
+      "risk": "中",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "why": "今晚已在大阪的人能順路安排；抽獎券與觀賞入場條件易混淆，值得具體澄清。",
+      "facts": "官方儀式頁及整體活動頁、Raxus11/9報導核對大阪站5F時空之廣場、11/11 18:30預定儀式。官方18:00發抽選會整理券、18:20抽選會；媒體用觀覽整理券措辭不採，不寫成所有觀看者必須領券。整體活動頁日期11/2～12/25，不能把11/11儀式日當成所有活動共同開幕日。媒體列一般點燈17～23，官方所讀文字未完整交叉支持，草稿不承諾每天時段。免費與免預約適用範圍未完全核實，不擅自宣稱；現場管制、天候、嘉賓與抽獎資格以當日主辦公告為準。來源為官方及據發布資料編輯媒體，非兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "官方點燈儀式",
+          "url": "https://osakastationcity.com/event/6461/"
+        },
+        {
+          "label": "官方整體活動範圍",
+          "url": "https://osakastationcity.com/event/6459/"
+        },
+        {
+          "label": "Raxus 11/9交叉報導",
+          "url": "https://media.raxus.inc/news/umeda-twilight-fantasy-tom-jerry-illumination/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "今晚活動規劃時間短，多數旅客已訂行程；可接梅田住宿攻略，但不為看儀式勸改訂房。",
+        "products": [
+          "梅田住宿比較"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "如果你本來就在規劃大阪住宿，可以把梅田交通和回飯店動線一起比較；住宿不包含活動資格，也不保證現場觀賞位置。",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 13,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "梅田附近住宿列表",
+              "url": "https://www.trip.com/hotels/osaka-umeda/hotels-c219m6790135/",
+              "kind": "住宿列表",
+              "reason": "已核梅田地區，供原有大阪住宿計畫比較。",
+              "checks": "快取報價日期非今日，需輸入入住日期確認；不含抽獎或觀賞資格，不保證每家步行距離。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。",
+          "pages": [
+            {
+              "title": "大阪梅田住宿列表",
+              "url": "https://www.booking.com/district/jp/osaka/umeda.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "已核大阪梅田區，適合交通與住宿動線比較。",
+              "checks": "區域列表不代表每家就在大阪站，需核距離、房型、入住日及取消條件，不含活動票。",
+              "checkedAt": "2026-11-11T10:02:16+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com Twilight Fantasy 2026",
+          "site:ptt.cc 大阪 點燈 2026 11月",
+          "site:tiktok.com Twilight Fantasy 2026",
+          "site:x.com Twilight Fantasy 2026 11月"
+        ]
+      }
+    },
+    {
+      "id": "lead-20261111-0",
+      "title": "卡比咖啡WINTER2026",
+      "category": "美食／IP",
+      "region": "東京／大阪／博多",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.kirby.jp/news/25799/"
+        }
+      ],
+      "reason": "官方11/4公告，11/11～2027/3/2；已讀官方，價格、預約與第二來源未完成。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-1",
+      "title": "JR栃木冬季推廣",
+      "category": "旅遊／交通",
+      "region": "關東栃木",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://prtimes.jp/main/html/rd/p/000000007.000193666.html"
+        }
+      ],
+      "reason": "11/10 12:00品牌稿，12/1～1/31線索；尚缺第二來源、資格及預約細節。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-2",
+      "title": "九年庵秋季公開",
+      "category": "季節情報",
+      "region": "九州佐賀",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e"
+        }
+      ],
+      "reason": "官方索引11/14～29；原公告、票價與預約尚未完整核對。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-3",
+      "title": "大名古屋大廈聖誕點燈",
+      "category": "季節情報",
+      "region": "中部名古屋",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ],
+      "reason": "官方索引11/11～12/25、5F空中庭園；未完成個別原頁與第二來源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-4",
+      "title": "JR中央雙塔／Gate Tower聖誕活動",
+      "category": "活動",
+      "region": "中部名古屋",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ],
+      "reason": "官方索引11/11～12/25；個別活動時間與原始公布日期未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-5",
+      "title": "Asunal金山點燈",
+      "category": "季節情報",
+      "region": "中部名古屋",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ],
+      "reason": "官方索引11/12～2027/2/28；僅線索，不宣稱已查明票價與時段。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-6",
+      "title": "東山動植物園紅葉活動",
+      "category": "季節情報",
+      "region": "中部名古屋",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ],
+      "reason": "官方索引11/14～12/6；夜間特別開放指定日與票券未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-7",
+      "title": "名古屋市科學館部分設施異常",
+      "category": "重大時事／旅遊",
+      "region": "中部名古屋",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ],
+      "reason": "官方索引11/10起設施故障線索；影響範圍與修復公告未核，不直接當全館休館。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-8",
+      "title": "沖繩Woody Fair",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://okinawa-navi.jp/event/"
+        }
+      ],
+      "reason": "索引11/12～15工藝之杜；主辦原頁、時段及費用未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-9",
+      "title": "RYUBO四國物產展",
+      "category": "美食／購物",
+      "region": "沖繩那霸",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://okinawa-navi.jp/event/"
+        }
+      ],
+      "reason": "索引11/13～18；主辦與價格未核，不把展售地寫成四國。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-10",
+      "title": "葉切繪藝術展",
+      "category": "活動",
+      "region": "關西大阪阪急",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://roamosaka.com/ja/events/november/"
+        }
+      ],
+      "reason": "索引11/11～23；原始公告、入場規則與第二來源未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "lead-20261111-11",
+      "title": "銀座三越聖誕市集",
+      "category": "購物／活動",
+      "region": "關東東京",
+      "announcementDate": "見查核說明；未核者不推定",
+      "eventDate": "見查核說明；尚待完整確認",
+      "sources": [
+        {
+          "label": "候選原頁／索引線索，非完整查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/"
+        }
+      ],
+      "reason": "月曆11/11～12/21線索；主辦細節未完成，不把月曆日期當新公告。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完成時效查核",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "status": "未入選",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事件關鍵條件尚未核，不以估計冒充完成評估",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。",
+        "assessedOn": "2026-11-11"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未取得本題適用且已核對的商品頁，不以不相關商品補齊。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-11T10:05:00+08:00",
+        "summary": "未完成逐題社群補查",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "Asunal金山11/12點燈",
+      "next": "未來24小時補主辦開幕時段及觀賞規則，再判斷是否適合發布；不預測必定爆紅。",
+      "sources": [
+        {
+          "label": "名古屋官方活動索引",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ]
+    },
+    {
+      "title": "九年庵11/14秋季公開",
+      "next": "未來72小時核對票價、接駁、預約及當年開放公告；不將歷年規則直接套用。",
+      "sources": [
+        {
+          "label": "佐賀官方活動頁",
+          "url": "https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e"
+        }
+      ]
+    },
+    {
+      "title": "旭山冬期營運及企鵝散步公告",
+      "next": "追查冬季交通、當日營運與本季散步是否正式公布；目前不能保證近期開始。",
+      "sources": [
+        {
+          "label": "旭山官方日曆",
+          "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html"
+        }
+      ]
+    },
+    {
+      "title": "名古屋市科學館設施異常",
+      "next": "補查受影響設施、修復或開放公告，不能把部分影響寫成全館休館。",
+      "sources": [
+        {
+          "label": "名古屋觀光官方索引",
+          "url": "https://www.nagoya-info.jp/event//"
+        }
+      ]
+    }
+  ],
+  "socialResearch": {
+    "checkedAt": "2026-11-11T10:05:00+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 3,
+    "qualifiedTopicCount": 0,
+    "limitation": "3個精選題完成公開索引關鍵字搜尋，12待查題未逐題補查；未完成各平台內建搜尋。沒有同題兩作者48小時原文與可核對讚／留言，evidence留空，不用新聞篇數或官方宣傳代替民間討論。",
+    "platformAccess": {
+      "Threads": "三題搜尋未取得合格原文",
+      "X": "丸龜命中舊趨勢摘要、大阪無合格原始指標",
+      "Facebook": "旭山搜尋未取得近期可計分原文",
+      "Instagram": "大阪點燈搜尋無合格指標",
+      "Dcard": "旭山舊索引與相對日期不可靠，不採計",
+      "PTT": "大阪點燈無合格近期原文",
+      "YouTube": "旭山搜尋舊年度或非本次開園，不採計",
+      "TikTok": "robots限制，未讀到可核對原始指標"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-11\n搜尋截止：2026-11-11 10:05:00 Asia/Taipei（日本11:05:00 Asia/Tokyo）\n15個不同事件線索，3題完成主要事實交叉核對、12題待查；不是15題全部合格，未完成者不虛構八項分數或星等。廣泛搜尋但東北、北陸、中國與四國未完成合格當地事件查核，不能宣稱全面覆蓋。3題社群均不達兩作者門檻，無法建立本期熱榜，以下按編輯內容分數排序。已查既有11/10報告，旭山相較11/4休園消息有今日開園新進展；缺報歷史不以今天資料倒填。\n【今天日本發生什麼】\n已查證：丸龜釜揚烏龍麵今天指定優惠，並190、大290、得380日圓，非全菜單適用。\n已查證：旭山動物園今天冬期開園，10:30開門、15:00最後入園、15:30閉園。\n已查證：旭山一般高中生以上1000日圓，700日圓有市民資格，不能當遊客通用價。\n已查證：大阪站今晚18:30預定點燈儀式；18:00整理券屬抽獎活動。\n編輯觀察：今天最有即時價值的是指定日優惠與營運切換，不能因為今天開始就稱今天才公布。\n查核限制：沒有合格近期社群互動樣本；旭山首頁時段與專頁有矛盾，採冬期日曆及票頁一致資訊。\n八項依序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數及爆紅／收藏／分享星等為編輯預估，非已驗證熱度。\n【候選池與查核】\n[\n  {\n    \"id\": \"marugame-kamaage-20261111\",\n    \"title\": \"丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓\",\n    \"category\": \"美食\",\n    \"region\": \"日本全國參加丸龜製麵門市\",\n    \"announcementDate\": \"官方活動頁未列首次公告日；可核對報導2026/10/30 17:55日本時間\",\n    \"eventDate\": \"2026/11/11本次優惠；另有11/1及11/21，不是11月每天\",\n    \"freshness\": \"超過7天例外：今天指定優惠日；10/30已有報導，不當新公告\",\n    \"lifecycle\": \"1天\",\n    \"risk\": \"低\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 5\n    },\n    \"why\": \"今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。\",\n    \"facts\": \"官方活動頁及價目圖片、週刊ASCII核對11/1、11/11、11/21釜揚げうどん活動。含稅並190、大290、得380日圓，原價390、580、770。官方稱半額，但按官方價目引用，不自行算成195或385。僅指定烏龍麵，不把配菜天婦羅或其他麵款算進優惠。排除東京Dome City、駒澤大學、東洋大學、町田パリオ店；其他門市可能因設施或臨時休業不同。未列國籍條件，活動頁另項App券不混成此優惠必要條件。未核對各門市今日即時營業、外帶及所有支付方式，不作承諾。兩來源為官方與依品牌資訊編輯的媒體，不稱兩次獨立採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"丸龜官方活動\",\n        \"url\": \"https://jp.marugame.com/campaign/sogyokanshasai2026/\"\n      },\n      {\n        \"label\": \"官方含稅價目圖片\",\n        \"url\": \"https://jp.marugame.com/synced-assets/campaign_sogyokanshasai2026/img/event01-mv.png\"\n      },\n      {\n        \"label\": \"週刊ASCII 10/30報導\",\n        \"url\": \"https://weekly.ascii.jp/elem/000/004/447/4447389/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"門市單碗優惠與預訂需求弱，不為190日圓麵食硬接住宿或行程。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 13,\n      \"實用性\": 15,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 7,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://x.com/i/trending/2028010158660407753\",\n          \"label\": \"搜尋命中X趨勢摘要\",\n          \"reason\": \"非近期原始民間貼文，且為3月事件，不採計。\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com 丸亀 2026 11月11日\",\n        \"site:x.com 丸亀製麺 2026 11月11日\"\n      ]\n    }\n  },\n  {\n    \"id\": \"asahiyama-winter-20261111\",\n    \"title\": \"旭山動物園今天冬季開園：10:30開門、15:00最後入園\",\n    \"category\": \"旅遊／票券\",\n    \"region\": \"北海道旭川／旭山動物園\",\n    \"announcementDate\": \"官方月曆未列首次公布日；交叉來源9C Hotel 11/5；票價頁10/1更新不冒充新公告\",\n    \"eventDate\": \"冬期2026/11/11～2027/4/7；12/30～1/1休園；10:30～15:30、最後入園15:00日本時間\",\n    \"freshness\": \"今天冬季開園；既有公告之生效提醒，非新公布\",\n    \"lifecycle\": \"1個月以上\",\n    \"risk\": \"中\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 5\n    },\n    \"why\": \"今天重新開園是相較11/4休園提醒的新進展；冬季開門、閉園及最後入園容易混淆，直接影響北海道行程。\",\n    \"facts\": \"官方11月活動日曆、官方一般費用頁、9C Hotel 11/5指南與官方導向KKday票頁互核。冬期10:30～15:30，最後入園15:00。一般高中生以上1000日圓、國中生以下免費；旭川市民700不是一般台灣遊客票價。12/30～1/1休園。首頁搜尋顯示夏季時段與專頁矛盾，採明列冬期日期的日曆及售票頁，未將首頁錯誤時段寫入草稿。原冬期新聞連結今日404，保留限制，不聲稱讀到其公告內容。未核本季企鵝散步開始公告，開園不代表散步已開始。QR同筆多人票需同時入園、不保證免排隊；一般遊客可購，不列市民優惠。交叉來源為住宿業者指南及售票平台，不冒稱獨立新聞採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"旭山官方11月日曆\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\"\n      },\n      {\n        \"label\": \"官方票價與電子票規則\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html\"\n      },\n      {\n        \"label\": \"9C Hotel 11/5冬期指南\",\n        \"url\": \"https://9chotel.jp/asahikawa-zoo-winter-november-2026/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"高\",\n      \"reason\": \"冬季行程有直接入園票及旭川住宿需求；已核實際入場票頁，留言可自然銜接，不能保證企鵝散步。\",\n      \"products\": [\n        \"旭山動物園入場票\",\n        \"旭川住宿\"\n      ],\n      \"platforms\": [\n        \"KKday\",\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"要安排旭山動物園，可以先確認你的日期是否開園，再比較入場票與旭川住宿；住宿不含門票，冬季開園也不等於企鵝散步已開始。\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 89,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 11,\n      \"實用性\": 15,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 9,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 5\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭川住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/asahikawa-hotels-list-4280/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核地區為旭川，可接動物園旅行住宿需求。\",\n            \"checks\": \"另輸入入住日；不保證每家近園區，不含入園票，快取價格非即時報價。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭川住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/asahikawa.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核城市為旭川，供既有北海道行程比較。\",\n            \"checks\": \"頁面快取日期不代表目前空房，須核入住日、回程交通及取消條件；不含門票。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭山動物園入場票\",\n            \"url\": \"https://www.kkday.com/ja/product/128506-hokkaido-asahiyama-zoo-admission-ticket-japan\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"本季2026/5/1～2027/4/7票券，園區與冬季時段一致，保留乾淨網址。\",\n            \"checks\": \"高中生以上購票；免費年齡、QR同筆一起入園、休園日及原則不退款須確認；電子票不保證免排隊或企鵝散步。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已開啟https://www.klook.com/zh-HK/destination/p50097286-asahiyama-zoo/，包含不同季節與組合行程；個別方案季節與包含內容未核，不列確定推薦。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://www.dcard.tw/@toxins/post/260250927\",\n          \"label\": \"Dcard旅遊舊索引\",\n          \"reason\": \"無可核對本期48小時原文及指標，不採計。\"\n        },\n        {\n          \"url\": \"https://www.dcard.tw/f/japan_travel/p/262383854/b/1\",\n          \"label\": \"Dcard快取相對日期\",\n          \"reason\": \"不把快取的昨天換算為今天前一天；缺絕對發布時間及指標。\"\n        }\n      ],\n      \"queries\": [\n        \"site:facebook.com 旭山動物園 2026 11月11日\",\n        \"site:dcard.tw 旭山動物園 2026 冬季\",\n        \"site:youtube.com 旭山動物園 2026 11月11日\",\n        \"site:threads.com 旭山動物園 2026 11月\"\n      ]\n    }\n  },\n  {\n    \"id\": \"osaka-twilight-ceremony-20261111\",\n    \"title\": \"大阪站今晚18:30點燈儀式：18:00發的是抽獎整理券\",\n    \"category\": \"活動／季節情報\",\n    \"region\": \"關西大阪／大阪站城5F時空之廣場\",\n    \"announcementDate\": \"官方活動頁未列發布日期；Raxus 11/9報導引11/2發布資料，原始發布時刻未核\",\n    \"eventDate\": \"2026/11/11 18:30點燈儀式預定；抽獎整理券18:00、抽獎18:20日本時間；整體活動11/2～12/25\",\n    \"freshness\": \"今天舉行點燈儀式；非今天才公告\",\n    \"lifecycle\": \"1天\",\n    \"risk\": \"中\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"why\": \"今晚已在大阪的人能順路安排；抽獎券與觀賞入場條件易混淆，值得具體澄清。\",\n    \"facts\": \"官方儀式頁及整體活動頁、Raxus11/9報導核對大阪站5F時空之廣場、11/11 18:30預定儀式。官方18:00發抽選會整理券、18:20抽選會；媒體用觀覽整理券措辭不採，不寫成所有觀看者必須領券。整體活動頁日期11/2～12/25，不能把11/11儀式日當成所有活動共同開幕日。媒體列一般點燈17～23，官方所讀文字未完整交叉支持，草稿不承諾每天時段。免費與免預約適用範圍未完全核實，不擅自宣稱；現場管制、天候、嘉賓與抽獎資格以當日主辦公告為準。來源為官方及據發布資料編輯媒體，非兩次獨立採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"官方點燈儀式\",\n        \"url\": \"https://osakastationcity.com/event/6461/\"\n      },\n      {\n        \"label\": \"官方整體活動範圍\",\n        \"url\": \"https://osakastationcity.com/event/6459/\"\n      },\n      {\n        \"label\": \"Raxus 11/9交叉報導\",\n        \"url\": \"https://media.raxus.inc/news/umeda-twilight-fantasy-tom-jerry-illumination/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"今晚活動規劃時間短，多數旅客已訂行程；可接梅田住宿攻略，但不為看儀式勸改訂房。\",\n      \"products\": [\n        \"梅田住宿比較\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果你本來就在規劃大阪住宿，可以把梅田交通和回飯店動線一起比較；住宿不包含活動資格，也不保證現場觀賞位置。\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 88,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"梅田附近住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/osaka-umeda/hotels-c219m6790135/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核梅田地區，供原有大阪住宿計畫比較。\",\n            \"checks\": \"快取報價日期非今日，需輸入入住日期確認；不含抽獎或觀賞資格，不保證每家步行距離。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"大阪梅田住宿列表\",\n            \"url\": \"https://www.booking.com/district/jp/osaka/umeda.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核大阪梅田區，適合交通與住宿動線比較。\",\n            \"checks\": \"區域列表不代表每家就在大阪站，需核距離、房型、入住日及取消條件，不含活動票。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:instagram.com Twilight Fantasy 2026\",\n        \"site:ptt.cc 大阪 點燈 2026 11月\",\n        \"site:tiktok.com Twilight Fantasy 2026\",\n        \"site:x.com Twilight Fantasy 2026 11月\"\n      ]\n    }\n  },\n  {\n    \"id\": \"lead-20261111-0\",\n    \"title\": \"卡比咖啡WINTER2026\",\n    \"category\": \"美食／IP\",\n    \"region\": \"東京／大阪／博多\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.kirby.jp/news/25799/\"\n      }\n    ],\n    \"reason\": \"官方11/4公告，11/11～2027/3/2；已讀官方，價格、預約與第二來源未完成。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-1\",\n    \"title\": \"JR栃木冬季推廣\",\n    \"category\": \"旅遊／交通\",\n    \"region\": \"關東栃木\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000007.000193666.html\"\n      }\n    ],\n    \"reason\": \"11/10 12:00品牌稿，12/1～1/31線索；尚缺第二來源、資格及預約細節。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-2\",\n    \"title\": \"九年庵秋季公開\",\n    \"category\": \"季節情報\",\n    \"region\": \"九州佐賀\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e\"\n      }\n    ],\n    \"reason\": \"官方索引11/14～29；原公告、票價與預約尚未完整核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-3\",\n    \"title\": \"大名古屋大廈聖誕點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/11～12/25、5F空中庭園；未完成個別原頁與第二來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-4\",\n    \"title\": \"JR中央雙塔／Gate Tower聖誕活動\",\n    \"category\": \"活動\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/11～12/25；個別活動時間與原始公布日期未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-5\",\n    \"title\": \"Asunal金山點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/12～2027/2/28；僅線索，不宣稱已查明票價與時段。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-6\",\n    \"title\": \"東山動植物園紅葉活動\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/14～12/6；夜間特別開放指定日與票券未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-7\",\n    \"title\": \"名古屋市科學館部分設施異常\",\n    \"category\": \"重大時事／旅遊\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/10起設施故障線索；影響範圍與修復公告未核，不直接當全館休館。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-8\",\n    \"title\": \"沖繩Woody Fair\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"索引11/12～15工藝之杜；主辦原頁、時段及費用未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-9\",\n    \"title\": \"RYUBO四國物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"沖繩那霸\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"索引11/13～18；主辦與價格未核，不把展售地寫成四國。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-10\",\n    \"title\": \"葉切繪藝術展\",\n    \"category\": \"活動\",\n    \"region\": \"關西大阪阪急\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://roamosaka.com/ja/events/november/\"\n      }\n    ],\n    \"reason\": \"索引11/11～23；原始公告、入場規則與第二來源未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-11\",\n    \"title\": \"銀座三越聖誕市集\",\n    \"category\": \"購物／活動\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"月曆11/11～12/21線索；主辦細節未完成，不把月曆日期當新公告。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群研究】\n{\n  \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 3,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"3個精選題完成公開索引關鍵字搜尋，12待查題未逐題補查；未完成各平台內建搜尋。沒有同題兩作者48小時原文與可核對讚／留言，evidence留空，不用新聞篇數或官方宣傳代替民間討論。\",\n  \"platformAccess\": {\n    \"Threads\": \"三題搜尋未取得合格原文\",\n    \"X\": \"丸龜命中舊趨勢摘要、大阪無合格原始指標\",\n    \"Facebook\": \"旭山搜尋未取得近期可計分原文\",\n    \"Instagram\": \"大阪點燈搜尋無合格指標\",\n    \"Dcard\": \"旭山舊索引與相對日期不可靠，不採計\",\n    \"PTT\": \"大阪點燈無合格近期原文\",\n    \"YouTube\": \"旭山搜尋舊年度或非本次開園，不採計\",\n    \"TikTok\": \"robots限制，未讀到可核對原始指標\"\n  }\n}\n【編輯首選】\n{\n  \"id\": \"marugame-kamaage-20261111\",\n  \"title\": \"丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓\",\n  \"score\": 90,\n  \"reason\": \"今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。\",\n  \"versusSecond\": \"丸龜指定日優惠今日午餐即可採用，錯過今天需等11/21；旭山冬期資訊可持續使用較久。分潤需求則第二題較自然。推薦標籤不代使用者選題。\",\n  \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"目前在日本、準備找午餐的台灣旅客\",\n  \"lifecycle\": \"1天\"\n}\n【後續追蹤】\n[\n  {\n    \"title\": \"Asunal金山11/12點燈\",\n    \"next\": \"未來24小時補主辦開幕時段及觀賞規則，再判斷是否適合發布；不預測必定爆紅。\",\n    \"sources\": [\n      {\n        \"label\": \"名古屋官方活動索引\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ]\n  },\n  {\n    \"title\": \"九年庵11/14秋季公開\",\n    \"next\": \"未來72小時核對票價、接駁、預約及當年開放公告；不將歷年規則直接套用。\",\n    \"sources\": [\n      {\n        \"label\": \"佐賀官方活動頁\",\n        \"url\": \"https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e\"\n      }\n    ]\n  },\n  {\n    \"title\": \"旭山冬期營運及企鵝散步公告\",\n    \"next\": \"追查冬季交通、當日營運與本季散步是否正式公布；目前不能保證近期開始。\",\n    \"sources\": [\n      {\n        \"label\": \"旭山官方日曆\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"名古屋市科學館設施異常\",\n    \"next\": \"補查受影響設施、修復或開放公告，不能把部分影響寫成全館休館。\",\n    \"sources\": [\n      {\n        \"label\": \"名古屋觀光官方索引\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ]\n  }\n]",
+  "fullText": "日本每日內容雷達\n2026-11-11\n搜尋截止：2026-11-11 10:05:00 Asia/Taipei（日本11:05:00 Asia/Tokyo）\n15個不同事件線索，3題完成主要事實交叉核對、12題待查；不是15題全部合格，未完成者不虛構八項分數或星等。廣泛搜尋但東北、北陸、中國與四國未完成合格當地事件查核，不能宣稱全面覆蓋。3題社群均不達兩作者門檻，無法建立本期熱榜，以下按編輯內容分數排序。已查既有11/10報告，旭山相較11/4休園消息有今日開園新進展；缺報歷史不以今天資料倒填。\n【今天日本發生什麼】\n已查證：丸龜釜揚烏龍麵今天指定優惠，並190、大290、得380日圓，非全菜單適用。\n已查證：旭山動物園今天冬期開園，10:30開門、15:00最後入園、15:30閉園。\n已查證：旭山一般高中生以上1000日圓，700日圓有市民資格，不能當遊客通用價。\n已查證：大阪站今晚18:30預定點燈儀式；18:00整理券屬抽獎活動。\n編輯觀察：今天最有即時價值的是指定日優惠與營運切換，不能因為今天開始就稱今天才公布。\n查核限制：沒有合格近期社群互動樣本；旭山首頁時段與專頁有矛盾，採冬期日曆及票頁一致資訊。\n八項依序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數及爆紅／收藏／分享星等為編輯預估，非已驗證熱度。\n【候選池與查核】\n[\n  {\n    \"id\": \"marugame-kamaage-20261111\",\n    \"title\": \"丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓\",\n    \"category\": \"美食\",\n    \"region\": \"日本全國參加丸龜製麵門市\",\n    \"announcementDate\": \"官方活動頁未列首次公告日；可核對報導2026/10/30 17:55日本時間\",\n    \"eventDate\": \"2026/11/11本次優惠；另有11/1及11/21，不是11月每天\",\n    \"freshness\": \"超過7天例外：今天指定優惠日；10/30已有報導，不當新公告\",\n    \"lifecycle\": \"1天\",\n    \"risk\": \"低\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 5\n    },\n    \"why\": \"今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。\",\n    \"facts\": \"官方活動頁及價目圖片、週刊ASCII核對11/1、11/11、11/21釜揚げうどん活動。含稅並190、大290、得380日圓，原價390、580、770。官方稱半額，但按官方價目引用，不自行算成195或385。僅指定烏龍麵，不把配菜天婦羅或其他麵款算進優惠。排除東京Dome City、駒澤大學、東洋大學、町田パリオ店；其他門市可能因設施或臨時休業不同。未列國籍條件，活動頁另項App券不混成此優惠必要條件。未核對各門市今日即時營業、外帶及所有支付方式，不作承諾。兩來源為官方與依品牌資訊編輯的媒體，不稱兩次獨立採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"丸龜官方活動\",\n        \"url\": \"https://jp.marugame.com/campaign/sogyokanshasai2026/\"\n      },\n      {\n        \"label\": \"官方含稅價目圖片\",\n        \"url\": \"https://jp.marugame.com/synced-assets/campaign_sogyokanshasai2026/img/event01-mv.png\"\n      },\n      {\n        \"label\": \"週刊ASCII 10/30報導\",\n        \"url\": \"https://weekly.ascii.jp/elem/000/004/447/4447389/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"門市單碗優惠與預訂需求弱，不為190日圓麵食硬接住宿或行程。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 13,\n      \"實用性\": 15,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 7,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"門市餐點優惠無自然旅遊預訂需求；未提供商品推薦，不硬推四平台連結。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://x.com/i/trending/2028010158660407753\",\n          \"label\": \"搜尋命中X趨勢摘要\",\n          \"reason\": \"非近期原始民間貼文，且為3月事件，不採計。\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com 丸亀 2026 11月11日\",\n        \"site:x.com 丸亀製麺 2026 11月11日\"\n      ]\n    }\n  },\n  {\n    \"id\": \"asahiyama-winter-20261111\",\n    \"title\": \"旭山動物園今天冬季開園：10:30開門、15:00最後入園\",\n    \"category\": \"旅遊／票券\",\n    \"region\": \"北海道旭川／旭山動物園\",\n    \"announcementDate\": \"官方月曆未列首次公布日；交叉來源9C Hotel 11/5；票價頁10/1更新不冒充新公告\",\n    \"eventDate\": \"冬期2026/11/11～2027/4/7；12/30～1/1休園；10:30～15:30、最後入園15:00日本時間\",\n    \"freshness\": \"今天冬季開園；既有公告之生效提醒，非新公布\",\n    \"lifecycle\": \"1個月以上\",\n    \"risk\": \"中\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 5\n    },\n    \"why\": \"今天重新開園是相較11/4休園提醒的新進展；冬季開門、閉園及最後入園容易混淆，直接影響北海道行程。\",\n    \"facts\": \"官方11月活動日曆、官方一般費用頁、9C Hotel 11/5指南與官方導向KKday票頁互核。冬期10:30～15:30，最後入園15:00。一般高中生以上1000日圓、國中生以下免費；旭川市民700不是一般台灣遊客票價。12/30～1/1休園。首頁搜尋顯示夏季時段與專頁矛盾，採明列冬期日期的日曆及售票頁，未將首頁錯誤時段寫入草稿。原冬期新聞連結今日404，保留限制，不聲稱讀到其公告內容。未核本季企鵝散步開始公告，開園不代表散步已開始。QR同筆多人票需同時入園、不保證免排隊；一般遊客可購，不列市民優惠。交叉來源為住宿業者指南及售票平台，不冒稱獨立新聞採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"旭山官方11月日曆\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\"\n      },\n      {\n        \"label\": \"官方票價與電子票規則\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html\"\n      },\n      {\n        \"label\": \"9C Hotel 11/5冬期指南\",\n        \"url\": \"https://9chotel.jp/asahikawa-zoo-winter-november-2026/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"高\",\n      \"reason\": \"冬季行程有直接入園票及旭川住宿需求；已核實際入場票頁，留言可自然銜接，不能保證企鵝散步。\",\n      \"products\": [\n        \"旭山動物園入場票\",\n        \"旭川住宿\"\n      ],\n      \"platforms\": [\n        \"KKday\",\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"要安排旭山動物園，可以先確認你的日期是否開園，再比較入場票與旭川住宿；住宿不含門票，冬季開園也不等於企鵝散步已開始。\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 89,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 11,\n      \"實用性\": 15,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 9,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 5\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭川住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/asahikawa-hotels-list-4280/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核地區為旭川，可接動物園旅行住宿需求。\",\n            \"checks\": \"另輸入入住日；不保證每家近園區，不含入園票，快取價格非即時報價。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭川住宿列表\",\n            \"url\": \"https://www.booking.com/city/jp/asahikawa.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核城市為旭川，供既有北海道行程比較。\",\n            \"checks\": \"頁面快取日期不代表目前空房，須核入住日、回程交通及取消條件；不含門票。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"旭山動物園入場票\",\n            \"url\": \"https://www.kkday.com/ja/product/128506-hokkaido-asahiyama-zoo-admission-ticket-japan\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"本季2026/5/1～2027/4/7票券，園區與冬季時段一致，保留乾淨網址。\",\n            \"checks\": \"高中生以上購票；免費年齡、QR同筆一起入園、休園日及原則不退款須確認；電子票不保證免排隊或企鵝散步。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已開啟https://www.klook.com/zh-HK/destination/p50097286-asahiyama-zoo/，包含不同季節與組合行程；個別方案季節與包含內容未核，不列確定推薦。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://www.dcard.tw/@toxins/post/260250927\",\n          \"label\": \"Dcard旅遊舊索引\",\n          \"reason\": \"無可核對本期48小時原文及指標，不採計。\"\n        },\n        {\n          \"url\": \"https://www.dcard.tw/f/japan_travel/p/262383854/b/1\",\n          \"label\": \"Dcard快取相對日期\",\n          \"reason\": \"不把快取的昨天換算為今天前一天；缺絕對發布時間及指標。\"\n        }\n      ],\n      \"queries\": [\n        \"site:facebook.com 旭山動物園 2026 11月11日\",\n        \"site:dcard.tw 旭山動物園 2026 冬季\",\n        \"site:youtube.com 旭山動物園 2026 11月11日\",\n        \"site:threads.com 旭山動物園 2026 11月\"\n      ]\n    }\n  },\n  {\n    \"id\": \"osaka-twilight-ceremony-20261111\",\n    \"title\": \"大阪站今晚18:30點燈儀式：18:00發的是抽獎整理券\",\n    \"category\": \"活動／季節情報\",\n    \"region\": \"關西大阪／大阪站城5F時空之廣場\",\n    \"announcementDate\": \"官方活動頁未列發布日期；Raxus 11/9報導引11/2發布資料，原始發布時刻未核\",\n    \"eventDate\": \"2026/11/11 18:30點燈儀式預定；抽獎整理券18:00、抽獎18:20日本時間；整體活動11/2～12/25\",\n    \"freshness\": \"今天舉行點燈儀式；非今天才公告\",\n    \"lifecycle\": \"1天\",\n    \"risk\": \"中\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 4,\n      \"share\": 4\n    },\n    \"why\": \"今晚已在大阪的人能順路安排；抽獎券與觀賞入場條件易混淆，值得具體澄清。\",\n    \"facts\": \"官方儀式頁及整體活動頁、Raxus11/9報導核對大阪站5F時空之廣場、11/11 18:30預定儀式。官方18:00發抽選會整理券、18:20抽選會；媒體用觀覽整理券措辭不採，不寫成所有觀看者必須領券。整體活動頁日期11/2～12/25，不能把11/11儀式日當成所有活動共同開幕日。媒體列一般點燈17～23，官方所讀文字未完整交叉支持，草稿不承諾每天時段。免費與免預約適用範圍未完全核實，不擅自宣稱；現場管制、天候、嘉賓與抽獎資格以當日主辦公告為準。來源為官方及據發布資料編輯媒體，非兩次獨立採訪。\",\n    \"sources\": [\n      {\n        \"label\": \"官方點燈儀式\",\n        \"url\": \"https://osakastationcity.com/event/6461/\"\n      },\n      {\n        \"label\": \"官方整體活動範圍\",\n        \"url\": \"https://osakastationcity.com/event/6459/\"\n      },\n      {\n        \"label\": \"Raxus 11/9交叉報導\",\n        \"url\": \"https://media.raxus.inc/news/umeda-twilight-fantasy-tom-jerry-illumination/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"今晚活動規劃時間短，多數旅客已訂行程；可接梅田住宿攻略，但不為看儀式勸改訂房。\",\n      \"products\": [\n        \"梅田住宿比較\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\"\n      ],\n      \"commentOpening\": \"如果你本來就在規劃大阪住宿，可以把梅田交通和回飯店動線一起比較；住宿不包含活動資格，也不保證現場觀賞位置。\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"score\": 88,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 12,\n      \"實用性\": 13,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"梅田附近住宿列表\",\n            \"url\": \"https://www.trip.com/hotels/osaka-umeda/hotels-c219m6790135/\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核梅田地區，供原有大阪住宿計畫比較。\",\n            \"checks\": \"快取報價日期非今日，需輸入入住日期確認；不含抽獎或觀賞資格，不保證每家步行距離。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已讀取核對地區或商品；庫存、即時價格及分潤資格不保證。\",\n        \"pages\": [\n          {\n            \"title\": \"大阪梅田住宿列表\",\n            \"url\": \"https://www.booking.com/district/jp/osaka/umeda.en-gb.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已核大阪梅田區，適合交通與住宿動線比較。\",\n            \"checks\": \"區域列表不代表每家就在大阪站，需核距離、房型、入住日及取消條件，不含活動票。\",\n            \"checkedAt\": \"2026-11-11T10:02:16+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已搜尋大阪站Twilight Fantasy與梅田，未取得適用本活動的商品原頁，不以不相干展望台票替代。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"熱度未確認，未取得同題兩位作者48小時內原文及可核對的讚數與留言。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:instagram.com Twilight Fantasy 2026\",\n        \"site:ptt.cc 大阪 點燈 2026 11月\",\n        \"site:tiktok.com Twilight Fantasy 2026\",\n        \"site:x.com Twilight Fantasy 2026 11月\"\n      ]\n    }\n  },\n  {\n    \"id\": \"lead-20261111-0\",\n    \"title\": \"卡比咖啡WINTER2026\",\n    \"category\": \"美食／IP\",\n    \"region\": \"東京／大阪／博多\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.kirby.jp/news/25799/\"\n      }\n    ],\n    \"reason\": \"官方11/4公告，11/11～2027/3/2；已讀官方，價格、預約與第二來源未完成。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-1\",\n    \"title\": \"JR栃木冬季推廣\",\n    \"category\": \"旅遊／交通\",\n    \"region\": \"關東栃木\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000007.000193666.html\"\n      }\n    ],\n    \"reason\": \"11/10 12:00品牌稿，12/1～1/31線索；尚缺第二來源、資格及預約細節。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-2\",\n    \"title\": \"九年庵秋季公開\",\n    \"category\": \"季節情報\",\n    \"region\": \"九州佐賀\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e\"\n      }\n    ],\n    \"reason\": \"官方索引11/14～29；原公告、票價與預約尚未完整核對。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-3\",\n    \"title\": \"大名古屋大廈聖誕點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/11～12/25、5F空中庭園；未完成個別原頁與第二來源。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-4\",\n    \"title\": \"JR中央雙塔／Gate Tower聖誕活動\",\n    \"category\": \"活動\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/11～12/25；個別活動時間與原始公布日期未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-5\",\n    \"title\": \"Asunal金山點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/12～2027/2/28；僅線索，不宣稱已查明票價與時段。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-6\",\n    \"title\": \"東山動植物園紅葉活動\",\n    \"category\": \"季節情報\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/14～12/6；夜間特別開放指定日與票券未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-7\",\n    \"title\": \"名古屋市科學館部分設施異常\",\n    \"category\": \"重大時事／旅遊\",\n    \"region\": \"中部名古屋\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ],\n    \"reason\": \"官方索引11/10起設施故障線索；影響範圍與修復公告未核，不直接當全館休館。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-8\",\n    \"title\": \"沖繩Woody Fair\",\n    \"category\": \"活動\",\n    \"region\": \"沖繩\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"索引11/12～15工藝之杜；主辦原頁、時段及費用未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-9\",\n    \"title\": \"RYUBO四國物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"沖繩那霸\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://okinawa-navi.jp/event/\"\n      }\n    ],\n    \"reason\": \"索引11/13～18；主辦與價格未核，不把展售地寫成四國。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-10\",\n    \"title\": \"葉切繪藝術展\",\n    \"category\": \"活動\",\n    \"region\": \"關西大阪阪急\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://roamosaka.com/ja/events/november/\"\n      }\n    ],\n    \"reason\": \"索引11/11～23；原始公告、入場規則與第二來源未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"lead-20261111-11\",\n    \"title\": \"銀座三越聖誕市集\",\n    \"category\": \"購物／活動\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"見查核說明；未核者不推定\",\n    \"eventDate\": \"見查核說明；尚待完整確認\",\n    \"sources\": [\n      {\n        \"label\": \"候選原頁／索引線索，非完整查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"月曆11/11～12/21線索；主辦細節未完成，不把月曆日期當新公告。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完成時效查核\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"status\": \"未入選\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事件關鍵條件尚未核，不以估計冒充完成評估\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"商品日期、票種、包含內容、庫存、取消條件及分潤資格仍須於預訂時確認；不代表佣金或轉換率。\",\n      \"assessedOn\": \"2026-11-11\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未取得本題適用且已核對的商品頁，不以不相關商品補齊。\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n      \"summary\": \"未完成逐題社群補查\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【社群研究】\n{\n  \"checkedAt\": \"2026-11-11T10:05:00+08:00\",\n  \"windowHours\": 48,\n  \"methodVersion\": \"public-sample-v1\",\n  \"searchedTopicCount\": 3,\n  \"qualifiedTopicCount\": 0,\n  \"limitation\": \"3個精選題完成公開索引關鍵字搜尋，12待查題未逐題補查；未完成各平台內建搜尋。沒有同題兩作者48小時原文與可核對讚／留言，evidence留空，不用新聞篇數或官方宣傳代替民間討論。\",\n  \"platformAccess\": {\n    \"Threads\": \"三題搜尋未取得合格原文\",\n    \"X\": \"丸龜命中舊趨勢摘要、大阪無合格原始指標\",\n    \"Facebook\": \"旭山搜尋未取得近期可計分原文\",\n    \"Instagram\": \"大阪點燈搜尋無合格指標\",\n    \"Dcard\": \"旭山舊索引與相對日期不可靠，不採計\",\n    \"PTT\": \"大阪點燈無合格近期原文\",\n    \"YouTube\": \"旭山搜尋舊年度或非本次開園，不採計\",\n    \"TikTok\": \"robots限制，未讀到可核對原始指標\"\n  }\n}\n【編輯首選】\n{\n  \"id\": \"marugame-kamaage-20261111\",\n  \"title\": \"丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓\",\n  \"score\": 90,\n  \"reason\": \"今天午餐即可採用且涵蓋日本多地，品項和尺寸價差具體；比長期行程更有今日發布必要。\",\n  \"versusSecond\": \"丸龜指定日優惠今日午餐即可採用，錯過今天需等11/21；旭山冬期資訊可持續使用較久。分潤需求則第二題較自然。推薦標籤不代使用者選題。\",\n  \"publishAt\": \"11/11 11:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n  \"audience\": \"目前在日本、準備找午餐的台灣旅客\",\n  \"lifecycle\": \"1天\"\n}\n【後續追蹤】\n[\n  {\n    \"title\": \"Asunal金山11/12點燈\",\n    \"next\": \"未來24小時補主辦開幕時段及觀賞規則，再判斷是否適合發布；不預測必定爆紅。\",\n    \"sources\": [\n      {\n        \"label\": \"名古屋官方活動索引\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ]\n  },\n  {\n    \"title\": \"九年庵11/14秋季公開\",\n    \"next\": \"未來72小時核對票價、接駁、預約及當年開放公告；不將歷年規則直接套用。\",\n    \"sources\": [\n      {\n        \"label\": \"佐賀官方活動頁\",\n        \"url\": \"https://www.asobo-saga.jp/events/detail/7cbe6a0f-a197-412d-9e55-c74e2bddc01e\"\n      }\n    ]\n  },\n  {\n    \"title\": \"旭山冬期營運及企鵝散步公告\",\n    \"next\": \"追查冬季交通、當日營運與本季散步是否正式公布；目前不能保證近期開始。\",\n    \"sources\": [\n      {\n        \"label\": \"旭山官方日曆\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\"\n      }\n    ]\n  },\n  {\n    \"title\": \"名古屋市科學館設施異常\",\n    \"next\": \"補查受影響設施、修復或開放公告，不能把部分影響寫成全館休館。\",\n    \"sources\": [\n      {\n        \"label\": \"名古屋觀光官方索引\",\n        \"url\": \"https://www.nagoya-info.jp/event//\"\n      }\n    ]\n  }\n]\n【逐題串文、切角、配圖】\n[\n  {\n    \"title\": \"丸龜製麵今天釜揚烏龍麵優惠：並190、大290、得380日圓\",\n    \"threads\": [\n      \"今天在日本想吃丸龜，先看清楚優惠麵款：11/11是「釜揚げうどん」指定優惠日，不是全部烏龍麵都半價。\\n\\n官方含稅價是並190、大290、得380日圓。優惠限參加門市，天婦羅、配菜和其他麵款不能一起當成這個價格。\",\n      \"點餐時對照「釜揚げうどん」與尺寸，再看店頭價目。東京Dome City、駒澤大學、東洋大學、町田パリオ店不在這次活動範圍，其他門市也可能因設施規定或休業調整。\\n\\n官方頁上的App優惠券是另一項活動，別誤以為這碗指定優惠一定要先領App券；本活動說明沒有列國籍限制。\",\n      \"錯過今天也不用把其他日期當成同價：下一個指定日是11/21，並不是整個11月天天都有。\\n\\n適合原本就在附近、想順路吃一餐的人。出發前確認要去的店今天有營業、參加活動及現場價格；我們沒有逐店即時營業或庫存資料。完整活動與例外門市：https://jp.marugame.com/campaign/sogyokanshasai2026/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"今日午餐\",\n        \"opening\": \"11/11在日本，丸龜釜揚烏龍麵並190日圓；不是全部麵款都適用。\"\n      },\n      {\n        \"name\": \"價格\",\n        \"opening\": \"丸龜今天指定麵款三種尺寸：190、290、380日圓，皆含稅。\"\n      },\n      {\n        \"name\": \"門市避雷\",\n        \"opening\": \"想吃丸龜今天的優惠，先排除這4間不參加的門市。\"\n      },\n      {\n        \"name\": \"日期\",\n        \"opening\": \"丸龜11月的指定優惠日不只1日，今天11日也是其中一次。\"\n      },\n      {\n        \"name\": \"品項辨識\",\n        \"opening\": \"去丸龜點餐前記住「釜揚げうどん」：今天優惠不是任選烏龍麵。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。\",\n        \"url\": \"https://jp.marugame.com/campaign/sogyokanshasai2026/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸日本連鎖餐飲價格與活動日期比較，不硬接旅遊分潤。\"\n    ]\n  },\n  {\n    \"title\": \"旭山動物園今天冬季開園：10:30開門、15:00最後入園\",\n    \"threads\": [\n      \"今天11/11起，旭山動物園進入冬季開園期。排北海道行程時先記兩個時間：日本時間10:30開門、15:00最後入園，15:30閉園。\\n\\n冬期到2027/4/7，但12/30～1/1休園。別沿用夏季時刻，也別把15:30當成還能進場的時間。\",\n      \"一般高中生以上入園票1000日圓，國中生以下免費。看到700日圓時先看資格，那是旭川市民價，不是一般台灣旅客票價。\\n\\n若買電子票，先存好QR與訂單規則；同筆多人票需一起入園，電子票也不等於保證免排隊。先依人數與年齡確認需要幾張，避免替免費年齡多買。\",\n      \"行程別只算去程，回程交通也要配合15:30閉園。冬期開園不代表企鵝散步已經開始；這次沒有查到本季開始公告，別把散步當成今天必看的項目。\\n\\n出發前用官方當月日曆重查日期與時段，特別是跨年行程：https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\\n票價與電子票規則：https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/generalinformation/d052849.html\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"營業時段\",\n        \"opening\": \"旭山動物園今天冬季開園，15:00就停止入園。\"\n      },\n      {\n        \"name\": \"票價資格\",\n        \"opening\": \"旭山動物園一般成人1000日圓，700日圓另有市民資格。\"\n      },\n      {\n        \"name\": \"企鵝提醒\",\n        \"opening\": \"旭山動物園冬季開園了，但不能直接當成企鵝散步也開始。\"\n      },\n      {\n        \"name\": \"跨年安排\",\n        \"opening\": \"跨年去旭山動物園，12/30～1/1休園要先避開。\"\n      },\n      {\n        \"name\": \"電子票\",\n        \"opening\": \"旭山動物園買一筆多人電子票，要記得一起入園。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。\",\n        \"url\": \"https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/event/event202611.html\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：依既有旅行計畫比較本地住宿、交通與適用票券；住宿不含活動票，不保證庫存或優惠。\"\n    ]\n  },\n  {\n    \"title\": \"大阪站今晚18:30點燈儀式：18:00發的是抽獎整理券\",\n    \"threads\": [\n      \"今晚在大阪站，點燈儀式預定日本時間18:30開始，地點是大阪站城5F「時空の広場」。\\n\\n11/11這場儀式的時間別和其他日期的一般點燈時段混在一起。若看到18:00，那是官方列的抽獎整理券發放時間，不是點燈開始。\",\n      \"主辦列的順序是：18:00發抽獎整理券、18:20抽獎、18:30點燈儀式預定。\\n\\n這張券官方寫的是「抽選会整理券」，不能直接解讀成所有觀看者都必須先領的入場券。想參加抽獎，先確認現場資格與發券方式；單純看點燈，也要配合當日人流管制。\",\n      \"找場地時認大阪站城5F「時空の広場」，不要和梅田其他展望台混淆。整體活動頁列11/2～12/25，今晚是其中的點燈儀式，並非所有內容都今天才開始。\\n\\n適合原本就在大阪站周邊的人順路安排。每日常態點燈時間、現場觀賞規則與臨時變更，出門前再看主辦；不要直接把今晚儀式時間套到明天。官方儀式資訊：https://osakastationcity.com/event/6461/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"今晚時間\",\n        \"opening\": \"今晚大阪站點燈儀式18:30，18:00不是亮燈時間。\"\n      },\n      {\n        \"name\": \"整理券\",\n        \"opening\": \"大阪站今晚18:00發的是抽獎整理券，不要直接當成所有人的入場券。\"\n      },\n      {\n        \"name\": \"場地\",\n        \"opening\": \"大阪站今晚的點燈儀式在5F時空之廣場，別走到其他展望台。\"\n      },\n      {\n        \"name\": \"時間順序\",\n        \"opening\": \"大阪站今晚18:20抽獎、18:30預定點燈，行程先分清楚。\"\n      },\n      {\n        \"name\": \"活動日期\",\n        \"opening\": \"大阪站整體活動11/2就開始，11/11是點燈儀式日。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方頁主視覺、場地或價目素材可查找；轉載與商用授權未確認。\",\n        \"url\": \"https://osakastationcity.com/event/6461/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：依既有旅行計畫比較本地住宿、交通與適用票券；住宿不含活動票，不保證庫存或優惠。\"\n    ]\n  }\n]"
+}
