@@ -1,0 +1,1910 @@
+{
+  "date": "2026-11-19",
+  "cutoff": "2026-11-19 10:06:14 Asia/Taipei（日本11:06:14 Asia/Tokyo）",
+  "scopeNote": "本期15個不同事件候選，4題完成主要事實交叉確認、評分與各3串草稿，11題待核或不具當下新進展。未湊滿10題；候選池蒐集完成後再比較評分，沒有足夠資料的11題留null未評估，不假裝完成八項評分。已比對11/17及11/18選題，避免無進展重複。搜尋涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩關鍵字，並非全地域全類別完整監控。4題逐題補查社群，無合格雙作者原文樣本，不能建立本期社群熱榜；以下依內容總分排序。分數與星等皆編輯預估，不是實測熱度或流量保證。官方與媒體編輯報導交叉，不一律等於兩次獨立現場採訪。",
+  "trends": [
+    "已查證：東京巨蛋城冬季點燈今天開始，首日18:00；樹燈光秀明天11/20起。",
+    "已查證：WHITE KITTE今天正式開放，昨天為點燈儀式，樹亮燈時間與燈光秀、商店營業要分開。",
+    "已查證：Dormy Inn那霸昨天開放預約，明年2/3預定試營運；雙床房12,000日圓是每人含早餐起價。",
+    "已查證：Suica新角色B方案勝出、命名到12/15，明年4月才登場；投票總數不是社群熱度。",
+    "編輯觀察：今天最有實用價值的是首日時間、每人價格與活動範圍，適合用避雷切角，而非製造售罄或爆紅說法。",
+    "研究限制：4題合格、11題待核；近期社群雙作者數據不足，不能判定台灣Threads熱榜。"
+  ],
+  "top10": [
+    {
+      "id": "tokyo-snow-dome-20261119",
+      "title": "東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始",
+      "region": "關東東京／東京ドームシティ",
+      "category": "季節情報／活動",
+      "announcementDate": "2026/10/8 Sanrio原公告；11/12東京巨蛋補充公告；非今天新公布",
+      "eventDate": "11/19～2027/2/28；一般17:00～24:00，今天11/19改18:00開始（JST）；樹燈光秀11/20起",
+      "freshness": "超過7天例外：今天正式開始；不聲稱今天新公告或爆紅",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "今天即可安排，首日18時與明天才開始的樹燈光秀最容易混淆。免費夜景加上角色視覺，適合近期東京旅客收藏與轉給同行者。",
+      "facts": "TOKYO SNOW DOME CITY免費點燈。中央廣場WONDER SNOW TREE高15公尺，11/20起17:00～21:15每小時00/15/30/45分演出，Cinnamoroll版本18:00及18:15。天候、人潮及演唱會散場可能調整或暫停。LaQua另有雪景裝置與SPARKLE TUNNEL。Gallery AaMoふわふわんだーシナモロールパーク為另一活動，11/20～1/17，不是今天免費點燈包含的展覽。免費戶外燈區未列國籍限制；展覽票價及預約本期未查全，不推薦當免費展覽。",
+      "sources": [
+        {
+          "label": "東京巨蛋城官方",
+          "url": "https://www.tokyo-dome.co.jp/illumination/"
+        },
+        {
+          "label": "官方各區及演出時間",
+          "url": "https://www.tokyo-dome.co.jp/illumination/highlights"
+        },
+        {
+          "label": "Sanrio 10/8原公告",
+          "url": "https://cinnamorollpark.sanrio.co.jp/news/news04"
+        },
+        {
+          "label": "東京觀光官方交叉確認",
+          "url": "https://www.gotokyo.org/jp/spot/ev130/index.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "免費點燈本身不用買票；僅對仍在安排東京住宿的人有自然訂房需求。",
+        "products": [
+          "東京巨蛋周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想把東京巨蛋城排成晚間行程，可比較周邊住宿與回程路線；住宿不代表有燈景房，也不含另售展覽門票。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 96,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com \"東京巨蛋\" \"2026\"",
+          "site:facebook.com 東京 巨蛋 シナモロール 2026 11",
+          "\"東京ドームシティ\" \"シナモロール\" site:x.com 2026 11月19"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京巨蛋飯店",
+              "url": "https://jp.trip.com/hotels/tokyo-hotel-detail-704030/tokyo-dome-hotel/",
+              "kind": "商品頁",
+              "reason": "飯店地址與東京巨蛋區域相符，供尚未訂住宿者比較；點燈本身免費。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京巨蛋周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/tokyo-dome.ja.html",
+              "kind": "住宿列表",
+              "reason": "已讀到東京巨蛋飯店及附近住宿，列表各飯店距離不同。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨頁 https://www.kkday.com/ja/product/183630 ，是巨蛋導覽、頁面售罄，非免費點燈門票，排除；無有效推薦，不帶入cid。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/163843-tokyo-dome-city/ ，為日間設施一日券，非點燈必要票券，也未確認包含Gallery AaMo或本季日期，排除。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11/19去東京巨蛋城看燈，請記18:00，不是平常的17:00。免費冬季點燈今天開始，一路到2027/2/28。\n\n還有一個日期要分開：中央廣場15公尺聖誕樹的燈光秀，11/20才開始。今天可以逛點燈區，但別照明天的表演表等樹燈光秀。",
+          "11/20起，聖誕樹燈光秀安排在日本時間17:00～21:15，每小時00、15、30、45分；大耳狗喜拿版本是18:00、18:15。\n\n想拍不同畫面，可以再走到LaQua的雪景裝置與2樓光之隧道。一般點燈17:00～24:00，首日例外就是今天18:00開始；天候、人潮或演唱會散場可能讓演出調整。",
+          "別把免費點燈和Gallery AaMo的「ふわふわんだーシナモロールパーク」當成同一張行程：後者11/20～1/17，是另個展覽，入場條件要另外查。\n\n搭車可查水道橋或後樂園站，再按官方地圖選入口。出發前看當天公告，尤其有巨蛋演唱會的晚上；我沒有即時人潮或停演資訊。官方燈區與時刻：https://www.tokyo-dome.co.jp/illumination/"
+        ],
+        "angles": [
+          {
+            "name": "首日時間",
+            "opening": "東京巨蛋城今天開始點燈，首日18:00才亮，別照一般17:00出發。"
+          },
+          {
+            "name": "表演避雷",
+            "opening": "15公尺聖誕樹燈光秀明天才開始，今天的點燈開幕不要混在一起。"
+          },
+          {
+            "name": "角色時段",
+            "opening": "想看喜拿樹燈光秀，11/20起記住18:00與18:15。"
+          },
+          {
+            "name": "免費行程",
+            "opening": "東京巨蛋城免費冬季點燈到明年2/28，但室內喜拿展覽另計。"
+          },
+          {
+            "name": "行程搭配",
+            "opening": "東京巨蛋城夜景可串LaQua，演唱會散場時段要預留調整空間。"
+          }
+        ],
+        "images": [
+          {
+            "description": "可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。",
+            "url": "https://www.tokyo-dome.co.jp/illumination/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：東京巨蛋周邊住宿比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。"
+        ]
+      }
+    },
+    {
+      "id": "dormy-naha-20261119",
+      "title": "Dormy Inn那霸開放預約，2027/2/3試營運；12,000日圓是每人起價",
+      "region": "沖繩那霸／久茂地1-5-15",
+      "category": "住宿／新飯店",
+      "announcementDate": "2026/11/18；官方僅日期，無法宣稱精確24小時內",
+      "eventDate": "11/18開始預約；2027/2/3預定試營運",
+      "freshness": "48小時／前一曆日公告，官方無發布時刻",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "給明年沖繩旅客新增住宿選項；價格是每人還是每房直接影響預算，值得比單純開幕消息更清楚地整理。",
+      "facts": "天然温泉 旅人の湯 ドーミーイン那覇共216房、14層，縣廳前站步行約4分鐘。2027/2/3預定試營運，並非目前入住。含早餐公告起價：雙人床房1室1人14,000日圓起；雙床房1室2人每人12,000日圓起，含稅、依季節與曜日變動。內湯天然溫泉，露天為加熱水；附自動潑水三溫暖，4間包租浴室／私人三溫暖的費用、時間及預約條件尚未完全確認。官方有繁中語言入口，未見國籍限制，但付款及方案資格仍依實際預約頁。停車安排與即時房況未確認，圖片可能為完成示意。官方新聞稿與風呂サウナ編輯報導交叉，非兩次實際入住查證。",
+      "sources": [
+        {
+          "label": "飯店官方與預約入口",
+          "url": "https://dormy-hotels.com/dormyinn/hotels/naha/"
+        },
+        {
+          "label": "共立官方公告",
+          "url": "https://www.kyoritsugroup.co.jp/news/detail.html?dispmid=1156&itemid=1731"
+        },
+        {
+          "label": "官方新聞稿PDF",
+          "url": "https://prtimes.jp/a/?c=30012&f=d30012-499-dfabb5867a3e6437f4b925a482393d05.pdf&r=499"
+        },
+        {
+          "label": "風呂サウナ11/18報導",
+          "url": "https://furosauna.com/2026/11/18/142844838/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "明年入住仍有規劃時間，讀者有直接訂房需求；但四平台尚未核到這間飯店的有效商品頁，不能先當成可分潤。",
+        "products": [
+          "Dormy Inn那霸住宿方案"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "準備明年住那霸的人，可先比較相同日期、人數與早餐條件；確認是這間新飯店，並看清試營運與取消規則再訂。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"ドーミーイン那覇\" site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "Dormy Inn那霸11/18開始接受預約，預定2027/2/3試營運。明年去沖繩可以多比較一間，但現在還不能入住。\n\n看到12,000日圓先別當成一間房：這是「雙床房兩人入住，每人含早餐」起價；雙人床房一人入住則14,000日圓起，皆含稅，日期不同會變動。",
+          "位置在那霸久茂地，從單軌縣廳前站步行約4分鐘，共216間客房。喜歡回飯店泡湯的人，可以留意它的天然溫泉內湯與附自動潑水的三溫暖。\n\n但露天浴池是加熱水，不能把全部浴池都寫成天然溫泉。公告另列4間包租浴室／私人三溫暖，是否加價、怎麼預約、一次多久，本期還沒完全確認。",
+          "訂房可從官方頁進入，先選2027/2/3以後的入住日期，再確認房型、人數、含早餐與取消條件。公告起價不代表每一天都有這個價，也不代表此刻還有房。\n\n自駕的人另查停車安排；想用包租浴室則先問費用。這是預定試營運資訊，沒有實住體驗，也還沒核到四大預訂平台上這間飯店的有效商品頁。官方：https://dormy-hotels.com/dormyinn/hotels/naha/"
+        ],
+        "angles": [
+          {
+            "name": "新住宿",
+            "opening": "明年沖繩住宿多一個選項：Dormy Inn那霸預定2/3試營運。"
+          },
+          {
+            "name": "價格避雷",
+            "opening": "那霸新Dormy的12,000日圓是每人，不是雙床房整間。"
+          },
+          {
+            "name": "泡湯條件",
+            "opening": "內湯是天然溫泉、露天是加熱水，那霸新Dormy別寫成全館天然湯。"
+          },
+          {
+            "name": "交通",
+            "opening": "縣廳前站步行約4分鐘的新Dormy，已開放明年入住預約。"
+          },
+          {
+            "name": "預約檢查",
+            "opening": "想訂那霸新Dormy，先分清試營運日期與包租浴室另待確認的費用。"
+          }
+        ],
+        "images": [
+          {
+            "description": "可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。",
+            "url": "https://dormy-hotels.com/dormyinn/hotels/naha/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：Dormy Inn那霸住宿方案比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。"
+        ]
+      }
+    },
+    {
+      "id": "suica-new-character-20261119",
+      "title": "Suica紫色兔子B方案勝出，命名開放至12/15；新角色明年4月登場",
+      "region": "全日本旅客關注／JR東日本",
+      "category": "重大時事／交通話題",
+      "announcementDate": "2026/11/18官方；Mynavi11/18 15:19刊出、16:50更新（JST）",
+      "eventDate": "命名11/18 15:00～12/15 15:59 JST；2027/3/31預定公布名字、4月新角色登場",
+      "freshness": "24小時：媒體明示時刻；官方公告僅日期",
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "Suica是台灣旅客熟悉的交通品牌，角色更替與開放命名有討論切角；但票選數字不能冒充今天Threads熱度，亦不可引導換卡恐慌。",
+      "facts": "B方案獲860,152票、總票數1,664,399，是官方票選結果不是本期社群互動。新角色2027/4登場。命名任何人可依條款申請，未成年須家長同意；名字10字內、平假名／片假名／英文字母，須填片假名讀音。名字由委員會選定，非再投票決定；無獎金獎品，送隨機1款共3款桌布。原創與權利條款需同意。公告沒有要求旅客今天更換Suica卡，不能延伸成卡片失效通知。",
+      "sources": [
+        {
+          "label": "JR東日本結果與命名條款",
+          "url": "https://www.jreast.co.jp/suica-new-character-vote/"
+        },
+        {
+          "label": "11/18官方PDF",
+          "url": "https://www.jreast.co.jp/press/2026/20261118_ho01.pdf"
+        },
+        {
+          "label": "Mynavi編輯報導",
+          "url": "https://news.mynavi.jp/article/20261118-5352547/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "角色命名不產生直接購票或訂房需求，不把品牌話題硬接交通票分潤。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 15,
+        "實用性": 10,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2023980089562841444",
+            "label": "X趨勢索引",
+            "reason": "舊摘要且非近期原始作者貼文，不計分"
+          },
+          {
+            "url": "https://www.dcard.tw/@toxins/post/258907784",
+            "label": "Dcard搜尋線索",
+            "reason": "舊伴手禮內容，非本次角色公告"
+          },
+          {
+            "url": "https://www.ptt.cc/bbs/MobileComm/M.1791812853.A.D48.html",
+            "label": "PTT搜尋線索",
+            "reason": "上月Pixel內容，不匹配本事件"
+          }
+        ],
+        "queries": [
+          "site:threads.com Suica 2026 11 18",
+          "site:x.com Suica 新キャラクター 2026 11 18",
+          "site:ptt.cc Suica 2026 11 18",
+          "site:dcard.tw Suica 新 兔子 2026",
+          "\"Suica\" \"紫\" site:threads.net 2026",
+          "site:tiktok.com \"Suica\" \"2026\""
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "Suica下一個角色確定是紫色兔子B方案，預定2027年4月登場；名字還沒定，現在開放大家提案到12/15日本時間15:59。\n\n這份公告是在說角色更替與命名，沒有要求旅客今天換卡。先別把新吉祥物消息轉成「原本Suica不能用了」。",
+          "官方公布B方案拿到860,152票，總票數1,664,399票。這是票選活動累計結果，不能拿來當今天Threads有多熱門的證據。\n\n想替它取名，名字限10字以內，可用平假名、片假名或英文字母，並填寫片假名讀音。官方條款列任何人可申請，未成年須取得家長同意，送出前要看原創及權利條件。",
+          "命名募集從11/18日本時間15:00到12/15 15:59，最後由委員會選定，預定2027/3/31公布名字，並不是再開一次人氣投票。\n\n獲選名字沒有獎金或獎品；參加者可取得3款之中的隨機桌布。想參加就從JR官方入口填寫，不需要為命名另外買交通票。結果、表單與條款：https://www.jreast.co.jp/suica-new-character-vote/"
+        ],
+        "angles": [
+          {
+            "name": "消息",
+            "opening": "Suica紫色兔子B方案勝出，新角色明年4月登場。"
+          },
+          {
+            "name": "參與",
+            "opening": "Suica新角色還沒有名字，10字內提案可送到12/15。"
+          },
+          {
+            "name": "避雷",
+            "opening": "Suica換角色，不等於公告要求旅客今天換卡。"
+          },
+          {
+            "name": "數字",
+            "opening": "86萬票是角色票選結果，不是今天社群互動數。"
+          },
+          {
+            "name": "規則",
+            "opening": "替Suica取名最後由委員會決定，獲選沒有獎金獎品。"
+          }
+        ],
+        "images": [
+          {
+            "description": "可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。",
+            "url": "https://www.jreast.co.jp/suica-new-character-vote/"
+          }
+        ],
+        "extensions": [
+          "可做角色更替與命名規則圖卡，沒有自然分潤商品。"
+        ]
+      }
+    },
+    {
+      "id": "white-kitte-20261119",
+      "title": "東京車站旁WHITE KITTE今天開始，燈光秀不是整晚每半小時一場",
+      "region": "關東東京／丸之內KITTE 1樓中庭",
+      "category": "季節情報／活動",
+      "announcementDate": "2026/10/22 15:00 JST原公告；11/18點燈儀式報導",
+      "eventDate": "一般活動11/19～12/25；11/18是儀式；12/7起切換演出主題",
+      "freshness": "超過7天例外：今天一般活動正式開始；昨天儀式不是今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "東京車站可銜接的室內季節景點，適合短時間停留；區分樹亮燈、燈光秀及商店時間，能直接幫旅客排行程。",
+      "facts": "WHITE KITTE 11/19～12/25，1樓中庭15公尺樹及10公尺環、約4萬LED。最新官方樹點燈6:00～24:30 JST，並非全部商店營業時間。11/19～12/6燈光秀約5分鐘，第一主題12:10起至21:10各小時10分；第二主題一般12:40起，但19:53及21:53為例外，20:40仍有，不能概括成每半小時整晚演出。12/7切換主題須看新表。Walker列免費，餐飲購物另計；未列國籍限定。Walker亮燈舊表與官方不一致，採當次讀取最新官方6:00～24:30，不採舊23:30。",
+      "sources": [
+        {
+          "label": "KITTE官方活動時刻",
+          "url": "https://marunouchi.jp-kitte.jp/shop/white_kitte2026/"
+        },
+        {
+          "label": "10/22品牌原新聞稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000000019.000068503.html"
+        },
+        {
+          "label": "11/18儀式現場報導",
+          "url": "https://www.talent-databank.co.jp/special/topics/65581/"
+        },
+        {
+          "label": "Walker費用資訊",
+          "url": "https://www.walkerplus.com/event/ar0313e621383/price.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "免費室內活動不需要票券；只有仍在安排東京車站住宿者能自然銜接，短停留旅客不必為此訂房。",
+        "products": [
+          "東京車站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若以東京車站作住宿基地，可比較丸之內與八重洲兩側飯店及步行路線；房價不包含活動消費，也不保證房內看得到聖誕樹。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com WHITE KITTE 2026 11 18",
+          "site:youtube.com \"WHITE KITTE\" \"2026\"",
+          "\"WHITE KITTE\" site:threads.com OR site:facebook.com 2026",
+          "\"WHITE KITTE\" site:threads.net OR site:instagram.com 2026"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟 https://jp.trip.com/hotels/tokyo-kitte-marunouchi/hotels-c228m8422993/ 與 https://jp.trip.com/hotels/tokyo-kitte-garden/hotels-c228m39835295/ ，讀取失敗；搜尋中的KITTE大阪與本題不符，排除。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京車站周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/tokyo-station2.ja.html",
+              "kind": "住宿列表",
+              "reason": "含丸之內南口附近飯店及其他車站周邊住宿；不是全部都在KITTE同側。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "東京車站旁的WHITE KITTE今天11/19正式開始，到12/25。想順路看15公尺聖誕樹，可以把丸之內KITTE的1樓中庭排進行程。\n\n昨天11/18是點燈儀式，今天才是一般活動首日。燈光秀有自己的表演表，別看到樹亮著就以為隨時都有完整演出。",
+          "11/19～12/6，每場燈光秀約5分鐘：第一主題從12:10到21:10，每小時10分演出；第二主題多在40分，但19時與21時是19:53、21:53，20:40仍照表。\n\n因此不能簡化成「每半小時一場」。12/7起還會換主題，12月行程請看自己那一天的官方表，不沿用11月時間。",
+          "最新官方列聖誕樹點燈6:00～24:30，這不是所有商店的營業時間，也不是燈光秀從清晨一路演到深夜。Walker列活動免費，吃飯、購物仍各自付費。\n\n到東京車站後往丸之內側查KITTE動線，想看秀先挑場次，只有短暫空檔也能逛中庭看樹。出發前核對官方時刻與臨時調整：https://marunouchi.jp-kitte.jp/shop/white_kitte2026/"
+        ],
+        "angles": [
+          {
+            "name": "順路行程",
+            "opening": "東京車站旁WHITE KITTE今天開始，15公尺聖誕樹可以順路看。"
+          },
+          {
+            "name": "時間避雷",
+            "opening": "KITTE晚上19時與21時有53分場，不能直接寫每半小時演一次。"
+          },
+          {
+            "name": "日期",
+            "opening": "昨天是點燈儀式，今天11/19才是WHITE KITTE一般活動首日。"
+          },
+          {
+            "name": "營業區分",
+            "opening": "KITTE樹亮到24:30，不代表商店也營業到那個時間。"
+          },
+          {
+            "name": "跨月攻略",
+            "opening": "12/7起WHITE KITTE換主題，12月行程不要照抄11月場次。"
+          }
+        ],
+        "images": [
+          {
+            "description": "可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。",
+            "url": "https://marunouchi.jp-kitte.jp/shop/white_kitte2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：東京車站周邊住宿比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "tokyo-snow-dome-20261119",
+      "title": "東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始",
+      "region": "關東東京／東京ドームシティ",
+      "category": "季節情報／活動",
+      "announcementDate": "2026/10/8 Sanrio原公告；11/12東京巨蛋補充公告；非今天新公布",
+      "eventDate": "11/19～2027/2/28；一般17:00～24:00，今天11/19改18:00開始（JST）；樹燈光秀11/20起",
+      "freshness": "超過7天例外：今天正式開始；不聲稱今天新公告或爆紅",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "今天即可安排，首日18時與明天才開始的樹燈光秀最容易混淆。免費夜景加上角色視覺，適合近期東京旅客收藏與轉給同行者。",
+      "facts": "TOKYO SNOW DOME CITY免費點燈。中央廣場WONDER SNOW TREE高15公尺，11/20起17:00～21:15每小時00/15/30/45分演出，Cinnamoroll版本18:00及18:15。天候、人潮及演唱會散場可能調整或暫停。LaQua另有雪景裝置與SPARKLE TUNNEL。Gallery AaMoふわふわんだーシナモロールパーク為另一活動，11/20～1/17，不是今天免費點燈包含的展覽。免費戶外燈區未列國籍限制；展覽票價及預約本期未查全，不推薦當免費展覽。",
+      "sources": [
+        {
+          "label": "東京巨蛋城官方",
+          "url": "https://www.tokyo-dome.co.jp/illumination/"
+        },
+        {
+          "label": "官方各區及演出時間",
+          "url": "https://www.tokyo-dome.co.jp/illumination/highlights"
+        },
+        {
+          "label": "Sanrio 10/8原公告",
+          "url": "https://cinnamorollpark.sanrio.co.jp/news/news04"
+        },
+        {
+          "label": "東京觀光官方交叉確認",
+          "url": "https://www.gotokyo.org/jp/spot/ev130/index.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "免費點燈本身不用買票；僅對仍在安排東京住宿的人有自然訂房需求。",
+        "products": [
+          "東京巨蛋周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "想把東京巨蛋城排成晚間行程，可比較周邊住宿與回程路線；住宿不代表有燈景房，也不含另售展覽門票。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 96,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:threads.com \"東京巨蛋\" \"2026\"",
+          "site:facebook.com 東京 巨蛋 シナモロール 2026 11",
+          "\"東京ドームシティ\" \"シナモロール\" site:x.com 2026 11月19"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京巨蛋飯店",
+              "url": "https://jp.trip.com/hotels/tokyo-hotel-detail-704030/tokyo-dome-hotel/",
+              "kind": "商品頁",
+              "reason": "飯店地址與東京巨蛋區域相符，供尚未訂住宿者比較；點燈本身免費。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京巨蛋周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/tokyo-dome.ja.html",
+              "kind": "住宿列表",
+              "reason": "已讀到東京巨蛋飯店及附近住宿，列表各飯店距離不同。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨頁 https://www.kkday.com/ja/product/183630 ，是巨蛋導覽、頁面售罄，非免費點燈門票，排除；無有效推薦，不帶入cid。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/163843-tokyo-dome-city/ ，為日間設施一日券，非點燈必要票券，也未確認包含Gallery AaMo或本季日期，排除。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿另存對應題目"
+    },
+    {
+      "id": "dormy-naha-20261119",
+      "title": "Dormy Inn那霸開放預約，2027/2/3試營運；12,000日圓是每人起價",
+      "region": "沖繩那霸／久茂地1-5-15",
+      "category": "住宿／新飯店",
+      "announcementDate": "2026/11/18；官方僅日期，無法宣稱精確24小時內",
+      "eventDate": "11/18開始預約；2027/2/3預定試營運",
+      "freshness": "48小時／前一曆日公告，官方無發布時刻",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "給明年沖繩旅客新增住宿選項；價格是每人還是每房直接影響預算，值得比單純開幕消息更清楚地整理。",
+      "facts": "天然温泉 旅人の湯 ドーミーイン那覇共216房、14層，縣廳前站步行約4分鐘。2027/2/3預定試營運，並非目前入住。含早餐公告起價：雙人床房1室1人14,000日圓起；雙床房1室2人每人12,000日圓起，含稅、依季節與曜日變動。內湯天然溫泉，露天為加熱水；附自動潑水三溫暖，4間包租浴室／私人三溫暖的費用、時間及預約條件尚未完全確認。官方有繁中語言入口，未見國籍限制，但付款及方案資格仍依實際預約頁。停車安排與即時房況未確認，圖片可能為完成示意。官方新聞稿與風呂サウナ編輯報導交叉，非兩次實際入住查證。",
+      "sources": [
+        {
+          "label": "飯店官方與預約入口",
+          "url": "https://dormy-hotels.com/dormyinn/hotels/naha/"
+        },
+        {
+          "label": "共立官方公告",
+          "url": "https://www.kyoritsugroup.co.jp/news/detail.html?dispmid=1156&itemid=1731"
+        },
+        {
+          "label": "官方新聞稿PDF",
+          "url": "https://prtimes.jp/a/?c=30012&f=d30012-499-dfabb5867a3e6437f4b925a482393d05.pdf&r=499"
+        },
+        {
+          "label": "風呂サウナ11/18報導",
+          "url": "https://furosauna.com/2026/11/18/142844838/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "明年入住仍有規劃時間，讀者有直接訂房需求；但四平台尚未核到這間飯店的有效商品頁，不能先當成可分潤。",
+        "products": [
+          "Dormy Inn那霸住宿方案"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "準備明年住那霸的人，可先比較相同日期、人數與早餐條件；確認是這間新飯店，並看清試營運與取消規則再訂。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"ドーミーイン那覇\" site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿另存對應題目"
+    },
+    {
+      "id": "suica-new-character-20261119",
+      "title": "Suica紫色兔子B方案勝出，命名開放至12/15；新角色明年4月登場",
+      "region": "全日本旅客關注／JR東日本",
+      "category": "重大時事／交通話題",
+      "announcementDate": "2026/11/18官方；Mynavi11/18 15:19刊出、16:50更新（JST）",
+      "eventDate": "命名11/18 15:00～12/15 15:59 JST；2027/3/31預定公布名字、4月新角色登場",
+      "freshness": "24小時：媒體明示時刻；官方公告僅日期",
+      "stars": {
+        "viral": 5,
+        "save": 3,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "Suica是台灣旅客熟悉的交通品牌，角色更替與開放命名有討論切角；但票選數字不能冒充今天Threads熱度，亦不可引導換卡恐慌。",
+      "facts": "B方案獲860,152票、總票數1,664,399，是官方票選結果不是本期社群互動。新角色2027/4登場。命名任何人可依條款申請，未成年須家長同意；名字10字內、平假名／片假名／英文字母，須填片假名讀音。名字由委員會選定，非再投票決定；無獎金獎品，送隨機1款共3款桌布。原創與權利條款需同意。公告沒有要求旅客今天更換Suica卡，不能延伸成卡片失效通知。",
+      "sources": [
+        {
+          "label": "JR東日本結果與命名條款",
+          "url": "https://www.jreast.co.jp/suica-new-character-vote/"
+        },
+        {
+          "label": "11/18官方PDF",
+          "url": "https://www.jreast.co.jp/press/2026/20261118_ho01.pdf"
+        },
+        {
+          "label": "Mynavi編輯報導",
+          "url": "https://news.mynavi.jp/article/20261118-5352547/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "角色命名不產生直接購票或訂房需求，不把品牌話題硬接交通票分潤。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 15,
+        "實用性": 10,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://x.com/i/trending/2023980089562841444",
+            "label": "X趨勢索引",
+            "reason": "舊摘要且非近期原始作者貼文，不計分"
+          },
+          {
+            "url": "https://www.dcard.tw/@toxins/post/258907784",
+            "label": "Dcard搜尋線索",
+            "reason": "舊伴手禮內容，非本次角色公告"
+          },
+          {
+            "url": "https://www.ptt.cc/bbs/MobileComm/M.1791812853.A.D48.html",
+            "label": "PTT搜尋線索",
+            "reason": "上月Pixel內容，不匹配本事件"
+          }
+        ],
+        "queries": [
+          "site:threads.com Suica 2026 11 18",
+          "site:x.com Suica 新キャラクター 2026 11 18",
+          "site:ptt.cc Suica 2026 11 18",
+          "site:dcard.tw Suica 新 兔子 2026",
+          "\"Suica\" \"紫\" site:threads.net 2026",
+          "site:tiktok.com \"Suica\" \"2026\""
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "本題無自然商品需求，不硬推交通票。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿另存對應題目"
+    },
+    {
+      "id": "white-kitte-20261119",
+      "title": "東京車站旁WHITE KITTE今天開始，燈光秀不是整晚每半小時一場",
+      "region": "關東東京／丸之內KITTE 1樓中庭",
+      "category": "季節情報／活動",
+      "announcementDate": "2026/10/22 15:00 JST原公告；11/18點燈儀式報導",
+      "eventDate": "一般活動11/19～12/25；11/18是儀式；12/7起切換演出主題",
+      "freshness": "超過7天例外：今天一般活動正式開始；昨天儀式不是今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "東京車站可銜接的室內季節景點，適合短時間停留；區分樹亮燈、燈光秀及商店時間，能直接幫旅客排行程。",
+      "facts": "WHITE KITTE 11/19～12/25，1樓中庭15公尺樹及10公尺環、約4萬LED。最新官方樹點燈6:00～24:30 JST，並非全部商店營業時間。11/19～12/6燈光秀約5分鐘，第一主題12:10起至21:10各小時10分；第二主題一般12:40起，但19:53及21:53為例外，20:40仍有，不能概括成每半小時整晚演出。12/7切換主題須看新表。Walker列免費，餐飲購物另計；未列國籍限定。Walker亮燈舊表與官方不一致，採當次讀取最新官方6:00～24:30，不採舊23:30。",
+      "sources": [
+        {
+          "label": "KITTE官方活動時刻",
+          "url": "https://marunouchi.jp-kitte.jp/shop/white_kitte2026/"
+        },
+        {
+          "label": "10/22品牌原新聞稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000000019.000068503.html"
+        },
+        {
+          "label": "11/18儀式現場報導",
+          "url": "https://www.talent-databank.co.jp/special/topics/65581/"
+        },
+        {
+          "label": "Walker費用資訊",
+          "url": "https://www.walkerplus.com/event/ar0313e621383/price.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "免費室內活動不需要票券；只有仍在安排東京車站住宿者能自然銜接，短停留旅客不必為此訂房。",
+        "products": [
+          "東京車站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若以東京車站作住宿基地，可比較丸之內與八重洲兩側飯店及步行路線；房價不包含活動消費，也不保證房內看得到聖誕樹。",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 14,
+        "稀缺性": 6,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "site:instagram.com WHITE KITTE 2026 11 18",
+          "site:youtube.com \"WHITE KITTE\" \"2026\"",
+          "\"WHITE KITTE\" site:threads.com OR site:facebook.com 2026",
+          "\"WHITE KITTE\" site:threads.net OR site:instagram.com 2026"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟 https://jp.trip.com/hotels/tokyo-kitte-marunouchi/hotels-c228m8422993/ 與 https://jp.trip.com/hotels/tokyo-kitte-garden/hotels-c228m39835295/ ，讀取失敗；搜尋中的KITTE大阪與本題不符，排除。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。",
+          "pages": [
+            {
+              "title": "東京車站周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/tokyo-station2.ja.html",
+              "kind": "住宿列表",
+              "reason": "含丸之內南口附近飯店及其他車站周邊住宿；不是全部都在KITTE同側。",
+              "checks": "核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。",
+              "checkedAt": "2026-11-19T10:06:14+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿另存對應題目"
+    },
+    {
+      "id": "pending-20261119-0",
+      "title": "ARTE MUSEUM NAGOYA",
+      "category": "旅遊／新設施",
+      "region": "中部愛知知多",
+      "announcementDate": "線索11/18開幕；原公告未確認",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://miseima.jp/area/aichi/"
+        }
+      ],
+      "reason": "只有地區索引，實際地址、票價與預約未交叉確認；不把名稱當成名古屋市內。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-1",
+      "title": "KITTE大阪聖誕",
+      "category": "活動",
+      "region": "關西大阪",
+      "announcementDate": "線索11/18～12/25；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://osaka.jp-kitte.jp/merry_go_christmas/"
+        }
+      ],
+      "reason": "搜尋線索尚未完成原頁與第二來源核對，不能套用丸之內時刻。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-2",
+      "title": "札幌知床根室物產展",
+      "category": "美食／購物",
+      "region": "北海道札幌",
+      "announcementDate": "線索11/11公告、11/18～24",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/2/4/6/6/7/3/_/03_shiretoko.pdf"
+        }
+      ],
+      "reason": "PDF索引線索，會場與販售條件未核全。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-3",
+      "title": "福島機場北海道物產展",
+      "category": "美食／購物",
+      "region": "東北福島",
+      "announcementDate": "線索11/18～23；原公告未確認",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.walkerplus.com/event/ar0207e622359/data.html"
+        }
+      ],
+      "reason": "只取得活動索引，未完成機場官方交叉。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-4",
+      "title": "栗林公園秋夜點燈",
+      "category": "季節情報",
+      "region": "四國香川",
+      "announcementDate": "線索11/20～29；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://matsurimap.app/ja/events?area=shikoku&month=2026-11"
+        }
+      ],
+      "reason": "尚缺官方票價、時間及交叉核對，不用往年規則代替。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-5",
+      "title": "金澤湯涌江戶村特別公開",
+      "category": "活動",
+      "region": "北陸金澤",
+      "announcementDate": "線索11/21～23；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.kanazawabiyori.com/event-calendar?y=2026"
+        }
+      ],
+      "reason": "僅日曆索引，公開建築、票價及資格未確認。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-6",
+      "title": "聖誕夜驚魂表參道咖啡",
+      "category": "美食／IP聯名",
+      "region": "關東東京",
+      "announcementDate": "線索11/19～2027/1/31；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://puniees.com/event-calendar"
+        }
+      ],
+      "reason": "菜單、預約及營業日期未讀原頁交叉，不列今天可直接去。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-7",
+      "title": "赤福東京車站快閃",
+      "category": "美食",
+      "region": "關東東京",
+      "announcementDate": "線索11/19～12/2；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/"
+        }
+      ],
+      "reason": "只有日曆，門市位置、品項與售罄未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-8",
+      "title": "日光東照宮JOJO活動",
+      "category": "活動／IP聯名",
+      "region": "關東日光",
+      "announcementDate": "線索11/19～12/27；原公告未核",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/from%3Atoday/"
+        }
+      ],
+      "reason": "只有日曆，活動內容與入場票範圍未交叉確認。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-9",
+      "title": "ANA系統維護",
+      "category": "交通",
+      "region": "全日本航空",
+      "announcementDate": "線索11/19 01:00～04:30、最晚06:00 JST",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.ana.co.jp/other/int/meta/0160.html?BOOKING_TYPE=r&CONNECTION_KIND=tw&LANG=j&TIER_LEVEL=none"
+        }
+      ],
+      "reason": "排程時間已過，沒有持續故障證據，不能當目前無法訂票警報。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261119-10",
+      "title": "全家麵包小偷列印",
+      "category": "購物／IP聯名",
+      "region": "全日本適用全家",
+      "announcementDate": "線索11/6公告；11/20 10:00～2027/2/19 23:59 JST",
+      "eventDate": "線索日期見公告欄，未完全確認",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf"
+        }
+      ],
+      "reason": "與先前收納袋不是同一事件，但列印款式、價格及機台操作未完成原頁交叉。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "尚未完全確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實與時效未核全，不先推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。",
+        "assessedOn": "2026-11-19"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不作商品推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-19T10:06:14+08:00",
+        "summary": "未完成逐題社群原文查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "東京巨蛋11/20樹燈光秀與喜拿展覽",
+      "next": "明天確認首演與臨時停演；Gallery AaMo票價、預約另查，不把展覽併入免費燈區。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.tokyo-dome.co.jp/illumination/"
+        },
+        {
+          "label": "Sanrio",
+          "url": "https://cinnamorollpark.sanrio.co.jp/news/news04"
+        }
+      ]
+    },
+    {
+      "title": "Dormy Inn那霸預約細節",
+      "next": "補查私人浴室費用、停車、方案取消規則與四平台同名商品；不保證24～72小時一定上架。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://dormy-hotels.com/dormyinn/hotels/naha/"
+        }
+      ]
+    },
+    {
+      "title": "栗林公園11/20點燈線索",
+      "next": "待官方原公告確認時間、票價及葉況，再決定是否入選；目前僅候選，不當已查證活動。",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://matsurimap.app/ja/events?area=shikoku&month=2026-11"
+        }
+      ]
+    },
+    {
+      "title": "全家11/20麵包小偷列印線索",
+      "next": "補讀官方PDF與第二來源，核款式、價格、機台及截止時間，避免與收納袋混淆。",
+      "sources": [
+        {
+          "label": "待核線索，不代表已完成查核",
+          "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "tokyo-snow-dome-20261119",
+    "title": "東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始",
+    "score": 96,
+    "reason": "今日首日時間與隔天表演的差異可立即幫旅客避開白等；角色與15公尺樹提供視覺鉤子，收藏與分享理由是正確時刻及免費範圍。僅編輯推薦，不代使用者選題。",
+    "versusSecond": "第二名Dormy Inn那霸是明年入住規劃，今天點燈則可立刻安排；若以留言分潤適合度優先，Dormy Inn為高，但目前未核得平台商品。",
+    "publishAt": "11/19 12:00 Asia/Taipei（編輯建議，無帳號數據）",
+    "audience": "今天在東京或近期赴東京、喜歡季節夜景與喜拿的台灣旅客",
+    "lifecycle": "1個月以上；首日18:00提醒只適用今天"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-19T10:06:14+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 4,
+    "qualifiedTopicCount": 0,
+    "limitation": "4個入選題完成關鍵字補查，11個待核題未完成逐題原文查核。無可同時核對時間、讚與留言的兩位不同作者樣本；checkedAt是查核截止，不是假稱成功觀測互動的時間。不把搜尋摘要或官方票選數當自然討論證據。",
+    "platformAccess": {
+      "Threads": "東京巨蛋、Suica、KITTE、Dormy查詢未取得合格原始雙作者樣本",
+      "Facebook": "東京巨蛋與KITTE查詢無合格樣本",
+      "Instagram": "KITTE與Dormy查詢無合格時間及數字",
+      "X": "Suica、東京巨蛋、Dormy未取得合格原文；舊趨勢索引排除",
+      "Dcard": "Suica搜尋回傳舊伴手禮文，非本事件",
+      "PTT": "Suica搜尋回傳上月Pixel文，非本事件",
+      "YouTube": "KITTE查詢無合格雙作者與互動樣本",
+      "TikTok": "robots讀取限制，不推測互動數"
+    }
+  },
+  "researchText": "日本每日內容雷達\n日期：2026-11-19\n搜尋截止：2026-11-19 10:06:14 Asia/Taipei（日本11:06:14 Asia/Tokyo）\n本期15個不同事件候選，4題完成主要事實交叉確認、評分與各3串草稿，11題待核或不具當下新進展。未湊滿10題；候選池蒐集完成後再比較評分，沒有足夠資料的11題留null未評估，不假裝完成八項評分。已比對11/17及11/18選題，避免無進展重複。搜尋涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩關鍵字，並非全地域全類別完整監控。4題逐題補查社群，無合格雙作者原文樣本，不能建立本期社群熱榜；以下依內容總分排序。分數與星等皆編輯預估，不是實測熱度或流量保證。官方與媒體編輯報導交叉，不一律等於兩次獨立現場採訪。\n【今天日本發生什麼】\n已查證：東京巨蛋城冬季點燈今天開始，首日18:00；樹燈光秀明天11/20起。\n已查證：WHITE KITTE今天正式開放，昨天為點燈儀式，樹亮燈時間與燈光秀、商店營業要分開。\n已查證：Dormy Inn那霸昨天開放預約，明年2/3預定試營運；雙床房12,000日圓是每人含早餐起價。\n已查證：Suica新角色B方案勝出、命名到12/15，明年4月才登場；投票總數不是社群熱度。\n編輯觀察：今天最有實用價值的是首日時間、每人價格與活動範圍，適合用避雷切角，而非製造售罄或爆紅說法。\n研究限制：4題合格、11題待核；近期社群雙作者數據不足，不能判定台灣Threads熱榜。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5；星等爆紅／收藏／分享1～5，未核題null不是0。\n【候選池與評分、原始來源、社群與分潤紀錄】\n[\n  {\n    \"id\": \"tokyo-snow-dome-20261119\",\n    \"title\": \"東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始\",\n    \"region\": \"關東東京／東京ドームシティ\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"2026/10/8 Sanrio原公告；11/12東京巨蛋補充公告；非今天新公布\",\n    \"eventDate\": \"11/19～2027/2/28；一般17:00～24:00，今天11/19改18:00開始（JST）；樹燈光秀11/20起\",\n    \"freshness\": \"超過7天例外：今天正式開始；不聲稱今天新公告或爆紅\",\n    \"stars\": {\n      \"viral\": 5,\n      \"save\": 5,\n      \"share\": 5\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"今天即可安排，首日18時與明天才開始的樹燈光秀最容易混淆。免費夜景加上角色視覺，適合近期東京旅客收藏與轉給同行者。\",\n    \"facts\": \"TOKYO SNOW DOME CITY免費點燈。中央廣場WONDER SNOW TREE高15公尺，11/20起17:00～21:15每小時00/15/30/45分演出，Cinnamoroll版本18:00及18:15。天候、人潮及演唱會散場可能調整或暫停。LaQua另有雪景裝置與SPARKLE TUNNEL。Gallery AaMoふわふわんだーシナモロールパーク為另一活動，11/20～1/17，不是今天免費點燈包含的展覽。免費戶外燈區未列國籍限制；展覽票價及預約本期未查全，不推薦當免費展覽。\",\n    \"sources\": [\n      {\n        \"label\": \"東京巨蛋城官方\",\n        \"url\": \"https://www.tokyo-dome.co.jp/illumination/\"\n      },\n      {\n        \"label\": \"官方各區及演出時間\",\n        \"url\": \"https://www.tokyo-dome.co.jp/illumination/highlights\"\n      },\n      {\n        \"label\": \"Sanrio 10/8原公告\",\n        \"url\": \"https://cinnamorollpark.sanrio.co.jp/news/news04\"\n      },\n      {\n        \"label\": \"東京觀光官方交叉確認\",\n        \"url\": \"https://www.gotokyo.org/jp/spot/ev130/index.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"免費點燈本身不用買票；僅對仍在安排東京住宿的人有自然訂房需求。\",\n      \"products\": [\n        \"東京巨蛋周邊住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"想把東京巨蛋城排成晚間行程，可比較周邊住宿與回程路線；住宿不代表有燈景房，也不含另售展覽門票。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 96,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 14,\n      \"實用性\": 15,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com \\\"東京巨蛋\\\" \\\"2026\\\"\",\n        \"site:facebook.com 東京 巨蛋 シナモロール 2026 11\",\n        \"\\\"東京ドームシティ\\\" \\\"シナモロール\\\" site:x.com 2026 11月19\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京巨蛋飯店\",\n            \"url\": \"https://jp.trip.com/hotels/tokyo-hotel-detail-704030/tokyo-dome-hotel/\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"飯店地址與東京巨蛋區域相符，供尚未訂住宿者比較；點燈本身免費。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京巨蛋周邊住宿\",\n            \"url\": \"https://www.booking.com/landmark/jp/tokyo-dome.ja.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已讀到東京巨蛋飯店及附近住宿，列表各飯店距離不同。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀乾淨頁 https://www.kkday.com/ja/product/183630 ，是巨蛋導覽、頁面售罄，非免費點燈門票，排除；無有效推薦，不帶入cid。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已讀 https://www.klook.com/ja/activity/163843-tokyo-dome-city/ ，為日間設施一日券，非點燈必要票券，也未確認包含Gallery AaMo或本季日期，排除。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"dormy-naha-20261119\",\n    \"title\": \"Dormy Inn那霸開放預約，2027/2/3試營運；12,000日圓是每人起價\",\n    \"region\": \"沖繩那霸／久茂地1-5-15\",\n    \"category\": \"住宿／新飯店\",\n    \"announcementDate\": \"2026/11/18；官方僅日期，無法宣稱精確24小時內\",\n    \"eventDate\": \"11/18開始預約；2027/2/3預定試營運\",\n    \"freshness\": \"48小時／前一曆日公告，官方無發布時刻\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"中\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"給明年沖繩旅客新增住宿選項；價格是每人還是每房直接影響預算，值得比單純開幕消息更清楚地整理。\",\n    \"facts\": \"天然温泉 旅人の湯 ドーミーイン那覇共216房、14層，縣廳前站步行約4分鐘。2027/2/3預定試營運，並非目前入住。含早餐公告起價：雙人床房1室1人14,000日圓起；雙床房1室2人每人12,000日圓起，含稅、依季節與曜日變動。內湯天然溫泉，露天為加熱水；附自動潑水三溫暖，4間包租浴室／私人三溫暖的費用、時間及預約條件尚未完全確認。官方有繁中語言入口，未見國籍限制，但付款及方案資格仍依實際預約頁。停車安排與即時房況未確認，圖片可能為完成示意。官方新聞稿與風呂サウナ編輯報導交叉，非兩次實際入住查證。\",\n    \"sources\": [\n      {\n        \"label\": \"飯店官方與預約入口\",\n        \"url\": \"https://dormy-hotels.com/dormyinn/hotels/naha/\"\n      },\n      {\n        \"label\": \"共立官方公告\",\n        \"url\": \"https://www.kyoritsugroup.co.jp/news/detail.html?dispmid=1156&itemid=1731\"\n      },\n      {\n        \"label\": \"官方新聞稿PDF\",\n        \"url\": \"https://prtimes.jp/a/?c=30012&f=d30012-499-dfabb5867a3e6437f4b925a482393d05.pdf&r=499\"\n      },\n      {\n        \"label\": \"風呂サウナ11/18報導\",\n        \"url\": \"https://furosauna.com/2026/11/18/142844838/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"高\",\n      \"reason\": \"明年入住仍有規劃時間，讀者有直接訂房需求；但四平台尚未核到這間飯店的有效商品頁，不能先當成可分潤。\",\n      \"products\": [\n        \"Dormy Inn那霸住宿方案\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"準備明年住那霸的人，可先比較相同日期、人數與早餐條件；確認是這間新飯店，並看清試營運與取消規則再訂。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 91,\n    \"scoreBreakdown\": {\n      \"即時性\": 19,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 8,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 5\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"\\\"ドーミーイン那覇\\\" site:threads.com OR site:instagram.com OR site:x.com\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"suica-new-character-20261119\",\n    \"title\": \"Suica紫色兔子B方案勝出，命名開放至12/15；新角色明年4月登場\",\n    \"region\": \"全日本旅客關注／JR東日本\",\n    \"category\": \"重大時事／交通話題\",\n    \"announcementDate\": \"2026/11/18官方；Mynavi11/18 15:19刊出、16:50更新（JST）\",\n    \"eventDate\": \"命名11/18 15:00～12/15 15:59 JST；2027/3/31預定公布名字、4月新角色登場\",\n    \"freshness\": \"24小時：媒體明示時刻；官方公告僅日期\",\n    \"stars\": {\n      \"viral\": 5,\n      \"save\": 3,\n      \"share\": 5\n    },\n    \"risk\": \"中\",\n    \"lifecycle\": \"1週\",\n    \"why\": \"Suica是台灣旅客熟悉的交通品牌，角色更替與開放命名有討論切角；但票選數字不能冒充今天Threads熱度，亦不可引導換卡恐慌。\",\n    \"facts\": \"B方案獲860,152票、總票數1,664,399，是官方票選結果不是本期社群互動。新角色2027/4登場。命名任何人可依條款申請，未成年須家長同意；名字10字內、平假名／片假名／英文字母，須填片假名讀音。名字由委員會選定，非再投票決定；無獎金獎品，送隨機1款共3款桌布。原創與權利條款需同意。公告沒有要求旅客今天更換Suica卡，不能延伸成卡片失效通知。\",\n    \"sources\": [\n      {\n        \"label\": \"JR東日本結果與命名條款\",\n        \"url\": \"https://www.jreast.co.jp/suica-new-character-vote/\"\n      },\n      {\n        \"label\": \"11/18官方PDF\",\n        \"url\": \"https://www.jreast.co.jp/press/2026/20261118_ho01.pdf\"\n      },\n      {\n        \"label\": \"Mynavi編輯報導\",\n        \"url\": \"https://news.mynavi.jp/article/20261118-5352547/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"角色命名不產生直接購票或訂房需求，不把品牌話題硬接交通票分潤。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 15,\n      \"實用性\": 10,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 9,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://x.com/i/trending/2023980089562841444\",\n          \"label\": \"X趨勢索引\",\n          \"reason\": \"舊摘要且非近期原始作者貼文，不計分\"\n        },\n        {\n          \"url\": \"https://www.dcard.tw/@toxins/post/258907784\",\n          \"label\": \"Dcard搜尋線索\",\n          \"reason\": \"舊伴手禮內容，非本次角色公告\"\n        },\n        {\n          \"url\": \"https://www.ptt.cc/bbs/MobileComm/M.1791812853.A.D48.html\",\n          \"label\": \"PTT搜尋線索\",\n          \"reason\": \"上月Pixel內容，不匹配本事件\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com Suica 2026 11 18\",\n        \"site:x.com Suica 新キャラクター 2026 11 18\",\n        \"site:ptt.cc Suica 2026 11 18\",\n        \"site:dcard.tw Suica 新 兔子 2026\",\n        \"\\\"Suica\\\" \\\"紫\\\" site:threads.net 2026\",\n        \"site:tiktok.com \\\"Suica\\\" \\\"2026\\\"\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"white-kitte-20261119\",\n    \"title\": \"東京車站旁WHITE KITTE今天開始，燈光秀不是整晚每半小時一場\",\n    \"region\": \"關東東京／丸之內KITTE 1樓中庭\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"2026/10/22 15:00 JST原公告；11/18點燈儀式報導\",\n    \"eventDate\": \"一般活動11/19～12/25；11/18是儀式；12/7起切換演出主題\",\n    \"freshness\": \"超過7天例外：今天一般活動正式開始；昨天儀式不是今天新公告\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"東京車站可銜接的室內季節景點，適合短時間停留；區分樹亮燈、燈光秀及商店時間，能直接幫旅客排行程。\",\n    \"facts\": \"WHITE KITTE 11/19～12/25，1樓中庭15公尺樹及10公尺環、約4萬LED。最新官方樹點燈6:00～24:30 JST，並非全部商店營業時間。11/19～12/6燈光秀約5分鐘，第一主題12:10起至21:10各小時10分；第二主題一般12:40起，但19:53及21:53為例外，20:40仍有，不能概括成每半小時整晚演出。12/7切換主題須看新表。Walker列免費，餐飲購物另計；未列國籍限定。Walker亮燈舊表與官方不一致，採當次讀取最新官方6:00～24:30，不採舊23:30。\",\n    \"sources\": [\n      {\n        \"label\": \"KITTE官方活動時刻\",\n        \"url\": \"https://marunouchi.jp-kitte.jp/shop/white_kitte2026/\"\n      },\n      {\n        \"label\": \"10/22品牌原新聞稿\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000019.000068503.html\"\n      },\n      {\n        \"label\": \"11/18儀式現場報導\",\n        \"url\": \"https://www.talent-databank.co.jp/special/topics/65581/\"\n      },\n      {\n        \"label\": \"Walker費用資訊\",\n        \"url\": \"https://www.walkerplus.com/event/ar0313e621383/price.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"免費室內活動不需要票券；只有仍在安排東京車站住宿者能自然銜接，短停留旅客不必為此訂房。\",\n      \"products\": [\n        \"東京車站周邊住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"若以東京車站作住宿基地，可比較丸之內與八重洲兩側飯店及步行路線；房價不包含活動消費，也不保證房內看得到聖誕樹。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 88,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 11,\n      \"實用性\": 14,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:instagram.com WHITE KITTE 2026 11 18\",\n        \"site:youtube.com \\\"WHITE KITTE\\\" \\\"2026\\\"\",\n        \"\\\"WHITE KITTE\\\" site:threads.com OR site:facebook.com 2026\",\n        \"\\\"WHITE KITTE\\\" site:threads.net OR site:instagram.com 2026\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已開啟 https://jp.trip.com/hotels/tokyo-kitte-marunouchi/hotels-c228m8422993/ 與 https://jp.trip.com/hotels/tokyo-kitte-garden/hotels-c228m39835295/ ，讀取失敗；搜尋中的KITTE大阪與本題不符，排除。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京車站周邊住宿\",\n            \"url\": \"https://www.booking.com/landmark/jp/tokyo-station2.ja.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"含丸之內南口附近飯店及其他車站周邊住宿；不是全部都在KITTE同側。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"pending-20261119-0\",\n    \"title\": \"ARTE MUSEUM NAGOYA\",\n    \"category\": \"旅遊／新設施\",\n    \"region\": \"中部愛知知多\",\n    \"announcementDate\": \"線索11/18開幕；原公告未確認\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://miseima.jp/area/aichi/\"\n      }\n    ],\n    \"reason\": \"只有地區索引，實際地址、票價與預約未交叉確認；不把名稱當成名古屋市內。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-1\",\n    \"title\": \"KITTE大阪聖誕\",\n    \"category\": \"活動\",\n    \"region\": \"關西大阪\",\n    \"announcementDate\": \"線索11/18～12/25；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://osaka.jp-kitte.jp/merry_go_christmas/\"\n      }\n    ],\n    \"reason\": \"搜尋線索尚未完成原頁與第二來源核對，不能套用丸之內時刻。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-2\",\n    \"title\": \"札幌知床根室物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"北海道札幌\",\n    \"announcementDate\": \"線索11/11公告、11/18～24\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.pref.hokkaido.lg.jp/fs/1/3/2/4/6/6/7/3/_/03_shiretoko.pdf\"\n      }\n    ],\n    \"reason\": \"PDF索引線索，會場與販售條件未核全。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-3\",\n    \"title\": \"福島機場北海道物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"東北福島\",\n    \"announcementDate\": \"線索11/18～23；原公告未確認\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.walkerplus.com/event/ar0207e622359/data.html\"\n      }\n    ],\n    \"reason\": \"只取得活動索引，未完成機場官方交叉。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-4\",\n    \"title\": \"栗林公園秋夜點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"四國香川\",\n    \"announcementDate\": \"線索11/20～29；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n      }\n    ],\n    \"reason\": \"尚缺官方票價、時間及交叉核對，不用往年規則代替。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-5\",\n    \"title\": \"金澤湯涌江戶村特別公開\",\n    \"category\": \"活動\",\n    \"region\": \"北陸金澤\",\n    \"announcementDate\": \"線索11/21～23；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.kanazawabiyori.com/event-calendar?y=2026\"\n      }\n    ],\n    \"reason\": \"僅日曆索引，公開建築、票價及資格未確認。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-6\",\n    \"title\": \"聖誕夜驚魂表參道咖啡\",\n    \"category\": \"美食／IP聯名\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"線索11/19～2027/1/31；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://puniees.com/event-calendar\"\n      }\n    ],\n    \"reason\": \"菜單、預約及營業日期未讀原頁交叉，不列今天可直接去。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-7\",\n    \"title\": \"赤福東京車站快閃\",\n    \"category\": \"美食\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"線索11/19～12/2；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"只有日曆，門市位置、品項與售罄未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-8\",\n    \"title\": \"日光東照宮JOJO活動\",\n    \"category\": \"活動／IP聯名\",\n    \"region\": \"關東日光\",\n    \"announcementDate\": \"線索11/19～12/27；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"只有日曆，活動內容與入場票範圍未交叉確認。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-9\",\n    \"title\": \"ANA系統維護\",\n    \"category\": \"交通\",\n    \"region\": \"全日本航空\",\n    \"announcementDate\": \"線索11/19 01:00～04:30、最晚06:00 JST\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.ana.co.jp/other/int/meta/0160.html?BOOKING_TYPE=r&CONNECTION_KIND=tw&LANG=j&TIER_LEVEL=none\"\n      }\n    ],\n    \"reason\": \"排程時間已過，沒有持續故障證據，不能當目前無法訂票警報。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-10\",\n    \"title\": \"全家麵包小偷列印\",\n    \"category\": \"購物／IP聯名\",\n    \"region\": \"全日本適用全家\",\n    \"announcementDate\": \"線索11/6公告；11/20 10:00～2027/2/19 23:59 JST\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf\"\n      }\n    ],\n    \"reason\": \"與先前收納袋不是同一事件，但列印款式、價格及機台操作未完成原頁交叉。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【編輯建議與追蹤】\n{\n  \"choice\": {\n    \"id\": \"tokyo-snow-dome-20261119\",\n    \"title\": \"東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始\",\n    \"score\": 96,\n    \"reason\": \"今日首日時間與隔天表演的差異可立即幫旅客避開白等；角色與15公尺樹提供視覺鉤子，收藏與分享理由是正確時刻及免費範圍。僅編輯推薦，不代使用者選題。\",\n    \"versusSecond\": \"第二名Dormy Inn那霸是明年入住規劃，今天點燈則可立刻安排；若以留言分潤適合度優先，Dormy Inn為高，但目前未核得平台商品。\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號數據）\",\n    \"audience\": \"今天在東京或近期赴東京、喜歡季節夜景與喜拿的台灣旅客\",\n    \"lifecycle\": \"1個月以上；首日18:00提醒只適用今天\"\n  },\n  \"followups\": [\n    {\n      \"title\": \"東京巨蛋11/20樹燈光秀與喜拿展覽\",\n      \"next\": \"明天確認首演與臨時停演；Gallery AaMo票價、預約另查，不把展覽併入免費燈區。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.tokyo-dome.co.jp/illumination/\"\n        },\n        {\n          \"label\": \"Sanrio\",\n          \"url\": \"https://cinnamorollpark.sanrio.co.jp/news/news04\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Dormy Inn那霸預約細節\",\n      \"next\": \"補查私人浴室費用、停車、方案取消規則與四平台同名商品；不保證24～72小時一定上架。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://dormy-hotels.com/dormyinn/hotels/naha/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"栗林公園11/20點燈線索\",\n      \"next\": \"待官方原公告確認時間、票價及葉況，再決定是否入選；目前僅候選，不當已查證活動。\",\n      \"sources\": [\n        {\n          \"label\": \"待核線索，不代表已完成查核\",\n          \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n        }\n      ]\n    },\n    {\n      \"title\": \"全家11/20麵包小偷列印線索\",\n      \"next\": \"補讀官方PDF與第二來源，核款式、價格、機台及截止時間，避免與收納袋混淆。\",\n      \"sources\": [\n        {\n          \"label\": \"待核線索，不代表已完成查核\",\n          \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf\"\n        }\n      ]\n    }\n  ],\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 4,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"4個入選題完成關鍵字補查，11個待核題未完成逐題原文查核。無可同時核對時間、讚與留言的兩位不同作者樣本；checkedAt是查核截止，不是假稱成功觀測互動的時間。不把搜尋摘要或官方票選數當自然討論證據。\",\n    \"platformAccess\": {\n      \"Threads\": \"東京巨蛋、Suica、KITTE、Dormy查詢未取得合格原始雙作者樣本\",\n      \"Facebook\": \"東京巨蛋與KITTE查詢無合格樣本\",\n      \"Instagram\": \"KITTE與Dormy查詢無合格時間及數字\",\n      \"X\": \"Suica、東京巨蛋、Dormy未取得合格原文；舊趨勢索引排除\",\n      \"Dcard\": \"Suica搜尋回傳舊伴手禮文，非本事件\",\n      \"PTT\": \"Suica搜尋回傳上月Pixel文，非本事件\",\n      \"YouTube\": \"KITTE查詢無合格雙作者與互動樣本\",\n      \"TikTok\": \"robots讀取限制，不推測互動數\"\n    }\n  }\n}",
+  "fullText": "日本每日內容雷達\n日期：2026-11-19\n搜尋截止：2026-11-19 10:06:14 Asia/Taipei（日本11:06:14 Asia/Tokyo）\n本期15個不同事件候選，4題完成主要事實交叉確認、評分與各3串草稿，11題待核或不具當下新進展。未湊滿10題；候選池蒐集完成後再比較評分，沒有足夠資料的11題留null未評估，不假裝完成八項評分。已比對11/17及11/18選題，避免無進展重複。搜尋涵蓋北海道、東北、關東、北陸、中部、關西、中國、四國、九州與沖繩關鍵字，並非全地域全類別完整監控。4題逐題補查社群，無合格雙作者原文樣本，不能建立本期社群熱榜；以下依內容總分排序。分數與星等皆編輯預估，不是實測熱度或流量保證。官方與媒體編輯報導交叉，不一律等於兩次獨立現場採訪。\n【今天日本發生什麼】\n已查證：東京巨蛋城冬季點燈今天開始，首日18:00；樹燈光秀明天11/20起。\n已查證：WHITE KITTE今天正式開放，昨天為點燈儀式，樹亮燈時間與燈光秀、商店營業要分開。\n已查證：Dormy Inn那霸昨天開放預約，明年2/3預定試營運；雙床房12,000日圓是每人含早餐起價。\n已查證：Suica新角色B方案勝出、命名到12/15，明年4月才登場；投票總數不是社群熱度。\n編輯觀察：今天最有實用價值的是首日時間、每人價格與活動範圍，適合用避雷切角，而非製造售罄或爆紅說法。\n研究限制：4題合格、11題待核；近期社群雙作者數據不足，不能判定台灣Threads熱榜。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5；星等爆紅／收藏／分享1～5，未核題null不是0。\n【候選池與評分、原始來源、社群與分潤紀錄】\n[\n  {\n    \"id\": \"tokyo-snow-dome-20261119\",\n    \"title\": \"東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始\",\n    \"region\": \"關東東京／東京ドームシティ\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"2026/10/8 Sanrio原公告；11/12東京巨蛋補充公告；非今天新公布\",\n    \"eventDate\": \"11/19～2027/2/28；一般17:00～24:00，今天11/19改18:00開始（JST）；樹燈光秀11/20起\",\n    \"freshness\": \"超過7天例外：今天正式開始；不聲稱今天新公告或爆紅\",\n    \"stars\": {\n      \"viral\": 5,\n      \"save\": 5,\n      \"share\": 5\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"今天即可安排，首日18時與明天才開始的樹燈光秀最容易混淆。免費夜景加上角色視覺，適合近期東京旅客收藏與轉給同行者。\",\n    \"facts\": \"TOKYO SNOW DOME CITY免費點燈。中央廣場WONDER SNOW TREE高15公尺，11/20起17:00～21:15每小時00/15/30/45分演出，Cinnamoroll版本18:00及18:15。天候、人潮及演唱會散場可能調整或暫停。LaQua另有雪景裝置與SPARKLE TUNNEL。Gallery AaMoふわふわんだーシナモロールパーク為另一活動，11/20～1/17，不是今天免費點燈包含的展覽。免費戶外燈區未列國籍限制；展覽票價及預約本期未查全，不推薦當免費展覽。\",\n    \"sources\": [\n      {\n        \"label\": \"東京巨蛋城官方\",\n        \"url\": \"https://www.tokyo-dome.co.jp/illumination/\"\n      },\n      {\n        \"label\": \"官方各區及演出時間\",\n        \"url\": \"https://www.tokyo-dome.co.jp/illumination/highlights\"\n      },\n      {\n        \"label\": \"Sanrio 10/8原公告\",\n        \"url\": \"https://cinnamorollpark.sanrio.co.jp/news/news04\"\n      },\n      {\n        \"label\": \"東京觀光官方交叉確認\",\n        \"url\": \"https://www.gotokyo.org/jp/spot/ev130/index.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"免費點燈本身不用買票；僅對仍在安排東京住宿的人有自然訂房需求。\",\n      \"products\": [\n        \"東京巨蛋周邊住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"想把東京巨蛋城排成晚間行程，可比較周邊住宿與回程路線；住宿不代表有燈景房，也不含另售展覽門票。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 96,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 14,\n      \"實用性\": 15,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:threads.com \\\"東京巨蛋\\\" \\\"2026\\\"\",\n        \"site:facebook.com 東京 巨蛋 シナモロール 2026 11\",\n        \"\\\"東京ドームシティ\\\" \\\"シナモロール\\\" site:x.com 2026 11月19\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京巨蛋飯店\",\n            \"url\": \"https://jp.trip.com/hotels/tokyo-hotel-detail-704030/tokyo-dome-hotel/\",\n            \"kind\": \"商品頁\",\n            \"reason\": \"飯店地址與東京巨蛋區域相符，供尚未訂住宿者比較；點燈本身免費。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京巨蛋周邊住宿\",\n            \"url\": \"https://www.booking.com/landmark/jp/tokyo-dome.ja.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"已讀到東京巨蛋飯店及附近住宿，列表各飯店距離不同。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已讀乾淨頁 https://www.kkday.com/ja/product/183630 ，是巨蛋導覽、頁面售罄，非免費點燈門票，排除；無有效推薦，不帶入cid。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已讀 https://www.klook.com/ja/activity/163843-tokyo-dome-city/ ，為日間設施一日券，非點燈必要票券，也未確認包含Gallery AaMo或本季日期，排除。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"dormy-naha-20261119\",\n    \"title\": \"Dormy Inn那霸開放預約，2027/2/3試營運；12,000日圓是每人起價\",\n    \"region\": \"沖繩那霸／久茂地1-5-15\",\n    \"category\": \"住宿／新飯店\",\n    \"announcementDate\": \"2026/11/18；官方僅日期，無法宣稱精確24小時內\",\n    \"eventDate\": \"11/18開始預約；2027/2/3預定試營運\",\n    \"freshness\": \"48小時／前一曆日公告，官方無發布時刻\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"中\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"給明年沖繩旅客新增住宿選項；價格是每人還是每房直接影響預算，值得比單純開幕消息更清楚地整理。\",\n    \"facts\": \"天然温泉 旅人の湯 ドーミーイン那覇共216房、14層，縣廳前站步行約4分鐘。2027/2/3預定試營運，並非目前入住。含早餐公告起價：雙人床房1室1人14,000日圓起；雙床房1室2人每人12,000日圓起，含稅、依季節與曜日變動。內湯天然溫泉，露天為加熱水；附自動潑水三溫暖，4間包租浴室／私人三溫暖的費用、時間及預約條件尚未完全確認。官方有繁中語言入口，未見國籍限制，但付款及方案資格仍依實際預約頁。停車安排與即時房況未確認，圖片可能為完成示意。官方新聞稿與風呂サウナ編輯報導交叉，非兩次實際入住查證。\",\n    \"sources\": [\n      {\n        \"label\": \"飯店官方與預約入口\",\n        \"url\": \"https://dormy-hotels.com/dormyinn/hotels/naha/\"\n      },\n      {\n        \"label\": \"共立官方公告\",\n        \"url\": \"https://www.kyoritsugroup.co.jp/news/detail.html?dispmid=1156&itemid=1731\"\n      },\n      {\n        \"label\": \"官方新聞稿PDF\",\n        \"url\": \"https://prtimes.jp/a/?c=30012&f=d30012-499-dfabb5867a3e6437f4b925a482393d05.pdf&r=499\"\n      },\n      {\n        \"label\": \"風呂サウナ11/18報導\",\n        \"url\": \"https://furosauna.com/2026/11/18/142844838/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"高\",\n      \"reason\": \"明年入住仍有規劃時間，讀者有直接訂房需求；但四平台尚未核到這間飯店的有效商品頁，不能先當成可分潤。\",\n      \"products\": [\n        \"Dormy Inn那霸住宿方案\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"準備明年住那霸的人，可先比較相同日期、人數與早餐條件；確認是這間新飯店，並看清試營運與取消規則再訂。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 91,\n    \"scoreBreakdown\": {\n      \"即時性\": 19,\n      \"台灣旅客相關性\": 20,\n      \"社群討論潛力\": 12,\n      \"實用性\": 15,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 8,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 5\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"\\\"ドーミーイン那覇\\\" site:threads.com OR site:instagram.com OR site:x.com\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"已以ドーミーイン那覇與平台搜尋；未核到這間新飯店的有效商品頁，搜尋回傳泛日本／其他城市飯店不採用。不得宣稱已販售或可分潤。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"suica-new-character-20261119\",\n    \"title\": \"Suica紫色兔子B方案勝出，命名開放至12/15；新角色明年4月登場\",\n    \"region\": \"全日本旅客關注／JR東日本\",\n    \"category\": \"重大時事／交通話題\",\n    \"announcementDate\": \"2026/11/18官方；Mynavi11/18 15:19刊出、16:50更新（JST）\",\n    \"eventDate\": \"命名11/18 15:00～12/15 15:59 JST；2027/3/31預定公布名字、4月新角色登場\",\n    \"freshness\": \"24小時：媒體明示時刻；官方公告僅日期\",\n    \"stars\": {\n      \"viral\": 5,\n      \"save\": 3,\n      \"share\": 5\n    },\n    \"risk\": \"中\",\n    \"lifecycle\": \"1週\",\n    \"why\": \"Suica是台灣旅客熟悉的交通品牌，角色更替與開放命名有討論切角；但票選數字不能冒充今天Threads熱度，亦不可引導換卡恐慌。\",\n    \"facts\": \"B方案獲860,152票、總票數1,664,399，是官方票選結果不是本期社群互動。新角色2027/4登場。命名任何人可依條款申請，未成年須家長同意；名字10字內、平假名／片假名／英文字母，須填片假名讀音。名字由委員會選定，非再投票決定；無獎金獎品，送隨機1款共3款桌布。原創與權利條款需同意。公告沒有要求旅客今天更換Suica卡，不能延伸成卡片失效通知。\",\n    \"sources\": [\n      {\n        \"label\": \"JR東日本結果與命名條款\",\n        \"url\": \"https://www.jreast.co.jp/suica-new-character-vote/\"\n      },\n      {\n        \"label\": \"11/18官方PDF\",\n        \"url\": \"https://www.jreast.co.jp/press/2026/20261118_ho01.pdf\"\n      },\n      {\n        \"label\": \"Mynavi編輯報導\",\n        \"url\": \"https://news.mynavi.jp/article/20261118-5352547/\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"低\",\n      \"reason\": \"角色命名不產生直接購票或訂房需求，不把品牌話題硬接交通票分潤。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 90,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 15,\n      \"實用性\": 10,\n      \"稀缺性\": 8,\n      \"視覺吸引力\": 9,\n      \"標題吸引力\": 5,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [\n        {\n          \"url\": \"https://x.com/i/trending/2023980089562841444\",\n          \"label\": \"X趨勢索引\",\n          \"reason\": \"舊摘要且非近期原始作者貼文，不計分\"\n        },\n        {\n          \"url\": \"https://www.dcard.tw/@toxins/post/258907784\",\n          \"label\": \"Dcard搜尋線索\",\n          \"reason\": \"舊伴手禮內容，非本次角色公告\"\n        },\n        {\n          \"url\": \"https://www.ptt.cc/bbs/MobileComm/M.1791812853.A.D48.html\",\n          \"label\": \"PTT搜尋線索\",\n          \"reason\": \"上月Pixel內容，不匹配本事件\"\n        }\n      ],\n      \"queries\": [\n        \"site:threads.com Suica 2026 11 18\",\n        \"site:x.com Suica 新キャラクター 2026 11 18\",\n        \"site:ptt.cc Suica 2026 11 18\",\n        \"site:dcard.tw Suica 新 兔子 2026\",\n        \"\\\"Suica\\\" \\\"紫\\\" site:threads.net 2026\",\n        \"site:tiktok.com \\\"Suica\\\" \\\"2026\\\"\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"本題無自然商品需求，不硬推交通票。\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"white-kitte-20261119\",\n    \"title\": \"東京車站旁WHITE KITTE今天開始，燈光秀不是整晚每半小時一場\",\n    \"region\": \"關東東京／丸之內KITTE 1樓中庭\",\n    \"category\": \"季節情報／活動\",\n    \"announcementDate\": \"2026/10/22 15:00 JST原公告；11/18點燈儀式報導\",\n    \"eventDate\": \"一般活動11/19～12/25；11/18是儀式；12/7起切換演出主題\",\n    \"freshness\": \"超過7天例外：今天一般活動正式開始；昨天儀式不是今天新公告\",\n    \"stars\": {\n      \"viral\": 4,\n      \"save\": 5,\n      \"share\": 4\n    },\n    \"risk\": \"低\",\n    \"lifecycle\": \"1個月以上\",\n    \"why\": \"東京車站可銜接的室內季節景點，適合短時間停留；區分樹亮燈、燈光秀及商店時間，能直接幫旅客排行程。\",\n    \"facts\": \"WHITE KITTE 11/19～12/25，1樓中庭15公尺樹及10公尺環、約4萬LED。最新官方樹點燈6:00～24:30 JST，並非全部商店營業時間。11/19～12/6燈光秀約5分鐘，第一主題12:10起至21:10各小時10分；第二主題一般12:40起，但19:53及21:53為例外，20:40仍有，不能概括成每半小時整晚演出。12/7切換主題須看新表。Walker列免費，餐飲購物另計；未列國籍限定。Walker亮燈舊表與官方不一致，採當次讀取最新官方6:00～24:30，不採舊23:30。\",\n    \"sources\": [\n      {\n        \"label\": \"KITTE官方活動時刻\",\n        \"url\": \"https://marunouchi.jp-kitte.jp/shop/white_kitte2026/\"\n      },\n      {\n        \"label\": \"10/22品牌原新聞稿\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000019.000068503.html\"\n      },\n      {\n        \"label\": \"11/18儀式現場報導\",\n        \"url\": \"https://www.talent-databank.co.jp/special/topics/65581/\"\n      },\n      {\n        \"label\": \"Walker費用資訊\",\n        \"url\": \"https://www.walkerplus.com/event/ar0313e621383/price.html\"\n      }\n    ],\n    \"affiliateFit\": {\n      \"level\": \"中\",\n      \"reason\": \"免費室內活動不需要票券；只有仍在安排東京車站住宿者能自然銜接，短停留旅客不必為此訂房。\",\n      \"products\": [\n        \"東京車站周邊住宿\"\n      ],\n      \"platforms\": [\n        \"Trip.com\",\n        \"Booking.com\",\n        \"KKday\",\n        \"Klook\"\n      ],\n      \"commentOpening\": \"若以東京車站作住宿基地，可比較丸之內與八重洲兩側飯店及步行路線；房價不包含活動消費，也不保證房內看得到聖誕樹。\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"score\": 88,\n    \"scoreBreakdown\": {\n      \"即時性\": 20,\n      \"台灣旅客相關性\": 19,\n      \"社群討論潛力\": 11,\n      \"實用性\": 14,\n      \"稀缺性\": 6,\n      \"視覺吸引力\": 10,\n      \"標題吸引力\": 4,\n      \"延伸內容價值\": 4\n    },\n    \"publishDecision\": \"現在發\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"熱度未確認；未取得48小時內至少兩位不同作者的原文、時間與可核對讚數及留言數。\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": [\n        \"site:instagram.com WHITE KITTE 2026 11 18\",\n        \"site:youtube.com \\\"WHITE KITTE\\\" \\\"2026\\\"\",\n        \"\\\"WHITE KITTE\\\" site:threads.com OR site:facebook.com 2026\",\n        \"\\\"WHITE KITTE\\\" site:threads.net OR site:instagram.com 2026\"\n      ]\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"已開啟 https://jp.trip.com/hotels/tokyo-kitte-marunouchi/hotels-c228m8422993/ 與 https://jp.trip.com/hotels/tokyo-kitte-garden/hotels-c228m39835295/ ，讀取失敗；搜尋中的KITTE大阪與本題不符，排除。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"已開啟原始頁核對地點；非庫存、最低價或分潤資格保證。\",\n        \"pages\": [\n          {\n            \"title\": \"東京車站周邊住宿\",\n            \"url\": \"https://www.booking.com/landmark/jp/tokyo-station2.ja.html\",\n            \"kind\": \"住宿列表\",\n            \"reason\": \"含丸之內南口附近飯店及其他車站周邊住宿；不是全部都在KITTE同側。\",\n            \"checks\": \"核入住日、人數、實際位置與取消條款；不含另售活動門票，不保證景觀房或庫存。\",\n            \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n            \"verified\": true\n          }\n        ]\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"查找KITTE丸之內未核得自然銜接的適用商品；免費活動不硬推其他園區票券。查閱2026-11-19T10:06:14+08:00\",\n        \"pages\": []\n      }\n    ],\n    \"reason\": \"入選；草稿另存對應題目\"\n  },\n  {\n    \"id\": \"pending-20261119-0\",\n    \"title\": \"ARTE MUSEUM NAGOYA\",\n    \"category\": \"旅遊／新設施\",\n    \"region\": \"中部愛知知多\",\n    \"announcementDate\": \"線索11/18開幕；原公告未確認\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://miseima.jp/area/aichi/\"\n      }\n    ],\n    \"reason\": \"只有地區索引，實際地址、票價與預約未交叉確認；不把名稱當成名古屋市內。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-1\",\n    \"title\": \"KITTE大阪聖誕\",\n    \"category\": \"活動\",\n    \"region\": \"關西大阪\",\n    \"announcementDate\": \"線索11/18～12/25；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://osaka.jp-kitte.jp/merry_go_christmas/\"\n      }\n    ],\n    \"reason\": \"搜尋線索尚未完成原頁與第二來源核對，不能套用丸之內時刻。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-2\",\n    \"title\": \"札幌知床根室物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"北海道札幌\",\n    \"announcementDate\": \"線索11/11公告、11/18～24\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.pref.hokkaido.lg.jp/fs/1/3/2/4/6/6/7/3/_/03_shiretoko.pdf\"\n      }\n    ],\n    \"reason\": \"PDF索引線索，會場與販售條件未核全。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-3\",\n    \"title\": \"福島機場北海道物產展\",\n    \"category\": \"美食／購物\",\n    \"region\": \"東北福島\",\n    \"announcementDate\": \"線索11/18～23；原公告未確認\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.walkerplus.com/event/ar0207e622359/data.html\"\n      }\n    ],\n    \"reason\": \"只取得活動索引，未完成機場官方交叉。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-4\",\n    \"title\": \"栗林公園秋夜點燈\",\n    \"category\": \"季節情報\",\n    \"region\": \"四國香川\",\n    \"announcementDate\": \"線索11/20～29；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n      }\n    ],\n    \"reason\": \"尚缺官方票價、時間及交叉核對，不用往年規則代替。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-5\",\n    \"title\": \"金澤湯涌江戶村特別公開\",\n    \"category\": \"活動\",\n    \"region\": \"北陸金澤\",\n    \"announcementDate\": \"線索11/21～23；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.kanazawabiyori.com/event-calendar?y=2026\"\n      }\n    ],\n    \"reason\": \"僅日曆索引，公開建築、票價及資格未確認。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-6\",\n    \"title\": \"聖誕夜驚魂表參道咖啡\",\n    \"category\": \"美食／IP聯名\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"線索11/19～2027/1/31；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://puniees.com/event-calendar\"\n      }\n    ],\n    \"reason\": \"菜單、預約及營業日期未讀原頁交叉，不列今天可直接去。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-7\",\n    \"title\": \"赤福東京車站快閃\",\n    \"category\": \"美食\",\n    \"region\": \"關東東京\",\n    \"announcementDate\": \"線索11/19～12/2；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"只有日曆，門市位置、品項與售罄未核。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-8\",\n    \"title\": \"日光東照宮JOJO活動\",\n    \"category\": \"活動／IP聯名\",\n    \"region\": \"關東日光\",\n    \"announcementDate\": \"線索11/19～12/27；原公告未核\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.fashion-press.net/news/calendar/from%3Atoday/\"\n      }\n    ],\n    \"reason\": \"只有日曆，活動內容與入場票範圍未交叉確認。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-9\",\n    \"title\": \"ANA系統維護\",\n    \"category\": \"交通\",\n    \"region\": \"全日本航空\",\n    \"announcementDate\": \"線索11/19 01:00～04:30、最晚06:00 JST\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.ana.co.jp/other/int/meta/0160.html?BOOKING_TYPE=r&CONNECTION_KIND=tw&LANG=j&TIER_LEVEL=none\"\n      }\n    ],\n    \"reason\": \"排程時間已過，沒有持續故障證據，不能當目前無法訂票警報。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  },\n  {\n    \"id\": \"pending-20261119-10\",\n    \"title\": \"全家麵包小偷列印\",\n    \"category\": \"購物／IP聯名\",\n    \"region\": \"全日本適用全家\",\n    \"announcementDate\": \"線索11/6公告；11/20 10:00～2027/2/19 23:59 JST\",\n    \"eventDate\": \"線索日期見公告欄，未完全確認\",\n    \"sources\": [\n      {\n        \"label\": \"待核線索，不代表已完成查核\",\n        \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf\"\n      }\n    ],\n    \"reason\": \"與先前收納袋不是同一事件，但列印款式、價格及機台操作未完成原頁交叉。\",\n    \"score\": null,\n    \"scoreBreakdown\": {\n      \"即時性\": null,\n      \"台灣旅客相關性\": null,\n      \"社群討論潛力\": null,\n      \"實用性\": null,\n      \"稀缺性\": null,\n      \"視覺吸引力\": null,\n      \"標題吸引力\": null,\n      \"延伸內容價值\": null\n    },\n    \"stars\": {\n      \"viral\": null,\n      \"save\": null,\n      \"share\": null\n    },\n    \"risk\": \"未評估\",\n    \"freshness\": \"尚未完全確認\",\n    \"lifecycle\": \"未評估\",\n    \"publishDecision\": \"先收藏觀察\",\n    \"affiliateFit\": {\n      \"level\": \"未評估\",\n      \"reason\": \"事實與時效未核全，不先推薦商品。\",\n      \"products\": [],\n      \"platforms\": [],\n      \"commentOpening\": \"\",\n      \"checks\": \"平台名稱為查找方向；實際日期、房型／票種、人數、包含內容、庫存、取消條件與分潤資格另核，不保證最低價或佣金。\",\n      \"assessedOn\": \"2026-11-19\"\n    },\n    \"affiliatePages\": [\n      {\n        \"platform\": \"trip\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"booking\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"kkday\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      },\n      {\n        \"platform\": \"klook\",\n        \"note\": \"未入選，不作商品推薦\",\n        \"pages\": []\n      }\n    ],\n    \"socialHeat\": {\n      \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n      \"summary\": \"未完成逐題社群原文查核\",\n      \"evidence\": [],\n      \"leads\": [],\n      \"queries\": []\n    }\n  }\n]\n【編輯建議與追蹤】\n{\n  \"choice\": {\n    \"id\": \"tokyo-snow-dome-20261119\",\n    \"title\": \"東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始\",\n    \"score\": 96,\n    \"reason\": \"今日首日時間與隔天表演的差異可立即幫旅客避開白等；角色與15公尺樹提供視覺鉤子，收藏與分享理由是正確時刻及免費範圍。僅編輯推薦，不代使用者選題。\",\n    \"versusSecond\": \"第二名Dormy Inn那霸是明年入住規劃，今天點燈則可立刻安排；若以留言分潤適合度優先，Dormy Inn為高，但目前未核得平台商品。\",\n    \"publishAt\": \"11/19 12:00 Asia/Taipei（編輯建議，無帳號數據）\",\n    \"audience\": \"今天在東京或近期赴東京、喜歡季節夜景與喜拿的台灣旅客\",\n    \"lifecycle\": \"1個月以上；首日18:00提醒只適用今天\"\n  },\n  \"followups\": [\n    {\n      \"title\": \"東京巨蛋11/20樹燈光秀與喜拿展覽\",\n      \"next\": \"明天確認首演與臨時停演；Gallery AaMo票價、預約另查，不把展覽併入免費燈區。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.tokyo-dome.co.jp/illumination/\"\n        },\n        {\n          \"label\": \"Sanrio\",\n          \"url\": \"https://cinnamorollpark.sanrio.co.jp/news/news04\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Dormy Inn那霸預約細節\",\n      \"next\": \"補查私人浴室費用、停車、方案取消規則與四平台同名商品；不保證24～72小時一定上架。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://dormy-hotels.com/dormyinn/hotels/naha/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"栗林公園11/20點燈線索\",\n      \"next\": \"待官方原公告確認時間、票價及葉況，再決定是否入選；目前僅候選，不當已查證活動。\",\n      \"sources\": [\n        {\n          \"label\": \"待核線索，不代表已完成查核\",\n          \"url\": \"https://matsurimap.app/ja/events?area=shikoku&month=2026-11\"\n        }\n      ]\n    },\n    {\n      \"title\": \"全家11/20麵包小偷列印線索\",\n      \"next\": \"補讀官方PDF與第二來源，核款式、價格、機台及截止時間，避免與收納袋混淆。\",\n      \"sources\": [\n        {\n          \"label\": \"待核線索，不代表已完成查核\",\n          \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261106_newsrelease_02.pdf\"\n        }\n      ]\n    }\n  ],\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-19T10:06:14+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 4,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"4個入選題完成關鍵字補查，11個待核題未完成逐題原文查核。無可同時核對時間、讚與留言的兩位不同作者樣本；checkedAt是查核截止，不是假稱成功觀測互動的時間。不把搜尋摘要或官方票選數當自然討論證據。\",\n    \"platformAccess\": {\n      \"Threads\": \"東京巨蛋、Suica、KITTE、Dormy查詢未取得合格原始雙作者樣本\",\n      \"Facebook\": \"東京巨蛋與KITTE查詢無合格樣本\",\n      \"Instagram\": \"KITTE與Dormy查詢無合格時間及數字\",\n      \"X\": \"Suica、東京巨蛋、Dormy未取得合格原文；舊趨勢索引排除\",\n      \"Dcard\": \"Suica搜尋回傳舊伴手禮文，非本事件\",\n      \"PTT\": \"Suica搜尋回傳上月Pixel文，非本事件\",\n      \"YouTube\": \"KITTE查詢無合格雙作者與互動樣本\",\n      \"TikTok\": \"robots讀取限制，不推測互動數\"\n    }\n  }\n}\n【各題串文、五個切角開頭、配圖與延伸】\n[\n  {\n    \"title\": \"東京巨蛋城今天18時點燈；15公尺聖誕樹表演明天才開始\",\n    \"threads\": [\n      \"今天11/19去東京巨蛋城看燈，請記18:00，不是平常的17:00。免費冬季點燈今天開始，一路到2027/2/28。\\n\\n還有一個日期要分開：中央廣場15公尺聖誕樹的燈光秀，11/20才開始。今天可以逛點燈區，但別照明天的表演表等樹燈光秀。\",\n      \"11/20起，聖誕樹燈光秀安排在日本時間17:00～21:15，每小時00、15、30、45分；大耳狗喜拿版本是18:00、18:15。\\n\\n想拍不同畫面，可以再走到LaQua的雪景裝置與2樓光之隧道。一般點燈17:00～24:00，首日例外就是今天18:00開始；天候、人潮或演唱會散場可能讓演出調整。\",\n      \"別把免費點燈和Gallery AaMo的「ふわふわんだーシナモロールパーク」當成同一張行程：後者11/20～1/17，是另個展覽，入場條件要另外查。\\n\\n搭車可查水道橋或後樂園站，再按官方地圖選入口。出發前看當天公告，尤其有巨蛋演唱會的晚上；我沒有即時人潮或停演資訊。官方燈區與時刻：https://www.tokyo-dome.co.jp/illumination/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"首日時間\",\n        \"opening\": \"東京巨蛋城今天開始點燈，首日18:00才亮，別照一般17:00出發。\"\n      },\n      {\n        \"name\": \"表演避雷\",\n        \"opening\": \"15公尺聖誕樹燈光秀明天才開始，今天的點燈開幕不要混在一起。\"\n      },\n      {\n        \"name\": \"角色時段\",\n        \"opening\": \"想看喜拿樹燈光秀，11/20起記住18:00與18:15。\"\n      },\n      {\n        \"name\": \"免費行程\",\n        \"opening\": \"東京巨蛋城免費冬季點燈到明年2/28，但室內喜拿展覽另計。\"\n      },\n      {\n        \"name\": \"行程搭配\",\n        \"opening\": \"東京巨蛋城夜景可串LaQua，演唱會散場時段要預留調整空間。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。\",\n        \"url\": \"https://www.tokyo-dome.co.jp/illumination/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：東京巨蛋周邊住宿比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。\"\n    ]\n  },\n  {\n    \"title\": \"Dormy Inn那霸開放預約，2027/2/3試營運；12,000日圓是每人起價\",\n    \"threads\": [\n      \"Dormy Inn那霸11/18開始接受預約，預定2027/2/3試營運。明年去沖繩可以多比較一間，但現在還不能入住。\\n\\n看到12,000日圓先別當成一間房：這是「雙床房兩人入住，每人含早餐」起價；雙人床房一人入住則14,000日圓起，皆含稅，日期不同會變動。\",\n      \"位置在那霸久茂地，從單軌縣廳前站步行約4分鐘，共216間客房。喜歡回飯店泡湯的人，可以留意它的天然溫泉內湯與附自動潑水的三溫暖。\\n\\n但露天浴池是加熱水，不能把全部浴池都寫成天然溫泉。公告另列4間包租浴室／私人三溫暖，是否加價、怎麼預約、一次多久，本期還沒完全確認。\",\n      \"訂房可從官方頁進入，先選2027/2/3以後的入住日期，再確認房型、人數、含早餐與取消條件。公告起價不代表每一天都有這個價，也不代表此刻還有房。\\n\\n自駕的人另查停車安排；想用包租浴室則先問費用。這是預定試營運資訊，沒有實住體驗，也還沒核到四大預訂平台上這間飯店的有效商品頁。官方：https://dormy-hotels.com/dormyinn/hotels/naha/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"新住宿\",\n        \"opening\": \"明年沖繩住宿多一個選項：Dormy Inn那霸預定2/3試營運。\"\n      },\n      {\n        \"name\": \"價格避雷\",\n        \"opening\": \"那霸新Dormy的12,000日圓是每人，不是雙床房整間。\"\n      },\n      {\n        \"name\": \"泡湯條件\",\n        \"opening\": \"內湯是天然溫泉、露天是加熱水，那霸新Dormy別寫成全館天然湯。\"\n      },\n      {\n        \"name\": \"交通\",\n        \"opening\": \"縣廳前站步行約4分鐘的新Dormy，已開放明年入住預約。\"\n      },\n      {\n        \"name\": \"預約檢查\",\n        \"opening\": \"想訂那霸新Dormy，先分清試營運日期與包租浴室另待確認的費用。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。\",\n        \"url\": \"https://dormy-hotels.com/dormyinn/hotels/naha/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：Dormy Inn那霸住宿方案比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。\"\n    ]\n  },\n  {\n    \"title\": \"Suica紫色兔子B方案勝出，命名開放至12/15；新角色明年4月登場\",\n    \"threads\": [\n      \"Suica下一個角色確定是紫色兔子B方案，預定2027年4月登場；名字還沒定，現在開放大家提案到12/15日本時間15:59。\\n\\n這份公告是在說角色更替與命名，沒有要求旅客今天換卡。先別把新吉祥物消息轉成「原本Suica不能用了」。\",\n      \"官方公布B方案拿到860,152票，總票數1,664,399票。這是票選活動累計結果，不能拿來當今天Threads有多熱門的證據。\\n\\n想替它取名，名字限10字以內，可用平假名、片假名或英文字母，並填寫片假名讀音。官方條款列任何人可申請，未成年須取得家長同意，送出前要看原創及權利條件。\",\n      \"命名募集從11/18日本時間15:00到12/15 15:59，最後由委員會選定，預定2027/3/31公布名字，並不是再開一次人氣投票。\\n\\n獲選名字沒有獎金或獎品；參加者可取得3款之中的隨機桌布。想參加就從JR官方入口填寫，不需要為命名另外買交通票。結果、表單與條款：https://www.jreast.co.jp/suica-new-character-vote/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"消息\",\n        \"opening\": \"Suica紫色兔子B方案勝出，新角色明年4月登場。\"\n      },\n      {\n        \"name\": \"參與\",\n        \"opening\": \"Suica新角色還沒有名字，10字內提案可送到12/15。\"\n      },\n      {\n        \"name\": \"避雷\",\n        \"opening\": \"Suica換角色，不等於公告要求旅客今天換卡。\"\n      },\n      {\n        \"name\": \"數字\",\n        \"opening\": \"86萬票是角色票選結果，不是今天社群互動數。\"\n      },\n      {\n        \"name\": \"規則\",\n        \"opening\": \"替Suica取名最後由委員會決定，獲選沒有獎金獎品。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。\",\n        \"url\": \"https://www.jreast.co.jp/suica-new-character-vote/\"\n      }\n    ],\n    \"extensions\": [\n      \"可做角色更替與命名規則圖卡，沒有自然分潤商品。\"\n    ]\n  },\n  {\n    \"title\": \"東京車站旁WHITE KITTE今天開始，燈光秀不是整晚每半小時一場\",\n    \"threads\": [\n      \"東京車站旁的WHITE KITTE今天11/19正式開始，到12/25。想順路看15公尺聖誕樹，可以把丸之內KITTE的1樓中庭排進行程。\\n\\n昨天11/18是點燈儀式，今天才是一般活動首日。燈光秀有自己的表演表，別看到樹亮著就以為隨時都有完整演出。\",\n      \"11/19～12/6，每場燈光秀約5分鐘：第一主題從12:10到21:10，每小時10分演出；第二主題多在40分，但19時與21時是19:53、21:53，20:40仍照表。\\n\\n因此不能簡化成「每半小時一場」。12/7起還會換主題，12月行程請看自己那一天的官方表，不沿用11月時間。\",\n      \"最新官方列聖誕樹點燈6:00～24:30，這不是所有商店的營業時間，也不是燈光秀從清晨一路演到深夜。Walker列活動免費，吃飯、購物仍各自付費。\\n\\n到東京車站後往丸之內側查KITTE動線，想看秀先挑場次，只有短暫空檔也能逛中庭看樹。出發前核對官方時刻與臨時調整：https://marunouchi.jp-kitte.jp/shop/white_kitte2026/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"順路行程\",\n        \"opening\": \"東京車站旁WHITE KITTE今天開始，15公尺聖誕樹可以順路看。\"\n      },\n      {\n        \"name\": \"時間避雷\",\n        \"opening\": \"KITTE晚上19時與21時有53分場，不能直接寫每半小時演一次。\"\n      },\n      {\n        \"name\": \"日期\",\n        \"opening\": \"昨天是點燈儀式，今天11/19才是WHITE KITTE一般活動首日。\"\n      },\n      {\n        \"name\": \"營業區分\",\n        \"opening\": \"KITTE樹亮到24:30，不代表商店也營業到那個時間。\"\n      },\n      {\n        \"name\": \"跨月攻略\",\n        \"opening\": \"12/7起WHITE KITTE換主題，12月行程不要照抄11月場次。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"可查找官方主視覺、角色圖或建築示意；不是本人現場照片，商用／轉載授權未確認，Sanrio與角色素材另須權利許可。\",\n        \"url\": \"https://marunouchi.jp-kitte.jp/shop/white_kitte2026/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：東京車站周邊住宿比較；僅在查清日期、包含內容與實際商品後銜接獨立留言。\"\n    ]\n  }\n]"
+}
