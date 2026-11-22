@@ -1,0 +1,1701 @@
+{
+  "date": "2026-11-22",
+  "cutoff": "2026-11-22 10:06:02 Asia/Taipei（日本11:06:02 Asia/Tokyo）",
+  "scopeNote": "本期15候選，3題完成主要事實交叉、八項評分及各3串草稿；12題待核，不湊滿10精選。候選先蒐集再比較，未核題null為未評估非0。三題均無雙作者可核自然討論，無法建立本期社群熱榜，按編輯內容分數排序。交叉來源包括不同官方機構與主辦攻略，不宣稱兩次獨立採訪；旅行新聞白馬稿是觀光局發稿。已比對昨日，のぞみ、京都燈籠、札幌國際、京都冬旅不無進展重發。掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州及沖繩，但未完成全地域全類型監控。交通天候候選部分頁面失敗，沒有當作已完成即時運行驗證。",
+  "trends": [
+    "已查證：沖繩麵大賽今天起兩天，400日圓麵票與園區入場分開。",
+    "已查證：比賽供應麵與湯的素そば，不是完整肉料套餐。",
+    "已查證：八方尾根08:50公告將纜車改為09:00預定運行，實際恢復未完全確認。",
+    "已查證：聚樂園點燈今天開始，至12/6每天17～21時，白天催事另計。",
+    "行前待核：磐越西線有11/22停駛官方計畫，部分即時來源讀取不足，不推定恢復。",
+    "編輯觀察：本期重點是費用包含內容與當日變更；無已驗證台灣Threads熱度。"
+  ],
+  "top10": [
+    {
+      "id": "okinawa-soba-gp-20261122",
+      "title": "沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000",
+      "region": "沖繩市／沖繩兒童王國水與綠廣場",
+      "category": "美食／活動",
+      "announcementDate": "首次公告日未完全確認；官方連結攻略11/12 13:29 JST，觀光頁11/16更新",
+      "eventDate": "11/22、23 11:00～16:00 JST販售；23日17:00頒獎，售完提前結束",
+      "freshness": "超過7天例外：今天正式開始，不把11/16更新當新公告",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "兩天集中比較沖繩麵，價格鉤子明確但必須交代門票另付，適合現正沖繩的台灣親子自由行。",
+      "facts": "園方與地方活動頁均列16店、400日圓換一杯，另付入園。園方費用頁16歲以上一般1000、15歲以下免費；學生500須學生證，外國學生適用未確認不在草稿保證。官方連結攻略11/12說明現場10:30售票、1杯1投票券、提供麵和湯的素そば。當日庫存及最終出店異動未核；第三方頁有15店版本，以園方16店計畫為準，不聲稱16店目前全有貨。兩成人各吃一杯一般總計2800日圓。",
+      "sources": [
+        {
+          "label": "園方活動頁",
+          "url": "https://www.okzm.jp/event/5375/"
+        },
+        {
+          "label": "園方入園費",
+          "url": "https://www.okzm.jp/fee/"
+        },
+        {
+          "label": "地方活動資訊交叉",
+          "url": "https://kozainfo.okinawa/events/e3369404.html"
+        },
+        {
+          "label": "園方連結之主辦攻略",
+          "url": "https://okinawasoba.hatenablog.com/entry/2026/11/12/132921"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "讀者需要入園但麵票現場購買；只剩兩天，多數已訂住宿。不硬推非本活動票券。",
+        "products": [
+          "沖繩市園區周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若打算在沖繩市留宿，可比較園區周邊住宿；住宿不含入園或400日圓麵票，活動票依官方現場規則購買。",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 95,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"沖縄そばグランプリ\" \"2026\" site:threads.com OR site:facebook.com OR site:instagram.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "沖繩兒童王國周邊住宿",
+              "url": "https://jp.trip.com/hotels/okinawa-okinawa-kodomonokuni/hotels-c207m6737626/",
+              "kind": "住宿列表",
+              "reason": "尚未訂沖繩市住宿者可比較位置。",
+              "checks": "不含門票或麵票；距離、房型、日期、庫存與分潤資格另核，不引用快取價格。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀 https://www.booking.com/accessible-traveling/landmark/jp/okinawa-zoo-museum.ja.html ，為無障礙篩選列表，尚未核個別適用設備，不作一般住宿推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀 https://www.kkday.com/ja/product/554362 ，是2025聖誕活動，年份及活動不同，排除。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/41471-okinawa-zoo-museum-ticket/ ，一般門票頁，未讀到11/22～23套餐適用條件，不將其列為已核活動推薦。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "沖繩麵大賽今天11/22開始，只有今天、明天兩天。一杯400日圓，但不是400日圓就能入場吃：沖繩兒童王國的門票要另外買。\n\n16歲以上一般入園1000日圓、15歲以下免費。以兩名一般成人各吃一杯計算，共2800日圓；小朋友免的是入園費，不是麵費。",
+          "這次比的是「素そば」：麵與湯，不要期待400日圓附上完整肉料套餐。園方公布16家沖繩麵專門店參賽，可用全店共通票換麵，每杯附一張投票券，吃完投給喜歡的店。\n\n地點在園內「水與綠廣場」。官方連結攻略寫現場10:30開始售票，麵販售11:00～16:00，全部是日本時間；售完會提早結束。",
+          "先確認同行者的入園資格，入園後到會場售票處買麵票，再挑想吃的店。11/23的頒獎是17:00，不代表麵也賣到17:00；我沒有各店即時庫存，不能保證晚到還能吃齊。\n\n活動、最新異動與攻略入口：https://www.okzm.jp/event/5375/\n一般入園費：https://www.okzm.jp/fee/"
+        ],
+        "angles": [
+          {
+            "name": "總費用",
+            "opening": "沖繩麵一杯400日圓，成人還要另外付1000日圓入園。"
+          },
+          {
+            "name": "餐點內容",
+            "opening": "這場400日圓比的是麵和湯，不是附肉套餐。"
+          },
+          {
+            "name": "親子",
+            "opening": "15歲以下免入園，麵票仍要另買。"
+          },
+          {
+            "name": "售票步驟",
+            "opening": "先買入園票，再到會場買共通麵票，一杯附一張投票券。"
+          },
+          {
+            "name": "時間差",
+            "opening": "11/23下午5點頒獎，但麵下午4點就結束販售。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。",
+            "url": "https://www.okzm.jp/event/5375/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：沖繩市園區周邊住宿；不把分潤網址放主文，另核資格。"
+        ]
+      }
+    },
+    {
+      "id": "happo-opening-delay-20261122",
+      "title": "白馬八方尾根開季先看運行更新：今早纜車因除雪延後",
+      "region": "中部長野／白馬八方尾根",
+      "category": "季節情報／交通",
+      "announcementDate": "11/20開季公告；11/22 08:50 JST當日運行更新",
+      "eventDate": "11/21預開、11/22正式開季；原定08:00，08:50公告改09:00預定運行",
+      "freshness": "今天：11/22運行更新；不宣稱已實際恢復",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "今早除雪與樹枝清除導致延後，官網開季頁仍有8時字樣，對上山旅客有直接查核價值。",
+      "facts": "11/22 08:50公告纜車預定09:00啟動，讀到的是預定而非已恢復證明；運行表未取得可確認實際啟動時刻。開季公開Panorama含初學者路線，下部不能滑，須搭纜車上下。成人18歲以上5000、6～17歲2500，特價僅山麓窗口；隨範圍擴大轉一般價。今日停車場與昨日免費規則不同，不推免費。旅遊新聞頁為白馬村觀光局發稿，與業者公告交叉但不是獨立採訪。",
+      "sources": [
+        {
+          "label": "當日08:50運行更新",
+          "url": "https://www.happo-one.jp/news/39842/"
+        },
+        {
+          "label": "官方開季範圍票價",
+          "url": "https://www.happo-one.jp/news/36487/"
+        },
+        {
+          "label": "白馬村觀光局發稿，非獨立採訪",
+          "url": "https://www.ryoko-net.co.jp/pr/detail.php?guid=c60409_r70"
+        },
+        {
+          "label": "官方運行表",
+          "url": "https://www.happo-one.jp/gelande/lift/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "滑雪住宿需求自然，但本題重點是當日延後與現場特價；不推未核適用冬季票。",
+        "products": [
+          "八方尾根周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "準備安排白馬過夜，可比較八方尾根周邊住宿；訂房不含纜車票，開季特價需官方窗口購買，先核當日雪道與運行。",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 94,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"白馬八方尾根\" \"2026\" \"11月22日\" site:threads.com OR site:x.com OR site:instagram.com",
+          "\"白馬\" \"2026\" \"11月\" site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "八方尾根周邊住宿",
+              "url": "https://jp.trip.com/hotels/hakuba-hakuba-happoone-winter-resort/hotels-c35707m9082943/",
+              "kind": "住宿列表",
+              "reason": "雪場區域相符，供滑雪過夜規劃。",
+              "checks": "不含特價票、接送或課程；逐店核距離、入住日、取消與庫存。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "白馬八方尾根附近住宿",
+              "url": "https://www.booking.com/landmark/jp/happo-one-ski-resort.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "已核雪場地區，保留乾淨原始網址。",
+              "checks": "另核接駁、距離、入住日期、包含內容與分潤資格；不保證開季全部雪道營運。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已查找，未核適用商品者留空，不代表沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/218761-happo-one-alpine-line-lift-ticket/ ，八方池健行票不是本期冬季滑雪特價，排除。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天去白馬八方尾根，先別只看「8點正式開季」那張公告。11/22日本時間08:50更新：因除雪及纜車下方樹枝清除作業，纜車改為09:00預定開始運行。\n\n這是預定時間，不是我已確認9點恢復的現場回報。上山前請再打開官方運行表，尤其已預訂教練或接送的人，先確認集合安排。",
+          "開季目前公布的是Panorama雪場，含初學者路線；下部區域不能滑，往返要搭纜車，不是全山都開放。\n\n特別票價成人18歲以上5000日圓、6～17歲2500日圓，只在纜車山麓售票窗口販售。可滑範圍擴大後會轉一般票價，不能把這個價錢當成整季固定價。",
+          "如果要買套裝，逐項核對雪場、日期、接送、課程與租具是否包含。八方池健行用的Alpine Line票，也不能直接當成這張冬季滑雪特價票。\n\n今天真正可照做的是先查運行，再向課程或交通供應商確認安排。我未核到所有纜車實際恢復時間。當日公告：https://www.happo-one.jp/news/39842/\n運行表：https://www.happo-one.jp/gelande/lift/"
+        ],
+        "angles": [
+          {
+            "name": "當日更新",
+            "opening": "八方尾根原定8點開季，今天08:50公告改9點預定運行。"
+          },
+          {
+            "name": "開放範圍",
+            "opening": "八方尾根下部還不能滑，往返必須搭纜車。"
+          },
+          {
+            "name": "票種",
+            "opening": "成人5000日圓開季特價只在窗口賣。"
+          },
+          {
+            "name": "商品避雷",
+            "opening": "八方池健行票，不等於八方尾根冬季滑雪票。"
+          },
+          {
+            "name": "集合安排",
+            "opening": "已約教練或接送，先核今天纜車延後是否影響集合。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。",
+            "url": "https://www.happo-one.jp/news/39842/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：八方尾根周邊住宿；不把分潤網址放主文，另核資格。"
+        ]
+      }
+    },
+    {
+      "id": "shurakuen-momiji-20261122",
+      "title": "聚樂園紅葉點燈今天起至12/6，名鐵車站步行約5分鐘",
+      "region": "中部愛知東海市／聚樂園公園",
+      "category": "季節情報／活動",
+      "announcementDate": "10/23市府記者資料；10/28活動頁更新；更早首次公開日未完全確認",
+      "eventDate": "11/22～12/6，每日17:00～21:00 JST點燈；11/22白天活動10:00～15:00",
+      "freshness": "超過7天例外：今天正式開始，不把舊公布包裝成今日新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "why": "名古屋近郊可用鐵路接步行的秋夜行程，且白天活動與夜間點燈時段不同，具收藏價值。",
+      "facts": "市府與名古屋觀光資料交叉11/22～12/6、17～21；名鐵常滑線聚樂園站向東步行約5分。市府10/23資料列今年新增大佛區域點燈，約500株是園內樹木數不是已變紅數；無當日葉況。11/22白天催事10～15，不應寫到晚間21。茶室、餐飲另有時段，餐價與夜間臨時限制未核，不宣稱全免費或全區可入。一般遊覽未見國籍限定，交通回程及餐飲另查。",
+      "sources": [
+        {
+          "label": "東海市活動頁",
+          "url": "https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html"
+        },
+        {
+          "label": "10/23原始記者資料",
+          "url": "https://www.city.tokai.aichi.jp/_res/projects/default_project/_page_/001/011/122/261023.pdf"
+        },
+        {
+          "label": "名古屋觀光局另編紅葉指南",
+          "url": "https://www.nagoya-info.jp/feature/detail/71/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "名古屋近郊短程夜遊，缺直接預訂需要；未核到相符活動商品，不硬推住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"聚楽園\" \"2026\" site:threads.com OR site:facebook.com OR site:instagram.com",
+          "\"聚楽園\" \"2026\" \"11月\" site:x.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "名古屋近郊今晚多一個紅葉點燈選擇：聚樂園公園11/22開始，到12/6每天日本時間17:00～21:00。\n\n名古屋觀光資料列，搭名鐵常滑線到「聚樂園」站後向東步行約5分鐘。要排夜遊，可以先按住宿位置查回程班次，不必把所有賞楓點都當成只能自駕。",
+          "今年市府資料特別列出新增大佛區域點燈。園內約500株楓樹是規模介紹，不代表今天500株都已轉紅；目前沒有我能核實的當日葉況，照片也不要當作今晚保證。\n\n11/22另有10:00～15:00白天催事，和17:00開始的夜間點燈是兩段時間。晚到可以看點燈，不能假設白天表演仍在。",
+          "出發前先核當天活動異動、回程列車，以及想去的茶室或餐飲各自營業時間。點燈到21:00，不等於所有餐飲都營業到21:00；餐價和全部附屬設施費用這次未核全，不寫成全區免費。\n\n官方日期與時段：https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\n交通交叉資料：https://www.nagoya-info.jp/feature/detail/71/"
+        ],
+        "angles": [
+          {
+            "name": "鐵路夜遊",
+            "opening": "聚樂園站步行約5分鐘，今晚開始看公園紅葉點燈。"
+          },
+          {
+            "name": "新區域",
+            "opening": "今年聚樂園新增大佛區域點燈，11/22到12/6。"
+          },
+          {
+            "name": "時段區分",
+            "opening": "白天催事15點結束，紅葉點燈17點才開始。"
+          },
+          {
+            "name": "葉況",
+            "opening": "約500株是樹木規模，不是今天全部轉紅的保證。"
+          },
+          {
+            "name": "回程",
+            "opening": "點燈到21點，先查聚樂園回住宿的列車再排行程。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。",
+            "url": "https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html"
+          }
+        ],
+        "extensions": [
+          "可延伸名古屋近郊鐵路夜遊攻略；本題不硬接商業商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "okinawa-soba-gp-20261122",
+      "title": "沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000",
+      "region": "沖繩市／沖繩兒童王國水與綠廣場",
+      "category": "美食／活動",
+      "announcementDate": "首次公告日未完全確認；官方連結攻略11/12 13:29 JST，觀光頁11/16更新",
+      "eventDate": "11/22、23 11:00～16:00 JST販售；23日17:00頒獎，售完提前結束",
+      "freshness": "超過7天例外：今天正式開始，不把11/16更新當新公告",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "兩天集中比較沖繩麵，價格鉤子明確但必須交代門票另付，適合現正沖繩的台灣親子自由行。",
+      "facts": "園方與地方活動頁均列16店、400日圓換一杯，另付入園。園方費用頁16歲以上一般1000、15歲以下免費；學生500須學生證，外國學生適用未確認不在草稿保證。官方連結攻略11/12說明現場10:30售票、1杯1投票券、提供麵和湯的素そば。當日庫存及最終出店異動未核；第三方頁有15店版本，以園方16店計畫為準，不聲稱16店目前全有貨。兩成人各吃一杯一般總計2800日圓。",
+      "sources": [
+        {
+          "label": "園方活動頁",
+          "url": "https://www.okzm.jp/event/5375/"
+        },
+        {
+          "label": "園方入園費",
+          "url": "https://www.okzm.jp/fee/"
+        },
+        {
+          "label": "地方活動資訊交叉",
+          "url": "https://kozainfo.okinawa/events/e3369404.html"
+        },
+        {
+          "label": "園方連結之主辦攻略",
+          "url": "https://okinawasoba.hatenablog.com/entry/2026/11/12/132921"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "讀者需要入園但麵票現場購買；只剩兩天，多數已訂住宿。不硬推非本活動票券。",
+        "products": [
+          "沖繩市園區周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若打算在沖繩市留宿，可比較園區周邊住宿；住宿不含入園或400日圓麵票，活動票依官方現場規則購買。",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 95,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"沖縄そばグランプリ\" \"2026\" site:threads.com OR site:facebook.com OR site:instagram.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "沖繩兒童王國周邊住宿",
+              "url": "https://jp.trip.com/hotels/okinawa-okinawa-kodomonokuni/hotels-c207m6737626/",
+              "kind": "住宿列表",
+              "reason": "尚未訂沖繩市住宿者可比較位置。",
+              "checks": "不含門票或麵票；距離、房型、日期、庫存與分潤資格另核，不引用快取價格。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀 https://www.booking.com/accessible-traveling/landmark/jp/okinawa-zoo-museum.ja.html ，為無障礙篩選列表，尚未核個別適用設備，不作一般住宿推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀 https://www.kkday.com/ja/product/554362 ，是2025聖誕活動，年份及活動不同，排除。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/41471-okinawa-zoo-museum-ticket/ ，一般門票頁，未讀到11/22～23套餐適用條件，不將其列為已核活動推薦。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿依id另存"
+    },
+    {
+      "id": "happo-opening-delay-20261122",
+      "title": "白馬八方尾根開季先看運行更新：今早纜車因除雪延後",
+      "region": "中部長野／白馬八方尾根",
+      "category": "季節情報／交通",
+      "announcementDate": "11/20開季公告；11/22 08:50 JST當日運行更新",
+      "eventDate": "11/21預開、11/22正式開季；原定08:00，08:50公告改09:00預定運行",
+      "freshness": "今天：11/22運行更新；不宣稱已實際恢復",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "今早除雪與樹枝清除導致延後，官網開季頁仍有8時字樣，對上山旅客有直接查核價值。",
+      "facts": "11/22 08:50公告纜車預定09:00啟動，讀到的是預定而非已恢復證明；運行表未取得可確認實際啟動時刻。開季公開Panorama含初學者路線，下部不能滑，須搭纜車上下。成人18歲以上5000、6～17歲2500，特價僅山麓窗口；隨範圍擴大轉一般價。今日停車場與昨日免費規則不同，不推免費。旅遊新聞頁為白馬村觀光局發稿，與業者公告交叉但不是獨立採訪。",
+      "sources": [
+        {
+          "label": "當日08:50運行更新",
+          "url": "https://www.happo-one.jp/news/39842/"
+        },
+        {
+          "label": "官方開季範圍票價",
+          "url": "https://www.happo-one.jp/news/36487/"
+        },
+        {
+          "label": "白馬村觀光局發稿，非獨立採訪",
+          "url": "https://www.ryoko-net.co.jp/pr/detail.php?guid=c60409_r70"
+        },
+        {
+          "label": "官方運行表",
+          "url": "https://www.happo-one.jp/gelande/lift/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "滑雪住宿需求自然，但本題重點是當日延後與現場特價；不推未核適用冬季票。",
+        "products": [
+          "八方尾根周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "準備安排白馬過夜，可比較八方尾根周邊住宿；訂房不含纜車票，開季特價需官方窗口購買，先核當日雪道與運行。",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 94,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"白馬八方尾根\" \"2026\" \"11月22日\" site:threads.com OR site:x.com OR site:instagram.com",
+          "\"白馬\" \"2026\" \"11月\" site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "八方尾根周邊住宿",
+              "url": "https://jp.trip.com/hotels/hakuba-hakuba-happoone-winter-resort/hotels-c35707m9082943/",
+              "kind": "住宿列表",
+              "reason": "雪場區域相符，供滑雪過夜規劃。",
+              "checks": "不含特價票、接送或課程；逐店核距離、入住日、取消與庫存。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "實際開啟核對主題及地區；不是即時庫存確認。",
+          "pages": [
+            {
+              "title": "白馬八方尾根附近住宿",
+              "url": "https://www.booking.com/landmark/jp/happo-one-ski-resort.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "已核雪場地區，保留乾淨原始網址。",
+              "checks": "另核接駁、距離、入住日期、包含內容與分潤資格；不保證開季全部雪道營運。",
+              "checkedAt": "2026-11-22T10:06:02+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已查找，未核適用商品者留空，不代表沒有販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/218761-happo-one-alpine-line-lift-ticket/ ，八方池健行票不是本期冬季滑雪特價，排除。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿依id另存"
+    },
+    {
+      "id": "shurakuen-momiji-20261122",
+      "title": "聚樂園紅葉點燈今天起至12/6，名鐵車站步行約5分鐘",
+      "region": "中部愛知東海市／聚樂園公園",
+      "category": "季節情報／活動",
+      "announcementDate": "10/23市府記者資料；10/28活動頁更新；更早首次公開日未完全確認",
+      "eventDate": "11/22～12/6，每日17:00～21:00 JST點燈；11/22白天活動10:00～15:00",
+      "freshness": "超過7天例外：今天正式開始，不把舊公布包裝成今日新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "why": "名古屋近郊可用鐵路接步行的秋夜行程，且白天活動與夜間點燈時段不同，具收藏價值。",
+      "facts": "市府與名古屋觀光資料交叉11/22～12/6、17～21；名鐵常滑線聚樂園站向東步行約5分。市府10/23資料列今年新增大佛區域點燈，約500株是園內樹木數不是已變紅數；無當日葉況。11/22白天催事10～15，不應寫到晚間21。茶室、餐飲另有時段，餐價與夜間臨時限制未核，不宣稱全免費或全區可入。一般遊覽未見國籍限定，交通回程及餐飲另查。",
+      "sources": [
+        {
+          "label": "東海市活動頁",
+          "url": "https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html"
+        },
+        {
+          "label": "10/23原始記者資料",
+          "url": "https://www.city.tokai.aichi.jp/_res/projects/default_project/_page_/001/011/122/261023.pdf"
+        },
+        {
+          "label": "名古屋觀光局另編紅葉指南",
+          "url": "https://www.nagoya-info.jp/feature/detail/71/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "名古屋近郊短程夜遊，缺直接預訂需要；未核到相符活動商品，不硬推住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "\"聚楽園\" \"2026\" site:threads.com OR site:facebook.com OR site:instagram.com",
+          "\"聚楽園\" \"2026\" \"11月\" site:x.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已查找，沒有確認自然銜接的商品，不硬推。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；草稿依id另存"
+    },
+    {
+      "id": "pending-20261122-0",
+      "title": "磐越西線11/22～23停駛",
+      "category": "交通",
+      "region": "東北／新潟",
+      "announcementDate": "11/21 16:40 JST運轉計畫",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "已讀JR原始PDF：喜多方～津川22日全日停駛，無巴士代行；其他段有不同安排。即時頁面及第二獨立原文未核全，保留重要行前查核提醒，不推定已復駛。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-1",
+      "title": "JR受天候影響退票",
+      "category": "交通",
+      "region": "東日本",
+      "announcementDate": "11/22 04:00公告線索",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "原PDF讀取失敗，不把搜尋摘要當完整退票資格。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.jreast.co.jp/aas/train20261122-04-hon072.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-2",
+      "title": "白川鄉～名古屋高速巴士停駛",
+      "category": "交通",
+      "region": "北陸／中部",
+      "announcementDate": "11/21更新",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "查到昨日班次，未核今日狀態，不沿用昨天停駛。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.hokutetsu.co.jp/unkojoho/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-3",
+      "title": "黑部峽谷首班除雪停駛",
+      "category": "交通",
+      "region": "北陸富山",
+      "announcementDate": "11/20公告，11/21班次",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "屬昨日首班，缺今天新進展。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.kurobe-unazuki.jp/news/2026/11/20/10126/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-4",
+      "title": "福岡高速千鳥橋施工",
+      "category": "交通",
+      "region": "九州福岡",
+      "announcementDate": "舊公告，11/21～30施工",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "新舊文件方向表述不同，尚未完整核對繞行，不寫所有方向封閉。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.fk-tosikou-re-2026.jp/pdf/fk-tosikou-re_03.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-5",
+      "title": "伊藤公紅葉祭",
+      "category": "活動",
+      "region": "中國山口",
+      "announcementDate": "11/20更新，11/21～22活動",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "原始公告日與第二來源未核全，今日接近結束且受眾較小。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.city.hikari.lg.jp/soshiki/9/bunka/bunkashinkou/1/events/15597.html"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-6",
+      "title": "綾部紅葉祭",
+      "category": "活動",
+      "region": "關西京都",
+      "announcementDate": "11/20～22活動，首次公告未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "尚未核主辦現況與最後一天竹燈分送規則。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.ayabe-kankou.net/event/momijimatsuri-2026/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-7",
+      "title": "御殿場MIYAtei祭",
+      "category": "活動",
+      "region": "中部靜岡",
+      "announcementDate": "11/21～22活動，首次公告未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "夜間免費與日間條件需原園方交叉，未納入。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://gotemba.jp/event/4071/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-8",
+      "title": "佐世保立神歷史公園開幕",
+      "category": "景點",
+      "region": "九州長崎",
+      "announcementDate": "11/18地方報導、11/21開幕",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "開幕已過，費用時間與今日新進展未核。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://sasebofan.com/sasebo-tategami-park-open-2026-2/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-9",
+      "title": "多賀城YOGOTO",
+      "category": "活動",
+      "region": "東北宮城",
+      "announcementDate": "11/21～29活動線索",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "分日活動、費用與天候狀態未完整閱讀交叉。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.pref.miyagi.jp/documents/67729/kisyahappyou.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-10",
+      "title": "北谷縄文祭",
+      "category": "活動",
+      "region": "沖繩",
+      "announcementDate": "11/21～22線索，首次公告未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "一般旅客參加條件與獨立來源尚未核。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://nuchinuwa.okinawa/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261122-11",
+      "title": "諾里武咖啡花園",
+      "category": "美食",
+      "region": "中部名古屋",
+      "announcementDate": "11/21～22活動線索",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "僅活動索引線索，未核原始主辦與價格，不冒充已讀原文。",
+      "sources": [
+        {
+          "label": "候選線索，查核程度見原因",
+          "url": "https://www.nagoya-info.jp/event/today/2026-11-22/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "未完成關鍵查核，不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-22"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，不提供推薦商品",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-22T10:06:02+08:00",
+        "summary": "尚未完成逐題原始社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "八方尾根實際運行",
+      "next": "核11/22延後後實際運行、11/23開放雪道與特價是否延續，不保證恢復時刻。",
+      "sources": [
+        {
+          "label": "官方更新",
+          "url": "https://www.happo-one.jp/news/39842/"
+        }
+      ]
+    },
+    {
+      "title": "沖繩麵最後一天",
+      "next": "11/23出店異動及售完公告；不以預定16店推定全都有貨。",
+      "sources": [
+        {
+          "label": "園方",
+          "url": "https://www.okzm.jp/event/5375/"
+        }
+      ]
+    },
+    {
+      "title": "磐越西線11/23",
+      "next": "確認喜多方～津川復舊、其他區間運轉計畫與退票資格；只視為待核，不保證中午復駛。",
+      "sources": [
+        {
+          "label": "官方運轉計畫",
+          "url": "https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf"
+        }
+      ]
+    },
+    {
+      "title": "聚樂園晚間葉況",
+      "next": "未來24～72小時找當日可核照片與活動變更，不把一般見頃時段當實測。",
+      "sources": [
+        {
+          "label": "東海市",
+          "url": "https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "okinawa-soba-gp-20261122",
+    "title": "沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000",
+    "score": 95,
+    "reason": "兩天限定的可執行飲食行程，總費用及素麵條件能形成真實鉤子，適合分享給同行者並收藏購買步驟。僅推薦標籤，不預選題。",
+    "versusSecond": "白馬延後對當地旅客急迫，但即時恢復仍未確認；沖繩題主要消費條件完整，草稿可直接使用且讀者較廣。",
+    "publishAt": "11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）",
+    "audience": "目前在沖繩的台灣自由行與親子旅客",
+    "angle": "400日圓麵票與一般入園費的差別",
+    "lifecycle": "1天"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-22T10:06:02+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 4,
+    "qualifiedTopicCount": 0,
+    "limitation": "三個入選題與磐越西線補查未取得雙作者48小時原文及讚／留言。其餘候選未完成逐題社群查核。checkedAt為查核截止，不是互動實測；索引、舊影片及官方公告不計分。",
+    "platformAccess": {
+      "Threads": "查詢無合格原文樣本",
+      "Facebook": "查詢無完整時間與數字",
+      "Instagram": "查詢無雙作者可核樣本",
+      "X": "查詢無雙作者可核樣本",
+      "PTT": "白馬查詢無匹配本期樣本",
+      "Dcard": "白馬查詢無匹配樣本",
+      "YouTube": "查詢舊影片不計分",
+      "TikTok": "robots阻擋，未取得原文互動"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-22\n2026-11-22 10:06:02 Asia/Taipei（日本11:06:02 Asia/Tokyo）\n本期15候選，3題完成主要事實交叉、八項評分及各3串草稿；12題待核，不湊滿10精選。候選先蒐集再比較，未核題null為未評估非0。三題均無雙作者可核自然討論，無法建立本期社群熱榜，按編輯內容分數排序。交叉來源包括不同官方機構與主辦攻略，不宣稱兩次獨立採訪；旅行新聞白馬稿是觀光局發稿。已比對昨日，のぞみ、京都燈籠、札幌國際、京都冬旅不無進展重發。掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州及沖繩，但未完成全地域全類型監控。交通天候候選部分頁面失敗，沒有當作已完成即時運行驗證。\n已查證：沖繩麵大賽今天起兩天，400日圓麵票與園區入場分開。\n已查證：比賽供應麵與湯的素そば，不是完整肉料套餐。\n已查證：八方尾根08:50公告將纜車改為09:00預定運行，實際恢復未完全確認。\n已查證：聚樂園點燈今天開始，至12/6每天17～21時，白天催事另計。\n行前待核：磐越西線有11/22停駛官方計畫，部分即時來源讀取不足，不推定恢復。\n編輯觀察：本期重點是費用包含內容與當日變更；無已驗證台灣Threads熱度。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。星等為編輯預估非已驗證熱度，null非0。平台查閱時刻為本期核對截止，非快取更新日期。\n{\n  \"candidates\": [\n    {\n      \"id\": \"okinawa-soba-gp-20261122\",\n      \"title\": \"沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000\",\n      \"region\": \"沖繩市／沖繩兒童王國水與綠廣場\",\n      \"category\": \"美食／活動\",\n      \"announcementDate\": \"首次公告日未完全確認；官方連結攻略11/12 13:29 JST，觀光頁11/16更新\",\n      \"eventDate\": \"11/22、23 11:00～16:00 JST販售；23日17:00頒獎，售完提前結束\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把11/16更新當新公告\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"兩天集中比較沖繩麵，價格鉤子明確但必須交代門票另付，適合現正沖繩的台灣親子自由行。\",\n      \"facts\": \"園方與地方活動頁均列16店、400日圓換一杯，另付入園。園方費用頁16歲以上一般1000、15歲以下免費；學生500須學生證，外國學生適用未確認不在草稿保證。官方連結攻略11/12說明現場10:30售票、1杯1投票券、提供麵和湯的素そば。當日庫存及最終出店異動未核；第三方頁有15店版本，以園方16店計畫為準，不聲稱16店目前全有貨。兩成人各吃一杯一般總計2800日圓。\",\n      \"sources\": [\n        {\n          \"label\": \"園方活動頁\",\n          \"url\": \"https://www.okzm.jp/event/5375/\"\n        },\n        {\n          \"label\": \"園方入園費\",\n          \"url\": \"https://www.okzm.jp/fee/\"\n        },\n        {\n          \"label\": \"地方活動資訊交叉\",\n          \"url\": \"https://kozainfo.okinawa/events/e3369404.html\"\n        },\n        {\n          \"label\": \"園方連結之主辦攻略\",\n          \"url\": \"https://okinawasoba.hatenablog.com/entry/2026/11/12/132921\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"讀者需要入園但麵票現場購買；只剩兩天，多數已訂住宿。不硬推非本活動票券。\",\n        \"products\": [\n          \"沖繩市園區周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若打算在沖繩市留宿，可比較園區周邊住宿；住宿不含入園或400日圓麵票，活動票依官方現場規則購買。\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 95,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"沖縄そばグランプリ\\\" \\\"2026\\\" site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"沖繩兒童王國周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/okinawa-okinawa-kodomonokuni/hotels-c207m6737626/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"尚未訂沖繩市住宿者可比較位置。\",\n              \"checks\": \"不含門票或麵票；距離、房型、日期、庫存與分潤資格另核，不引用快取價格。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀 https://www.booking.com/accessible-traveling/landmark/jp/okinawa-zoo-museum.ja.html ，為無障礙篩選列表，尚未核個別適用設備，不作一般住宿推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀 https://www.kkday.com/ja/product/554362 ，是2025聖誕活動，年份及活動不同，排除。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/41471-okinawa-zoo-museum-ticket/ ，一般門票頁，未讀到11/22～23套餐適用條件，不將其列為已核活動推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"happo-opening-delay-20261122\",\n      \"title\": \"白馬八方尾根開季先看運行更新：今早纜車因除雪延後\",\n      \"region\": \"中部長野／白馬八方尾根\",\n      \"category\": \"季節情報／交通\",\n      \"announcementDate\": \"11/20開季公告；11/22 08:50 JST當日運行更新\",\n      \"eventDate\": \"11/21預開、11/22正式開季；原定08:00，08:50公告改09:00預定運行\",\n      \"freshness\": \"今天：11/22運行更新；不宣稱已實際恢復\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"今早除雪與樹枝清除導致延後，官網開季頁仍有8時字樣，對上山旅客有直接查核價值。\",\n      \"facts\": \"11/22 08:50公告纜車預定09:00啟動，讀到的是預定而非已恢復證明；運行表未取得可確認實際啟動時刻。開季公開Panorama含初學者路線，下部不能滑，須搭纜車上下。成人18歲以上5000、6～17歲2500，特價僅山麓窗口；隨範圍擴大轉一般價。今日停車場與昨日免費規則不同，不推免費。旅遊新聞頁為白馬村觀光局發稿，與業者公告交叉但不是獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"當日08:50運行更新\",\n          \"url\": \"https://www.happo-one.jp/news/39842/\"\n        },\n        {\n          \"label\": \"官方開季範圍票價\",\n          \"url\": \"https://www.happo-one.jp/news/36487/\"\n        },\n        {\n          \"label\": \"白馬村觀光局發稿，非獨立採訪\",\n          \"url\": \"https://www.ryoko-net.co.jp/pr/detail.php?guid=c60409_r70\"\n        },\n        {\n          \"label\": \"官方運行表\",\n          \"url\": \"https://www.happo-one.jp/gelande/lift/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"滑雪住宿需求自然，但本題重點是當日延後與現場特價；不推未核適用冬季票。\",\n        \"products\": [\n          \"八方尾根周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"準備安排白馬過夜，可比較八方尾根周邊住宿；訂房不含纜車票，開季特價需官方窗口購買，先核當日雪道與運行。\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 94,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"白馬八方尾根\\\" \\\"2026\\\" \\\"11月22日\\\" site:threads.com OR site:x.com OR site:instagram.com\",\n          \"\\\"白馬\\\" \\\"2026\\\" \\\"11月\\\" site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"八方尾根周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/hakuba-hakuba-happoone-winter-resort/hotels-c35707m9082943/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"雪場區域相符，供滑雪過夜規劃。\",\n              \"checks\": \"不含特價票、接送或課程；逐店核距離、入住日、取消與庫存。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"白馬八方尾根附近住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/happo-one-ski-resort.zh-tw.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"已核雪場地區，保留乾淨原始網址。\",\n              \"checks\": \"另核接駁、距離、入住日期、包含內容與分潤資格；不保證開季全部雪道營運。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已查找，未核適用商品者留空，不代表沒有販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/218761-happo-one-alpine-line-lift-ticket/ ，八方池健行票不是本期冬季滑雪特價，排除。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"shurakuen-momiji-20261122\",\n      \"title\": \"聚樂園紅葉點燈今天起至12/6，名鐵車站步行約5分鐘\",\n      \"region\": \"中部愛知東海市／聚樂園公園\",\n      \"category\": \"季節情報／活動\",\n      \"announcementDate\": \"10/23市府記者資料；10/28活動頁更新；更早首次公開日未完全確認\",\n      \"eventDate\": \"11/22～12/6，每日17:00～21:00 JST點燈；11/22白天活動10:00～15:00\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把舊公布包裝成今日新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"名古屋近郊可用鐵路接步行的秋夜行程，且白天活動與夜間點燈時段不同，具收藏價值。\",\n      \"facts\": \"市府與名古屋觀光資料交叉11/22～12/6、17～21；名鐵常滑線聚樂園站向東步行約5分。市府10/23資料列今年新增大佛區域點燈，約500株是園內樹木數不是已變紅數；無當日葉況。11/22白天催事10～15，不應寫到晚間21。茶室、餐飲另有時段，餐價與夜間臨時限制未核，不宣稱全免費或全區可入。一般遊覽未見國籍限定，交通回程及餐飲另查。\",\n      \"sources\": [\n        {\n          \"label\": \"東海市活動頁\",\n          \"url\": \"https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\"\n        },\n        {\n          \"label\": \"10/23原始記者資料\",\n          \"url\": \"https://www.city.tokai.aichi.jp/_res/projects/default_project/_page_/001/011/122/261023.pdf\"\n        },\n        {\n          \"label\": \"名古屋觀光局另編紅葉指南\",\n          \"url\": \"https://www.nagoya-info.jp/feature/detail/71/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"名古屋近郊短程夜遊，缺直接預訂需要；未核到相符活動商品，不硬推住宿。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"聚楽園\\\" \\\"2026\\\" site:threads.com OR site:facebook.com OR site:instagram.com\",\n          \"\\\"聚楽園\\\" \\\"2026\\\" \\\"11月\\\" site:x.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"pending-20261122-0\",\n      \"title\": \"磐越西線11/22～23停駛\",\n      \"category\": \"交通\",\n      \"region\": \"東北／新潟\",\n      \"announcementDate\": \"11/21 16:40 JST運轉計畫\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀JR原始PDF：喜多方～津川22日全日停駛，無巴士代行；其他段有不同安排。即時頁面及第二獨立原文未核全，保留重要行前查核提醒，不推定已復駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-1\",\n      \"title\": \"JR受天候影響退票\",\n      \"category\": \"交通\",\n      \"region\": \"東日本\",\n      \"announcementDate\": \"11/22 04:00公告線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原PDF讀取失敗，不把搜尋摘要當完整退票資格。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/aas/train20261122-04-hon072.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-2\",\n      \"title\": \"白川鄉～名古屋高速巴士停駛\",\n      \"category\": \"交通\",\n      \"region\": \"北陸／中部\",\n      \"announcementDate\": \"11/21更新\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"查到昨日班次，未核今日狀態，不沿用昨天停駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.hokutetsu.co.jp/unkojoho/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-3\",\n      \"title\": \"黑部峽谷首班除雪停駛\",\n      \"category\": \"交通\",\n      \"region\": \"北陸富山\",\n      \"announcementDate\": \"11/20公告，11/21班次\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"屬昨日首班，缺今天新進展。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.kurobe-unazuki.jp/news/2026/11/20/10126/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-4\",\n      \"title\": \"福岡高速千鳥橋施工\",\n      \"category\": \"交通\",\n      \"region\": \"九州福岡\",\n      \"announcementDate\": \"舊公告，11/21～30施工\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"新舊文件方向表述不同，尚未完整核對繞行，不寫所有方向封閉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.fk-tosikou-re-2026.jp/pdf/fk-tosikou-re_03.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-5\",\n      \"title\": \"伊藤公紅葉祭\",\n      \"category\": \"活動\",\n      \"region\": \"中國山口\",\n      \"announcementDate\": \"11/20更新，11/21～22活動\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原始公告日與第二來源未核全，今日接近結束且受眾較小。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.city.hikari.lg.jp/soshiki/9/bunka/bunkashinkou/1/events/15597.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-6\",\n      \"title\": \"綾部紅葉祭\",\n      \"category\": \"活動\",\n      \"region\": \"關西京都\",\n      \"announcementDate\": \"11/20～22活動，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"尚未核主辦現況與最後一天竹燈分送規則。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.ayabe-kankou.net/event/momijimatsuri-2026/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-7\",\n      \"title\": \"御殿場MIYAtei祭\",\n      \"category\": \"活動\",\n      \"region\": \"中部靜岡\",\n      \"announcementDate\": \"11/21～22活動，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"夜間免費與日間條件需原園方交叉，未納入。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://gotemba.jp/event/4071/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-8\",\n      \"title\": \"佐世保立神歷史公園開幕\",\n      \"category\": \"景點\",\n      \"region\": \"九州長崎\",\n      \"announcementDate\": \"11/18地方報導、11/21開幕\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"開幕已過，費用時間與今日新進展未核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://sasebofan.com/sasebo-tategami-park-open-2026-2/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-9\",\n      \"title\": \"多賀城YOGOTO\",\n      \"category\": \"活動\",\n      \"region\": \"東北宮城\",\n      \"announcementDate\": \"11/21～29活動線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"分日活動、費用與天候狀態未完整閱讀交叉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.pref.miyagi.jp/documents/67729/kisyahappyou.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-10\",\n      \"title\": \"北谷縄文祭\",\n      \"category\": \"活動\",\n      \"region\": \"沖繩\",\n      \"announcementDate\": \"11/21～22線索，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"一般旅客參加條件與獨立來源尚未核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://nuchinuwa.okinawa/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-11\",\n      \"title\": \"諾里武咖啡花園\",\n      \"category\": \"美食\",\n      \"region\": \"中部名古屋\",\n      \"announcementDate\": \"11/21～22活動線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"僅活動索引線索，未核原始主辦與價格，不冒充已讀原文。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.nagoya-info.jp/event/today/2026-11-22/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"okinawa-soba-gp-20261122\",\n    \"title\": \"沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000\",\n    \"score\": 95,\n    \"reason\": \"兩天限定的可執行飲食行程，總費用及素麵條件能形成真實鉤子，適合分享給同行者並收藏購買步驟。僅推薦標籤，不預選題。\",\n    \"versusSecond\": \"白馬延後對當地旅客急迫，但即時恢復仍未確認；沖繩題主要消費條件完整，草稿可直接使用且讀者較廣。\",\n    \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n    \"audience\": \"目前在沖繩的台灣自由行與親子旅客\",\n    \"angle\": \"400日圓麵票與一般入園費的差別\",\n    \"lifecycle\": \"1天\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 4,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"三個入選題與磐越西線補查未取得雙作者48小時原文及讚／留言。其餘候選未完成逐題社群查核。checkedAt為查核截止，不是互動實測；索引、舊影片及官方公告不計分。\",\n    \"platformAccess\": {\n      \"Threads\": \"查詢無合格原文樣本\",\n      \"Facebook\": \"查詢無完整時間與數字\",\n      \"Instagram\": \"查詢無雙作者可核樣本\",\n      \"X\": \"查詢無雙作者可核樣本\",\n      \"PTT\": \"白馬查詢無匹配本期樣本\",\n      \"Dcard\": \"白馬查詢無匹配樣本\",\n      \"YouTube\": \"查詢舊影片不計分\",\n      \"TikTok\": \"robots阻擋，未取得原文互動\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"八方尾根實際運行\",\n      \"next\": \"核11/22延後後實際運行、11/23開放雪道與特價是否延續，不保證恢復時刻。\",\n      \"sources\": [\n        {\n          \"label\": \"官方更新\",\n          \"url\": \"https://www.happo-one.jp/news/39842/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"沖繩麵最後一天\",\n      \"next\": \"11/23出店異動及售完公告；不以預定16店推定全都有貨。\",\n      \"sources\": [\n        {\n          \"label\": \"園方\",\n          \"url\": \"https://www.okzm.jp/event/5375/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"磐越西線11/23\",\n      \"next\": \"確認喜多方～津川復舊、其他區間運轉計畫與退票資格；只視為待核，不保證中午復駛。\",\n      \"sources\": [\n        {\n          \"label\": \"官方運轉計畫\",\n          \"url\": \"https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf\"\n        }\n      ]\n    },\n    {\n      \"title\": \"聚樂園晚間葉況\",\n      \"next\": \"未來24～72小時找當日可核照片與活動變更，不把一般見頃時段當實測。\",\n      \"sources\": [\n        {\n          \"label\": \"東海市\",\n          \"url\": \"https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\"\n        }\n      ]\n    }\n  ]\n}",
+  "fullText": "日本每日內容雷達\n2026-11-22\n2026-11-22 10:06:02 Asia/Taipei（日本11:06:02 Asia/Tokyo）\n本期15候選，3題完成主要事實交叉、八項評分及各3串草稿；12題待核，不湊滿10精選。候選先蒐集再比較，未核題null為未評估非0。三題均無雙作者可核自然討論，無法建立本期社群熱榜，按編輯內容分數排序。交叉來源包括不同官方機構與主辦攻略，不宣稱兩次獨立採訪；旅行新聞白馬稿是觀光局發稿。已比對昨日，のぞみ、京都燈籠、札幌國際、京都冬旅不無進展重發。掃描涉及北海道、東北、關東、北陸、中部、關西、中國、四國、九州及沖繩，但未完成全地域全類型監控。交通天候候選部分頁面失敗，沒有當作已完成即時運行驗證。\n已查證：沖繩麵大賽今天起兩天，400日圓麵票與園區入場分開。\n已查證：比賽供應麵與湯的素そば，不是完整肉料套餐。\n已查證：八方尾根08:50公告將纜車改為09:00預定運行，實際恢復未完全確認。\n已查證：聚樂園點燈今天開始，至12/6每天17～21時，白天催事另計。\n行前待核：磐越西線有11/22停駛官方計畫，部分即時來源讀取不足，不推定恢復。\n編輯觀察：本期重點是費用包含內容與當日變更；無已驗證台灣Threads熱度。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。星等為編輯預估非已驗證熱度，null非0。平台查閱時刻為本期核對截止，非快取更新日期。\n{\n  \"candidates\": [\n    {\n      \"id\": \"okinawa-soba-gp-20261122\",\n      \"title\": \"沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000\",\n      \"region\": \"沖繩市／沖繩兒童王國水與綠廣場\",\n      \"category\": \"美食／活動\",\n      \"announcementDate\": \"首次公告日未完全確認；官方連結攻略11/12 13:29 JST，觀光頁11/16更新\",\n      \"eventDate\": \"11/22、23 11:00～16:00 JST販售；23日17:00頒獎，售完提前結束\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把11/16更新當新公告\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"兩天集中比較沖繩麵，價格鉤子明確但必須交代門票另付，適合現正沖繩的台灣親子自由行。\",\n      \"facts\": \"園方與地方活動頁均列16店、400日圓換一杯，另付入園。園方費用頁16歲以上一般1000、15歲以下免費；學生500須學生證，外國學生適用未確認不在草稿保證。官方連結攻略11/12說明現場10:30售票、1杯1投票券、提供麵和湯的素そば。當日庫存及最終出店異動未核；第三方頁有15店版本，以園方16店計畫為準，不聲稱16店目前全有貨。兩成人各吃一杯一般總計2800日圓。\",\n      \"sources\": [\n        {\n          \"label\": \"園方活動頁\",\n          \"url\": \"https://www.okzm.jp/event/5375/\"\n        },\n        {\n          \"label\": \"園方入園費\",\n          \"url\": \"https://www.okzm.jp/fee/\"\n        },\n        {\n          \"label\": \"地方活動資訊交叉\",\n          \"url\": \"https://kozainfo.okinawa/events/e3369404.html\"\n        },\n        {\n          \"label\": \"園方連結之主辦攻略\",\n          \"url\": \"https://okinawasoba.hatenablog.com/entry/2026/11/12/132921\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"讀者需要入園但麵票現場購買；只剩兩天，多數已訂住宿。不硬推非本活動票券。\",\n        \"products\": [\n          \"沖繩市園區周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若打算在沖繩市留宿，可比較園區周邊住宿；住宿不含入園或400日圓麵票，活動票依官方現場規則購買。\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 95,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"沖縄そばグランプリ\\\" \\\"2026\\\" site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"沖繩兒童王國周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/okinawa-okinawa-kodomonokuni/hotels-c207m6737626/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"尚未訂沖繩市住宿者可比較位置。\",\n              \"checks\": \"不含門票或麵票；距離、房型、日期、庫存與分潤資格另核，不引用快取價格。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀 https://www.booking.com/accessible-traveling/landmark/jp/okinawa-zoo-museum.ja.html ，為無障礙篩選列表，尚未核個別適用設備，不作一般住宿推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀 https://www.kkday.com/ja/product/554362 ，是2025聖誕活動，年份及活動不同，排除。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/41471-okinawa-zoo-museum-ticket/ ，一般門票頁，未讀到11/22～23套餐適用條件，不將其列為已核活動推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"happo-opening-delay-20261122\",\n      \"title\": \"白馬八方尾根開季先看運行更新：今早纜車因除雪延後\",\n      \"region\": \"中部長野／白馬八方尾根\",\n      \"category\": \"季節情報／交通\",\n      \"announcementDate\": \"11/20開季公告；11/22 08:50 JST當日運行更新\",\n      \"eventDate\": \"11/21預開、11/22正式開季；原定08:00，08:50公告改09:00預定運行\",\n      \"freshness\": \"今天：11/22運行更新；不宣稱已實際恢復\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"今早除雪與樹枝清除導致延後，官網開季頁仍有8時字樣，對上山旅客有直接查核價值。\",\n      \"facts\": \"11/22 08:50公告纜車預定09:00啟動，讀到的是預定而非已恢復證明；運行表未取得可確認實際啟動時刻。開季公開Panorama含初學者路線，下部不能滑，須搭纜車上下。成人18歲以上5000、6～17歲2500，特價僅山麓窗口；隨範圍擴大轉一般價。今日停車場與昨日免費規則不同，不推免費。旅遊新聞頁為白馬村觀光局發稿，與業者公告交叉但不是獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"當日08:50運行更新\",\n          \"url\": \"https://www.happo-one.jp/news/39842/\"\n        },\n        {\n          \"label\": \"官方開季範圍票價\",\n          \"url\": \"https://www.happo-one.jp/news/36487/\"\n        },\n        {\n          \"label\": \"白馬村觀光局發稿，非獨立採訪\",\n          \"url\": \"https://www.ryoko-net.co.jp/pr/detail.php?guid=c60409_r70\"\n        },\n        {\n          \"label\": \"官方運行表\",\n          \"url\": \"https://www.happo-one.jp/gelande/lift/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"滑雪住宿需求自然，但本題重點是當日延後與現場特價；不推未核適用冬季票。\",\n        \"products\": [\n          \"八方尾根周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"準備安排白馬過夜，可比較八方尾根周邊住宿；訂房不含纜車票，開季特價需官方窗口購買，先核當日雪道與運行。\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 94,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"白馬八方尾根\\\" \\\"2026\\\" \\\"11月22日\\\" site:threads.com OR site:x.com OR site:instagram.com\",\n          \"\\\"白馬\\\" \\\"2026\\\" \\\"11月\\\" site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"八方尾根周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/hakuba-hakuba-happoone-winter-resort/hotels-c35707m9082943/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"雪場區域相符，供滑雪過夜規劃。\",\n              \"checks\": \"不含特價票、接送或課程；逐店核距離、入住日、取消與庫存。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"實際開啟核對主題及地區；不是即時庫存確認。\",\n          \"pages\": [\n            {\n              \"title\": \"白馬八方尾根附近住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/happo-one-ski-resort.zh-tw.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"已核雪場地區，保留乾淨原始網址。\",\n              \"checks\": \"另核接駁、距離、入住日期、包含內容與分潤資格；不保證開季全部雪道營運。\",\n              \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已查找，未核適用商品者留空，不代表沒有販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/218761-happo-one-alpine-line-lift-ticket/ ，八方池健行票不是本期冬季滑雪特價，排除。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"shurakuen-momiji-20261122\",\n      \"title\": \"聚樂園紅葉點燈今天起至12/6，名鐵車站步行約5分鐘\",\n      \"region\": \"中部愛知東海市／聚樂園公園\",\n      \"category\": \"季節情報／活動\",\n      \"announcementDate\": \"10/23市府記者資料；10/28活動頁更新；更早首次公開日未完全確認\",\n      \"eventDate\": \"11/22～12/6，每日17:00～21:00 JST點燈；11/22白天活動10:00～15:00\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把舊公布包裝成今日新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"名古屋近郊可用鐵路接步行的秋夜行程，且白天活動與夜間點燈時段不同，具收藏價值。\",\n      \"facts\": \"市府與名古屋觀光資料交叉11/22～12/6、17～21；名鐵常滑線聚樂園站向東步行約5分。市府10/23資料列今年新增大佛區域點燈，約500株是園內樹木數不是已變紅數；無當日葉況。11/22白天催事10～15，不應寫到晚間21。茶室、餐飲另有時段，餐價與夜間臨時限制未核，不宣稱全免費或全區可入。一般遊覽未見國籍限定，交通回程及餐飲另查。\",\n      \"sources\": [\n        {\n          \"label\": \"東海市活動頁\",\n          \"url\": \"https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\"\n        },\n        {\n          \"label\": \"10/23原始記者資料\",\n          \"url\": \"https://www.city.tokai.aichi.jp/_res/projects/default_project/_page_/001/011/122/261023.pdf\"\n        },\n        {\n          \"label\": \"名古屋觀光局另編紅葉指南\",\n          \"url\": \"https://www.nagoya-info.jp/feature/detail/71/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"名古屋近郊短程夜遊，缺直接預訂需要；未核到相符活動商品，不硬推住宿。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"熱度未確認：未取得48小時內雙作者原文、時間及讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"\\\"聚楽園\\\" \\\"2026\\\" site:threads.com OR site:facebook.com OR site:instagram.com\",\n          \"\\\"聚楽園\\\" \\\"2026\\\" \\\"11月\\\" site:x.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已查找，沒有確認自然銜接的商品，不硬推。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；草稿依id另存\"\n    },\n    {\n      \"id\": \"pending-20261122-0\",\n      \"title\": \"磐越西線11/22～23停駛\",\n      \"category\": \"交通\",\n      \"region\": \"東北／新潟\",\n      \"announcementDate\": \"11/21 16:40 JST運轉計畫\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀JR原始PDF：喜多方～津川22日全日停駛，無巴士代行；其他段有不同安排。即時頁面及第二獨立原文未核全，保留重要行前查核提醒，不推定已復駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-1\",\n      \"title\": \"JR受天候影響退票\",\n      \"category\": \"交通\",\n      \"region\": \"東日本\",\n      \"announcementDate\": \"11/22 04:00公告線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原PDF讀取失敗，不把搜尋摘要當完整退票資格。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/aas/train20261122-04-hon072.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-2\",\n      \"title\": \"白川鄉～名古屋高速巴士停駛\",\n      \"category\": \"交通\",\n      \"region\": \"北陸／中部\",\n      \"announcementDate\": \"11/21更新\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"查到昨日班次，未核今日狀態，不沿用昨天停駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.hokutetsu.co.jp/unkojoho/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-3\",\n      \"title\": \"黑部峽谷首班除雪停駛\",\n      \"category\": \"交通\",\n      \"region\": \"北陸富山\",\n      \"announcementDate\": \"11/20公告，11/21班次\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"屬昨日首班，缺今天新進展。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.kurobe-unazuki.jp/news/2026/11/20/10126/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-4\",\n      \"title\": \"福岡高速千鳥橋施工\",\n      \"category\": \"交通\",\n      \"region\": \"九州福岡\",\n      \"announcementDate\": \"舊公告，11/21～30施工\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"新舊文件方向表述不同，尚未完整核對繞行，不寫所有方向封閉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.fk-tosikou-re-2026.jp/pdf/fk-tosikou-re_03.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-5\",\n      \"title\": \"伊藤公紅葉祭\",\n      \"category\": \"活動\",\n      \"region\": \"中國山口\",\n      \"announcementDate\": \"11/20更新，11/21～22活動\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原始公告日與第二來源未核全，今日接近結束且受眾較小。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.city.hikari.lg.jp/soshiki/9/bunka/bunkashinkou/1/events/15597.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-6\",\n      \"title\": \"綾部紅葉祭\",\n      \"category\": \"活動\",\n      \"region\": \"關西京都\",\n      \"announcementDate\": \"11/20～22活動，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"尚未核主辦現況與最後一天竹燈分送規則。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.ayabe-kankou.net/event/momijimatsuri-2026/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-7\",\n      \"title\": \"御殿場MIYAtei祭\",\n      \"category\": \"活動\",\n      \"region\": \"中部靜岡\",\n      \"announcementDate\": \"11/21～22活動，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"夜間免費與日間條件需原園方交叉，未納入。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://gotemba.jp/event/4071/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-8\",\n      \"title\": \"佐世保立神歷史公園開幕\",\n      \"category\": \"景點\",\n      \"region\": \"九州長崎\",\n      \"announcementDate\": \"11/18地方報導、11/21開幕\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"開幕已過，費用時間與今日新進展未核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://sasebofan.com/sasebo-tategami-park-open-2026-2/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-9\",\n      \"title\": \"多賀城YOGOTO\",\n      \"category\": \"活動\",\n      \"region\": \"東北宮城\",\n      \"announcementDate\": \"11/21～29活動線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"分日活動、費用與天候狀態未完整閱讀交叉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.pref.miyagi.jp/documents/67729/kisyahappyou.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-10\",\n      \"title\": \"北谷縄文祭\",\n      \"category\": \"活動\",\n      \"region\": \"沖繩\",\n      \"announcementDate\": \"11/21～22線索，首次公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"一般旅客參加條件與獨立來源尚未核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://nuchinuwa.okinawa/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261122-11\",\n      \"title\": \"諾里武咖啡花園\",\n      \"category\": \"美食\",\n      \"region\": \"中部名古屋\",\n      \"announcementDate\": \"11/21～22活動線索\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"僅活動索引線索，未核原始主辦與價格，不冒充已讀原文。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核程度見原因\",\n          \"url\": \"https://www.nagoya-info.jp/event/today/2026-11-22/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"未完成關鍵查核，不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"核實日期、票種、庫存、包含內容、取消條件與分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-22\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，不提供推薦商品\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n        \"summary\": \"尚未完成逐題原始社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"okinawa-soba-gp-20261122\",\n    \"title\": \"沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000\",\n    \"score\": 95,\n    \"reason\": \"兩天限定的可執行飲食行程，總費用及素麵條件能形成真實鉤子，適合分享給同行者並收藏購買步驟。僅推薦標籤，不預選題。\",\n    \"versusSecond\": \"白馬延後對當地旅客急迫，但即時恢復仍未確認；沖繩題主要消費條件完整，草稿可直接使用且讀者較廣。\",\n    \"publishAt\": \"11/22 11:00 Asia/Taipei（編輯建議，無帳號數據）\",\n    \"audience\": \"目前在沖繩的台灣自由行與親子旅客\",\n    \"angle\": \"400日圓麵票與一般入園費的差別\",\n    \"lifecycle\": \"1天\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-22T10:06:02+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 4,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"三個入選題與磐越西線補查未取得雙作者48小時原文及讚／留言。其餘候選未完成逐題社群查核。checkedAt為查核截止，不是互動實測；索引、舊影片及官方公告不計分。\",\n    \"platformAccess\": {\n      \"Threads\": \"查詢無合格原文樣本\",\n      \"Facebook\": \"查詢無完整時間與數字\",\n      \"Instagram\": \"查詢無雙作者可核樣本\",\n      \"X\": \"查詢無雙作者可核樣本\",\n      \"PTT\": \"白馬查詢無匹配本期樣本\",\n      \"Dcard\": \"白馬查詢無匹配樣本\",\n      \"YouTube\": \"查詢舊影片不計分\",\n      \"TikTok\": \"robots阻擋，未取得原文互動\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"八方尾根實際運行\",\n      \"next\": \"核11/22延後後實際運行、11/23開放雪道與特價是否延續，不保證恢復時刻。\",\n      \"sources\": [\n        {\n          \"label\": \"官方更新\",\n          \"url\": \"https://www.happo-one.jp/news/39842/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"沖繩麵最後一天\",\n      \"next\": \"11/23出店異動及售完公告；不以預定16店推定全都有貨。\",\n      \"sources\": [\n        {\n          \"label\": \"園方\",\n          \"url\": \"https://www.okzm.jp/event/5375/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"磐越西線11/23\",\n      \"next\": \"確認喜多方～津川復舊、其他區間運轉計畫與退票資格；只視為待核，不保證中午復駛。\",\n      \"sources\": [\n        {\n          \"label\": \"官方運轉計畫\",\n          \"url\": \"https://www.jreast.co.jp/aas/20261121_20261121_ni21_.pdf\"\n        }\n      ]\n    },\n    {\n      \"title\": \"聚樂園晚間葉況\",\n      \"next\": \"未來24～72小時找當日可核照片與活動變更，不把一般見頃時段當實測。\",\n      \"sources\": [\n        {\n          \"label\": \"東海市\",\n          \"url\": \"https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\"\n        }\n      ]\n    }\n  ]\n}\n【每題三串、五切角、圖片與延伸】\n[\n  {\n    \"id\": \"okinawa-soba-gp-20261122\",\n    \"title\": \"沖繩麵大賽今起兩天：一杯400日圓，成人入園另付1000\",\n    \"threads\": [\n      \"沖繩麵大賽今天11/22開始，只有今天、明天兩天。一杯400日圓，但不是400日圓就能入場吃：沖繩兒童王國的門票要另外買。\\n\\n16歲以上一般入園1000日圓、15歲以下免費。以兩名一般成人各吃一杯計算，共2800日圓；小朋友免的是入園費，不是麵費。\",\n      \"這次比的是「素そば」：麵與湯，不要期待400日圓附上完整肉料套餐。園方公布16家沖繩麵專門店參賽，可用全店共通票換麵，每杯附一張投票券，吃完投給喜歡的店。\\n\\n地點在園內「水與綠廣場」。官方連結攻略寫現場10:30開始售票，麵販售11:00～16:00，全部是日本時間；售完會提早結束。\",\n      \"先確認同行者的入園資格，入園後到會場售票處買麵票，再挑想吃的店。11/23的頒獎是17:00，不代表麵也賣到17:00；我沒有各店即時庫存，不能保證晚到還能吃齊。\\n\\n活動、最新異動與攻略入口：https://www.okzm.jp/event/5375/\\n一般入園費：https://www.okzm.jp/fee/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"總費用\",\n        \"opening\": \"沖繩麵一杯400日圓，成人還要另外付1000日圓入園。\"\n      },\n      {\n        \"name\": \"餐點內容\",\n        \"opening\": \"這場400日圓比的是麵和湯，不是附肉套餐。\"\n      },\n      {\n        \"name\": \"親子\",\n        \"opening\": \"15歲以下免入園，麵票仍要另買。\"\n      },\n      {\n        \"name\": \"售票步驟\",\n        \"opening\": \"先買入園票，再到會場買共通麵票，一杯附一張投票券。\"\n      },\n      {\n        \"name\": \"時間差\",\n        \"opening\": \"11/23下午5點頒獎，但麵下午4點就結束販售。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。\",\n        \"url\": \"https://www.okzm.jp/event/5375/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：沖繩市園區周邊住宿；不把分潤網址放主文，另核資格。\"\n    ]\n  },\n  {\n    \"id\": \"happo-opening-delay-20261122\",\n    \"title\": \"白馬八方尾根開季先看運行更新：今早纜車因除雪延後\",\n    \"threads\": [\n      \"今天去白馬八方尾根，先別只看「8點正式開季」那張公告。11/22日本時間08:50更新：因除雪及纜車下方樹枝清除作業，纜車改為09:00預定開始運行。\\n\\n這是預定時間，不是我已確認9點恢復的現場回報。上山前請再打開官方運行表，尤其已預訂教練或接送的人，先確認集合安排。\",\n      \"開季目前公布的是Panorama雪場，含初學者路線；下部區域不能滑，往返要搭纜車，不是全山都開放。\\n\\n特別票價成人18歲以上5000日圓、6～17歲2500日圓，只在纜車山麓售票窗口販售。可滑範圍擴大後會轉一般票價，不能把這個價錢當成整季固定價。\",\n      \"如果要買套裝，逐項核對雪場、日期、接送、課程與租具是否包含。八方池健行用的Alpine Line票，也不能直接當成這張冬季滑雪特價票。\\n\\n今天真正可照做的是先查運行，再向課程或交通供應商確認安排。我未核到所有纜車實際恢復時間。當日公告：https://www.happo-one.jp/news/39842/\\n運行表：https://www.happo-one.jp/gelande/lift/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"當日更新\",\n        \"opening\": \"八方尾根原定8點開季，今天08:50公告改9點預定運行。\"\n      },\n      {\n        \"name\": \"開放範圍\",\n        \"opening\": \"八方尾根下部還不能滑，往返必須搭纜車。\"\n      },\n      {\n        \"name\": \"票種\",\n        \"opening\": \"成人5000日圓開季特價只在窗口賣。\"\n      },\n      {\n        \"name\": \"商品避雷\",\n        \"opening\": \"八方池健行票，不等於八方尾根冬季滑雪票。\"\n      },\n      {\n        \"name\": \"集合安排\",\n        \"opening\": \"已約教練或接送，先核今天纜車延後是否影響集合。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。\",\n        \"url\": \"https://www.happo-one.jp/news/39842/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：八方尾根周邊住宿；不把分潤網址放主文，另核資格。\"\n    ]\n  },\n  {\n    \"id\": \"shurakuen-momiji-20261122\",\n    \"title\": \"聚樂園紅葉點燈今天起至12/6，名鐵車站步行約5分鐘\",\n    \"threads\": [\n      \"名古屋近郊今晚多一個紅葉點燈選擇：聚樂園公園11/22開始，到12/6每天日本時間17:00～21:00。\\n\\n名古屋觀光資料列，搭名鐵常滑線到「聚樂園」站後向東步行約5分鐘。要排夜遊，可以先按住宿位置查回程班次，不必把所有賞楓點都當成只能自駕。\",\n      \"今年市府資料特別列出新增大佛區域點燈。園內約500株楓樹是規模介紹，不代表今天500株都已轉紅；目前沒有我能核實的當日葉況，照片也不要當作今晚保證。\\n\\n11/22另有10:00～15:00白天催事，和17:00開始的夜間點燈是兩段時間。晚到可以看點燈，不能假設白天表演仍在。\",\n      \"出發前先核當天活動異動、回程列車，以及想去的茶室或餐飲各自營業時間。點燈到21:00，不等於所有餐飲都營業到21:00；餐價和全部附屬設施費用這次未核全，不寫成全區免費。\\n\\n官方日期與時段：https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\\n交通交叉資料：https://www.nagoya-info.jp/feature/detail/71/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"鐵路夜遊\",\n        \"opening\": \"聚樂園站步行約5分鐘，今晚開始看公園紅葉點燈。\"\n      },\n      {\n        \"name\": \"新區域\",\n        \"opening\": \"今年聚樂園新增大佛區域點燈，11/22到12/6。\"\n      },\n      {\n        \"name\": \"時段區分\",\n        \"opening\": \"白天催事15點結束，紅葉點燈17點才開始。\"\n      },\n      {\n        \"name\": \"葉況\",\n        \"opening\": \"約500株是樹木規模，不是今天全部轉紅的保證。\"\n      },\n      {\n        \"name\": \"回程\",\n        \"opening\": \"點燈到21點，先查聚樂園回住宿的列車再排行程。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、時間表或開放範圍；可查找到素材，不代表已取得商用／轉載授權。\",\n        \"url\": \"https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009329.html\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸名古屋近郊鐵路夜遊攻略；本題不硬接商業商品。\"\n    ]\n  }\n]"
+}
