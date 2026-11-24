@@ -1,0 +1,2187 @@
+{
+  "date": "2026-11-24",
+  "cutoff": "2026-11-24 10:07:33 Asia/Taipei（日本11:07:33 Asia/Tokyo）",
+  "scopeNote": "本期15個不同事件候選，6題主要事實完成交叉、各3串草稿；9題因適用資格、原頁失敗或未完成第二來源而未入選，不湊10題。未核題的八項分數與星等為null（未評估，不是0）。先比較候選再按編輯分數排序，6題均無合格雙作者自然討論樣本，無法建立本期社群熱榜。已比對11/21～23報告，不重發沒有進展的首里城、麵包小偷與高峰。廣掃北海道、東北、關東、中部北陸、關西、中國四國、九州沖繩；部分區域僅有舊日曆或索引，並非完整即時監控。主要事實跨頁核對，不宣稱每個來源皆獨立採訪；富士急交叉為優惠編輯頁，Suica媒體含品牌提供內容，已避免將PR轉載算兩次獨立採訪。",
+  "trends": [
+    "已查證：大阪LUCUA SOUTH第2期今日開業，但部分店12月才開，兩種入場券權限不同。",
+    "已查證：富士急冬季特價票今日日本12點開賣，排除跨年且不可改日退款。",
+    "已查證：幕張吉伊卡哇聖誕市集今天開場，官網目前顯示票已完售。",
+    "已查證：小樽水族館11/24～12/11休館，冬季12/12再開。",
+    "已查證：JR九州100日圓兒童票今天販售，使用從12/24開始，海外資格細節仍待確認。",
+    "已查證：東京站Suica企鵝店首日15點開，首日抽選已截止。",
+    "編輯觀察：今日最有價值的是開業與可入場的差別，不以新開幕等於可隨到隨買。",
+    "社群限制：六題熱度未確認，分數及星等只代表編輯潛力。"
+  ],
+  "top10": [
+    {
+      "id": "lucua-south-phase2-20261124",
+      "title": "LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事",
+      "category": "購物／新設施",
+      "region": "關西大阪／JR大阪站南側10～13樓",
+      "announcementDate": "9/30第2期開業日期報導；寶可夢店10/14原公告、11/23新增入場說明",
+      "eventDate": "11/24第2期開業；部分店12月才開",
+      "freshness": "今天開業例外；11/23更新無時刻，不假稱精確24小時",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "台灣角色周邊旅客能直接用上；兩種整理券最容易誤會，且不能把12月店寫成今天全開。",
+      "facts": "官方列10～13樓32新品牌分11、12月開；現場採訪以36店口徑含其他店，避免混用總數。入場頁說店券或樓層券任一可入樓層，樓層券不能進受管制店；樓層券當日06:00 JST起Airウェイト網路配布，無紙票、原則不可再入場。以當日行事曆及店方公告為準，不保證當刻有券。外國旅客未列國籍排除，個別店抽選、帳號與電話需求仍需逐店確認。",
+      "sources": [
+        {
+          "label": "官方開業與店鋪日期",
+          "url": "https://www.lucua.jp/special/south-open/"
+        },
+        {
+          "label": "官方兩層入場規則",
+          "url": "https://www.lucua.jp/south-entry/"
+        },
+        {
+          "label": "寶可夢店11/23更新",
+          "url": "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-osaka/news/202610/000609.html"
+        },
+        {
+          "label": "Lmaga現場採訪11/17",
+          "url": "https://www.lmaga.jp/news/2026/11/1121367/"
+        },
+        {
+          "label": "9/30日期報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2144561.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "逛店本身不需付費套票；還在規劃大阪行程者才有梅田住宿需求，不把訂房當成入店保證。",
+        "products": [
+          "大阪站／梅田住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若這趟本來就要住梅田，可以比較大阪站周邊住宿；飯店訂房不包含角色商店的入場整理券。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 97,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "LUCUA 11月24 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "LUCUA SOUTH site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "大阪Station City周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/osaka-station-city.html",
+              "kind": "住宿列表",
+              "reason": "只供原本打算住梅田的人比較，不能取得角色店入場權。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11/24要去大阪新開的LUCUA SOUTH，先分清兩種券：能進角色樓層，不等於能進每一家限定店。\n\n第2期今天開業，角色區在大阪站南側10～13樓。官方規則是：店鋪整理券或樓層入場整理券，任一種可進樓層；但只有樓層券，不能直接進另外管制的店。",
+          "出門前照這個順序查：\n・先看官方當日入場行事曆。\n・有指定目標店，再看該店的抽選或整理券規則。\n・需要樓層券時，官方Airウェイト當天日本時間06:00起網路配布，不發紙票，原則上不能再入場。\n\n現場可能改成自由入場，也可能暫停發券；這不是保證現在還領得到。海外帳號或電話能否完成個別店申請，仍要看店方條件。",
+          "別把開業名單全當成今天能逛：吉伊卡哇Park Store、Sanrio Hello Stage、PUPPET SUNSUN STORE列11/24；TAMASHII NATIONS是12/2、JOJO WORLD是12/4、SQUARE ENIX NEXUS是12/23。\n\n把最想逛的店先圈出來，比到了才發現還沒開更有用。\n店鋪日期：https://www.lucua.jp/special/south-open/\n當日入場規則：https://www.lucua.jp/south-entry/"
+        ],
+        "angles": [
+          {
+            "name": "雙層整理券",
+            "opening": "有LUCUA樓層券，不代表每家角色店都能進。"
+          },
+          {
+            "name": "開業日期",
+            "opening": "大阪新角色區今天開業，但JOJO要等12/4。"
+          },
+          {
+            "name": "行前操作",
+            "opening": "逛大阪新角色區前，先查日期，再查目標店。"
+          },
+          {
+            "name": "親子",
+            "opening": "帶孩子追角色店，先確認手上券能進哪裡。"
+          },
+          {
+            "name": "住宿動線",
+            "opening": "住梅田能方便往返，但訂房不會附入店名額。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://www.lucua.jp/special/south-open/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：大阪站／梅田住宿；不含本題優惠或入場資格，須另核。"
+        ]
+      }
+    },
+    {
+      "id": "fujiq-blackfriday-20261124",
+      "title": "富士急5,000日圓冬季票今天開賣：跨年不能用、不能改日期",
+      "category": "票券／優惠",
+      "region": "中部山梨／富士吉田富士急樂園",
+      "announcementDate": "11/5品牌原始公告；11/19優惠彙整交叉",
+      "eventDate": "11/24 12:00～12/4 23:59 JST販售；12/1～2027/2/5使用，12/26～1/3除外",
+      "freshness": "超過7天例外：今天開始販售，非今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "具體價格與冬季行程相關，最重要的是排除日與不可退款改期，不用最大折扣當每人實際省幅。",
+      "facts": "成人5000、中高生4600、小學生3500日圓；僅官方線上，現場不售。日期指定、不可退款或改日；部分設施另付費，惡天候低溫可停駛。官方未列居住地限制，但海外信用卡、帳號與學生資格文件未實測。原PDF售票連結productCode仍含2025，草稿使用2026官方活動入口，避免盲連舊碼；本期截止在12點開賣前，不宣稱付款或庫存已驗證。媒體入口讀取失敗，改用官方活動、品牌稿與優惠編輯頁交叉，非獨立採訪。",
+      "sources": [
+        {
+          "label": "官方2026活動與退改規則",
+          "url": "https://www.fujiq.jp/event/blackfriday2026.html"
+        },
+        {
+          "label": "11/5品牌原稿",
+          "url": "https://prtimes.jp/a/?c=1110&f=d1110-2108-3968b16753b5a418ec5fcf514e93f57b.pdf&r=2108"
+        },
+        {
+          "label": "11/19優惠編輯頁交叉",
+          "url": "https://sc-tsusho.jp/fujiq-coupon/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬季出發尚有規劃時間，可自然接周邊住宿或純交通；特價票必須官方買，不把第三方一般票當同優惠。",
+        "products": [
+          "富士急周邊住宿",
+          "另購交通"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "5,000日圓特價票走官方入口；若還沒安排住宿，可另比較富士急周邊飯店，別重複買到含門票套裝。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 94,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "富士急 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "富士急 ブラックフライデー site:youtube.com OR site:tiktok.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "富士急樂園周邊飯店",
+              "url": "https://jp.trip.com/hotels/fujiyoshida-fuji-q-highland/hotels-c50161m6787262/",
+              "kind": "住宿列表",
+              "reason": "比較樂園附近住宿位置；日期與含票方案須分開確認。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "富士急樂園周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/fujikyu-highland.html",
+              "kind": "住宿列表",
+              "reason": "搭配冬季樂園過夜，不把一般住宿當含5,000日圓票。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀富士急目的地頁 https://www.kkday.com/ja/destination/jp-fujiyoshida-fuji-q-highland ；純巴士901924原頁兩次讀取失敗，166492索引是含門票套裝，不推薦為純交通，以免重複買票。無推薦不帶入cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/95879-fujiq-highland-admission-ticket/ ，為一般一日票，未核同5,000日圓官方優惠，排除。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "富士急冬季成人一日票5,000日圓，今天11/24日本時間12:00開賣。但12/26～1/3不能用，跨年去的人先別按購買。\n\n販售到12/4 23:59；使用日是12/1～2027/2/5，扣掉上述排除期間。只能在官方線上買，現場售票窗口沒有這個特價。",
+          "票價分三種：成人5,000日圓、中高生4,600日圓、小學生3,500日圓。買時要指定使用日期，買完不能退款，也不能改日期。\n\n這是遊樂設施一日票，不是所有付費內容全包；戰慄迷宮等另收費項目不包含。雨雪、低溫或設備調整也可能讓設施停駛，排冬季行程時把這點算進去。",
+          "先確定日期不在跨年排除期，再從2026官方活動頁進售票入口；海外付款與學生票證明要求，以結帳頁為準，本次未實測。研究截止時還沒到今天開賣時間，不保證任一日期庫存。\n\n若已買含門票的巴士或住宿套裝，先看內容，避免再買一張。官方日期、價格與退改規則：https://www.fujiq.jp/event/blackfriday2026.html"
+        ],
+        "angles": [
+          {
+            "name": "價格",
+            "opening": "富士急冬季一日票5,000日圓，但跨年那幾天不能用。"
+          },
+          {
+            "name": "改期",
+            "opening": "這張富士急特價票不能改日期，先定行程再買。"
+          },
+          {
+            "name": "開賣",
+            "opening": "今天日本中午12點開賣，使用期從12/1才開始。"
+          },
+          {
+            "name": "冬季",
+            "opening": "便宜門票不代表冬天所有設施都會運行。"
+          },
+          {
+            "name": "重複購票",
+            "opening": "巴士套裝若已含門票，就別再買5,000日圓特價票。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://www.fujiq.jp/event/blackfriday2026.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：富士急周邊住宿、另購交通；不含本題優惠或入場資格，須另核。"
+        ]
+      }
+    },
+    {
+      "id": "chiikawa-market-opening-20261124",
+      "title": "幕張吉伊卡哇聖誕市集今天開場，但官網門票已完售",
+      "category": "活動／動漫IP",
+      "region": "關東千葉／幕張豐砂公園",
+      "announcementDate": "10/8開催公告；11/20媒體已報完售；11/24官方開場通知",
+      "eventDate": "11/24～12/25 11:00～21:00 JST；最後入場時段18:30～19:00",
+      "freshness": "今天開場；完售不是今天才發生，不能包裝最新搶票",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "有照片吸引力但購票已受限，對沒票者避免白跑，對持票者提醒手機與內容使用時間。",
+      "facts": "主辦當前首頁標チケットは完売いたしました，11/20媒體交叉已全日完售；沒有窗口當日票。成人12歲以上平日2500／假日2800、4～11歲1200／1400日圓，未滿4歲每位成人可帶1位免票。持票者需手機及專用APP；4～11歲同行兒童例外可無手機，但部分體驗受限。2小時30分是部分內容預約／排隊等限制，不能簡化成整場到點趕人；本稿不泛化此條。原購票日期10/31起，不能寫今天開賣。海外購票與APP地區未完全確認，不保證台灣帳號可用。",
+      "sources": [
+        {
+          "label": "官方現況與FAQ",
+          "url": "https://contents-abema.com/chiikawa-christmas-market/"
+        },
+        {
+          "label": "官方使用限制",
+          "url": "https://contents-abema.com/chiikawa-christmas-market/ticket-detail/"
+        },
+        {
+          "label": "共同通信10/9價格會期",
+          "url": "https://www.kyodo.co.jp/life/2026-10-09_4041248/"
+        },
+        {
+          "label": "11/20媒體已報完售",
+          "url": "https://www.crank-in.net/trend/events/194682/1"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門票已售罄，未持票讀者沒有可靠活動預訂入口，不能用住宿或其他商品暗示可補名額。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわクリスマスマーケット site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com",
+          "ちいかわクリスマスマーケット site:x.com OR site:facebook.com OR site:instagram.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "搜尋返回活動介紹與Moments，未證明販售門票；官方已完售，不推薦商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "幕張吉伊卡哇聖誕市集今天11/24開始，但還沒票的人，先別直接跑去豐砂公園：官方目前顯示門票完售，也沒有現場窗口當日票。\n\n活動到12/25，地點在AEON MALL幕張新都心前。這篇適合當行前提醒；看到開場照片，不能推論現在還買得到入場券。",
+          "已經持票的人，確認的是票上的日期和入場時段，不是只看營業到晚上9點。每日日本時間11:00～21:00，最後入場時段是18:30～19:00；幕張豐砂站走到會場約10分鐘。\n\n門票是入場費，餐飲、商品與其他付費體驗要另看各自價格。一般票價為12歲以上平日2,500／假日2,800日圓，4～11歲1,200／1,400日圓。",
+          "進場需要可使用售票服務的智慧手機，場內另有專用APP，先下載並確認能開啟票券。4～11歲持兒童票同行者可無手機，但部分體驗會受限制。\n\n官方另設2小時30分的部分內容使用限制，請讀完整使用說明，不能把它理解成整天想排幾次都可以。未核到追加售票公告，不推測會釋票。\n官方現況：https://contents-abema.com/chiikawa-christmas-market/\n使用說明：https://contents-abema.com/chiikawa-christmas-market/ticket-detail/"
+        ],
+        "angles": [
+          {
+            "name": "完售",
+            "opening": "今天開場，不代表今天還有票。"
+          },
+          {
+            "name": "手機",
+            "opening": "有吉伊卡哇市集門票，也別忘先準備手機與APP。"
+          },
+          {
+            "name": "時間",
+            "opening": "營業到21點，最後入場時段卻是18:30～19:00。"
+          },
+          {
+            "name": "費用",
+            "opening": "2,500日圓是平日成人入場費，不是餐飲商品全包。"
+          },
+          {
+            "name": "行程",
+            "opening": "幕張豐砂公園有市集，沒票先別把它排成可進場行程。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://contents-abema.com/chiikawa-christmas-market/"
+          }
+        ],
+        "extensions": [
+          "延伸行前限制與官方查詢攻略，本期不硬接分潤商品。"
+        ]
+      }
+    },
+    {
+      "id": "otaru-closure-20261124",
+      "title": "小樽水族館今天起休館，12/12才恢復冬季營業",
+      "category": "旅遊／季節情報",
+      "region": "北海道小樽／祝津",
+      "announcementDate": "11/18觀光協會提醒；11/24休館公告；年度營業表原發布日未列",
+      "eventDate": "11/24～12/11休館；12/12～2027/2/23冬季營業",
+      "freshness": "今天公告與休館生效，無公布時刻",
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "why": "正好卡在台灣旅客晚秋北海道行程，改日期比推薦企鵝照片更有用。",
+      "facts": "館方年度表與小樽觀光協會今天公告交叉休館；冬季10～16、最後入館15:30 JST，海獸公園與遊園地冬季關閉。未核冬季當日節目，不保證企鵝散步時刻／雪況。休館不限國籍，不能用網路票繞過。",
+      "sources": [
+        {
+          "label": "水族館官方營業表",
+          "url": "https://otaru-aq.jp/guide/openningtime"
+        },
+        {
+          "label": "小樽觀光協會11/24公告",
+          "url": "https://otaru.gr.jp/tourist/otarusuizokukankyukan2026-11-24-12-11"
+        },
+        {
+          "label": "11/18提前提醒",
+          "url": "https://otaru.gr.jp/tourist/2026-11-23made"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "目前是休館避雷，讀者多已排好北海道行程；不以今日提醒推售不可當日使用的門票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1791309596.A.B0C.html",
+            "label": "北海道跨年行程討論",
+            "reason": "10/7舊文，非48小時內本次休館討論，不計分"
+          }
+        ],
+        "queries": [
+          "小樽水族館 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨原頁 https://www.kkday.com/ja/product/139823-otaru-aquarium-admission-ticket-hokkaido ，為水族館門票；本題是休館避雷，不推薦當日買，不帶入cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "這幾天去小樽，先把水族館從行程表拿出來：11/24～12/11休館，冬季營業要等12/12才恢復。\n\n館方營業表和小樽觀光協會今天的公告都列出這段冬季準備期。即使平台還看得到售票頁，也不代表休館日能進去。",
+          "冬季營業安排是12/12～2027/2/23，日本時間10:00～16:00，最後入館15:30。不要沿用秋季早上9點開館的舊攻略。\n\n冬季海獸公園與遊園地關閉；企鵝散步等節目也要看冬季正式時刻與當天天候，這次不把舊季節目時間套進來。",
+          "如果行程落在11/24～12/11，先調整水族館與祝津段交通；已買票或含水族館行程的人，向原購買處核對使用日期和處理方式，不預設一定可退款。\n\n12/12以後才去的人，把冬季開館時間更新到行程表，再等官方節目公告。\n官方營業表：https://otaru-aq.jp/guide/openningtime"
+        ],
+        "angles": [
+          {
+            "name": "休館",
+            "opening": "11/24～12/11去小樽，水族館暫時不能排。"
+          },
+          {
+            "name": "舊攻略",
+            "opening": "冬季開館是10點，不是秋季的9點。"
+          },
+          {
+            "name": "親子",
+            "opening": "帶孩子看企鵝前，先核水族館休館期。"
+          },
+          {
+            "name": "網路票",
+            "opening": "平台有售票頁，不代表休館日能入場。"
+          },
+          {
+            "name": "重開",
+            "opening": "12/12重開的是冬季營業，並非所有區域都開。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://otaru-aq.jp/guide/openningtime"
+          }
+        ],
+        "extensions": [
+          "延伸行前限制與官方查詢攻略，本期不硬接分潤商品。"
+        ]
+      }
+    },
+    {
+      "id": "kyushu-kids-winter-20261124",
+      "title": "JR九州兒童100日圓票今天開賣，12/24起才能用",
+      "category": "交通／票券",
+      "region": "九州／JR九州普通快速與指定路線巴士",
+      "announcementDate": "11/9 14:00 JST原公告；11/17鐵道媒體報導",
+      "eventDate": "11/24～2027/1/10販售；12/24～2027/1/11擇1日使用",
+      "freshness": "超過7天例外：今天開賣",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季親子行程可比較交通費，但100日圓不能包成全九州新幹線任搭。",
+      "facts": "小學6年級以下，每張1日100日圓；JR九州普通快速及JR九州路線巴士。特急／JR九州新幹線另購特急券；不含博多小倉山陽新幹線與福岡地下鐵。必須前一天買；網路到前日23點、信用卡限定；指定席券售票機可買、窗口只領網路預約票不售；不可退款。條文未列國籍或居住地限制，但外國小孩學年認定、海外卡與註冊未完全確認，草稿明示先向JR核，不保證台灣學生無條件適用；不把幼兒一律需買票。",
+      "sources": [
+        {
+          "label": "官方2026冬季條款",
+          "url": "https://www.jrkyushu.co.jp/railway/bouken/winter2026/"
+        },
+        {
+          "label": "JR原始11/9發稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000001458.000037933.html"
+        },
+        {
+          "label": "鐵道Fan交叉日期與範圍",
+          "url": "https://railf.jp/news/2026/11/17/113500.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "冬季親子仍可規劃車站住宿，但先確認兒童資格與路線，不能把第三方JR PASS當成100日圓票。",
+        "products": [
+          "博多站周邊親子住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若確認孩子符合票券資格、行程以博多為基地，再比較車站周邊住宿；100日圓票仍須另向JR九州購買。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "こどもぼうけんきっぷ 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:x.com",
+          "こどもぼうけんきっぷ 冬 site:facebook.com OR site:instagram.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "博多站周邊住宿",
+              "url": "https://jp.trip.com/hotels/fukuoka-jr-hakata-station/hotels-c248r8256547/",
+              "kind": "住宿列表",
+              "reason": "先確認兒童票資格，再用博多作基地規劃親子行程。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "JR九州兒童1日100日圓票今天11/24開賣，但不是今天就能用：使用期是12/24～2027/1/11，買時選其中一天。\n\n對象寫「小學6年級以下」。官方公開條文沒有列國籍限制，但台灣孩子的學年認定、證明文件與海外付款，本次尚未完全確認；先向JR九州確認，再把省下的車費算進預算。",
+          "100日圓涵蓋JR九州普通、快速列車與JR九州路線巴士；搭特急、D&S觀光列車或JR九州新幹線，仍須另買相應特急券。\n\n博多～小倉的山陽新幹線、福岡市地下鐵不在範圍。大人也沒有跟著變100日圓，家長的票要另買；幼兒本來可能免費，是否需票依同伴人數與座位使用情況判斷。",
+          "最晚前一天買，當天不能補買：JR九州網路預約到前日日本時間23:00，只能信用卡付款；也可用JR九州指定席售票機。窗口不販售這張票，只能領取已完成的網路預約票。\n\n販售至2027/1/10，不可退款。先確認資格、搭車日期和路線，再付款。\n冬季官方規則：https://www.jrkyushu.co.jp/railway/bouken/winter2026/"
+        ],
+        "angles": [
+          {
+            "name": "開賣與使用",
+            "opening": "100日圓兒童票今天開賣，12/24才開始可用。"
+          },
+          {
+            "name": "適用資格",
+            "opening": "台灣親子別只看100日圓，先確認孩子適用資格。"
+          },
+          {
+            "name": "新幹線",
+            "opening": "100日圓不等於新幹線全部費用都包。"
+          },
+          {
+            "name": "購買時間",
+            "opening": "這張票當天不能買，前一天就要處理。"
+          },
+          {
+            "name": "家庭預算",
+            "opening": "孩子票100日圓，大人票仍要另外算。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://www.jrkyushu.co.jp/railway/bouken/winter2026/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：博多站周邊親子住宿；不含本題優惠或入場資格，須另核。"
+        ]
+      }
+    },
+    {
+      "id": "suica-tokyo-popup-20261124",
+      "title": "東京站Suica企鵝店今天15點開場，首日抽選已截止",
+      "category": "購物／動漫IP",
+      "region": "東京／丸之內地下南口改札外動輪廣場",
+      "announcementDate": "11/18千趣會公告；11/19媒體報導；11/24場地索引更新未當原始公告",
+      "eventDate": "11/24～12/5；通常10～20，首日15點開、末日15點關 JST",
+      "freshness": "今天開場；11/18公告不冒充今日新訊",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "在東京站轉車可順路，但首日抽選與改札外位置決定能不能逛。",
+      "facts": "11/24 15～20、11/25與26 10～13列事前抽選時段，11/20 23:59截止、11/21公布；可視配布狀態開放自由入場，非保證。限定伸縮票卡套2190日圓，並非可搭車的Suica卡。滿5000日圓特典先到送完為止，不合併收據。同商品每人1件見原稿；庫存不保證。外國人無明列排除，但抽選已截止，不介紹成仍能預約。GRANSTA原頁超時，使用千趣會原PDF與電Fami正文交叉，不以場地搜尋摘要當已讀原文。",
+      "sources": [
+        {
+          "label": "11/18千趣會原始公告",
+          "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf"
+        },
+        {
+          "label": "11/19媒體與抽選規則",
+          "url": "https://news.denfaminicogamer.jp/news/261119k"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "車站短期購物、首日抽選已截止，與訂房購票關聯薄弱，不硬推東京飯店。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 13,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.sotwe.com/assetformer",
+            "label": "企鵝店資訊鏡像",
+            "reason": "第三方鏡像，非原貼文，不採其時間或互動數"
+          }
+        ],
+        "queries": [
+          "Suica 11月24 site:x.com OR site:threads.com OR site:instagram.com OR site:facebook.com",
+          "Suica 動輪 site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "東京站Suica企鵝快閃店今天11/24下午3點開，不是上午10點；而且首日15:00～20:00列在事前抽選入場時段，抽選11/20就截止了。\n\n活動到12/5，位置是丸之內地下南口「改札外」動輪廣場。沒中籤或沒申請的人，先查現場是否已宣布自由入場，不要把開幕當成隨到隨逛。",
+          "一般營業時間是日本時間10:00～20:00，12/5最後一天15:00結束。11/25、11/26的10:00～13:00也在事前抽選時段內；主辦可能依配布情況改自由入場，但沒有保證。\n\n限定伸縮票卡套標價2,190日圓，買的是收納卡片的周邊，不是內含餘額的Suica交通卡。同款每人限1件，實際供貨以店頭為準。",
+          "會場Suica企鵝商品買滿含稅5,000日圓，公告有先到先送的壓克力鑰匙圈；收據不能合併，送完為止。有整理券也不保證買到商品或拿到特典。\n\n已安排東京站轉車的話，先確認自己可入場時段，再留購物時間。主辦原公告含位置、抽選及限購：https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf"
+        ],
+        "angles": [
+          {
+            "name": "首日時刻",
+            "opening": "Suica企鵝東京站店今天15點才開。"
+          },
+          {
+            "name": "抽選",
+            "opening": "首日開場有抽選時段，沒票先查自由入場通知。"
+          },
+          {
+            "name": "位置",
+            "opening": "這次企鵝店在東京站改札外，別在付費區裡找。"
+          },
+          {
+            "name": "商品",
+            "opening": "2,190日圓是Suica造型票卡套，不是交通卡。"
+          },
+          {
+            "name": "特典",
+            "opening": "滿5,000日圓贈品先到送完，整理券不保證有。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。",
+            "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf"
+          }
+        ],
+        "extensions": [
+          "延伸行前限制與官方查詢攻略，本期不硬接分潤商品。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "lucua-south-phase2-20261124",
+      "title": "LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事",
+      "category": "購物／新設施",
+      "region": "關西大阪／JR大阪站南側10～13樓",
+      "announcementDate": "9/30第2期開業日期報導；寶可夢店10/14原公告、11/23新增入場說明",
+      "eventDate": "11/24第2期開業；部分店12月才開",
+      "freshness": "今天開業例外；11/23更新無時刻，不假稱精確24小時",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "台灣角色周邊旅客能直接用上；兩種整理券最容易誤會，且不能把12月店寫成今天全開。",
+      "facts": "官方列10～13樓32新品牌分11、12月開；現場採訪以36店口徑含其他店，避免混用總數。入場頁說店券或樓層券任一可入樓層，樓層券不能進受管制店；樓層券當日06:00 JST起Airウェイト網路配布，無紙票、原則不可再入場。以當日行事曆及店方公告為準，不保證當刻有券。外國旅客未列國籍排除，個別店抽選、帳號與電話需求仍需逐店確認。",
+      "sources": [
+        {
+          "label": "官方開業與店鋪日期",
+          "url": "https://www.lucua.jp/special/south-open/"
+        },
+        {
+          "label": "官方兩層入場規則",
+          "url": "https://www.lucua.jp/south-entry/"
+        },
+        {
+          "label": "寶可夢店11/23更新",
+          "url": "https://shop.pokemon.co.jp/ja/shop/pokemoncenter-osaka/news/202610/000609.html"
+        },
+        {
+          "label": "Lmaga現場採訪11/17",
+          "url": "https://www.lmaga.jp/news/2026/11/1121367/"
+        },
+        {
+          "label": "9/30日期報導",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2144561.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "逛店本身不需付費套票；還在規劃大阪行程者才有梅田住宿需求，不把訂房當成入店保證。",
+        "products": [
+          "大阪站／梅田住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若這趟本來就要住梅田，可以比較大阪站周邊住宿；飯店訂房不包含角色商店的入場整理券。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 97,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "LUCUA 11月24 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com",
+          "LUCUA SOUTH site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "大阪Station City周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/osaka-station-city.html",
+              "kind": "住宿列表",
+              "reason": "只供原本打算住梅田的人比較，不能取得角色店入場權。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "fujiq-blackfriday-20261124",
+      "title": "富士急5,000日圓冬季票今天開賣：跨年不能用、不能改日期",
+      "category": "票券／優惠",
+      "region": "中部山梨／富士吉田富士急樂園",
+      "announcementDate": "11/5品牌原始公告；11/19優惠彙整交叉",
+      "eventDate": "11/24 12:00～12/4 23:59 JST販售；12/1～2027/2/5使用，12/26～1/3除外",
+      "freshness": "超過7天例外：今天開始販售，非今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "具體價格與冬季行程相關，最重要的是排除日與不可退款改期，不用最大折扣當每人實際省幅。",
+      "facts": "成人5000、中高生4600、小學生3500日圓；僅官方線上，現場不售。日期指定、不可退款或改日；部分設施另付費，惡天候低溫可停駛。官方未列居住地限制，但海外信用卡、帳號與學生資格文件未實測。原PDF售票連結productCode仍含2025，草稿使用2026官方活動入口，避免盲連舊碼；本期截止在12點開賣前，不宣稱付款或庫存已驗證。媒體入口讀取失敗，改用官方活動、品牌稿與優惠編輯頁交叉，非獨立採訪。",
+      "sources": [
+        {
+          "label": "官方2026活動與退改規則",
+          "url": "https://www.fujiq.jp/event/blackfriday2026.html"
+        },
+        {
+          "label": "11/5品牌原稿",
+          "url": "https://prtimes.jp/a/?c=1110&f=d1110-2108-3968b16753b5a418ec5fcf514e93f57b.pdf&r=2108"
+        },
+        {
+          "label": "11/19優惠編輯頁交叉",
+          "url": "https://sc-tsusho.jp/fujiq-coupon/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬季出發尚有規劃時間，可自然接周邊住宿或純交通；特價票必須官方買，不把第三方一般票當同優惠。",
+        "products": [
+          "富士急周邊住宿",
+          "另購交通"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "5,000日圓特價票走官方入口；若還沒安排住宿，可另比較富士急周邊飯店，別重複買到含門票套裝。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 94,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "富士急 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com",
+          "富士急 ブラックフライデー site:youtube.com OR site:tiktok.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "富士急樂園周邊飯店",
+              "url": "https://jp.trip.com/hotels/fujiyoshida-fuji-q-highland/hotels-c50161m6787262/",
+              "kind": "住宿列表",
+              "reason": "比較樂園附近住宿位置；日期與含票方案須分開確認。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "富士急樂園周邊住宿",
+              "url": "https://www.booking.com/landmark/jp/fujikyu-highland.html",
+              "kind": "住宿列表",
+              "reason": "搭配冬季樂園過夜，不把一般住宿當含5,000日圓票。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀富士急目的地頁 https://www.kkday.com/ja/destination/jp-fujiyoshida-fuji-q-highland ；純巴士901924原頁兩次讀取失敗，166492索引是含門票套裝，不推薦為純交通，以免重複買票。無推薦不帶入cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已讀 https://www.klook.com/ja/activity/95879-fujiq-highland-admission-ticket/ ，為一般一日票，未核同5,000日圓官方優惠，排除。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "chiikawa-market-opening-20261124",
+      "title": "幕張吉伊卡哇聖誕市集今天開場，但官網門票已完售",
+      "category": "活動／動漫IP",
+      "region": "關東千葉／幕張豐砂公園",
+      "announcementDate": "10/8開催公告；11/20媒體已報完售；11/24官方開場通知",
+      "eventDate": "11/24～12/25 11:00～21:00 JST；最後入場時段18:30～19:00",
+      "freshness": "今天開場；完售不是今天才發生，不能包裝最新搶票",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "有照片吸引力但購票已受限，對沒票者避免白跑，對持票者提醒手機與內容使用時間。",
+      "facts": "主辦當前首頁標チケットは完売いたしました，11/20媒體交叉已全日完售；沒有窗口當日票。成人12歲以上平日2500／假日2800、4～11歲1200／1400日圓，未滿4歲每位成人可帶1位免票。持票者需手機及專用APP；4～11歲同行兒童例外可無手機，但部分體驗受限。2小時30分是部分內容預約／排隊等限制，不能簡化成整場到點趕人；本稿不泛化此條。原購票日期10/31起，不能寫今天開賣。海外購票與APP地區未完全確認，不保證台灣帳號可用。",
+      "sources": [
+        {
+          "label": "官方現況與FAQ",
+          "url": "https://contents-abema.com/chiikawa-christmas-market/"
+        },
+        {
+          "label": "官方使用限制",
+          "url": "https://contents-abema.com/chiikawa-christmas-market/ticket-detail/"
+        },
+        {
+          "label": "共同通信10/9價格會期",
+          "url": "https://www.kyodo.co.jp/life/2026-10-09_4041248/"
+        },
+        {
+          "label": "11/20媒體已報完售",
+          "url": "https://www.crank-in.net/trend/events/194682/1"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門票已售罄，未持票讀者沒有可靠活動預訂入口，不能用住宿或其他商品暗示可補名額。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわクリスマスマーケット site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com",
+          "ちいかわクリスマスマーケット site:x.com OR site:facebook.com OR site:instagram.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "搜尋返回活動介紹與Moments，未證明販售門票；官方已完售，不推薦商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "otaru-closure-20261124",
+      "title": "小樽水族館今天起休館，12/12才恢復冬季營業",
+      "category": "旅遊／季節情報",
+      "region": "北海道小樽／祝津",
+      "announcementDate": "11/18觀光協會提醒；11/24休館公告；年度營業表原發布日未列",
+      "eventDate": "11/24～12/11休館；12/12～2027/2/23冬季營業",
+      "freshness": "今天公告與休館生效，無公布時刻",
+      "stars": {
+        "viral": 3,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "1週",
+      "why": "正好卡在台灣旅客晚秋北海道行程，改日期比推薦企鵝照片更有用。",
+      "facts": "館方年度表與小樽觀光協會今天公告交叉休館；冬季10～16、最後入館15:30 JST，海獸公園與遊園地冬季關閉。未核冬季當日節目，不保證企鵝散步時刻／雪況。休館不限國籍，不能用網路票繞過。",
+      "sources": [
+        {
+          "label": "水族館官方營業表",
+          "url": "https://otaru-aq.jp/guide/openningtime"
+        },
+        {
+          "label": "小樽觀光協會11/24公告",
+          "url": "https://otaru.gr.jp/tourist/otarusuizokukankyukan2026-11-24-12-11"
+        },
+        {
+          "label": "11/18提前提醒",
+          "url": "https://otaru.gr.jp/tourist/2026-11-23made"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "目前是休館避雷，讀者多已排好北海道行程；不以今日提醒推售不可當日使用的門票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1791309596.A.B0C.html",
+            "label": "北海道跨年行程討論",
+            "reason": "10/7舊文，非48小時內本次休館討論，不計分"
+          }
+        ],
+        "queries": [
+          "小樽水族館 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀乾淨原頁 https://www.kkday.com/ja/product/139823-otaru-aquarium-admission-ticket-hokkaido ，為水族館門票；本題是休館避雷，不推薦當日買，不帶入cid。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "kyushu-kids-winter-20261124",
+      "title": "JR九州兒童100日圓票今天開賣，12/24起才能用",
+      "category": "交通／票券",
+      "region": "九州／JR九州普通快速與指定路線巴士",
+      "announcementDate": "11/9 14:00 JST原公告；11/17鐵道媒體報導",
+      "eventDate": "11/24～2027/1/10販售；12/24～2027/1/11擇1日使用",
+      "freshness": "超過7天例外：今天開賣",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季親子行程可比較交通費，但100日圓不能包成全九州新幹線任搭。",
+      "facts": "小學6年級以下，每張1日100日圓；JR九州普通快速及JR九州路線巴士。特急／JR九州新幹線另購特急券；不含博多小倉山陽新幹線與福岡地下鐵。必須前一天買；網路到前日23點、信用卡限定；指定席券售票機可買、窗口只領網路預約票不售；不可退款。條文未列國籍或居住地限制，但外國小孩學年認定、海外卡與註冊未完全確認，草稿明示先向JR核，不保證台灣學生無條件適用；不把幼兒一律需買票。",
+      "sources": [
+        {
+          "label": "官方2026冬季條款",
+          "url": "https://www.jrkyushu.co.jp/railway/bouken/winter2026/"
+        },
+        {
+          "label": "JR原始11/9發稿",
+          "url": "https://prtimes.jp/main/html/rd/p/000001458.000037933.html"
+        },
+        {
+          "label": "鐵道Fan交叉日期與範圍",
+          "url": "https://railf.jp/news/2026/11/17/113500.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "冬季親子仍可規劃車站住宿，但先確認兒童資格與路線，不能把第三方JR PASS當成100日圓票。",
+        "products": [
+          "博多站周邊親子住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com",
+          "KKday",
+          "Klook"
+        ],
+        "commentOpening": "若確認孩子符合票券資格、行程以博多為基地，再比較車站周邊住宿；100日圓票仍須另向JR九州購買。",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "こどもぼうけんきっぷ 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:x.com",
+          "こどもぼうけんきっぷ 冬 site:facebook.com OR site:instagram.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已開啟核對地區與頁型，非庫存或價格承諾。",
+          "pages": [
+            {
+              "title": "博多站周邊住宿",
+              "url": "https://jp.trip.com/hotels/fukuoka-jr-hakata-station/hotels-c248r8256547/",
+              "kind": "住宿列表",
+              "reason": "先確認兒童票資格，再用博多作基地規劃親子行程。",
+              "checks": "需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。",
+              "checkedAt": "2026-11-24T10:07:33+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "suica-tokyo-popup-20261124",
+      "title": "東京站Suica企鵝店今天15點開場，首日抽選已截止",
+      "category": "購物／動漫IP",
+      "region": "東京／丸之內地下南口改札外動輪廣場",
+      "announcementDate": "11/18千趣會公告；11/19媒體報導；11/24場地索引更新未當原始公告",
+      "eventDate": "11/24～12/5；通常10～20，首日15點開、末日15點關 JST",
+      "freshness": "今天開場；11/18公告不冒充今日新訊",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "在東京站轉車可順路，但首日抽選與改札外位置決定能不能逛。",
+      "facts": "11/24 15～20、11/25與26 10～13列事前抽選時段，11/20 23:59截止、11/21公布；可視配布狀態開放自由入場，非保證。限定伸縮票卡套2190日圓，並非可搭車的Suica卡。滿5000日圓特典先到送完為止，不合併收據。同商品每人1件見原稿；庫存不保證。外國人無明列排除，但抽選已截止，不介紹成仍能預約。GRANSTA原頁超時，使用千趣會原PDF與電Fami正文交叉，不以場地搜尋摘要當已讀原文。",
+      "sources": [
+        {
+          "label": "11/18千趣會原始公告",
+          "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf"
+        },
+        {
+          "label": "11/19媒體與抽選規則",
+          "url": "https://news.denfaminicogamer.jp/news/261119k"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "車站短期購物、首日抽選已截止，與訂房購票關聯薄弱，不硬推東京飯店。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "score": 87,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 13,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.sotwe.com/assetformer",
+            "label": "企鵝店資訊鏡像",
+            "reason": "第三方鏡像，非原貼文，不採其時間或互動數"
+          }
+        ],
+        "queries": [
+          "Suica 11月24 site:x.com OR site:threads.com OR site:instagram.com OR site:facebook.com",
+          "Suica 動輪 site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。",
+          "pages": []
+        }
+      ],
+      "reason": "入選；詳細草稿另存於相同id"
+    },
+    {
+      "id": "pending-20261124-0",
+      "title": "名鐵150日圓兒童電車巴士票",
+      "category": "票券",
+      "region": "中部愛知",
+      "announcementDate": "10/23公告；11/24～27使用",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "已讀原稿，對象愛知縣公立學校兒童，不能當台灣短期旅客通用優惠。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.meitetsu.co.jp/profile/news/2026/__icsFiles/afieldfile/2026/10/23/26-10-23kennminnnohi2.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "低",
+        "reason": "愛知縣公立學校資格，與台灣短期旅客需求不符。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-1",
+      "title": "TOICA小雞×ICOCA聯名周邊",
+      "category": "購物",
+      "region": "中部／關西",
+      "announcementDate": "11/20公告、11/24販售",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "已讀原稿，但店別價格、庫存及第二來源未完整核對，不把周邊當新交通卡。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046200.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-2",
+      "title": "永谷園MocoMoco香草蛋糕粉恢復販售",
+      "category": "美食",
+      "region": "全國",
+      "announcementDate": "11/2公告；11/24恢復",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "已讀官方：僅香草數量限定，巧克力仍休售；未核第二來源與店頭庫存。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.nagatanien.co.jp/a.php?id=2121"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-3",
+      "title": "全家BE:FIRST六款聯名",
+      "category": "美食",
+      "region": "全國",
+      "announcementDate": "11/19公告、11/24起陸續",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "已讀品牌稿，商品實際日期不同，不能寫六款全國同日齊上；未逐款交叉。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_newsrelease_01.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-4",
+      "title": "羽越本線強風預警",
+      "category": "交通",
+      "region": "東北／酒田～秋田",
+      "announcementDate": "11/24預報，原公布時刻未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "搜尋索引有傍晚至末班延誤停駛可能，原頁卻是轉址提示；不能寫已停駛，待核新運行頁及第二來源。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.jreast.co.jp/t_i/tohoku.html"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-5",
+      "title": "仙台新潟巴士改無廁所車輛",
+      "category": "交通",
+      "region": "東北／新潟",
+      "announcementDate": "11/23 19:35 JST公告；11/24兩班",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "原頁明列仙台07:30、新潟萬代14:30改無廁所車；未核第二來源，對象窄，保留行前線索。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.jrbustohoku.co.jp/service/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-6",
+      "title": "貴船紅葉燈籠可能今日最後一天",
+      "category": "季節情報",
+      "region": "關西京都",
+      "announcementDate": "日曆列11/7～24，原公告未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "只有日曆線索，未核主辦2026最後日與天候，不推薦趕場。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://kyoto-design.jp/event/date/2026-11"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-7",
+      "title": "愛知週ANA Grand Court兒童自助餐優惠",
+      "category": "美食",
+      "region": "中部名古屋",
+      "announcementDate": "11/24～27，原發布日未核",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "縣方索引提兒童優惠，飯店原文及居住地資格未交叉，不當台灣旅客確定福利。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.pref.aichi.jp/uploaded/attachment/634385.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    },
+    {
+      "id": "pending-20261124-8",
+      "title": "HAC丘珠釧路機械問題與翌日運行",
+      "category": "交通",
+      "region": "北海道",
+      "announcementDate": "11/23 17:43報導、11/24正常預定",
+      "eventDate": "線索日期見公告欄，尚未完全確認",
+      "reason": "僅新聞索引線索，未核航空公司11/24實際運行；不把昨天5航班取消包裝今天仍停飛。",
+      "sources": [
+        {
+          "label": "候選線索／查核程度見原因",
+          "url": "https://www.htb.co.jp/news/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "尚未完整查核，不先推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。",
+        "assessedOn": "2026-11-24"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-24T10:07:33+08:00",
+        "summary": "未完成此題定向社群查核",
+        "evidence": [],
+        "leads": [],
+        "queries": []
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "LUCUA 11/25～26入場",
+      "next": "查看翌日行事曆與目標店券，不假設每天規則相同。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.lucua.jp/south-entry/"
+        }
+      ]
+    },
+    {
+      "title": "富士急開賣後結帳條件",
+      "next": "開賣後核海外支付、指定日期與售完情況；不保證成功付款。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.fujiq.jp/event/blackfriday2026.html"
+        }
+      ]
+    },
+    {
+      "title": "JR九州外國兒童使用資格",
+      "next": "核海外學年文件、註冊與信用卡接受，不推測沒有國籍條文就一定可用。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.jrkyushu.co.jp/railway/bouken/winter2026/"
+        }
+      ]
+    },
+    {
+      "title": "Suica企鵝自由入場",
+      "next": "11/25～26上午仍列抽選時段，是否切換自由入場須主辦公告。",
+      "sources": [
+        {
+          "label": "主辦原稿",
+          "url": "https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf"
+        }
+      ]
+    },
+    {
+      "title": "羽越本線當日與翌日運行",
+      "next": "索引只有延誤可能，待讀到原始最新運行公告後再判斷。",
+      "sources": [
+        {
+          "label": "JR運行頁",
+          "url": "https://traininfo.jreast.co.jp/train_info/tohoku.aspx?s=1&vm=r"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "lucua-south-phase2-20261124",
+    "title": "LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事",
+    "score": 97,
+    "reason": "編輯推薦：新店範圍、雙層整理券都會影響台灣自由行，今天解釋能避免白跑；不預先替使用者選題。",
+    "versusSecond": "富士急優惠需冬季日期與付款條件配合；LUCUA對正在大阪與之後訪日者都有直接用途，收藏延伸較長。",
+    "publishAt": "11/24 10:30 Asia/Taipei（編輯建議，非帳號實測）",
+    "audience": "關西自由行、角色周邊與親子旅客",
+    "angle": "進樓層不等於進所有限定店",
+    "lifecycle": "1個月以上"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-24T10:07:33+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 6,
+    "qualifiedTopicCount": 0,
+    "limitation": "6題完成定向搜尋，未取得48小時內雙作者且原文時間及讚／留言完整的公開樣本。其餘9候選尚未完成逐題社群補查。checkedAt為查核截止，沒有假填互動觀測。",
+    "platformAccess": {
+      "Threads": "無合格近期原文",
+      "Facebook": "無合格近期原文",
+      "Instagram": "無合格近期原文",
+      "X": "鏡像與官方公告不可代替自然討論",
+      "PTT": "小樽舊行程文不符48小時及事件",
+      "Dcard": "無合格原文",
+      "YouTube": "未取得符合事件與時間的雙作者",
+      "TikTok": "robots限制，無可計分原文"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-24\n2026-11-24 10:07:33 Asia/Taipei（日本11:07:33 Asia/Tokyo）\n本期15個不同事件候選，6題主要事實完成交叉、各3串草稿；9題因適用資格、原頁失敗或未完成第二來源而未入選，不湊10題。未核題的八項分數與星等為null（未評估，不是0）。先比較候選再按編輯分數排序，6題均無合格雙作者自然討論樣本，無法建立本期社群熱榜。已比對11/21～23報告，不重發沒有進展的首里城、麵包小偷與高峰。廣掃北海道、東北、關東、中部北陸、關西、中國四國、九州沖繩；部分區域僅有舊日曆或索引，並非完整即時監控。主要事實跨頁核對，不宣稱每個來源皆獨立採訪；富士急交叉為優惠編輯頁，Suica媒體含品牌提供內容，已避免將PR轉載算兩次獨立採訪。\n已查證：大阪LUCUA SOUTH第2期今日開業，但部分店12月才開，兩種入場券權限不同。\n已查證：富士急冬季特價票今日日本12點開賣，排除跨年且不可改日退款。\n已查證：幕張吉伊卡哇聖誕市集今天開場，官網目前顯示票已完售。\n已查證：小樽水族館11/24～12/11休館，冬季12/12再開。\n已查證：JR九州100日圓兒童票今天販售，使用從12/24開始，海外資格細節仍待確認。\n已查證：東京站Suica企鵝店首日15點開，首日抽選已截止。\n編輯觀察：今日最有價值的是開業與可入場的差別，不以新開幕等於可隨到隨買。\n社群限制：六題熱度未確認，分數及星等只代表編輯潛力。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。所有分數及星等是編輯預估，非已驗證熱度、觀看或轉換保證。平台頁於本期讀取核對，不代表已選日期房況或分潤資格。\n{\n  \"candidates\": [\n    {\n      \"id\": \"lucua-south-phase2-20261124\",\n      \"title\": \"LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事\",\n      \"category\": \"購物／新設施\",\n      \"region\": \"關西大阪／JR大阪站南側10～13樓\",\n      \"announcementDate\": \"9/30第2期開業日期報導；寶可夢店10/14原公告、11/23新增入場說明\",\n      \"eventDate\": \"11/24第2期開業；部分店12月才開\",\n      \"freshness\": \"今天開業例外；11/23更新無時刻，不假稱精確24小時\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"台灣角色周邊旅客能直接用上；兩種整理券最容易誤會，且不能把12月店寫成今天全開。\",\n      \"facts\": \"官方列10～13樓32新品牌分11、12月開；現場採訪以36店口徑含其他店，避免混用總數。入場頁說店券或樓層券任一可入樓層，樓層券不能進受管制店；樓層券當日06:00 JST起Airウェイト網路配布，無紙票、原則不可再入場。以當日行事曆及店方公告為準，不保證當刻有券。外國旅客未列國籍排除，個別店抽選、帳號與電話需求仍需逐店確認。\",\n      \"sources\": [\n        {\n          \"label\": \"官方開業與店鋪日期\",\n          \"url\": \"https://www.lucua.jp/special/south-open/\"\n        },\n        {\n          \"label\": \"官方兩層入場規則\",\n          \"url\": \"https://www.lucua.jp/south-entry/\"\n        },\n        {\n          \"label\": \"寶可夢店11/23更新\",\n          \"url\": \"https://shop.pokemon.co.jp/ja/shop/pokemoncenter-osaka/news/202610/000609.html\"\n        },\n        {\n          \"label\": \"Lmaga現場採訪11/17\",\n          \"url\": \"https://www.lmaga.jp/news/2026/11/1121367/\"\n        },\n        {\n          \"label\": \"9/30日期報導\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2144561.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"逛店本身不需付費套票；還在規劃大阪行程者才有梅田住宿需求，不把訂房當成入店保證。\",\n        \"products\": [\n          \"大阪站／梅田住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若這趟本來就要住梅田，可以比較大阪站周邊住宿；飯店訂房不包含角色商店的入場整理券。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 97,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"LUCUA 11月24 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com\",\n          \"LUCUA SOUTH site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪Station City周邊住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/osaka-station-city.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"只供原本打算住梅田的人比較，不能取得角色店入場權。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"fujiq-blackfriday-20261124\",\n      \"title\": \"富士急5,000日圓冬季票今天開賣：跨年不能用、不能改日期\",\n      \"category\": \"票券／優惠\",\n      \"region\": \"中部山梨／富士吉田富士急樂園\",\n      \"announcementDate\": \"11/5品牌原始公告；11/19優惠彙整交叉\",\n      \"eventDate\": \"11/24 12:00～12/4 23:59 JST販售；12/1～2027/2/5使用，12/26～1/3除外\",\n      \"freshness\": \"超過7天例外：今天開始販售，非今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"具體價格與冬季行程相關，最重要的是排除日與不可退款改期，不用最大折扣當每人實際省幅。\",\n      \"facts\": \"成人5000、中高生4600、小學生3500日圓；僅官方線上，現場不售。日期指定、不可退款或改日；部分設施另付費，惡天候低溫可停駛。官方未列居住地限制，但海外信用卡、帳號與學生資格文件未實測。原PDF售票連結productCode仍含2025，草稿使用2026官方活動入口，避免盲連舊碼；本期截止在12點開賣前，不宣稱付款或庫存已驗證。媒體入口讀取失敗，改用官方活動、品牌稿與優惠編輯頁交叉，非獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"官方2026活動與退改規則\",\n          \"url\": \"https://www.fujiq.jp/event/blackfriday2026.html\"\n        },\n        {\n          \"label\": \"11/5品牌原稿\",\n          \"url\": \"https://prtimes.jp/a/?c=1110&f=d1110-2108-3968b16753b5a418ec5fcf514e93f57b.pdf&r=2108\"\n        },\n        {\n          \"label\": \"11/19優惠編輯頁交叉\",\n          \"url\": \"https://sc-tsusho.jp/fujiq-coupon/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"冬季出發尚有規劃時間，可自然接周邊住宿或純交通；特價票必須官方買，不把第三方一般票當同優惠。\",\n        \"products\": [\n          \"富士急周邊住宿\",\n          \"另購交通\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"5,000日圓特價票走官方入口；若還沒安排住宿，可另比較富士急周邊飯店，別重複買到含門票套裝。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 94,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"富士急 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\",\n          \"富士急 ブラックフライデー site:youtube.com OR site:tiktok.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"富士急樂園周邊飯店\",\n              \"url\": \"https://jp.trip.com/hotels/fujiyoshida-fuji-q-highland/hotels-c50161m6787262/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"比較樂園附近住宿位置；日期與含票方案須分開確認。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"富士急樂園周邊住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/fujikyu-highland.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"搭配冬季樂園過夜，不把一般住宿當含5,000日圓票。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀富士急目的地頁 https://www.kkday.com/ja/destination/jp-fujiyoshida-fuji-q-highland ；純巴士901924原頁兩次讀取失敗，166492索引是含門票套裝，不推薦為純交通，以免重複買票。無推薦不帶入cid。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/95879-fujiq-highland-admission-ticket/ ，為一般一日票，未核同5,000日圓官方優惠，排除。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"chiikawa-market-opening-20261124\",\n      \"title\": \"幕張吉伊卡哇聖誕市集今天開場，但官網門票已完售\",\n      \"category\": \"活動／動漫IP\",\n      \"region\": \"關東千葉／幕張豐砂公園\",\n      \"announcementDate\": \"10/8開催公告；11/20媒體已報完售；11/24官方開場通知\",\n      \"eventDate\": \"11/24～12/25 11:00～21:00 JST；最後入場時段18:30～19:00\",\n      \"freshness\": \"今天開場；完售不是今天才發生，不能包裝最新搶票\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"有照片吸引力但購票已受限，對沒票者避免白跑，對持票者提醒手機與內容使用時間。\",\n      \"facts\": \"主辦當前首頁標チケットは完売いたしました，11/20媒體交叉已全日完售；沒有窗口當日票。成人12歲以上平日2500／假日2800、4～11歲1200／1400日圓，未滿4歲每位成人可帶1位免票。持票者需手機及專用APP；4～11歲同行兒童例外可無手機，但部分體驗受限。2小時30分是部分內容預約／排隊等限制，不能簡化成整場到點趕人；本稿不泛化此條。原購票日期10/31起，不能寫今天開賣。海外購票與APP地區未完全確認，不保證台灣帳號可用。\",\n      \"sources\": [\n        {\n          \"label\": \"官方現況與FAQ\",\n          \"url\": \"https://contents-abema.com/chiikawa-christmas-market/\"\n        },\n        {\n          \"label\": \"官方使用限制\",\n          \"url\": \"https://contents-abema.com/chiikawa-christmas-market/ticket-detail/\"\n        },\n        {\n          \"label\": \"共同通信10/9價格會期\",\n          \"url\": \"https://www.kyodo.co.jp/life/2026-10-09_4041248/\"\n        },\n        {\n          \"label\": \"11/20媒體已報完售\",\n          \"url\": \"https://www.crank-in.net/trend/events/194682/1\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"門票已售罄，未持票讀者沒有可靠活動預訂入口，不能用住宿或其他商品暗示可補名額。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 92,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ちいかわクリスマスマーケット site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com\",\n          \"ちいかわクリスマスマーケット site:x.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"搜尋返回活動介紹與Moments，未證明販售門票；官方已完售，不推薦商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"otaru-closure-20261124\",\n      \"title\": \"小樽水族館今天起休館，12/12才恢復冬季營業\",\n      \"category\": \"旅遊／季節情報\",\n      \"region\": \"北海道小樽／祝津\",\n      \"announcementDate\": \"11/18觀光協會提醒；11/24休館公告；年度營業表原發布日未列\",\n      \"eventDate\": \"11/24～12/11休館；12/12～2027/2/23冬季營業\",\n      \"freshness\": \"今天公告與休館生效，無公布時刻\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"正好卡在台灣旅客晚秋北海道行程，改日期比推薦企鵝照片更有用。\",\n      \"facts\": \"館方年度表與小樽觀光協會今天公告交叉休館；冬季10～16、最後入館15:30 JST，海獸公園與遊園地冬季關閉。未核冬季當日節目，不保證企鵝散步時刻／雪況。休館不限國籍，不能用網路票繞過。\",\n      \"sources\": [\n        {\n          \"label\": \"水族館官方營業表\",\n          \"url\": \"https://otaru-aq.jp/guide/openningtime\"\n        },\n        {\n          \"label\": \"小樽觀光協會11/24公告\",\n          \"url\": \"https://otaru.gr.jp/tourist/otarusuizokukankyukan2026-11-24-12-11\"\n        },\n        {\n          \"label\": \"11/18提前提醒\",\n          \"url\": \"https://otaru.gr.jp/tourist/2026-11-23made\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"目前是休館避雷，讀者多已排好北海道行程；不以今日提醒推售不可當日使用的門票。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 11,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1791309596.A.B0C.html\",\n            \"label\": \"北海道跨年行程討論\",\n            \"reason\": \"10/7舊文，非48小時內本次休館討論，不計分\"\n          }\n        ],\n        \"queries\": [\n          \"小樽水族館 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀乾淨原頁 https://www.kkday.com/ja/product/139823-otaru-aquarium-admission-ticket-hokkaido ，為水族館門票；本題是休館避雷，不推薦當日買，不帶入cid。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"kyushu-kids-winter-20261124\",\n      \"title\": \"JR九州兒童100日圓票今天開賣，12/24起才能用\",\n      \"category\": \"交通／票券\",\n      \"region\": \"九州／JR九州普通快速與指定路線巴士\",\n      \"announcementDate\": \"11/9 14:00 JST原公告；11/17鐵道媒體報導\",\n      \"eventDate\": \"11/24～2027/1/10販售；12/24～2027/1/11擇1日使用\",\n      \"freshness\": \"超過7天例外：今天開賣\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季親子行程可比較交通費，但100日圓不能包成全九州新幹線任搭。\",\n      \"facts\": \"小學6年級以下，每張1日100日圓；JR九州普通快速及JR九州路線巴士。特急／JR九州新幹線另購特急券；不含博多小倉山陽新幹線與福岡地下鐵。必須前一天買；網路到前日23點、信用卡限定；指定席券售票機可買、窗口只領網路預約票不售；不可退款。條文未列國籍或居住地限制，但外國小孩學年認定、海外卡與註冊未完全確認，草稿明示先向JR核，不保證台灣學生無條件適用；不把幼兒一律需買票。\",\n      \"sources\": [\n        {\n          \"label\": \"官方2026冬季條款\",\n          \"url\": \"https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n        },\n        {\n          \"label\": \"JR原始11/9發稿\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000001458.000037933.html\"\n        },\n        {\n          \"label\": \"鐵道Fan交叉日期與範圍\",\n          \"url\": \"https://railf.jp/news/2026/11/17/113500.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"冬季親子仍可規劃車站住宿，但先確認兒童資格與路線，不能把第三方JR PASS當成100日圓票。\",\n        \"products\": [\n          \"博多站周邊親子住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若確認孩子符合票券資格、行程以博多為基地，再比較車站周邊住宿；100日圓票仍須另向JR九州購買。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 89,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"こどもぼうけんきっぷ 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:x.com\",\n          \"こどもぼうけんきっぷ 冬 site:facebook.com OR site:instagram.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"博多站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/fukuoka-jr-hakata-station/hotels-c248r8256547/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"先確認兒童票資格，再用博多作基地規劃親子行程。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"suica-tokyo-popup-20261124\",\n      \"title\": \"東京站Suica企鵝店今天15點開場，首日抽選已截止\",\n      \"category\": \"購物／動漫IP\",\n      \"region\": \"東京／丸之內地下南口改札外動輪廣場\",\n      \"announcementDate\": \"11/18千趣會公告；11/19媒體報導；11/24場地索引更新未當原始公告\",\n      \"eventDate\": \"11/24～12/5；通常10～20，首日15點開、末日15點關 JST\",\n      \"freshness\": \"今天開場；11/18公告不冒充今日新訊\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"在東京站轉車可順路，但首日抽選與改札外位置決定能不能逛。\",\n      \"facts\": \"11/24 15～20、11/25與26 10～13列事前抽選時段，11/20 23:59截止、11/21公布；可視配布狀態開放自由入場，非保證。限定伸縮票卡套2190日圓，並非可搭車的Suica卡。滿5000日圓特典先到送完為止，不合併收據。同商品每人1件見原稿；庫存不保證。外國人無明列排除，但抽選已截止，不介紹成仍能預約。GRANSTA原頁超時，使用千趣會原PDF與電Fami正文交叉，不以場地搜尋摘要當已讀原文。\",\n      \"sources\": [\n        {\n          \"label\": \"11/18千趣會原始公告\",\n          \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n        },\n        {\n          \"label\": \"11/19媒體與抽選規則\",\n          \"url\": \"https://news.denfaminicogamer.jp/news/261119k\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"車站短期購物、首日抽選已截止，與訂房購票關聯薄弱，不硬推東京飯店。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 87,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 13,\n        \"實用性\": 13,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.sotwe.com/assetformer\",\n            \"label\": \"企鵝店資訊鏡像\",\n            \"reason\": \"第三方鏡像，非原貼文，不採其時間或互動數\"\n          }\n        ],\n        \"queries\": [\n          \"Suica 11月24 site:x.com OR site:threads.com OR site:instagram.com OR site:facebook.com\",\n          \"Suica 動輪 site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"pending-20261124-0\",\n      \"title\": \"名鐵150日圓兒童電車巴士票\",\n      \"category\": \"票券\",\n      \"region\": \"中部愛知\",\n      \"announcementDate\": \"10/23公告；11/24～27使用\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀原稿，對象愛知縣公立學校兒童，不能當台灣短期旅客通用優惠。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.meitetsu.co.jp/profile/news/2026/__icsFiles/afieldfile/2026/10/23/26-10-23kennminnnohi2.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"愛知縣公立學校資格，與台灣短期旅客需求不符。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-1\",\n      \"title\": \"TOICA小雞×ICOCA聯名周邊\",\n      \"category\": \"購物\",\n      \"region\": \"中部／關西\",\n      \"announcementDate\": \"11/20公告、11/24販售\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀原稿，但店別價格、庫存及第二來源未完整核對，不把周邊當新交通卡。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046200.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-2\",\n      \"title\": \"永谷園MocoMoco香草蛋糕粉恢復販售\",\n      \"category\": \"美食\",\n      \"region\": \"全國\",\n      \"announcementDate\": \"11/2公告；11/24恢復\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀官方：僅香草數量限定，巧克力仍休售；未核第二來源與店頭庫存。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.nagatanien.co.jp/a.php?id=2121\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-3\",\n      \"title\": \"全家BE:FIRST六款聯名\",\n      \"category\": \"美食\",\n      \"region\": \"全國\",\n      \"announcementDate\": \"11/19公告、11/24起陸續\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀品牌稿，商品實際日期不同，不能寫六款全國同日齊上；未逐款交叉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_newsrelease_01.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-4\",\n      \"title\": \"羽越本線強風預警\",\n      \"category\": \"交通\",\n      \"region\": \"東北／酒田～秋田\",\n      \"announcementDate\": \"11/24預報，原公布時刻未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"搜尋索引有傍晚至末班延誤停駛可能，原頁卻是轉址提示；不能寫已停駛，待核新運行頁及第二來源。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/t_i/tohoku.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-5\",\n      \"title\": \"仙台新潟巴士改無廁所車輛\",\n      \"category\": \"交通\",\n      \"region\": \"東北／新潟\",\n      \"announcementDate\": \"11/23 19:35 JST公告；11/24兩班\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原頁明列仙台07:30、新潟萬代14:30改無廁所車；未核第二來源，對象窄，保留行前線索。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.jrbustohoku.co.jp/service/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-6\",\n      \"title\": \"貴船紅葉燈籠可能今日最後一天\",\n      \"category\": \"季節情報\",\n      \"region\": \"關西京都\",\n      \"announcementDate\": \"日曆列11/7～24，原公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"只有日曆線索，未核主辦2026最後日與天候，不推薦趕場。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://kyoto-design.jp/event/date/2026-11\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-7\",\n      \"title\": \"愛知週ANA Grand Court兒童自助餐優惠\",\n      \"category\": \"美食\",\n      \"region\": \"中部名古屋\",\n      \"announcementDate\": \"11/24～27，原發布日未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"縣方索引提兒童優惠，飯店原文及居住地資格未交叉，不當台灣旅客確定福利。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.pref.aichi.jp/uploaded/attachment/634385.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-8\",\n      \"title\": \"HAC丘珠釧路機械問題與翌日運行\",\n      \"category\": \"交通\",\n      \"region\": \"北海道\",\n      \"announcementDate\": \"11/23 17:43報導、11/24正常預定\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"僅新聞索引線索，未核航空公司11/24實際運行；不把昨天5航班取消包裝今天仍停飛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.htb.co.jp/news/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"lucua-south-phase2-20261124\",\n    \"title\": \"LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事\",\n    \"score\": 97,\n    \"reason\": \"編輯推薦：新店範圍、雙層整理券都會影響台灣自由行，今天解釋能避免白跑；不預先替使用者選題。\",\n    \"versusSecond\": \"富士急優惠需冬季日期與付款條件配合；LUCUA對正在大阪與之後訪日者都有直接用途，收藏延伸較長。\",\n    \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，非帳號實測）\",\n    \"audience\": \"關西自由行、角色周邊與親子旅客\",\n    \"angle\": \"進樓層不等於進所有限定店\",\n    \"lifecycle\": \"1個月以上\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 6,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"6題完成定向搜尋，未取得48小時內雙作者且原文時間及讚／留言完整的公開樣本。其餘9候選尚未完成逐題社群補查。checkedAt為查核截止，沒有假填互動觀測。\",\n    \"platformAccess\": {\n      \"Threads\": \"無合格近期原文\",\n      \"Facebook\": \"無合格近期原文\",\n      \"Instagram\": \"無合格近期原文\",\n      \"X\": \"鏡像與官方公告不可代替自然討論\",\n      \"PTT\": \"小樽舊行程文不符48小時及事件\",\n      \"Dcard\": \"無合格原文\",\n      \"YouTube\": \"未取得符合事件與時間的雙作者\",\n      \"TikTok\": \"robots限制，無可計分原文\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"LUCUA 11/25～26入場\",\n      \"next\": \"查看翌日行事曆與目標店券，不假設每天規則相同。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.lucua.jp/south-entry/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"富士急開賣後結帳條件\",\n      \"next\": \"開賣後核海外支付、指定日期與售完情況；不保證成功付款。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.fujiq.jp/event/blackfriday2026.html\"\n        }\n      ]\n    },\n    {\n      \"title\": \"JR九州外國兒童使用資格\",\n      \"next\": \"核海外學年文件、註冊與信用卡接受，不推測沒有國籍條文就一定可用。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Suica企鵝自由入場\",\n      \"next\": \"11/25～26上午仍列抽選時段，是否切換自由入場須主辦公告。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦原稿\",\n          \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n        }\n      ]\n    },\n    {\n      \"title\": \"羽越本線當日與翌日運行\",\n      \"next\": \"索引只有延誤可能，待讀到原始最新運行公告後再判斷。\",\n      \"sources\": [\n        {\n          \"label\": \"JR運行頁\",\n          \"url\": \"https://traininfo.jreast.co.jp/train_info/tohoku.aspx?s=1&vm=r\"\n        }\n      ]\n    }\n  ]\n}",
+  "fullText": "日本每日內容雷達\n2026-11-24\n2026-11-24 10:07:33 Asia/Taipei（日本11:07:33 Asia/Tokyo）\n本期15個不同事件候選，6題主要事實完成交叉、各3串草稿；9題因適用資格、原頁失敗或未完成第二來源而未入選，不湊10題。未核題的八項分數與星等為null（未評估，不是0）。先比較候選再按編輯分數排序，6題均無合格雙作者自然討論樣本，無法建立本期社群熱榜。已比對11/21～23報告，不重發沒有進展的首里城、麵包小偷與高峰。廣掃北海道、東北、關東、中部北陸、關西、中國四國、九州沖繩；部分區域僅有舊日曆或索引，並非完整即時監控。主要事實跨頁核對，不宣稱每個來源皆獨立採訪；富士急交叉為優惠編輯頁，Suica媒體含品牌提供內容，已避免將PR轉載算兩次獨立採訪。\n已查證：大阪LUCUA SOUTH第2期今日開業，但部分店12月才開，兩種入場券權限不同。\n已查證：富士急冬季特價票今日日本12點開賣，排除跨年且不可改日退款。\n已查證：幕張吉伊卡哇聖誕市集今天開場，官網目前顯示票已完售。\n已查證：小樽水族館11/24～12/11休館，冬季12/12再開。\n已查證：JR九州100日圓兒童票今天販售，使用從12/24開始，海外資格細節仍待確認。\n已查證：東京站Suica企鵝店首日15點開，首日抽選已截止。\n編輯觀察：今日最有價值的是開業與可入場的差別，不以新開幕等於可隨到隨買。\n社群限制：六題熱度未確認，分數及星等只代表編輯潛力。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。所有分數及星等是編輯預估，非已驗證熱度、觀看或轉換保證。平台頁於本期讀取核對，不代表已選日期房況或分潤資格。\n{\n  \"candidates\": [\n    {\n      \"id\": \"lucua-south-phase2-20261124\",\n      \"title\": \"LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事\",\n      \"category\": \"購物／新設施\",\n      \"region\": \"關西大阪／JR大阪站南側10～13樓\",\n      \"announcementDate\": \"9/30第2期開業日期報導；寶可夢店10/14原公告、11/23新增入場說明\",\n      \"eventDate\": \"11/24第2期開業；部分店12月才開\",\n      \"freshness\": \"今天開業例外；11/23更新無時刻，不假稱精確24小時\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"台灣角色周邊旅客能直接用上；兩種整理券最容易誤會，且不能把12月店寫成今天全開。\",\n      \"facts\": \"官方列10～13樓32新品牌分11、12月開；現場採訪以36店口徑含其他店，避免混用總數。入場頁說店券或樓層券任一可入樓層，樓層券不能進受管制店；樓層券當日06:00 JST起Airウェイト網路配布，無紙票、原則不可再入場。以當日行事曆及店方公告為準，不保證當刻有券。外國旅客未列國籍排除，個別店抽選、帳號與電話需求仍需逐店確認。\",\n      \"sources\": [\n        {\n          \"label\": \"官方開業與店鋪日期\",\n          \"url\": \"https://www.lucua.jp/special/south-open/\"\n        },\n        {\n          \"label\": \"官方兩層入場規則\",\n          \"url\": \"https://www.lucua.jp/south-entry/\"\n        },\n        {\n          \"label\": \"寶可夢店11/23更新\",\n          \"url\": \"https://shop.pokemon.co.jp/ja/shop/pokemoncenter-osaka/news/202610/000609.html\"\n        },\n        {\n          \"label\": \"Lmaga現場採訪11/17\",\n          \"url\": \"https://www.lmaga.jp/news/2026/11/1121367/\"\n        },\n        {\n          \"label\": \"9/30日期報導\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2144561.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"逛店本身不需付費套票；還在規劃大阪行程者才有梅田住宿需求，不把訂房當成入店保證。\",\n        \"products\": [\n          \"大阪站／梅田住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若這趟本來就要住梅田，可以比較大阪站周邊住宿；飯店訂房不包含角色商店的入場整理券。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 97,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"LUCUA 11月24 site:threads.com OR site:x.com OR site:instagram.com OR site:facebook.com\",\n          \"LUCUA SOUTH site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪Station City周邊住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/osaka-station-city.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"只供原本打算住梅田的人比較，不能取得角色店入場權。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"fujiq-blackfriday-20261124\",\n      \"title\": \"富士急5,000日圓冬季票今天開賣：跨年不能用、不能改日期\",\n      \"category\": \"票券／優惠\",\n      \"region\": \"中部山梨／富士吉田富士急樂園\",\n      \"announcementDate\": \"11/5品牌原始公告；11/19優惠彙整交叉\",\n      \"eventDate\": \"11/24 12:00～12/4 23:59 JST販售；12/1～2027/2/5使用，12/26～1/3除外\",\n      \"freshness\": \"超過7天例外：今天開始販售，非今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"具體價格與冬季行程相關，最重要的是排除日與不可退款改期，不用最大折扣當每人實際省幅。\",\n      \"facts\": \"成人5000、中高生4600、小學生3500日圓；僅官方線上，現場不售。日期指定、不可退款或改日；部分設施另付費，惡天候低溫可停駛。官方未列居住地限制，但海外信用卡、帳號與學生資格文件未實測。原PDF售票連結productCode仍含2025，草稿使用2026官方活動入口，避免盲連舊碼；本期截止在12點開賣前，不宣稱付款或庫存已驗證。媒體入口讀取失敗，改用官方活動、品牌稿與優惠編輯頁交叉，非獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"官方2026活動與退改規則\",\n          \"url\": \"https://www.fujiq.jp/event/blackfriday2026.html\"\n        },\n        {\n          \"label\": \"11/5品牌原稿\",\n          \"url\": \"https://prtimes.jp/a/?c=1110&f=d1110-2108-3968b16753b5a418ec5fcf514e93f57b.pdf&r=2108\"\n        },\n        {\n          \"label\": \"11/19優惠編輯頁交叉\",\n          \"url\": \"https://sc-tsusho.jp/fujiq-coupon/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"冬季出發尚有規劃時間，可自然接周邊住宿或純交通；特價票必須官方買，不把第三方一般票當同優惠。\",\n        \"products\": [\n          \"富士急周邊住宿\",\n          \"另購交通\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"5,000日圓特價票走官方入口；若還沒安排住宿，可另比較富士急周邊飯店，別重複買到含門票套裝。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 94,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"富士急 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\",\n          \"富士急 ブラックフライデー site:youtube.com OR site:tiktok.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"富士急樂園周邊飯店\",\n              \"url\": \"https://jp.trip.com/hotels/fujiyoshida-fuji-q-highland/hotels-c50161m6787262/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"比較樂園附近住宿位置；日期與含票方案須分開確認。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"富士急樂園周邊住宿\",\n              \"url\": \"https://www.booking.com/landmark/jp/fujikyu-highland.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"搭配冬季樂園過夜，不把一般住宿當含5,000日圓票。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀富士急目的地頁 https://www.kkday.com/ja/destination/jp-fujiyoshida-fuji-q-highland ；純巴士901924原頁兩次讀取失敗，166492索引是含門票套裝，不推薦為純交通，以免重複買票。無推薦不帶入cid。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀 https://www.klook.com/ja/activity/95879-fujiq-highland-admission-ticket/ ，為一般一日票，未核同5,000日圓官方優惠，排除。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"chiikawa-market-opening-20261124\",\n      \"title\": \"幕張吉伊卡哇聖誕市集今天開場，但官網門票已完售\",\n      \"category\": \"活動／動漫IP\",\n      \"region\": \"關東千葉／幕張豐砂公園\",\n      \"announcementDate\": \"10/8開催公告；11/20媒體已報完售；11/24官方開場通知\",\n      \"eventDate\": \"11/24～12/25 11:00～21:00 JST；最後入場時段18:30～19:00\",\n      \"freshness\": \"今天開場；完售不是今天才發生，不能包裝最新搶票\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"有照片吸引力但購票已受限，對沒票者避免白跑，對持票者提醒手機與內容使用時間。\",\n      \"facts\": \"主辦當前首頁標チケットは完売いたしました，11/20媒體交叉已全日完售；沒有窗口當日票。成人12歲以上平日2500／假日2800、4～11歲1200／1400日圓，未滿4歲每位成人可帶1位免票。持票者需手機及專用APP；4～11歲同行兒童例外可無手機，但部分體驗受限。2小時30分是部分內容預約／排隊等限制，不能簡化成整場到點趕人；本稿不泛化此條。原購票日期10/31起，不能寫今天開賣。海外購票與APP地區未完全確認，不保證台灣帳號可用。\",\n      \"sources\": [\n        {\n          \"label\": \"官方現況與FAQ\",\n          \"url\": \"https://contents-abema.com/chiikawa-christmas-market/\"\n        },\n        {\n          \"label\": \"官方使用限制\",\n          \"url\": \"https://contents-abema.com/chiikawa-christmas-market/ticket-detail/\"\n        },\n        {\n          \"label\": \"共同通信10/9價格會期\",\n          \"url\": \"https://www.kyodo.co.jp/life/2026-10-09_4041248/\"\n        },\n        {\n          \"label\": \"11/20媒體已報完售\",\n          \"url\": \"https://www.crank-in.net/trend/events/194682/1\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"門票已售罄，未持票讀者沒有可靠活動預訂入口，不能用住宿或其他商品暗示可補名額。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 92,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ちいかわクリスマスマーケット site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:youtube.com\",\n          \"ちいかわクリスマスマーケット site:x.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"搜尋返回活動介紹與Moments，未證明販售門票；官方已完售，不推薦商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"otaru-closure-20261124\",\n      \"title\": \"小樽水族館今天起休館，12/12才恢復冬季營業\",\n      \"category\": \"旅遊／季節情報\",\n      \"region\": \"北海道小樽／祝津\",\n      \"announcementDate\": \"11/18觀光協會提醒；11/24休館公告；年度營業表原發布日未列\",\n      \"eventDate\": \"11/24～12/11休館；12/12～2027/2/23冬季營業\",\n      \"freshness\": \"今天公告與休館生效，無公布時刻\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"正好卡在台灣旅客晚秋北海道行程，改日期比推薦企鵝照片更有用。\",\n      \"facts\": \"館方年度表與小樽觀光協會今天公告交叉休館；冬季10～16、最後入館15:30 JST，海獸公園與遊園地冬季關閉。未核冬季當日節目，不保證企鵝散步時刻／雪況。休館不限國籍，不能用網路票繞過。\",\n      \"sources\": [\n        {\n          \"label\": \"水族館官方營業表\",\n          \"url\": \"https://otaru-aq.jp/guide/openningtime\"\n        },\n        {\n          \"label\": \"小樽觀光協會11/24公告\",\n          \"url\": \"https://otaru.gr.jp/tourist/otarusuizokukankyukan2026-11-24-12-11\"\n        },\n        {\n          \"label\": \"11/18提前提醒\",\n          \"url\": \"https://otaru.gr.jp/tourist/2026-11-23made\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"目前是休館避雷，讀者多已排好北海道行程；不以今日提醒推售不可當日使用的門票。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 11,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1791309596.A.B0C.html\",\n            \"label\": \"北海道跨年行程討論\",\n            \"reason\": \"10/7舊文，非48小時內本次休館討論，不計分\"\n          }\n        ],\n        \"queries\": [\n          \"小樽水族館 2026 site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw OR site:ptt.cc\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀乾淨原頁 https://www.kkday.com/ja/product/139823-otaru-aquarium-admission-ticket-hokkaido ，為水族館門票；本題是休館避雷，不推薦當日買，不帶入cid。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"kyushu-kids-winter-20261124\",\n      \"title\": \"JR九州兒童100日圓票今天開賣，12/24起才能用\",\n      \"category\": \"交通／票券\",\n      \"region\": \"九州／JR九州普通快速與指定路線巴士\",\n      \"announcementDate\": \"11/9 14:00 JST原公告；11/17鐵道媒體報導\",\n      \"eventDate\": \"11/24～2027/1/10販售；12/24～2027/1/11擇1日使用\",\n      \"freshness\": \"超過7天例外：今天開賣\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季親子行程可比較交通費，但100日圓不能包成全九州新幹線任搭。\",\n      \"facts\": \"小學6年級以下，每張1日100日圓；JR九州普通快速及JR九州路線巴士。特急／JR九州新幹線另購特急券；不含博多小倉山陽新幹線與福岡地下鐵。必須前一天買；網路到前日23點、信用卡限定；指定席券售票機可買、窗口只領網路預約票不售；不可退款。條文未列國籍或居住地限制，但外國小孩學年認定、海外卡與註冊未完全確認，草稿明示先向JR核，不保證台灣學生無條件適用；不把幼兒一律需買票。\",\n      \"sources\": [\n        {\n          \"label\": \"官方2026冬季條款\",\n          \"url\": \"https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n        },\n        {\n          \"label\": \"JR原始11/9發稿\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000001458.000037933.html\"\n        },\n        {\n          \"label\": \"鐵道Fan交叉日期與範圍\",\n          \"url\": \"https://railf.jp/news/2026/11/17/113500.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"冬季親子仍可規劃車站住宿，但先確認兒童資格與路線，不能把第三方JR PASS當成100日圓票。\",\n        \"products\": [\n          \"博多站周邊親子住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\",\n          \"KKday\",\n          \"Klook\"\n        ],\n        \"commentOpening\": \"若確認孩子符合票券資格、行程以博多為基地，再比較車站周邊住宿；100日圓票仍須另向JR九州購買。\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 89,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"こどもぼうけんきっぷ 2026 site:threads.com OR site:dcard.tw OR site:ptt.cc OR site:x.com\",\n          \"こどもぼうけんきっぷ 冬 site:facebook.com OR site:instagram.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已開啟核對地區與頁型，非庫存或價格承諾。\",\n          \"pages\": [\n            {\n              \"title\": \"博多站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/fukuoka-jr-hakata-station/hotels-c248r8256547/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"先確認兒童票資格，再用博多作基地規劃親子行程。\",\n              \"checks\": \"需自行指定入住日期、人數、兒童年齡、房型與取消條件；列表含較遠飯店須看地圖。訂房不含活動券、店鋪整理券或交通票，分潤資格另核。\",\n              \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，尚未找到並讀取適用的商品；不代表平台未販售。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"suica-tokyo-popup-20261124\",\n      \"title\": \"東京站Suica企鵝店今天15點開場，首日抽選已截止\",\n      \"category\": \"購物／動漫IP\",\n      \"region\": \"東京／丸之內地下南口改札外動輪廣場\",\n      \"announcementDate\": \"11/18千趣會公告；11/19媒體報導；11/24場地索引更新未當原始公告\",\n      \"eventDate\": \"11/24～12/5；通常10～20，首日15點開、末日15點關 JST\",\n      \"freshness\": \"今天開場；11/18公告不冒充今日新訊\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"在東京站轉車可順路，但首日抽選與改札外位置決定能不能逛。\",\n      \"facts\": \"11/24 15～20、11/25與26 10～13列事前抽選時段，11/20 23:59截止、11/21公布；可視配布狀態開放自由入場，非保證。限定伸縮票卡套2190日圓，並非可搭車的Suica卡。滿5000日圓特典先到送完為止，不合併收據。同商品每人1件見原稿；庫存不保證。外國人無明列排除，但抽選已截止，不介紹成仍能預約。GRANSTA原頁超時，使用千趣會原PDF與電Fami正文交叉，不以場地搜尋摘要當已讀原文。\",\n      \"sources\": [\n        {\n          \"label\": \"11/18千趣會原始公告\",\n          \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n        },\n        {\n          \"label\": \"11/19媒體與抽選規則\",\n          \"url\": \"https://news.denfaminicogamer.jp/news/261119k\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"車站短期購物、首日抽選已截止，與訂房購票關聯薄弱，不硬推東京飯店。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"score\": 87,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 13,\n        \"實用性\": 13,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"熱度未確認；無48小時內雙作者原文時間與讚／留言完整樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.sotwe.com/assetformer\",\n            \"label\": \"企鵝店資訊鏡像\",\n            \"reason\": \"第三方鏡像，非原貼文，不採其時間或互動數\"\n          }\n        ],\n        \"queries\": [\n          \"Suica 11月24 site:x.com OR site:threads.com OR site:instagram.com OR site:facebook.com\",\n          \"Suica 動輪 site:dcard.tw OR site:ptt.cc OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已評估需求；本題為避雷或門市購物，不硬推薦預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選；詳細草稿另存於相同id\"\n    },\n    {\n      \"id\": \"pending-20261124-0\",\n      \"title\": \"名鐵150日圓兒童電車巴士票\",\n      \"category\": \"票券\",\n      \"region\": \"中部愛知\",\n      \"announcementDate\": \"10/23公告；11/24～27使用\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀原稿，對象愛知縣公立學校兒童，不能當台灣短期旅客通用優惠。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.meitetsu.co.jp/profile/news/2026/__icsFiles/afieldfile/2026/10/23/26-10-23kennminnnohi2.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"愛知縣公立學校資格，與台灣短期旅客需求不符。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-1\",\n      \"title\": \"TOICA小雞×ICOCA聯名周邊\",\n      \"category\": \"購物\",\n      \"region\": \"中部／關西\",\n      \"announcementDate\": \"11/20公告、11/24販售\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀原稿，但店別價格、庫存及第二來源未完整核對，不把周邊當新交通卡。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046200.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-2\",\n      \"title\": \"永谷園MocoMoco香草蛋糕粉恢復販售\",\n      \"category\": \"美食\",\n      \"region\": \"全國\",\n      \"announcementDate\": \"11/2公告；11/24恢復\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀官方：僅香草數量限定，巧克力仍休售；未核第二來源與店頭庫存。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.nagatanien.co.jp/a.php?id=2121\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-3\",\n      \"title\": \"全家BE:FIRST六款聯名\",\n      \"category\": \"美食\",\n      \"region\": \"全國\",\n      \"announcementDate\": \"11/19公告、11/24起陸續\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"已讀品牌稿，商品實際日期不同，不能寫六款全國同日齊上；未逐款交叉。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.family.co.jp/content/dam/family/company/news_releases/2026/20261119_newsrelease_01.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-4\",\n      \"title\": \"羽越本線強風預警\",\n      \"category\": \"交通\",\n      \"region\": \"東北／酒田～秋田\",\n      \"announcementDate\": \"11/24預報，原公布時刻未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"搜尋索引有傍晚至末班延誤停駛可能，原頁卻是轉址提示；不能寫已停駛，待核新運行頁及第二來源。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.jreast.co.jp/t_i/tohoku.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-5\",\n      \"title\": \"仙台新潟巴士改無廁所車輛\",\n      \"category\": \"交通\",\n      \"region\": \"東北／新潟\",\n      \"announcementDate\": \"11/23 19:35 JST公告；11/24兩班\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"原頁明列仙台07:30、新潟萬代14:30改無廁所車；未核第二來源，對象窄，保留行前線索。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.jrbustohoku.co.jp/service/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-6\",\n      \"title\": \"貴船紅葉燈籠可能今日最後一天\",\n      \"category\": \"季節情報\",\n      \"region\": \"關西京都\",\n      \"announcementDate\": \"日曆列11/7～24，原公告未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"只有日曆線索，未核主辦2026最後日與天候，不推薦趕場。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://kyoto-design.jp/event/date/2026-11\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-7\",\n      \"title\": \"愛知週ANA Grand Court兒童自助餐優惠\",\n      \"category\": \"美食\",\n      \"region\": \"中部名古屋\",\n      \"announcementDate\": \"11/24～27，原發布日未核\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"縣方索引提兒童優惠，飯店原文及居住地資格未交叉，不當台灣旅客確定福利。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.pref.aichi.jp/uploaded/attachment/634385.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    },\n    {\n      \"id\": \"pending-20261124-8\",\n      \"title\": \"HAC丘珠釧路機械問題與翌日運行\",\n      \"category\": \"交通\",\n      \"region\": \"北海道\",\n      \"announcementDate\": \"11/23 17:43報導、11/24正常預定\",\n      \"eventDate\": \"線索日期見公告欄，尚未完全確認\",\n      \"reason\": \"僅新聞索引線索，未核航空公司11/24實際運行；不把昨天5航班取消包裝今天仍停飛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索／查核程度見原因\",\n          \"url\": \"https://www.htb.co.jp/news/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"尚未完整查核，不先推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、票種、庫存、包含內容、取消條件及分潤資格；不保證最低價、可訂或佣金。\",\n        \"assessedOn\": \"2026-11-24\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n        \"summary\": \"未完成此題定向社群查核\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": []\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"lucua-south-phase2-20261124\",\n    \"title\": \"LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事\",\n    \"score\": 97,\n    \"reason\": \"編輯推薦：新店範圍、雙層整理券都會影響台灣自由行，今天解釋能避免白跑；不預先替使用者選題。\",\n    \"versusSecond\": \"富士急優惠需冬季日期與付款條件配合；LUCUA對正在大阪與之後訪日者都有直接用途，收藏延伸較長。\",\n    \"publishAt\": \"11/24 10:30 Asia/Taipei（編輯建議，非帳號實測）\",\n    \"audience\": \"關西自由行、角色周邊與親子旅客\",\n    \"angle\": \"進樓層不等於進所有限定店\",\n    \"lifecycle\": \"1個月以上\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-24T10:07:33+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 6,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"6題完成定向搜尋，未取得48小時內雙作者且原文時間及讚／留言完整的公開樣本。其餘9候選尚未完成逐題社群補查。checkedAt為查核截止，沒有假填互動觀測。\",\n    \"platformAccess\": {\n      \"Threads\": \"無合格近期原文\",\n      \"Facebook\": \"無合格近期原文\",\n      \"Instagram\": \"無合格近期原文\",\n      \"X\": \"鏡像與官方公告不可代替自然討論\",\n      \"PTT\": \"小樽舊行程文不符48小時及事件\",\n      \"Dcard\": \"無合格原文\",\n      \"YouTube\": \"未取得符合事件與時間的雙作者\",\n      \"TikTok\": \"robots限制，無可計分原文\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"LUCUA 11/25～26入場\",\n      \"next\": \"查看翌日行事曆與目標店券，不假設每天規則相同。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.lucua.jp/south-entry/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"富士急開賣後結帳條件\",\n      \"next\": \"開賣後核海外支付、指定日期與售完情況；不保證成功付款。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.fujiq.jp/event/blackfriday2026.html\"\n        }\n      ]\n    },\n    {\n      \"title\": \"JR九州外國兒童使用資格\",\n      \"next\": \"核海外學年文件、註冊與信用卡接受，不推測沒有國籍條文就一定可用。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Suica企鵝自由入場\",\n      \"next\": \"11/25～26上午仍列抽選時段，是否切換自由入場須主辦公告。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦原稿\",\n          \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n        }\n      ]\n    },\n    {\n      \"title\": \"羽越本線當日與翌日運行\",\n      \"next\": \"索引只有延誤可能，待讀到原始最新運行公告後再判斷。\",\n      \"sources\": [\n        {\n          \"label\": \"JR運行頁\",\n          \"url\": \"https://traininfo.jreast.co.jp/train_info/tohoku.aspx?s=1&vm=r\"\n        }\n      ]\n    }\n  ]\n}\n【每題完整草稿、切角、配圖與延伸】\n[\n  {\n    \"id\": \"lucua-south-phase2-20261124\",\n    \"title\": \"LUCUA SOUTH第2期今天開業：進樓層與進限定店是兩回事\",\n    \"threads\": [\n      \"今天11/24要去大阪新開的LUCUA SOUTH，先分清兩種券：能進角色樓層，不等於能進每一家限定店。\\n\\n第2期今天開業，角色區在大阪站南側10～13樓。官方規則是：店鋪整理券或樓層入場整理券，任一種可進樓層；但只有樓層券，不能直接進另外管制的店。\",\n      \"出門前照這個順序查：\\n・先看官方當日入場行事曆。\\n・有指定目標店，再看該店的抽選或整理券規則。\\n・需要樓層券時，官方Airウェイト當天日本時間06:00起網路配布，不發紙票，原則上不能再入場。\\n\\n現場可能改成自由入場，也可能暫停發券；這不是保證現在還領得到。海外帳號或電話能否完成個別店申請，仍要看店方條件。\",\n      \"別把開業名單全當成今天能逛：吉伊卡哇Park Store、Sanrio Hello Stage、PUPPET SUNSUN STORE列11/24；TAMASHII NATIONS是12/2、JOJO WORLD是12/4、SQUARE ENIX NEXUS是12/23。\\n\\n把最想逛的店先圈出來，比到了才發現還沒開更有用。\\n店鋪日期：https://www.lucua.jp/special/south-open/\\n當日入場規則：https://www.lucua.jp/south-entry/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"雙層整理券\",\n        \"opening\": \"有LUCUA樓層券，不代表每家角色店都能進。\"\n      },\n      {\n        \"name\": \"開業日期\",\n        \"opening\": \"大阪新角色區今天開業，但JOJO要等12/4。\"\n      },\n      {\n        \"name\": \"行前操作\",\n        \"opening\": \"逛大阪新角色區前，先查日期，再查目標店。\"\n      },\n      {\n        \"name\": \"親子\",\n        \"opening\": \"帶孩子追角色店，先確認手上券能進哪裡。\"\n      },\n      {\n        \"name\": \"住宿動線\",\n        \"opening\": \"住梅田能方便往返，但訂房不會附入店名額。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://www.lucua.jp/special/south-open/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：大阪站／梅田住宿；不含本題優惠或入場資格，須另核。\"\n    ]\n  },\n  {\n    \"id\": \"fujiq-blackfriday-20261124\",\n    \"title\": \"富士急5,000日圓冬季票今天開賣：跨年不能用、不能改日期\",\n    \"threads\": [\n      \"富士急冬季成人一日票5,000日圓，今天11/24日本時間12:00開賣。但12/26～1/3不能用，跨年去的人先別按購買。\\n\\n販售到12/4 23:59；使用日是12/1～2027/2/5，扣掉上述排除期間。只能在官方線上買，現場售票窗口沒有這個特價。\",\n      \"票價分三種：成人5,000日圓、中高生4,600日圓、小學生3,500日圓。買時要指定使用日期，買完不能退款，也不能改日期。\\n\\n這是遊樂設施一日票，不是所有付費內容全包；戰慄迷宮等另收費項目不包含。雨雪、低溫或設備調整也可能讓設施停駛，排冬季行程時把這點算進去。\",\n      \"先確定日期不在跨年排除期，再從2026官方活動頁進售票入口；海外付款與學生票證明要求，以結帳頁為準，本次未實測。研究截止時還沒到今天開賣時間，不保證任一日期庫存。\\n\\n若已買含門票的巴士或住宿套裝，先看內容，避免再買一張。官方日期、價格與退改規則：https://www.fujiq.jp/event/blackfriday2026.html\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"價格\",\n        \"opening\": \"富士急冬季一日票5,000日圓，但跨年那幾天不能用。\"\n      },\n      {\n        \"name\": \"改期\",\n        \"opening\": \"這張富士急特價票不能改日期，先定行程再買。\"\n      },\n      {\n        \"name\": \"開賣\",\n        \"opening\": \"今天日本中午12點開賣，使用期從12/1才開始。\"\n      },\n      {\n        \"name\": \"冬季\",\n        \"opening\": \"便宜門票不代表冬天所有設施都會運行。\"\n      },\n      {\n        \"name\": \"重複購票\",\n        \"opening\": \"巴士套裝若已含門票，就別再買5,000日圓特價票。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://www.fujiq.jp/event/blackfriday2026.html\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：富士急周邊住宿、另購交通；不含本題優惠或入場資格，須另核。\"\n    ]\n  },\n  {\n    \"id\": \"chiikawa-market-opening-20261124\",\n    \"title\": \"幕張吉伊卡哇聖誕市集今天開場，但官網門票已完售\",\n    \"threads\": [\n      \"幕張吉伊卡哇聖誕市集今天11/24開始，但還沒票的人，先別直接跑去豐砂公園：官方目前顯示門票完售，也沒有現場窗口當日票。\\n\\n活動到12/25，地點在AEON MALL幕張新都心前。這篇適合當行前提醒；看到開場照片，不能推論現在還買得到入場券。\",\n      \"已經持票的人，確認的是票上的日期和入場時段，不是只看營業到晚上9點。每日日本時間11:00～21:00，最後入場時段是18:30～19:00；幕張豐砂站走到會場約10分鐘。\\n\\n門票是入場費，餐飲、商品與其他付費體驗要另看各自價格。一般票價為12歲以上平日2,500／假日2,800日圓，4～11歲1,200／1,400日圓。\",\n      \"進場需要可使用售票服務的智慧手機，場內另有專用APP，先下載並確認能開啟票券。4～11歲持兒童票同行者可無手機，但部分體驗會受限制。\\n\\n官方另設2小時30分的部分內容使用限制，請讀完整使用說明，不能把它理解成整天想排幾次都可以。未核到追加售票公告，不推測會釋票。\\n官方現況：https://contents-abema.com/chiikawa-christmas-market/\\n使用說明：https://contents-abema.com/chiikawa-christmas-market/ticket-detail/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"完售\",\n        \"opening\": \"今天開場，不代表今天還有票。\"\n      },\n      {\n        \"name\": \"手機\",\n        \"opening\": \"有吉伊卡哇市集門票，也別忘先準備手機與APP。\"\n      },\n      {\n        \"name\": \"時間\",\n        \"opening\": \"營業到21點，最後入場時段卻是18:30～19:00。\"\n      },\n      {\n        \"name\": \"費用\",\n        \"opening\": \"2,500日圓是平日成人入場費，不是餐飲商品全包。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"幕張豐砂公園有市集，沒票先別把它排成可進場行程。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://contents-abema.com/chiikawa-christmas-market/\"\n      }\n    ],\n    \"extensions\": [\n      \"延伸行前限制與官方查詢攻略，本期不硬接分潤商品。\"\n    ]\n  },\n  {\n    \"id\": \"otaru-closure-20261124\",\n    \"title\": \"小樽水族館今天起休館，12/12才恢復冬季營業\",\n    \"threads\": [\n      \"這幾天去小樽，先把水族館從行程表拿出來：11/24～12/11休館，冬季營業要等12/12才恢復。\\n\\n館方營業表和小樽觀光協會今天的公告都列出這段冬季準備期。即使平台還看得到售票頁，也不代表休館日能進去。\",\n      \"冬季營業安排是12/12～2027/2/23，日本時間10:00～16:00，最後入館15:30。不要沿用秋季早上9點開館的舊攻略。\\n\\n冬季海獸公園與遊園地關閉；企鵝散步等節目也要看冬季正式時刻與當天天候，這次不把舊季節目時間套進來。\",\n      \"如果行程落在11/24～12/11，先調整水族館與祝津段交通；已買票或含水族館行程的人，向原購買處核對使用日期和處理方式，不預設一定可退款。\\n\\n12/12以後才去的人，把冬季開館時間更新到行程表，再等官方節目公告。\\n官方營業表：https://otaru-aq.jp/guide/openningtime\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"休館\",\n        \"opening\": \"11/24～12/11去小樽，水族館暫時不能排。\"\n      },\n      {\n        \"name\": \"舊攻略\",\n        \"opening\": \"冬季開館是10點，不是秋季的9點。\"\n      },\n      {\n        \"name\": \"親子\",\n        \"opening\": \"帶孩子看企鵝前，先核水族館休館期。\"\n      },\n      {\n        \"name\": \"網路票\",\n        \"opening\": \"平台有售票頁，不代表休館日能入場。\"\n      },\n      {\n        \"name\": \"重開\",\n        \"opening\": \"12/12重開的是冬季營業，並非所有區域都開。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://otaru-aq.jp/guide/openningtime\"\n      }\n    ],\n    \"extensions\": [\n      \"延伸行前限制與官方查詢攻略，本期不硬接分潤商品。\"\n    ]\n  },\n  {\n    \"id\": \"kyushu-kids-winter-20261124\",\n    \"title\": \"JR九州兒童100日圓票今天開賣，12/24起才能用\",\n    \"threads\": [\n      \"JR九州兒童1日100日圓票今天11/24開賣，但不是今天就能用：使用期是12/24～2027/1/11，買時選其中一天。\\n\\n對象寫「小學6年級以下」。官方公開條文沒有列國籍限制，但台灣孩子的學年認定、證明文件與海外付款，本次尚未完全確認；先向JR九州確認，再把省下的車費算進預算。\",\n      \"100日圓涵蓋JR九州普通、快速列車與JR九州路線巴士；搭特急、D&S觀光列車或JR九州新幹線，仍須另買相應特急券。\\n\\n博多～小倉的山陽新幹線、福岡市地下鐵不在範圍。大人也沒有跟著變100日圓，家長的票要另買；幼兒本來可能免費，是否需票依同伴人數與座位使用情況判斷。\",\n      \"最晚前一天買，當天不能補買：JR九州網路預約到前日日本時間23:00，只能信用卡付款；也可用JR九州指定席售票機。窗口不販售這張票，只能領取已完成的網路預約票。\\n\\n販售至2027/1/10，不可退款。先確認資格、搭車日期和路線，再付款。\\n冬季官方規則：https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"開賣與使用\",\n        \"opening\": \"100日圓兒童票今天開賣，12/24才開始可用。\"\n      },\n      {\n        \"name\": \"適用資格\",\n        \"opening\": \"台灣親子別只看100日圓，先確認孩子適用資格。\"\n      },\n      {\n        \"name\": \"新幹線\",\n        \"opening\": \"100日圓不等於新幹線全部費用都包。\"\n      },\n      {\n        \"name\": \"購買時間\",\n        \"opening\": \"這張票當天不能買，前一天就要處理。\"\n      },\n      {\n        \"name\": \"家庭預算\",\n        \"opening\": \"孩子票100日圓，大人票仍要另外算。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://www.jrkyushu.co.jp/railway/bouken/winter2026/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：博多站周邊親子住宿；不含本題優惠或入場資格，須另核。\"\n    ]\n  },\n  {\n    \"id\": \"suica-tokyo-popup-20261124\",\n    \"title\": \"東京站Suica企鵝店今天15點開場，首日抽選已截止\",\n    \"threads\": [\n      \"東京站Suica企鵝快閃店今天11/24下午3點開，不是上午10點；而且首日15:00～20:00列在事前抽選入場時段，抽選11/20就截止了。\\n\\n活動到12/5，位置是丸之內地下南口「改札外」動輪廣場。沒中籤或沒申請的人，先查現場是否已宣布自由入場，不要把開幕當成隨到隨逛。\",\n      \"一般營業時間是日本時間10:00～20:00，12/5最後一天15:00結束。11/25、11/26的10:00～13:00也在事前抽選時段內；主辦可能依配布情況改自由入場，但沒有保證。\\n\\n限定伸縮票卡套標價2,190日圓，買的是收納卡片的周邊，不是內含餘額的Suica交通卡。同款每人限1件，實際供貨以店頭為準。\",\n      \"會場Suica企鵝商品買滿含稅5,000日圓，公告有先到先送的壓克力鑰匙圈；收據不能合併，送完為止。有整理券也不保證買到商品或拿到特典。\\n\\n已安排東京站轉車的話，先確認自己可入場時段，再留購物時間。主辦原公告含位置、抽選及限購：https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"首日時刻\",\n        \"opening\": \"Suica企鵝東京站店今天15點才開。\"\n      },\n      {\n        \"name\": \"抽選\",\n        \"opening\": \"首日開場有抽選時段，沒票先查自由入場通知。\"\n      },\n      {\n        \"name\": \"位置\",\n        \"opening\": \"這次企鵝店在東京站改札外，別在付費區裡找。\"\n      },\n      {\n        \"name\": \"商品\",\n        \"opening\": \"2,190日圓是Suica造型票卡套，不是交通卡。\"\n      },\n      {\n        \"name\": \"特典\",\n        \"opening\": \"滿5,000日圓贈品先到送完，整理券不保證有。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺、場地圖或日期限制表；可找到素材不等於有商用與轉載授權。\",\n        \"url\": \"https://www.senshukai.co.jp/main/top/pdf/pdf2/20261118_suicapop.pdf\"\n      }\n    ],\n    \"extensions\": [\n      \"延伸行前限制與官方查詢攻略，本期不硬接分潤商品。\"\n    ]\n  }\n]"
+}
