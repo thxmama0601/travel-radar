@@ -1,0 +1,1996 @@
+{
+  "date": "2026-11-26",
+  "cutoff": "2026-11-26 10:01:04 Asia/Taipei（日本11:01:04 Asia/Tokyo）",
+  "scopeNote": "15個不同事件候選線索，4題完成可發布事實交叉，11題資料不足或原頁失敗未入選；未核題八項分數及星等留null表示未評估，不是0。四題各3串共12串。先比較候選，再按內容93/91/90/88排列，沒有合格社群樣本，不能稱本期熱榜。廣搜北海道、東北、關東、北陸中部、關西、中國四國、九州沖繩；部分地區返回舊日曆、索引，未硬湊地區。比對昨日報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host；吉伊卡哇燒不同於先前聖誕市集。來源交叉不等於獨立採訪，天狗山新數位規則以原始業者公告為準，票價及營業由不同服務頁核對。",
+  "trends": [
+    "已查證：吉伊卡哇燒冬季口味11/27起分批推出，幕張及名古屋指定日要前一天預約。",
+    "已查證：Jetstar活動預定今天日本16:59截止；國內線最低價不是台灣出發價。",
+    "已查證：天狗山11/28起冬季營業及套票新價，札幌、小樽版本包含交通不同。",
+    "已查證：Doutor喜拿起司慕斯今天580日圓上市，數量限定與LINE活動截止不是同一件事。",
+    "官方單源行前提醒：手稻11/26 07:33 JST仍顯示CLOSED，不因有降雪就推定開滑。",
+    "編輯觀察：預約、截止與套票內容，比空泛新品清單更有即時行動價值。",
+    "社群查核限制：組合查詢15題未取得可核雙作者互動的48小時樣本，所有爆紅星等只是編輯預估。"
+  ],
+  "top10": [
+    {
+      "id": "chiikawayaki-winter-reservation-20261126",
+      "title": "吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約",
+      "category": "美食／活動",
+      "region": "中部名古屋、關東幕張與橫濱",
+      "announcementDate": "2026/11/20 19:35 JST品牌公告；11/22預約說明線索",
+      "eventDate": "11/27起分批上新品；幕張及名古屋11/27入店的先到先得預約11/26 10:00 JST開始",
+      "freshness": "今天開放明日預約；原商品公告6天前，不宣稱今天爆紅",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "明天到名古屋或幕張的台灣旅客今天就要處理入店，分批口味及店別期間值得收藏。",
+      "facts": "冬季口味各350日圓含稅。飛鼠楓糖奶油餡11/27起、栗子饅頭甘酒牛奶12/7起、海獺焦糖12/14起；並非11/27三款同時賣。幕張上市後持續至1/11；橫濱、名古屋按週替換。幕張11/27～12/25先到先得預約；名古屋11/27～12/6及週末假日先到先得，均前一天10:00 JST開放。名古屋11/27實際日期頁讀到受付中，未完成預訂、不保證名額。官網首頁同時有無日程靜態文字，採實際日期頁，不推斷售罄。通用FAQ的抽選剩餘名額規則不是這次店別特別公告；本稿依店別公告。本人攜照片證件，護照列為可用；不能代入店。海外電話與信箱填表完成性未實測。官方FAQ及品牌稿為原始條件，chiifan為另行整理核對，非獨立採訪。",
+      "sources": [
+        {
+          "label": "品牌11/20公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000026.000157539.html"
+        },
+        {
+          "label": "店別預約公告",
+          "url": "https://www.chiikawa-yaki.com/"
+        },
+        {
+          "label": "chiifan逐店整理",
+          "url": "https://chiifan.com/articles/608.html"
+        },
+        {
+          "label": "官方FAQ",
+          "url": "https://www.chiikawa-yaki.com/faq.html"
+        },
+        {
+          "label": "名古屋11/27日期頁",
+          "url": "https://www.chiikawa-yaki.com/app-nagoya/schedules/2026-11-27"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "商品與入店預約在店家官方處理，臨近明日來店不適合硬接訂房或旅遊票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "明天11/27要去名古屋或幕張買吉伊卡哇燒，今天先處理入店預約：這兩店指定期間採先到先得，前一天日本時間10:00開放，也就是台灣09:00。\n\n冬季新品一個350日圓含稅，但11/27先上飛鼠「楓糖奶油餡」，不是三個新口味一起推出。",
+          "先對你要去的店：\n・幕張新都心：11/27～12/25採先到先得預約。\n・名古屋PARCO：11/27～12/6，以及週末假日採先到先得預約。\n\n從官網選店、點實際來店日期，再選時段。本次讀到名古屋11/27日期頁顯示受理中，但不代表你打開時仍有名額；海外電話填表與預約完成，本次未實測。",
+          "想吃另外兩款，要再看日期：栗子饅頭「甘酒牛奶奶油」12/7起，海獺「焦糖奶油」12/14起。幕張會累積供應已上市口味至1/11；橫濱、名古屋則輪替，不能只看角色照片就衝店。\n\n預約本人要到場，帶有照片的公的證件，官方列有護照；別找人代替入店。先核店別日期，再查完整口味表與預約入口：\nhttps://www.chiikawa-yaki.com/\n冬季商品公告：https://prtimes.jp/main/html/rd/p/000000026.000157539.html"
+        ],
+        "angles": [
+          {
+            "name": "預約",
+            "opening": "明天去買吉伊卡哇燒，今天台灣09:00已開始開放指定店預約。"
+          },
+          {
+            "name": "口味",
+            "opening": "350日圓冬季新品，不是11/27一次上三款。"
+          },
+          {
+            "name": "店別",
+            "opening": "幕張與名古屋預約期間不同，別只記前一天開放。"
+          },
+          {
+            "name": "行程",
+            "opening": "12月去橫濱或名古屋，先對冬季口味輪替表。"
+          },
+          {
+            "name": "本人到場",
+            "opening": "吉伊卡哇燒入店預約不能找人代去，護照記得帶。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。",
+            "url": "https://prtimes.jp/main/html/rd/p/000000026.000157539.html"
+          }
+        ],
+        "extensions": [
+          "可延伸店別與同區行程攻略，不硬接分潤。"
+        ]
+      }
+    },
+    {
+      "id": "jetstar-blackfriday-deadline-20261126",
+      "title": "Jetstar黑五今天台灣15:59截止：日本國內線3,696日圓起另加費",
+      "category": "交通／航空優惠",
+      "region": "日本指定國內線，含成田—關西",
+      "announcementDate": "2026/11/13原公告；11/20 23:58 JST Aviation Wire報導",
+      "eventDate": "11/20～11/26 16:59 JST促銷；國內線搭乘12/8～2027/6/24，依航線排除日",
+      "freshness": "超過7天例外：今天販售截止；不是今天新公布",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "下午就截止，適合確定冬春跨城行程的人立即比較；低價不含完整行李與費用需要一起解釋。",
+      "facts": "官方活動頁仍列11/26 16:59 JST截止，可能調整。日本國內18航線，3,696日圓起對應成田—關西單程Starter；不是台灣出發價，也不是全線統一價。搭乘期12/8～2027/6/24，路線日期不同且有除外日，低價庫存未核。付款費、機場費稅金另計，無燃油附加費。Starter不含托運與選位；本稿只談GK日本國內，隨身行李兩件合計7公斤。不可退款，改期有手續費及價差。國際線與澳洲線期間不同，不混用。海外付款未實測。",
+      "sources": [
+        {
+          "label": "官方活動頁",
+          "url": "https://www.jetstar.com/jp/ja/deals/sale"
+        },
+        {
+          "label": "11/13官方原稿",
+          "url": "https://files.jetstar.com/api/public/content/20261113"
+        },
+        {
+          "label": "Aviation Wire11/20",
+          "url": "https://www.aviationwire.jp/archives/354945"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬春跨城旅客有住宿需求，可在確認官方機票後銜接大阪難波住宿；住宿不含促銷機票。",
+        "products": [
+          "大阪難波住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "先在Jetstar確認日期與含行李總額，再比較大阪難波住宿；這些住宿頁不包含促銷機票。",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com"
+      ],
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1794550530.A.1E2.html",
+            "label": "PTT促銷舊文索引",
+            "reason": "索引原文11/13，超過48小時；未以索引互動計分。"
+          },
+          {
+            "url": "https://www.dcard.tw/@flywith_dog/post/262476638",
+            "label": "Dcard11/20線索",
+            "reason": "超過48小時且含商業連結，未計分。"
+          }
+        ],
+        "queries": [
+          "ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "大阪難波周邊住宿",
+              "url": "https://jp.trip.com/hotels/osaka-namba/hotels-c219m6740544/",
+              "kind": "住宿列表",
+              "reason": "供成田—關西後在大阪過夜比較；頁內參考價不是旅行日期報價。",
+              "checks": "住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "大阪難波站住宿",
+              "url": "https://www.booking.com/accommodation/landmark/jp/osaka-namba-station.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "精準站區列表；讀取頁有舊快取日曆，需選實際日期重新查空房。",
+              "checks": "住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "未核到與本題完全對應的套裝商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核到與本題完全對應的套裝商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "要在日本城市之間搭飛機，Jetstar黑色星期五促銷預定今天11/26台灣15:59結束，日本時間是16:59。\n\n日本國內線單程3,696日圓起，最低價對應成田—關西，不是台灣飛日本的價格。國內線搭乘期12/8～2027/6/24，實際可用日依航線而異，還有排除日。",
+          "看到低價先算總額：Starter票價另加付款費及機場相關費用，不含托運行李或選位。日本GK航班隨身行李兩件合計7公斤，行李多的人要把加購費一起比。\n\n這次涵蓋18條日本國內航線，但不是每條都3,696日圓，也不保證你要的日期還有促銷座位。國際線的搭乘期間另有規定，不能套用這段國內線日期。",
+          "適合日期已經確定的人：Starter不能退款，改期會有手續費與票價差額；海外信用卡完成付款本次未實測。\n\n現在先開官方活動頁選航線、日期，再核對機場位置、行李與結帳總額，確認後才接著安排住宿。頁面仍列今天截止，後續若調整以官方為準。\n官方活動與條件：https://www.jetstar.com/jp/ja/deals/sale"
+        ],
+        "angles": [
+          {
+            "name": "截止",
+            "opening": "Jetstar黑五今天台灣15:59截止，先看你要的國內線日期。"
+          },
+          {
+            "name": "價格",
+            "opening": "3,696日圓是成田—關西起價，不是台灣出發價。"
+          },
+          {
+            "name": "行李",
+            "opening": "日本跨城飛行的便宜票，先把托運行李加回總額。"
+          },
+          {
+            "name": "期間",
+            "opening": "12月到明年6月的日本國內線，排除日仍要逐線看。"
+          },
+          {
+            "name": "退改",
+            "opening": "買促銷前先定日期，Starter不是可以隨時退款的票。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。",
+            "url": "https://www.jetstar.com/jp/ja/deals/sale"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：官方機票確認後銜接大阪難波住宿，住宿不含機票。"
+        ]
+      }
+    },
+    {
+      "id": "otaru-tenguyama-digital-20261125",
+      "title": "天狗山巴士套票11/28起新價格：札幌出發3,380、小樽2,450日圓",
+      "category": "票券／交通",
+      "region": "北海道札幌、小樽天狗山",
+      "announcementDate": "2026/11/25中央巴士公告（無時刻，不硬判精確24小時）",
+      "eventDate": "11/25數位票販售；11/28起適用新價格及冬季纜車營業預定",
+      "freshness": "48小時範圍內的前一日公告；冬季11/28開始",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季北海道旅客能比較出發點與包含內容，避免重複買交通及纜車；電子票仍須換纜車券。",
+      "facts": "札幌版成人3380、小孩1690日圓，含札幌小樽高速巴士往返（中央巴士及JR北海道巴士）、小樽市內巴士一日券、天狗山纜車往返。小樽版2450/1220，沒有札幌高速巴士。新價11/28起，11/27前列舊價不表示纜車檢修期可搭。官方冬季11/28～3/28，風雪可停。數位票11/25販售、11/28適用；紙票仍有，非全面廢紙。纜車需在櫃台換票，不能直接憑手機搭乘。數位購票頁未成功讀取，海外支付及啟用細節尚未完全確認；可核官方紙票窗口。公交、纜車同集團服務頁可核價格營業，不能當兩家獨立採訪；另有旅遊指南及第三方票頁核對景點，數位變更仍以原始公告為準。",
+      "sources": [
+        {
+          "label": "中央巴士札幌版",
+          "url": "https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det"
+        },
+        {
+          "label": "中央巴士小樽版",
+          "url": "https://www.chuo-bus.co.jp/main/setticket/?n=117&ope=det"
+        },
+        {
+          "label": "纜車冬季營業",
+          "url": "https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/"
+        },
+        {
+          "label": "旅遊指南",
+          "url": "https://kankoujp.com/otaru-tenguyama/"
+        },
+        {
+          "label": "11/25數位票原始公告",
+          "url": "https://sirius.chuo-bus.co.jp/%E5%B0%8F%E6%A8%BD%E5%A4%A9%E7%8B%97%E5%B1%B1%E3%83%90%E3%82%B9%E3%82%BB%E3%83%83%E3%83%88%E5%88%B8%EF%BC%88%E5%B0%8F%E6%A8%BD%E7%99%BA%E7%9D%80%E3%83%BB%E6%9C%AD%E5%B9%8C%E7%99%BA%E7%9D%80%EF%BC%89%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%A6/main_info/2430.html?c=0&ope=det"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "官方巴士套票與平台纜車券不是同一商品。已有JR交通安排、只缺纜車者才適合銜接平台；住小樽可另比較住宿。",
+        "products": [
+          "單獨纜車往返券（替代方案）",
+          "小樽住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "已買巴士套票就不用再買纜車券；若你搭JR到小樽、交通另付，才比較這些單獨纜車券，使用日期與換票條件要再確認。",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽站周邊住宿",
+              "url": "https://jp.trip.com/hotels/otaru-jr-otaru-station/hotels-c35773r8419244/",
+              "kind": "住宿列表",
+              "reason": "看夜景後過夜的延伸；頁內11/7～13參考價非當日報價。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽地區住宿",
+              "url": "https://www.booking.com/city/jp/otaru.ja.html",
+              "kind": "住宿列表",
+              "reason": "依交通安排選地點，住宿不含纜車或套票。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽天狗山纜車往返券",
+              "url": "https://www.kkday.com/ja/product/125844-otaru-tenguyama-ropeway-ticket",
+              "kind": "商品頁",
+              "reason": "單獨纜車替代方案，不含巴士；原頁列11/4～27檢修，需確認11/28後選定日期，山腳櫃台換票。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "天狗山纜車往返票",
+              "url": "https://www.klook.com/ja/activity/50815-mt-tengu-ropeway-otaru/",
+              "kind": "商品頁",
+              "reason": "頁內可選11/28後方案；不含巴士，仍須換票。平台營業時刻不作官方當日班表；不保證庫存或折扣價。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "draft": {
+        "threads": [
+          "11/28起去小樽天狗山，先分清你從哪裡出發：札幌出發巴士套票成人3,380日圓，小樽出發2,450日圓。\n\n兩種都有小樽市內巴士一日券和天狗山纜車往返；只有札幌版多了札幌—小樽高速巴士往返。已打算搭JR的人，別把不需要的高速巴士也買進去。",
+          "小孩票價分別是札幌版1,690、小樽版1,220日圓。札幌版高速巴士可搭中央巴士或JR北海道巴士；小樽版則不含這段城際交通。\n\n數位套票11/25開始販售，11/28起適用；紙票仍有官方窗口可買。電子化也不等於一路免換票：搭天狗山纜車前，仍要到櫃台換纜車乘車券。",
+          "纜車冬季營業預定11/28開始，今天不能因為票已開賣就當成已恢復運行；風雪也可能影響當天營業。\n\n數位購票與海外付款本次未完成實測，先核官方購票說明，必要時選札幌或小樽的紙票窗口。出發前再查纜車狀態；若已買含纜車的套票，就不要另外買第二張纜車券。\n札幌套票：https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det\n纜車日期：https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/"
+        ],
+        "angles": [
+          {
+            "name": "比票",
+            "opening": "札幌3,380、小樽2,450，差的不是只有出發地名稱。"
+          },
+          {
+            "name": "避免重買",
+            "opening": "巴士套票已含天狗山纜車，別再買一張平台纜車券。"
+          },
+          {
+            "name": "數位票",
+            "opening": "天狗山套票可買電子版，但纜車前仍要換票。"
+          },
+          {
+            "name": "開場日",
+            "opening": "票先開賣，天狗山冬季纜車預定11/28才開始。"
+          },
+          {
+            "name": "交通選擇",
+            "opening": "打算搭JR去小樽的人，先算你真正需要哪一段巴士。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。",
+            "url": "https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：交通已另安排者可比較單獨纜車券；已有套票者勿重複買。另可整理小樽過夜行程。"
+        ]
+      }
+    },
+    {
+      "id": "doutor-cinnamoroll-mousse-20261126",
+      "title": "Doutor大耳狗喜拿起司慕斯今天上市：580日圓，抽獎另看資格",
+      "category": "美食／IP聯名",
+      "region": "日本Doutor Coffee Shop指定門市",
+      "announcementDate": "2026/11/12 11:00 JST品牌公告；11/17媒體報導",
+      "eventDate": "慕斯11/26起售完為止；LINE活動11/26～12/25 JST",
+      "freshness": "超過7天例外：今天正式上市；不以較晚媒體刊登當新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "近期赴日可順路買的小額IP甜點，需把蛋糕購買與抽獎資格分開。",
+      "facts": "シナモロールのふわふわチーズムース580日圓含稅，起司優格慕斯內有蘋果及卡士達，數量限定售完即止；不保證賣至聖誕。當天開始的LINE收據Bingo活動至12/25 23:59 JST，外送及手機點餐不適用。海外LINE、抽獎收件地址資格尚未完全確認，正文不承諾台灣遊客能參加。杜拜巧克力慕斯是12/17，不依媒體總標題誤寫今天上市；本稿只選喜拿甜點。門市差異、庫存未核，普通購買未見國籍限制，抽獎是另項條件。",
+      "sources": [
+        {
+          "label": "品牌菜單原稿",
+          "url": "https://www.value-press.com/pressrelease/384286"
+        },
+        {
+          "label": "食品產業新聞11/17",
+          "url": "https://www.ssnp.co.jp/foodservice/711732/"
+        },
+        {
+          "label": "Doutor活動條件",
+          "url": "https://www.doutor.co.jp/dcs/menu/fair/christmas2026/index.html?utm_campaign=pr2026ccp&utm_medium=official&utm_source=pr"
+        },
+        {
+          "label": "Doutor11/12新聞",
+          "url": "https://www.doutor.co.jp/news/newsrelease/detail/20261111170033.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "一般門市甜點沒有直接訂房或買票需求，抽獎資格未全核，更不適合硬接分潤商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/26 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11/26起，在日本Doutor可以找這顆大耳狗喜拿「ふわふわチーズムース」，一份580日圓含稅。\n\n白色起司優格慕斯裡藏著蘋果與卡士達，是數量限定、售完為止。想排進12月行程可以先記品名，但不要把聖誕活動截止日當成蛋糕一定會賣到那天。",
+          "同天開始的聖誕LINE收據Bingo，是另一件事：活動期間到12/25日本時間23:59，外送和手機點餐不適用。\n\n一般到店買蛋糕，與是否能參加活動、領取獎品要分開看。本次沒有完全確認海外LINE及抽獎收件地址條件，所以不會把「台灣旅客都能抽」當成購買理由。",
+          "最簡單的安排，是逛街休息時先看附近Doutor的門市與供應品項，到店確認有貨再點。不同店及現場庫存可能有差異，不需要為了一張商品照片特地繞遠路。\n\n若想參加LINE活動，保留收據前先讀活動規則；蛋糕不是飲料套餐價，購買與抽獎也不是同一資格。\n官方商品與上市資訊：https://www.value-press.com/pressrelease/384286"
+        ],
+        "angles": [
+          {
+            "name": "新品",
+            "opening": "Doutor今天有580日圓喜拿慕斯，先記住日文品名。"
+          },
+          {
+            "name": "期間",
+            "opening": "聖誕活動到12/25，不代表蛋糕保證賣到12/25。"
+          },
+          {
+            "name": "抽獎",
+            "opening": "買得到喜拿蛋糕，和台灣旅客能不能抽獎，是兩件事。"
+          },
+          {
+            "name": "口味",
+            "opening": "白色起司慕斯裡，藏的是蘋果與卡士達。"
+          },
+          {
+            "name": "休息",
+            "opening": "逛街找咖啡店休息，可以順便查這款喜拿甜點。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。",
+            "url": "https://www.value-press.com/pressrelease/384286"
+          }
+        ],
+        "extensions": [
+          "可延伸店別與同區行程攻略，不硬接分潤。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "chiikawayaki-winter-reservation-20261126",
+      "title": "吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約",
+      "category": "美食／活動",
+      "region": "中部名古屋、關東幕張與橫濱",
+      "announcementDate": "2026/11/20 19:35 JST品牌公告；11/22預約說明線索",
+      "eventDate": "11/27起分批上新品；幕張及名古屋11/27入店的先到先得預約11/26 10:00 JST開始",
+      "freshness": "今天開放明日預約；原商品公告6天前，不宣稱今天爆紅",
+      "stars": {
+        "viral": 5,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1週",
+      "why": "明天到名古屋或幕張的台灣旅客今天就要處理入店，分批口味及店別期間值得收藏。",
+      "facts": "冬季口味各350日圓含稅。飛鼠楓糖奶油餡11/27起、栗子饅頭甘酒牛奶12/7起、海獺焦糖12/14起；並非11/27三款同時賣。幕張上市後持續至1/11；橫濱、名古屋按週替換。幕張11/27～12/25先到先得預約；名古屋11/27～12/6及週末假日先到先得，均前一天10:00 JST開放。名古屋11/27實際日期頁讀到受付中，未完成預訂、不保證名額。官網首頁同時有無日程靜態文字，採實際日期頁，不推斷售罄。通用FAQ的抽選剩餘名額規則不是這次店別特別公告；本稿依店別公告。本人攜照片證件，護照列為可用；不能代入店。海外電話與信箱填表完成性未實測。官方FAQ及品牌稿為原始條件，chiifan為另行整理核對，非獨立採訪。",
+      "sources": [
+        {
+          "label": "品牌11/20公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000026.000157539.html"
+        },
+        {
+          "label": "店別預約公告",
+          "url": "https://www.chiikawa-yaki.com/"
+        },
+        {
+          "label": "chiifan逐店整理",
+          "url": "https://chiifan.com/articles/608.html"
+        },
+        {
+          "label": "官方FAQ",
+          "url": "https://www.chiikawa-yaki.com/faq.html"
+        },
+        {
+          "label": "名古屋11/27日期頁",
+          "url": "https://www.chiikawa-yaki.com/app-nagoya/schedules/2026-11-27"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "商品與入店預約在店家官方處理，臨近明日來店不適合硬接訂房或旅遊票券。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 93,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 14,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，草稿另存draft"
+    },
+    {
+      "id": "jetstar-blackfriday-deadline-20261126",
+      "title": "Jetstar黑五今天台灣15:59截止：日本國內線3,696日圓起另加費",
+      "category": "交通／航空優惠",
+      "region": "日本指定國內線，含成田—關西",
+      "announcementDate": "2026/11/13原公告；11/20 23:58 JST Aviation Wire報導",
+      "eventDate": "11/20～11/26 16:59 JST促銷；國內線搭乘12/8～2027/6/24，依航線排除日",
+      "freshness": "超過7天例外：今天販售截止；不是今天新公布",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1天",
+      "why": "下午就截止，適合確定冬春跨城行程的人立即比較；低價不含完整行李與費用需要一起解釋。",
+      "facts": "官方活動頁仍列11/26 16:59 JST截止，可能調整。日本國內18航線，3,696日圓起對應成田—關西單程Starter；不是台灣出發價，也不是全線統一價。搭乘期12/8～2027/6/24，路線日期不同且有除外日，低價庫存未核。付款費、機場費稅金另計，無燃油附加費。Starter不含托運與選位；本稿只談GK日本國內，隨身行李兩件合計7公斤。不可退款，改期有手續費及價差。國際線與澳洲線期間不同，不混用。海外付款未實測。",
+      "sources": [
+        {
+          "label": "官方活動頁",
+          "url": "https://www.jetstar.com/jp/ja/deals/sale"
+        },
+        {
+          "label": "11/13官方原稿",
+          "url": "https://files.jetstar.com/api/public/content/20261113"
+        },
+        {
+          "label": "Aviation Wire11/20",
+          "url": "https://www.aviationwire.jp/archives/354945"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "冬春跨城旅客有住宿需求，可在確認官方機票後銜接大阪難波住宿；住宿不含促銷機票。",
+        "products": [
+          "大阪難波住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "先在Jetstar確認日期與含行李總額，再比較大阪難波住宿；這些住宿頁不包含促銷機票。",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com"
+      ],
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 7,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1794550530.A.1E2.html",
+            "label": "PTT促銷舊文索引",
+            "reason": "索引原文11/13，超過48小時；未以索引互動計分。"
+          },
+          {
+            "url": "https://www.dcard.tw/@flywith_dog/post/262476638",
+            "label": "Dcard11/20線索",
+            "reason": "超過48小時且含商業連結，未計分。"
+          }
+        ],
+        "queries": [
+          "ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "大阪難波周邊住宿",
+              "url": "https://jp.trip.com/hotels/osaka-namba/hotels-c219m6740544/",
+              "kind": "住宿列表",
+              "reason": "供成田—關西後在大阪過夜比較；頁內參考價不是旅行日期報價。",
+              "checks": "住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "大阪難波站住宿",
+              "url": "https://www.booking.com/accommodation/landmark/jp/osaka-namba-station.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "精準站區列表；讀取頁有舊快取日曆，需選實際日期重新查空房。",
+              "checks": "住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "未核到與本題完全對應的套裝商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未核到與本題完全對應的套裝商品。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，草稿另存draft"
+    },
+    {
+      "id": "otaru-tenguyama-digital-20261125",
+      "title": "天狗山巴士套票11/28起新價格：札幌出發3,380、小樽2,450日圓",
+      "category": "票券／交通",
+      "region": "北海道札幌、小樽天狗山",
+      "announcementDate": "2026/11/25中央巴士公告（無時刻，不硬判精確24小時）",
+      "eventDate": "11/25數位票販售；11/28起適用新價格及冬季纜車營業預定",
+      "freshness": "48小時範圍內的前一日公告；冬季11/28開始",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季北海道旅客能比較出發點與包含內容，避免重複買交通及纜車；電子票仍須換纜車券。",
+      "facts": "札幌版成人3380、小孩1690日圓，含札幌小樽高速巴士往返（中央巴士及JR北海道巴士）、小樽市內巴士一日券、天狗山纜車往返。小樽版2450/1220，沒有札幌高速巴士。新價11/28起，11/27前列舊價不表示纜車檢修期可搭。官方冬季11/28～3/28，風雪可停。數位票11/25販售、11/28適用；紙票仍有，非全面廢紙。纜車需在櫃台換票，不能直接憑手機搭乘。數位購票頁未成功讀取，海外支付及啟用細節尚未完全確認；可核官方紙票窗口。公交、纜車同集團服務頁可核價格營業，不能當兩家獨立採訪；另有旅遊指南及第三方票頁核對景點，數位變更仍以原始公告為準。",
+      "sources": [
+        {
+          "label": "中央巴士札幌版",
+          "url": "https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det"
+        },
+        {
+          "label": "中央巴士小樽版",
+          "url": "https://www.chuo-bus.co.jp/main/setticket/?n=117&ope=det"
+        },
+        {
+          "label": "纜車冬季營業",
+          "url": "https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/"
+        },
+        {
+          "label": "旅遊指南",
+          "url": "https://kankoujp.com/otaru-tenguyama/"
+        },
+        {
+          "label": "11/25數位票原始公告",
+          "url": "https://sirius.chuo-bus.co.jp/%E5%B0%8F%E6%A8%BD%E5%A4%A9%E7%8B%97%E5%B1%B1%E3%83%90%E3%82%B9%E3%82%BB%E3%83%83%E3%83%88%E5%88%B8%EF%BC%88%E5%B0%8F%E6%A8%BD%E7%99%BA%E7%9D%80%E3%83%BB%E6%9C%AD%E5%B9%8C%E7%99%BA%E7%9D%80%EF%BC%89%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%A6/main_info/2430.html?c=0&ope=det"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "官方巴士套票與平台纜車券不是同一商品。已有JR交通安排、只缺纜車者才適合銜接平台；住小樽可另比較住宿。",
+        "products": [
+          "單獨纜車往返券（替代方案）",
+          "小樽住宿"
+        ],
+        "platforms": [
+          "KKday",
+          "Klook",
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "已買巴士套票就不用再買纜車券；若你搭JR到小樽、交通另付，才比較這些單獨纜車券，使用日期與換票條件要再確認。",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 11,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽站周邊住宿",
+              "url": "https://jp.trip.com/hotels/otaru-jr-otaru-station/hotels-c35773r8419244/",
+              "kind": "住宿列表",
+              "reason": "看夜景後過夜的延伸；頁內11/7～13參考價非當日報價。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽地區住宿",
+              "url": "https://www.booking.com/city/jp/otaru.ja.html",
+              "kind": "住宿列表",
+              "reason": "依交通安排選地點，住宿不含纜車或套票。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "小樽天狗山纜車往返券",
+              "url": "https://www.kkday.com/ja/product/125844-otaru-tenguyama-ropeway-ticket",
+              "kind": "商品頁",
+              "reason": "單獨纜車替代方案，不含巴士；原頁列11/4～27檢修，需確認11/28後選定日期，山腳櫃台換票。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "klook",
+          "note": "已讀原始頁面，未實測結帳、指定日庫存或分潤資格。",
+          "pages": [
+            {
+              "title": "天狗山纜車往返票",
+              "url": "https://www.klook.com/ja/activity/50815-mt-tengu-ropeway-otaru/",
+              "kind": "商品頁",
+              "reason": "頁內可選11/28後方案；不含巴士，仍須換票。平台營業時刻不作官方當日班表；不保證庫存或折扣價。",
+              "checks": "不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。",
+              "checkedAt": "2026-11-26T10:01:04+08:00",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "reason": "入選，草稿另存draft"
+    },
+    {
+      "id": "doutor-cinnamoroll-mousse-20261126",
+      "title": "Doutor大耳狗喜拿起司慕斯今天上市：580日圓，抽獎另看資格",
+      "category": "美食／IP聯名",
+      "region": "日本Doutor Coffee Shop指定門市",
+      "announcementDate": "2026/11/12 11:00 JST品牌公告；11/17媒體報導",
+      "eventDate": "慕斯11/26起售完為止；LINE活動11/26～12/25 JST",
+      "freshness": "超過7天例外：今天正式上市；不以較晚媒體刊登當新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "近期赴日可順路買的小額IP甜點，需把蛋糕購買與抽獎資格分開。",
+      "facts": "シナモロールのふわふわチーズムース580日圓含稅，起司優格慕斯內有蘋果及卡士達，數量限定售完即止；不保證賣至聖誕。當天開始的LINE收據Bingo活動至12/25 23:59 JST，外送及手機點餐不適用。海外LINE、抽獎收件地址資格尚未完全確認，正文不承諾台灣遊客能參加。杜拜巧克力慕斯是12/17，不依媒體總標題誤寫今天上市；本稿只選喜拿甜點。門市差異、庫存未核，普通購買未見國籍限制，抽獎是另項條件。",
+      "sources": [
+        {
+          "label": "品牌菜單原稿",
+          "url": "https://www.value-press.com/pressrelease/384286"
+        },
+        {
+          "label": "食品產業新聞11/17",
+          "url": "https://www.ssnp.co.jp/foodservice/711732/"
+        },
+        {
+          "label": "Doutor活動條件",
+          "url": "https://www.doutor.co.jp/dcs/menu/fair/christmas2026/index.html?utm_campaign=pr2026ccp&utm_medium=official&utm_source=pr"
+        },
+        {
+          "label": "Doutor11/12新聞",
+          "url": "https://www.doutor.co.jp/news/newsrelease/detail/20261111170033.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "一般門市甜點沒有直接訂房或買票需求，抽獎資格未全核，更不適合硬接分潤商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "queries": [
+        "ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com",
+        "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 13,
+        "實用性": 12,
+        "稀缺性": 7,
+        "視覺吸引力": 9,
+        "標題吸引力": 5,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/26 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com",
+          "2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，草稿另存draft"
+    },
+    {
+      "id": "pending-20261126-0",
+      "title": "SAKURA Tax-free Online",
+      "category": "購物／政策",
+      "region": "日本指定機場與提貨點",
+      "announcementDate": "11/19官方；11/25台灣報導",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "讀到官方及服務說明，但提貨、訂購截止與旅客退款資格未全核；不把11/25轉述當新公告。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.lycorp.co.jp/ja/news/release/021001/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-1",
+      "title": "Fraser Place六本木開業",
+      "category": "住宿",
+      "region": "東京六本木",
+      "announcementDate": "11/24品牌稿；11/25正式開業，10/1已試營運",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "品牌稿及轉載非獨立雙源，未核住宿可訂條件，不稱11/25首度入住。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://prtimes.jp/main/html/rd/p/000000001.000194224.html"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-2",
+      "title": "東橫INN長岡站前預約",
+      "category": "住宿",
+      "region": "新潟長岡",
+      "announcementDate": "11/24稿；11/25預約、2027/2/6開業線索",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "原PDF索引線索，未完成第二來源與訂房條件。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.toyoko-inn.co.jp/news/%E6%9D%B1%E6%A8%AAINN%E9%95%B7%E5%B2%A1%E9%A7%85%E5%89%8D_%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-3",
+      "title": "京都站LE SSERAFIM合作",
+      "category": "活動／購物",
+      "region": "京都站",
+      "announcementDate": "11/20公告；11/25～12/25線索",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "贈品消費門檻、庫存及完整條件未交叉；社群返回其他城市舊活動。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.kyoto-station-building.co.jp/app/uploads/2026/11/261120_00_%E3%80%90HP%E7%94%A8%E3%80%91%E3%80%8CLE-SSEARAFIM-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%80%8D%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-4",
+      "title": "近畿日本Tourist黑五",
+      "category": "旅遊優惠",
+      "region": "日本多地",
+      "announcementDate": "11/25～12/4線索，原公告日未核",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "最高折扣有高消費門檻，外國旅客適用與商品未核，不推薦。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.knt.co.jp/cpn/blackfriday/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-5",
+      "title": "日本旅行黑五5%",
+      "category": "住宿優惠",
+      "region": "日本多地",
+      "announcementDate": "先行期至11/27 10:59 JST；原公告日待核",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "先行與正式階段不同，旅客資格及適用住宿未全核。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.nta.co.jp/cpn/campaign/black-friday/sale/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-6",
+      "title": "JR東日本びゅう黑五第四階段",
+      "category": "交通／住宿",
+      "region": "東日本",
+      "announcementDate": "11/13原稿；11/25階段開始線索",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "車加宿商品非單獨火車折扣，條件與海外購買未全核。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.jre-vts.com/mt/press_20261113.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-7",
+      "title": "丸龜製麵部分品項降價",
+      "category": "美食",
+      "region": "日本門市",
+      "announcementDate": "11/25實施線索；原公告日期未核",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "僅PDF索引，價格與店別未完成雙源，不將摘要當確認菜單。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://pdf.irpocket.com/C3397/xoA3/DnNg/JEYI/Umpi.pdf"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-8",
+      "title": "富士回遊訊號故障後運行",
+      "category": "交通",
+      "region": "山梨富士急行線",
+      "announcementDate": "11/25 14:30更新線索",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "昨日停駛線索未核今日狀態，不能寫11/26仍停駛。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.fujikyu-railway.jp/news/?ap=4&cnt=39&page=1"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-9",
+      "title": "手稻11/26仍停滑",
+      "category": "季節情報／交通",
+      "region": "北海道札幌",
+      "announcementDate": "11/26 07:33 JST官方狀態",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "已讀今日CLOSED；昨日公告路徑404，缺獨立第二來源。作官方單源提醒，不列雙源精選。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://sapporo-teine.com/snow/lang/en/"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261126-10",
+      "title": "Tabelog體驗預訂線索",
+      "category": "旅遊／預約",
+      "region": "日本",
+      "announcementDate": "11/25索引線索，原始日期未核",
+      "eventDate": "日期線索見上，未完全確認",
+      "reason": "索引標題與網址主題可能不一致，原頁無法讀取，不能確認事件，直接排除。",
+      "sources": [
+        {
+          "label": "候選線索，查核限制見原因",
+          "url": "https://www.jnto.go.jp/news/members/jtb_bokun.html"
+        }
+      ],
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。",
+        "assessedOn": "2026-11-26"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-26T10:01:04+08:00",
+        "summary": "已以組合關鍵字補查，未取得合格原文；索引不當互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "Tabelog 体験 予約 2026 11月25 site:threads.com OR site:x.com"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "吉伊卡哇燒11/27首日",
+      "next": "核對實際店別預約與品項供應，不能推測名額或售罄。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://www.chiikawa-yaki.com/"
+        }
+      ]
+    },
+    {
+      "title": "天狗山11/28冬季開始",
+      "next": "未來48小時核正式營業與天候，核數位票啟用與海外付款；預定不等於當天必開。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/"
+        }
+      ]
+    },
+    {
+      "title": "手稻11/27營業狀態",
+      "next": "今天仍CLOSED，等待新的正式狀態及第二來源，不預告一定復開。",
+      "sources": [
+        {
+          "label": "官方狀態",
+          "url": "https://sapporo-teine.com/snow/lang/en/"
+        }
+      ]
+    },
+    {
+      "title": "日本旅行黑五階段切換",
+      "next": "11/27正式階段線索需補查優惠門檻、適用飯店與海外旅客資格；未成熟不推薦。",
+      "sources": [
+        {
+          "label": "活動線索",
+          "url": "https://www.nta.co.jp/cpn/campaign/black-friday/sale/"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "chiikawayaki-winter-reservation-20261126",
+    "title": "吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約",
+    "score": 93,
+    "reason": "編輯推薦標籤，未代使用者選題。明天來店今天就要處理，前一天預約與分批口味容易看錯；適合停下閱讀、轉傳同行者、收藏店別表。",
+    "versusSecond": "Jetstar有更短截止，但跨城航線與行李限制較多；吉伊卡哇燒的當日預約提醒對指定店讀者更直接。",
+    "publishAt": "11/26 10:30 Asia/Taipei（編輯建議，非帳號實測）",
+    "audience": "近期到名古屋、幕張及橫濱的台灣自由行與IP讀者",
+    "angle": "明天來店今天預約；350日圓冬季口味不是同一天全上",
+    "lifecycle": "1週"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-26T10:01:04+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "limitation": "含逐題與多題組合查詢，未取得符合48小時雙作者原文且讚與留言可核的樣本；checkedAt是研究截止，沒有合格互動觀測。搜尋舊文、官方貼文與鏡像都不計分，缺數字不補0。",
+    "platformAccess": {
+      "Threads": "未取得本期合格原文",
+      "Facebook": "未取得本期合格原文",
+      "Instagram": "未取得主題時間及互動完整樣本",
+      "PTT": "Jetstar11/13舊文與其他活動舊文，超窗",
+      "Dcard": "Jetstar11/20舊線索且含商業連結",
+      "X": "多為官方帳號、舊話題及無關結果，無合格雙作者樣本",
+      "YouTube": "返回較早吉伊卡哇影片，不符本次冬季活動",
+      "TikTok": "返回2月與夏季其他吉伊卡哇活動，不套用本題"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-26\n2026-11-26 10:01:04 Asia/Taipei（日本11:01:04 Asia/Tokyo）\n15個不同事件候選線索，4題完成可發布事實交叉，11題資料不足或原頁失敗未入選；未核題八項分數及星等留null表示未評估，不是0。四題各3串共12串。先比較候選，再按內容93/91/90/88排列，沒有合格社群樣本，不能稱本期熱榜。廣搜北海道、東北、關東、北陸中部、關西、中國四國、九州沖繩；部分地區返回舊日曆、索引，未硬湊地區。比對昨日報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host；吉伊卡哇燒不同於先前聖誕市集。來源交叉不等於獨立採訪，天狗山新數位規則以原始業者公告為準，票價及營業由不同服務頁核對。\n已查證：吉伊卡哇燒冬季口味11/27起分批推出，幕張及名古屋指定日要前一天預約。\n已查證：Jetstar活動預定今天日本16:59截止；國內線最低價不是台灣出發價。\n已查證：天狗山11/28起冬季營業及套票新價，札幌、小樽版本包含交通不同。\n已查證：Doutor喜拿起司慕斯今天580日圓上市，數量限定與LINE活動截止不是同一件事。\n官方單源行前提醒：手稻11/26 07:33 JST仍顯示CLOSED，不因有降雪就推定開滑。\n編輯觀察：預約、截止與套票內容，比空泛新品清單更有即時行動價值。\n社群查核限制：組合查詢15題未取得可核雙作者互動的48小時樣本，所有爆紅星等只是編輯預估。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值，上限20/20/15/15/10/10/5/5。分數星等及分潤適合度均為編輯判斷，非觀看或收入保證。平台頁僅供挑選，不代表佣金資格。\n{\n  \"candidates\": [\n    {\n      \"id\": \"chiikawayaki-winter-reservation-20261126\",\n      \"title\": \"吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約\",\n      \"category\": \"美食／活動\",\n      \"region\": \"中部名古屋、關東幕張與橫濱\",\n      \"announcementDate\": \"2026/11/20 19:35 JST品牌公告；11/22預約說明線索\",\n      \"eventDate\": \"11/27起分批上新品；幕張及名古屋11/27入店的先到先得預約11/26 10:00 JST開始\",\n      \"freshness\": \"今天開放明日預約；原商品公告6天前，不宣稱今天爆紅\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"明天到名古屋或幕張的台灣旅客今天就要處理入店，分批口味及店別期間值得收藏。\",\n      \"facts\": \"冬季口味各350日圓含稅。飛鼠楓糖奶油餡11/27起、栗子饅頭甘酒牛奶12/7起、海獺焦糖12/14起；並非11/27三款同時賣。幕張上市後持續至1/11；橫濱、名古屋按週替換。幕張11/27～12/25先到先得預約；名古屋11/27～12/6及週末假日先到先得，均前一天10:00 JST開放。名古屋11/27實際日期頁讀到受付中，未完成預訂、不保證名額。官網首頁同時有無日程靜態文字，採實際日期頁，不推斷售罄。通用FAQ的抽選剩餘名額規則不是這次店別特別公告；本稿依店別公告。本人攜照片證件，護照列為可用；不能代入店。海外電話與信箱填表完成性未實測。官方FAQ及品牌稿為原始條件，chiifan為另行整理核對，非獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"品牌11/20公告\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000026.000157539.html\"\n        },\n        {\n          \"label\": \"店別預約公告\",\n          \"url\": \"https://www.chiikawa-yaki.com/\"\n        },\n        {\n          \"label\": \"chiifan逐店整理\",\n          \"url\": \"https://chiifan.com/articles/608.html\"\n        },\n        {\n          \"label\": \"官方FAQ\",\n          \"url\": \"https://www.chiikawa-yaki.com/faq.html\"\n        },\n        {\n          \"label\": \"名古屋11/27日期頁\",\n          \"url\": \"https://www.chiikawa-yaki.com/app-nagoya/schedules/2026-11-27\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"商品與入店預約在店家官方處理，臨近明日來店不適合硬接訂房或旅遊票券。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 93,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 2\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"jetstar-blackfriday-deadline-20261126\",\n      \"title\": \"Jetstar黑五今天台灣15:59截止：日本國內線3,696日圓起另加費\",\n      \"category\": \"交通／航空優惠\",\n      \"region\": \"日本指定國內線，含成田—關西\",\n      \"announcementDate\": \"2026/11/13原公告；11/20 23:58 JST Aviation Wire報導\",\n      \"eventDate\": \"11/20～11/26 16:59 JST促銷；國內線搭乘12/8～2027/6/24，依航線排除日\",\n      \"freshness\": \"超過7天例外：今天販售截止；不是今天新公布\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"下午就截止，適合確定冬春跨城行程的人立即比較；低價不含完整行李與費用需要一起解釋。\",\n      \"facts\": \"官方活動頁仍列11/26 16:59 JST截止，可能調整。日本國內18航線，3,696日圓起對應成田—關西單程Starter；不是台灣出發價，也不是全線統一價。搭乘期12/8～2027/6/24，路線日期不同且有除外日，低價庫存未核。付款費、機場費稅金另計，無燃油附加費。Starter不含托運與選位；本稿只談GK日本國內，隨身行李兩件合計7公斤。不可退款，改期有手續費及價差。國際線與澳洲線期間不同，不混用。海外付款未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"官方活動頁\",\n          \"url\": \"https://www.jetstar.com/jp/ja/deals/sale\"\n        },\n        {\n          \"label\": \"11/13官方原稿\",\n          \"url\": \"https://files.jetstar.com/api/public/content/20261113\"\n        },\n        {\n          \"label\": \"Aviation Wire11/20\",\n          \"url\": \"https://www.aviationwire.jp/archives/354945\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"冬春跨城旅客有住宿需求，可在確認官方機票後銜接大阪難波住宿；住宿不含促銷機票。\",\n        \"products\": [\n          \"大阪難波住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"先在Jetstar確認日期與含行李總額，再比較大阪難波住宿；這些住宿頁不包含促銷機票。\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com\"\n      ],\n      \"score\": 91,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1794550530.A.1E2.html\",\n            \"label\": \"PTT促銷舊文索引\",\n            \"reason\": \"索引原文11/13，超過48小時；未以索引互動計分。\"\n          },\n          {\n            \"url\": \"https://www.dcard.tw/@flywith_dog/post/262476638\",\n            \"label\": \"Dcard11/20線索\",\n            \"reason\": \"超過48小時且含商業連結，未計分。\"\n          }\n        ],\n        \"queries\": [\n          \"ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪難波周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/osaka-namba/hotels-c219m6740544/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供成田—關西後在大阪過夜比較；頁內參考價不是旅行日期報價。\",\n              \"checks\": \"住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪難波站住宿\",\n              \"url\": \"https://www.booking.com/accommodation/landmark/jp/osaka-namba-station.en-gb.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"精準站區列表；讀取頁有舊快取日曆，需選實際日期重新查空房。\",\n              \"checks\": \"住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未核到與本題完全對應的套裝商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未核到與本題完全對應的套裝商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"otaru-tenguyama-digital-20261125\",\n      \"title\": \"天狗山巴士套票11/28起新價格：札幌出發3,380、小樽2,450日圓\",\n      \"category\": \"票券／交通\",\n      \"region\": \"北海道札幌、小樽天狗山\",\n      \"announcementDate\": \"2026/11/25中央巴士公告（無時刻，不硬判精確24小時）\",\n      \"eventDate\": \"11/25數位票販售；11/28起適用新價格及冬季纜車營業預定\",\n      \"freshness\": \"48小時範圍內的前一日公告；冬季11/28開始\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季北海道旅客能比較出發點與包含內容，避免重複買交通及纜車；電子票仍須換纜車券。\",\n      \"facts\": \"札幌版成人3380、小孩1690日圓，含札幌小樽高速巴士往返（中央巴士及JR北海道巴士）、小樽市內巴士一日券、天狗山纜車往返。小樽版2450/1220，沒有札幌高速巴士。新價11/28起，11/27前列舊價不表示纜車檢修期可搭。官方冬季11/28～3/28，風雪可停。數位票11/25販售、11/28適用；紙票仍有，非全面廢紙。纜車需在櫃台換票，不能直接憑手機搭乘。數位購票頁未成功讀取，海外支付及啟用細節尚未完全確認；可核官方紙票窗口。公交、纜車同集團服務頁可核價格營業，不能當兩家獨立採訪；另有旅遊指南及第三方票頁核對景點，數位變更仍以原始公告為準。\",\n      \"sources\": [\n        {\n          \"label\": \"中央巴士札幌版\",\n          \"url\": \"https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det\"\n        },\n        {\n          \"label\": \"中央巴士小樽版\",\n          \"url\": \"https://www.chuo-bus.co.jp/main/setticket/?n=117&ope=det\"\n        },\n        {\n          \"label\": \"纜車冬季營業\",\n          \"url\": \"https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/\"\n        },\n        {\n          \"label\": \"旅遊指南\",\n          \"url\": \"https://kankoujp.com/otaru-tenguyama/\"\n        },\n        {\n          \"label\": \"11/25數位票原始公告\",\n          \"url\": \"https://sirius.chuo-bus.co.jp/%E5%B0%8F%E6%A8%BD%E5%A4%A9%E7%8B%97%E5%B1%B1%E3%83%90%E3%82%B9%E3%82%BB%E3%83%83%E3%83%88%E5%88%B8%EF%BC%88%E5%B0%8F%E6%A8%BD%E7%99%BA%E7%9D%80%E3%83%BB%E6%9C%AD%E5%B9%8C%E7%99%BA%E7%9D%80%EF%BC%89%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%A6/main_info/2430.html?c=0&ope=det\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"官方巴士套票與平台纜車券不是同一商品。已有JR交通安排、只缺纜車者才適合銜接平台；住小樽可另比較住宿。\",\n        \"products\": [\n          \"單獨纜車往返券（替代方案）\",\n          \"小樽住宿\"\n        ],\n        \"platforms\": [\n          \"KKday\",\n          \"Klook\",\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"已買巴士套票就不用再買纜車券；若你搭JR到小樽、交通另付，才比較這些單獨纜車券，使用日期與換票條件要再確認。\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 19,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 11,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/otaru-jr-otaru-station/hotels-c35773r8419244/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"看夜景後過夜的延伸；頁內11/7～13參考價非當日報價。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽地區住宿\",\n              \"url\": \"https://www.booking.com/city/jp/otaru.ja.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"依交通安排選地點，住宿不含纜車或套票。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽天狗山纜車往返券\",\n              \"url\": \"https://www.kkday.com/ja/product/125844-otaru-tenguyama-ropeway-ticket\",\n              \"kind\": \"商品頁\",\n              \"reason\": \"單獨纜車替代方案，不含巴士；原頁列11/4～27檢修，需確認11/28後選定日期，山腳櫃台換票。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"天狗山纜車往返票\",\n              \"url\": \"https://www.klook.com/ja/activity/50815-mt-tengu-ropeway-otaru/\",\n              \"kind\": \"商品頁\",\n              \"reason\": \"頁內可選11/28後方案；不含巴士，仍須換票。平台營業時刻不作官方當日班表；不保證庫存或折扣價。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"doutor-cinnamoroll-mousse-20261126\",\n      \"title\": \"Doutor大耳狗喜拿起司慕斯今天上市：580日圓，抽獎另看資格\",\n      \"category\": \"美食／IP聯名\",\n      \"region\": \"日本Doutor Coffee Shop指定門市\",\n      \"announcementDate\": \"2026/11/12 11:00 JST品牌公告；11/17媒體報導\",\n      \"eventDate\": \"慕斯11/26起售完為止；LINE活動11/26～12/25 JST\",\n      \"freshness\": \"超過7天例外：今天正式上市；不以較晚媒體刊登當新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"近期赴日可順路買的小額IP甜點，需把蛋糕購買與抽獎資格分開。\",\n      \"facts\": \"シナモロールのふわふわチーズムース580日圓含稅，起司優格慕斯內有蘋果及卡士達，數量限定售完即止；不保證賣至聖誕。當天開始的LINE收據Bingo活動至12/25 23:59 JST，外送及手機點餐不適用。海外LINE、抽獎收件地址資格尚未完全確認，正文不承諾台灣遊客能參加。杜拜巧克力慕斯是12/17，不依媒體總標題誤寫今天上市；本稿只選喜拿甜點。門市差異、庫存未核，普通購買未見國籍限制，抽獎是另項條件。\",\n      \"sources\": [\n        {\n          \"label\": \"品牌菜單原稿\",\n          \"url\": \"https://www.value-press.com/pressrelease/384286\"\n        },\n        {\n          \"label\": \"食品產業新聞11/17\",\n          \"url\": \"https://www.ssnp.co.jp/foodservice/711732/\"\n        },\n        {\n          \"label\": \"Doutor活動條件\",\n          \"url\": \"https://www.doutor.co.jp/dcs/menu/fair/christmas2026/index.html?utm_campaign=pr2026ccp&utm_medium=official&utm_source=pr\"\n        },\n        {\n          \"label\": \"Doutor11/12新聞\",\n          \"url\": \"https://www.doutor.co.jp/news/newsrelease/detail/20261111170033.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"一般門市甜點沒有直接訂房或買票需求，抽獎資格未全核，更不適合硬接分潤商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 88,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 12,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/26 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"pending-20261126-0\",\n      \"title\": \"SAKURA Tax-free Online\",\n      \"category\": \"購物／政策\",\n      \"region\": \"日本指定機場與提貨點\",\n      \"announcementDate\": \"11/19官方；11/25台灣報導\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"讀到官方及服務說明，但提貨、訂購截止與旅客退款資格未全核；不把11/25轉述當新公告。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.lycorp.co.jp/ja/news/release/021001/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-1\",\n      \"title\": \"Fraser Place六本木開業\",\n      \"category\": \"住宿\",\n      \"region\": \"東京六本木\",\n      \"announcementDate\": \"11/24品牌稿；11/25正式開業，10/1已試營運\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"品牌稿及轉載非獨立雙源，未核住宿可訂條件，不稱11/25首度入住。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000001.000194224.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-2\",\n      \"title\": \"東橫INN長岡站前預約\",\n      \"category\": \"住宿\",\n      \"region\": \"新潟長岡\",\n      \"announcementDate\": \"11/24稿；11/25預約、2027/2/6開業線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"原PDF索引線索，未完成第二來源與訂房條件。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.toyoko-inn.co.jp/news/%E6%9D%B1%E6%A8%AAINN%E9%95%B7%E5%B2%A1%E9%A7%85%E5%89%8D_%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-3\",\n      \"title\": \"京都站LE SSERAFIM合作\",\n      \"category\": \"活動／購物\",\n      \"region\": \"京都站\",\n      \"announcementDate\": \"11/20公告；11/25～12/25線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"贈品消費門檻、庫存及完整條件未交叉；社群返回其他城市舊活動。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.kyoto-station-building.co.jp/app/uploads/2026/11/261120_00_%E3%80%90HP%E7%94%A8%E3%80%91%E3%80%8CLE-SSEARAFIM-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%80%8D%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-4\",\n      \"title\": \"近畿日本Tourist黑五\",\n      \"category\": \"旅遊優惠\",\n      \"region\": \"日本多地\",\n      \"announcementDate\": \"11/25～12/4線索，原公告日未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"最高折扣有高消費門檻，外國旅客適用與商品未核，不推薦。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.knt.co.jp/cpn/blackfriday/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-5\",\n      \"title\": \"日本旅行黑五5%\",\n      \"category\": \"住宿優惠\",\n      \"region\": \"日本多地\",\n      \"announcementDate\": \"先行期至11/27 10:59 JST；原公告日待核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"先行與正式階段不同，旅客資格及適用住宿未全核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.nta.co.jp/cpn/campaign/black-friday/sale/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-6\",\n      \"title\": \"JR東日本びゅう黑五第四階段\",\n      \"category\": \"交通／住宿\",\n      \"region\": \"東日本\",\n      \"announcementDate\": \"11/13原稿；11/25階段開始線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"車加宿商品非單獨火車折扣，條件與海外購買未全核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.jre-vts.com/mt/press_20261113.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-7\",\n      \"title\": \"丸龜製麵部分品項降價\",\n      \"category\": \"美食\",\n      \"region\": \"日本門市\",\n      \"announcementDate\": \"11/25實施線索；原公告日期未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"僅PDF索引，價格與店別未完成雙源，不將摘要當確認菜單。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://pdf.irpocket.com/C3397/xoA3/DnNg/JEYI/Umpi.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-8\",\n      \"title\": \"富士回遊訊號故障後運行\",\n      \"category\": \"交通\",\n      \"region\": \"山梨富士急行線\",\n      \"announcementDate\": \"11/25 14:30更新線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"昨日停駛線索未核今日狀態，不能寫11/26仍停駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.fujikyu-railway.jp/news/?ap=4&cnt=39&page=1\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-9\",\n      \"title\": \"手稻11/26仍停滑\",\n      \"category\": \"季節情報／交通\",\n      \"region\": \"北海道札幌\",\n      \"announcementDate\": \"11/26 07:33 JST官方狀態\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"已讀今日CLOSED；昨日公告路徑404，缺獨立第二來源。作官方單源提醒，不列雙源精選。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-10\",\n      \"title\": \"Tabelog體驗預訂線索\",\n      \"category\": \"旅遊／預約\",\n      \"region\": \"日本\",\n      \"announcementDate\": \"11/25索引線索，原始日期未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"索引標題與網址主題可能不一致，原頁無法讀取，不能確認事件，直接排除。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.jnto.go.jp/news/members/jtb_bokun.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"Tabelog 体験 予約 2026 11月25 site:threads.com OR site:x.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"chiikawayaki-winter-reservation-20261126\",\n    \"title\": \"吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約\",\n    \"score\": 93,\n    \"reason\": \"編輯推薦標籤，未代使用者選題。明天來店今天就要處理，前一天預約與分批口味容易看錯；適合停下閱讀、轉傳同行者、收藏店別表。\",\n    \"versusSecond\": \"Jetstar有更短截止，但跨城航線與行李限制較多；吉伊卡哇燒的當日預約提醒對指定店讀者更直接。\",\n    \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，非帳號實測）\",\n    \"audience\": \"近期到名古屋、幕張及橫濱的台灣自由行與IP讀者\",\n    \"angle\": \"明天來店今天預約；350日圓冬季口味不是同一天全上\",\n    \"lifecycle\": \"1週\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"含逐題與多題組合查詢，未取得符合48小時雙作者原文且讚與留言可核的樣本；checkedAt是研究截止，沒有合格互動觀測。搜尋舊文、官方貼文與鏡像都不計分，缺數字不補0。\",\n    \"platformAccess\": {\n      \"Threads\": \"未取得本期合格原文\",\n      \"Facebook\": \"未取得本期合格原文\",\n      \"Instagram\": \"未取得主題時間及互動完整樣本\",\n      \"PTT\": \"Jetstar11/13舊文與其他活動舊文，超窗\",\n      \"Dcard\": \"Jetstar11/20舊線索且含商業連結\",\n      \"X\": \"多為官方帳號、舊話題及無關結果，無合格雙作者樣本\",\n      \"YouTube\": \"返回較早吉伊卡哇影片，不符本次冬季活動\",\n      \"TikTok\": \"返回2月與夏季其他吉伊卡哇活動，不套用本題\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"吉伊卡哇燒11/27首日\",\n      \"next\": \"核對實際店別預約與品項供應，不能推測名額或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.chiikawa-yaki.com/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"天狗山11/28冬季開始\",\n      \"next\": \"未來48小時核正式營業與天候，核數位票啟用與海外付款；預定不等於當天必開。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"手稻11/27營業狀態\",\n      \"next\": \"今天仍CLOSED，等待新的正式狀態及第二來源，不預告一定復開。\",\n      \"sources\": [\n        {\n          \"label\": \"官方狀態\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"日本旅行黑五階段切換\",\n      \"next\": \"11/27正式階段線索需補查優惠門檻、適用飯店與海外旅客資格；未成熟不推薦。\",\n      \"sources\": [\n        {\n          \"label\": \"活動線索\",\n          \"url\": \"https://www.nta.co.jp/cpn/campaign/black-friday/sale/\"\n        }\n      ]\n    }\n  ]\n}",
+  "fullText": "日本每日內容雷達\n2026-11-26\n2026-11-26 10:01:04 Asia/Taipei（日本11:01:04 Asia/Tokyo）\n15個不同事件候選線索，4題完成可發布事實交叉，11題資料不足或原頁失敗未入選；未核題八項分數及星等留null表示未評估，不是0。四題各3串共12串。先比較候選，再按內容93/91/90/88排列，沒有合格社群樣本，不能稱本期熱榜。廣搜北海道、東北、關東、北陸中部、關西、中國四國、九州沖繩；部分地區返回舊日曆、索引，未硬湊地區。比對昨日報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host；吉伊卡哇燒不同於先前聖誕市集。來源交叉不等於獨立採訪，天狗山新數位規則以原始業者公告為準，票價及營業由不同服務頁核對。\n已查證：吉伊卡哇燒冬季口味11/27起分批推出，幕張及名古屋指定日要前一天預約。\n已查證：Jetstar活動預定今天日本16:59截止；國內線最低價不是台灣出發價。\n已查證：天狗山11/28起冬季營業及套票新價，札幌、小樽版本包含交通不同。\n已查證：Doutor喜拿起司慕斯今天580日圓上市，數量限定與LINE活動截止不是同一件事。\n官方單源行前提醒：手稻11/26 07:33 JST仍顯示CLOSED，不因有降雪就推定開滑。\n編輯觀察：預約、截止與套票內容，比空泛新品清單更有即時行動價值。\n社群查核限制：組合查詢15題未取得可核雙作者互動的48小時樣本，所有爆紅星等只是編輯預估。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值，上限20/20/15/15/10/10/5/5。分數星等及分潤適合度均為編輯判斷，非觀看或收入保證。平台頁僅供挑選，不代表佣金資格。\n{\n  \"candidates\": [\n    {\n      \"id\": \"chiikawayaki-winter-reservation-20261126\",\n      \"title\": \"吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約\",\n      \"category\": \"美食／活動\",\n      \"region\": \"中部名古屋、關東幕張與橫濱\",\n      \"announcementDate\": \"2026/11/20 19:35 JST品牌公告；11/22預約說明線索\",\n      \"eventDate\": \"11/27起分批上新品；幕張及名古屋11/27入店的先到先得預約11/26 10:00 JST開始\",\n      \"freshness\": \"今天開放明日預約；原商品公告6天前，不宣稱今天爆紅\",\n      \"stars\": {\n        \"viral\": 5,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1週\",\n      \"why\": \"明天到名古屋或幕張的台灣旅客今天就要處理入店，分批口味及店別期間值得收藏。\",\n      \"facts\": \"冬季口味各350日圓含稅。飛鼠楓糖奶油餡11/27起、栗子饅頭甘酒牛奶12/7起、海獺焦糖12/14起；並非11/27三款同時賣。幕張上市後持續至1/11；橫濱、名古屋按週替換。幕張11/27～12/25先到先得預約；名古屋11/27～12/6及週末假日先到先得，均前一天10:00 JST開放。名古屋11/27實際日期頁讀到受付中，未完成預訂、不保證名額。官網首頁同時有無日程靜態文字，採實際日期頁，不推斷售罄。通用FAQ的抽選剩餘名額規則不是這次店別特別公告；本稿依店別公告。本人攜照片證件，護照列為可用；不能代入店。海外電話與信箱填表完成性未實測。官方FAQ及品牌稿為原始條件，chiifan為另行整理核對，非獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"品牌11/20公告\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000026.000157539.html\"\n        },\n        {\n          \"label\": \"店別預約公告\",\n          \"url\": \"https://www.chiikawa-yaki.com/\"\n        },\n        {\n          \"label\": \"chiifan逐店整理\",\n          \"url\": \"https://chiifan.com/articles/608.html\"\n        },\n        {\n          \"label\": \"官方FAQ\",\n          \"url\": \"https://www.chiikawa-yaki.com/faq.html\"\n        },\n        {\n          \"label\": \"名古屋11/27日期頁\",\n          \"url\": \"https://www.chiikawa-yaki.com/app-nagoya/schedules/2026-11-27\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"商品與入店預約在店家官方處理，臨近明日來店不適合硬接訂房或旅遊票券。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 93,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 14,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 2\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ちいかわ焼き 11月27日 2026 site:threads.com OR site:instagram.com OR site:x.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"jetstar-blackfriday-deadline-20261126\",\n      \"title\": \"Jetstar黑五今天台灣15:59截止：日本國內線3,696日圓起另加費\",\n      \"category\": \"交通／航空優惠\",\n      \"region\": \"日本指定國內線，含成田—關西\",\n      \"announcementDate\": \"2026/11/13原公告；11/20 23:58 JST Aviation Wire報導\",\n      \"eventDate\": \"11/20～11/26 16:59 JST促銷；國內線搭乘12/8～2027/6/24，依航線排除日\",\n      \"freshness\": \"超過7天例外：今天販售截止；不是今天新公布\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1天\",\n      \"why\": \"下午就截止，適合確定冬春跨城行程的人立即比較；低價不含完整行李與費用需要一起解釋。\",\n      \"facts\": \"官方活動頁仍列11/26 16:59 JST截止，可能調整。日本國內18航線，3,696日圓起對應成田—關西單程Starter；不是台灣出發價，也不是全線統一價。搭乘期12/8～2027/6/24，路線日期不同且有除外日，低價庫存未核。付款費、機場費稅金另計，無燃油附加費。Starter不含托運與選位；本稿只談GK日本國內，隨身行李兩件合計7公斤。不可退款，改期有手續費及價差。國際線與澳洲線期間不同，不混用。海外付款未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"官方活動頁\",\n          \"url\": \"https://www.jetstar.com/jp/ja/deals/sale\"\n        },\n        {\n          \"label\": \"11/13官方原稿\",\n          \"url\": \"https://files.jetstar.com/api/public/content/20261113\"\n        },\n        {\n          \"label\": \"Aviation Wire11/20\",\n          \"url\": \"https://www.aviationwire.jp/archives/354945\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"冬春跨城旅客有住宿需求，可在確認官方機票後銜接大阪難波住宿；住宿不含促銷機票。\",\n        \"products\": [\n          \"大阪難波住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"先在Jetstar確認日期與含行李總額，再比較大阪難波住宿；這些住宿頁不包含促銷機票。\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com\"\n      ],\n      \"score\": 91,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.ptt.cc/bbs/Japan_Travel/M.1794550530.A.1E2.html\",\n            \"label\": \"PTT促銷舊文索引\",\n            \"reason\": \"索引原文11/13，超過48小時；未以索引互動計分。\"\n          },\n          {\n            \"url\": \"https://www.dcard.tw/@flywith_dog/post/262476638\",\n            \"label\": \"Dcard11/20線索\",\n            \"reason\": \"超過48小時且含商業連結，未計分。\"\n          }\n        ],\n        \"queries\": [\n          \"ジェットスター ブラックフライデー 2026 site:ptt.cc OR site:dcard.tw OR site:threads.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪難波周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/osaka-namba/hotels-c219m6740544/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供成田—關西後在大阪過夜比較；頁內參考價不是旅行日期報價。\",\n              \"checks\": \"住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"大阪難波站住宿\",\n              \"url\": \"https://www.booking.com/accommodation/landmark/jp/osaka-namba-station.en-gb.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"精準站區列表；讀取頁有舊快取日曆，需選實際日期重新查空房。\",\n              \"checks\": \"住宿列表不含Jetstar機票；另核日期、位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未核到與本題完全對應的套裝商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未核到與本題完全對應的套裝商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"otaru-tenguyama-digital-20261125\",\n      \"title\": \"天狗山巴士套票11/28起新價格：札幌出發3,380、小樽2,450日圓\",\n      \"category\": \"票券／交通\",\n      \"region\": \"北海道札幌、小樽天狗山\",\n      \"announcementDate\": \"2026/11/25中央巴士公告（無時刻，不硬判精確24小時）\",\n      \"eventDate\": \"11/25數位票販售；11/28起適用新價格及冬季纜車營業預定\",\n      \"freshness\": \"48小時範圍內的前一日公告；冬季11/28開始\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季北海道旅客能比較出發點與包含內容，避免重複買交通及纜車；電子票仍須換纜車券。\",\n      \"facts\": \"札幌版成人3380、小孩1690日圓，含札幌小樽高速巴士往返（中央巴士及JR北海道巴士）、小樽市內巴士一日券、天狗山纜車往返。小樽版2450/1220，沒有札幌高速巴士。新價11/28起，11/27前列舊價不表示纜車檢修期可搭。官方冬季11/28～3/28，風雪可停。數位票11/25販售、11/28適用；紙票仍有，非全面廢紙。纜車需在櫃台換票，不能直接憑手機搭乘。數位購票頁未成功讀取，海外支付及啟用細節尚未完全確認；可核官方紙票窗口。公交、纜車同集團服務頁可核價格營業，不能當兩家獨立採訪；另有旅遊指南及第三方票頁核對景點，數位變更仍以原始公告為準。\",\n      \"sources\": [\n        {\n          \"label\": \"中央巴士札幌版\",\n          \"url\": \"https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det\"\n        },\n        {\n          \"label\": \"中央巴士小樽版\",\n          \"url\": \"https://www.chuo-bus.co.jp/main/setticket/?n=117&ope=det\"\n        },\n        {\n          \"label\": \"纜車冬季營業\",\n          \"url\": \"https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/\"\n        },\n        {\n          \"label\": \"旅遊指南\",\n          \"url\": \"https://kankoujp.com/otaru-tenguyama/\"\n        },\n        {\n          \"label\": \"11/25數位票原始公告\",\n          \"url\": \"https://sirius.chuo-bus.co.jp/%E5%B0%8F%E6%A8%BD%E5%A4%A9%E7%8B%97%E5%B1%B1%E3%83%90%E3%82%B9%E3%82%BB%E3%83%83%E3%83%88%E5%88%B8%EF%BC%88%E5%B0%8F%E6%A8%BD%E7%99%BA%E7%9D%80%E3%83%BB%E6%9C%AD%E5%B9%8C%E7%99%BA%E7%9D%80%EF%BC%89%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%A6/main_info/2430.html?c=0&ope=det\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"官方巴士套票與平台纜車券不是同一商品。已有JR交通安排、只缺纜車者才適合銜接平台；住小樽可另比較住宿。\",\n        \"products\": [\n          \"單獨纜車往返券（替代方案）\",\n          \"小樽住宿\"\n        ],\n        \"platforms\": [\n          \"KKday\",\n          \"Klook\",\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"已買巴士套票就不用再買纜車券；若你搭JR到小樽、交通另付，才比較這些單獨纜車券，使用日期與換票條件要再確認。\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 19,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 11,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"小樽 天狗山 デジタル 2026 site:x.com OR site:instagram.com OR site:facebook.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/otaru-jr-otaru-station/hotels-c35773r8419244/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"看夜景後過夜的延伸；頁內11/7～13參考價非當日報價。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽地區住宿\",\n              \"url\": \"https://www.booking.com/city/jp/otaru.ja.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"依交通安排選地點，住宿不含纜車或套票。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"小樽天狗山纜車往返券\",\n              \"url\": \"https://www.kkday.com/ja/product/125844-otaru-tenguyama-ropeway-ticket\",\n              \"kind\": \"商品頁\",\n              \"reason\": \"單獨纜車替代方案，不含巴士；原頁列11/4～27檢修，需確認11/28後選定日期，山腳櫃台換票。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已讀原始頁面，未實測結帳、指定日庫存或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"天狗山纜車往返票\",\n              \"url\": \"https://www.klook.com/ja/activity/50815-mt-tengu-ropeway-otaru/\",\n              \"kind\": \"商品頁\",\n              \"reason\": \"頁內可選11/28後方案；不含巴士，仍須換票。平台營業時刻不作官方當日班表；不保證庫存或折扣價。\",\n              \"checks\": \"不含官方巴士套票；另核使用日期、換票、退改、包含內容及分潤資格。\",\n              \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n              \"verified\": true\n            }\n          ]\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"doutor-cinnamoroll-mousse-20261126\",\n      \"title\": \"Doutor大耳狗喜拿起司慕斯今天上市：580日圓，抽獎另看資格\",\n      \"category\": \"美食／IP聯名\",\n      \"region\": \"日本Doutor Coffee Shop指定門市\",\n      \"announcementDate\": \"2026/11/12 11:00 JST品牌公告；11/17媒體報導\",\n      \"eventDate\": \"慕斯11/26起售完為止；LINE活動11/26～12/25 JST\",\n      \"freshness\": \"超過7天例外：今天正式上市；不以較晚媒體刊登當新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"近期赴日可順路買的小額IP甜點，需把蛋糕購買與抽獎資格分開。\",\n      \"facts\": \"シナモロールのふわふわチーズムース580日圓含稅，起司優格慕斯內有蘋果及卡士達，數量限定售完即止；不保證賣至聖誕。當天開始的LINE收據Bingo活動至12/25 23:59 JST，外送及手機點餐不適用。海外LINE、抽獎收件地址資格尚未完全確認，正文不承諾台灣遊客能參加。杜拜巧克力慕斯是12/17，不依媒體總標題誤寫今天上市；本稿只選喜拿甜點。門市差異、庫存未核，普通購買未見國籍限制，抽獎是另項條件。\",\n      \"sources\": [\n        {\n          \"label\": \"品牌菜單原稿\",\n          \"url\": \"https://www.value-press.com/pressrelease/384286\"\n        },\n        {\n          \"label\": \"食品產業新聞11/17\",\n          \"url\": \"https://www.ssnp.co.jp/foodservice/711732/\"\n        },\n        {\n          \"label\": \"Doutor活動條件\",\n          \"url\": \"https://www.doutor.co.jp/dcs/menu/fair/christmas2026/index.html?utm_campaign=pr2026ccp&utm_medium=official&utm_source=pr\"\n        },\n        {\n          \"label\": \"Doutor11/12新聞\",\n          \"url\": \"https://www.doutor.co.jp/news/newsrelease/detail/20261111170033.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"一般門市甜點沒有直接訂房或買票需求，抽獎資格未全核，更不適合硬接分潤商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"queries\": [\n        \"ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com\",\n        \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n      ],\n      \"score\": 88,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 13,\n        \"實用性\": 12,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/26 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"熱度未確認；沒有48小時內雙作者、可核讚數與留言數的合格樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"ドトール シナモロール 11月26日 2026 site:threads.com OR site:facebook.com OR site:instagram.com\",\n          \"2026 11月 天狗山 ドトール ちいかわ焼き site:tiktok.com OR site:youtube.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已以本題及四平台搜尋，沒有適合的預訂商品，不硬接住宿。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，草稿另存draft\"\n    },\n    {\n      \"id\": \"pending-20261126-0\",\n      \"title\": \"SAKURA Tax-free Online\",\n      \"category\": \"購物／政策\",\n      \"region\": \"日本指定機場與提貨點\",\n      \"announcementDate\": \"11/19官方；11/25台灣報導\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"讀到官方及服務說明，但提貨、訂購截止與旅客退款資格未全核；不把11/25轉述當新公告。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.lycorp.co.jp/ja/news/release/021001/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-1\",\n      \"title\": \"Fraser Place六本木開業\",\n      \"category\": \"住宿\",\n      \"region\": \"東京六本木\",\n      \"announcementDate\": \"11/24品牌稿；11/25正式開業，10/1已試營運\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"品牌稿及轉載非獨立雙源，未核住宿可訂條件，不稱11/25首度入住。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000001.000194224.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-2\",\n      \"title\": \"東橫INN長岡站前預約\",\n      \"category\": \"住宿\",\n      \"region\": \"新潟長岡\",\n      \"announcementDate\": \"11/24稿；11/25預約、2027/2/6開業線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"原PDF索引線索，未完成第二來源與訂房條件。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.toyoko-inn.co.jp/news/%E6%9D%B1%E6%A8%AAINN%E9%95%B7%E5%B2%A1%E9%A7%85%E5%89%8D_%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 SAKURA 免税 六本木 フレイザー 東横イン 長岡 site:threads.com OR site:facebook.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-3\",\n      \"title\": \"京都站LE SSERAFIM合作\",\n      \"category\": \"活動／購物\",\n      \"region\": \"京都站\",\n      \"announcementDate\": \"11/20公告；11/25～12/25線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"贈品消費門檻、庫存及完整條件未交叉；社群返回其他城市舊活動。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.kyoto-station-building.co.jp/app/uploads/2026/11/261120_00_%E3%80%90HP%E7%94%A8%E3%80%91%E3%80%8CLE-SSEARAFIM-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%80%8D%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-4\",\n      \"title\": \"近畿日本Tourist黑五\",\n      \"category\": \"旅遊優惠\",\n      \"region\": \"日本多地\",\n      \"announcementDate\": \"11/25～12/4線索，原公告日未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"最高折扣有高消費門檻，外國旅客適用與商品未核，不推薦。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.knt.co.jp/cpn/blackfriday/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-5\",\n      \"title\": \"日本旅行黑五5%\",\n      \"category\": \"住宿優惠\",\n      \"region\": \"日本多地\",\n      \"announcementDate\": \"先行期至11/27 10:59 JST；原公告日待核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"先行與正式階段不同，旅客資格及適用住宿未全核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.nta.co.jp/cpn/campaign/black-friday/sale/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-6\",\n      \"title\": \"JR東日本びゅう黑五第四階段\",\n      \"category\": \"交通／住宿\",\n      \"region\": \"東日本\",\n      \"announcementDate\": \"11/13原稿；11/25階段開始線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"車加宿商品非單獨火車折扣，條件與海外購買未全核。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.jre-vts.com/mt/press_20261113.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月 近畿日本ツーリスト 日本旅行 びゅう ブラックフライデー site:x.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-7\",\n      \"title\": \"丸龜製麵部分品項降價\",\n      \"category\": \"美食\",\n      \"region\": \"日本門市\",\n      \"announcementDate\": \"11/25實施線索；原公告日期未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"僅PDF索引，價格與店別未完成雙源，不將摘要當確認菜單。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://pdf.irpocket.com/C3397/xoA3/DnNg/JEYI/Umpi.pdf\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-8\",\n      \"title\": \"富士回遊訊號故障後運行\",\n      \"category\": \"交通\",\n      \"region\": \"山梨富士急行線\",\n      \"announcementDate\": \"11/25 14:30更新線索\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"昨日停駛線索未核今日狀態，不能寫11/26仍停駛。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.fujikyu-railway.jp/news/?ap=4&cnt=39&page=1\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-9\",\n      \"title\": \"手稻11/26仍停滑\",\n      \"category\": \"季節情報／交通\",\n      \"region\": \"北海道札幌\",\n      \"announcementDate\": \"11/26 07:33 JST官方狀態\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"已讀今日CLOSED；昨日公告路徑404，缺獨立第二來源。作官方單源提醒，不列雙源精選。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月25 丸亀製麺 富士回遊 手稲 LE SSERAFIM 京都駅 site:x.com OR site:threads.com OR site:ptt.cc OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261126-10\",\n      \"title\": \"Tabelog體驗預訂線索\",\n      \"category\": \"旅遊／預約\",\n      \"region\": \"日本\",\n      \"announcementDate\": \"11/25索引線索，原始日期未核\",\n      \"eventDate\": \"日期線索見上，未完全確認\",\n      \"reason\": \"索引標題與網址主題可能不一致，原頁無法讀取，不能確認事件，直接排除。\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索，查核限制見原因\",\n          \"url\": \"https://www.jnto.go.jp/news/members/jtb_bokun.html\"\n        }\n      ],\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核使用日期、庫存、包含內容、退改、付款及分潤資格，不保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-26\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n        \"summary\": \"已以組合關鍵字補查，未取得合格原文；索引不當互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"Tabelog 体験 予約 2026 11月25 site:threads.com OR site:x.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"chiikawayaki-winter-reservation-20261126\",\n    \"title\": \"吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約\",\n    \"score\": 93,\n    \"reason\": \"編輯推薦標籤，未代使用者選題。明天來店今天就要處理，前一天預約與分批口味容易看錯；適合停下閱讀、轉傳同行者、收藏店別表。\",\n    \"versusSecond\": \"Jetstar有更短截止，但跨城航線與行李限制較多；吉伊卡哇燒的當日預約提醒對指定店讀者更直接。\",\n    \"publishAt\": \"11/26 10:30 Asia/Taipei（編輯建議，非帳號實測）\",\n    \"audience\": \"近期到名古屋、幕張及橫濱的台灣自由行與IP讀者\",\n    \"angle\": \"明天來店今天預約；350日圓冬季口味不是同一天全上\",\n    \"lifecycle\": \"1週\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-26T10:01:04+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"含逐題與多題組合查詢，未取得符合48小時雙作者原文且讚與留言可核的樣本；checkedAt是研究截止，沒有合格互動觀測。搜尋舊文、官方貼文與鏡像都不計分，缺數字不補0。\",\n    \"platformAccess\": {\n      \"Threads\": \"未取得本期合格原文\",\n      \"Facebook\": \"未取得本期合格原文\",\n      \"Instagram\": \"未取得主題時間及互動完整樣本\",\n      \"PTT\": \"Jetstar11/13舊文與其他活動舊文，超窗\",\n      \"Dcard\": \"Jetstar11/20舊線索且含商業連結\",\n      \"X\": \"多為官方帳號、舊話題及無關結果，無合格雙作者樣本\",\n      \"YouTube\": \"返回較早吉伊卡哇影片，不符本次冬季活動\",\n      \"TikTok\": \"返回2月與夏季其他吉伊卡哇活動，不套用本題\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"吉伊卡哇燒11/27首日\",\n      \"next\": \"核對實際店別預約與品項供應，不能推測名額或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://www.chiikawa-yaki.com/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"天狗山11/28冬季開始\",\n      \"next\": \"未來48小時核正式營業與天候，核數位票啟用與海外付款；預定不等於當天必開。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"手稻11/27營業狀態\",\n      \"next\": \"今天仍CLOSED，等待新的正式狀態及第二來源，不預告一定復開。\",\n      \"sources\": [\n        {\n          \"label\": \"官方狀態\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"日本旅行黑五階段切換\",\n      \"next\": \"11/27正式階段線索需補查優惠門檻、適用飯店與海外旅客資格；未成熟不推薦。\",\n      \"sources\": [\n        {\n          \"label\": \"活動線索\",\n          \"url\": \"https://www.nta.co.jp/cpn/campaign/black-friday/sale/\"\n        }\n      ]\n    }\n  ]\n}\n【各題串文、切角、配圖、延伸】\n[\n  {\n    \"id\": \"chiikawayaki-winter-reservation-20261126\",\n    \"title\": \"吉伊卡哇燒明天換冬季口味：幕張、名古屋先看前一天預約\",\n    \"threads\": [\n      \"明天11/27要去名古屋或幕張買吉伊卡哇燒，今天先處理入店預約：這兩店指定期間採先到先得，前一天日本時間10:00開放，也就是台灣09:00。\\n\\n冬季新品一個350日圓含稅，但11/27先上飛鼠「楓糖奶油餡」，不是三個新口味一起推出。\",\n      \"先對你要去的店：\\n・幕張新都心：11/27～12/25採先到先得預約。\\n・名古屋PARCO：11/27～12/6，以及週末假日採先到先得預約。\\n\\n從官網選店、點實際來店日期，再選時段。本次讀到名古屋11/27日期頁顯示受理中，但不代表你打開時仍有名額；海外電話填表與預約完成，本次未實測。\",\n      \"想吃另外兩款，要再看日期：栗子饅頭「甘酒牛奶奶油」12/7起，海獺「焦糖奶油」12/14起。幕張會累積供應已上市口味至1/11；橫濱、名古屋則輪替，不能只看角色照片就衝店。\\n\\n預約本人要到場，帶有照片的公的證件，官方列有護照；別找人代替入店。先核店別日期，再查完整口味表與預約入口：\\nhttps://www.chiikawa-yaki.com/\\n冬季商品公告：https://prtimes.jp/main/html/rd/p/000000026.000157539.html\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"預約\",\n        \"opening\": \"明天去買吉伊卡哇燒，今天台灣09:00已開始開放指定店預約。\"\n      },\n      {\n        \"name\": \"口味\",\n        \"opening\": \"350日圓冬季新品，不是11/27一次上三款。\"\n      },\n      {\n        \"name\": \"店別\",\n        \"opening\": \"幕張與名古屋預約期間不同，別只記前一天開放。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"12月去橫濱或名古屋，先對冬季口味輪替表。\"\n      },\n      {\n        \"name\": \"本人到場\",\n        \"opening\": \"吉伊卡哇燒入店預約不能找人代去，護照記得帶。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。\",\n        \"url\": \"https://prtimes.jp/main/html/rd/p/000000026.000157539.html\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸店別與同區行程攻略，不硬接分潤。\"\n    ]\n  },\n  {\n    \"id\": \"jetstar-blackfriday-deadline-20261126\",\n    \"title\": \"Jetstar黑五今天台灣15:59截止：日本國內線3,696日圓起另加費\",\n    \"threads\": [\n      \"要在日本城市之間搭飛機，Jetstar黑色星期五促銷預定今天11/26台灣15:59結束，日本時間是16:59。\\n\\n日本國內線單程3,696日圓起，最低價對應成田—關西，不是台灣飛日本的價格。國內線搭乘期12/8～2027/6/24，實際可用日依航線而異，還有排除日。\",\n      \"看到低價先算總額：Starter票價另加付款費及機場相關費用，不含托運行李或選位。日本GK航班隨身行李兩件合計7公斤，行李多的人要把加購費一起比。\\n\\n這次涵蓋18條日本國內航線，但不是每條都3,696日圓，也不保證你要的日期還有促銷座位。國際線的搭乘期間另有規定，不能套用這段國內線日期。\",\n      \"適合日期已經確定的人：Starter不能退款，改期會有手續費與票價差額；海外信用卡完成付款本次未實測。\\n\\n現在先開官方活動頁選航線、日期，再核對機場位置、行李與結帳總額，確認後才接著安排住宿。頁面仍列今天截止，後續若調整以官方為準。\\n官方活動與條件：https://www.jetstar.com/jp/ja/deals/sale\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"截止\",\n        \"opening\": \"Jetstar黑五今天台灣15:59截止，先看你要的國內線日期。\"\n      },\n      {\n        \"name\": \"價格\",\n        \"opening\": \"3,696日圓是成田—關西起價，不是台灣出發價。\"\n      },\n      {\n        \"name\": \"行李\",\n        \"opening\": \"日本跨城飛行的便宜票，先把托運行李加回總額。\"\n      },\n      {\n        \"name\": \"期間\",\n        \"opening\": \"12月到明年6月的日本國內線，排除日仍要逐線看。\"\n      },\n      {\n        \"name\": \"退改\",\n        \"opening\": \"買促銷前先定日期，Starter不是可以隨時退款的票。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。\",\n        \"url\": \"https://www.jetstar.com/jp/ja/deals/sale\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：官方機票確認後銜接大阪難波住宿，住宿不含機票。\"\n    ]\n  },\n  {\n    \"id\": \"otaru-tenguyama-digital-20261125\",\n    \"title\": \"天狗山巴士套票11/28起新價格：札幌出發3,380、小樽2,450日圓\",\n    \"threads\": [\n      \"11/28起去小樽天狗山，先分清你從哪裡出發：札幌出發巴士套票成人3,380日圓，小樽出發2,450日圓。\\n\\n兩種都有小樽市內巴士一日券和天狗山纜車往返；只有札幌版多了札幌—小樽高速巴士往返。已打算搭JR的人，別把不需要的高速巴士也買進去。\",\n      \"小孩票價分別是札幌版1,690、小樽版1,220日圓。札幌版高速巴士可搭中央巴士或JR北海道巴士；小樽版則不含這段城際交通。\\n\\n數位套票11/25開始販售，11/28起適用；紙票仍有官方窗口可買。電子化也不等於一路免換票：搭天狗山纜車前，仍要到櫃台換纜車乘車券。\",\n      \"纜車冬季營業預定11/28開始，今天不能因為票已開賣就當成已恢復運行；風雪也可能影響當天營業。\\n\\n數位購票與海外付款本次未完成實測，先核官方購票說明，必要時選札幌或小樽的紙票窗口。出發前再查纜車狀態；若已買含纜車的套票，就不要另外買第二張纜車券。\\n札幌套票：https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det\\n纜車日期：https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"比票\",\n        \"opening\": \"札幌3,380、小樽2,450，差的不是只有出發地名稱。\"\n      },\n      {\n        \"name\": \"避免重買\",\n        \"opening\": \"巴士套票已含天狗山纜車，別再買一張平台纜車券。\"\n      },\n      {\n        \"name\": \"數位票\",\n        \"opening\": \"天狗山套票可買電子版，但纜車前仍要換票。\"\n      },\n      {\n        \"name\": \"開場日\",\n        \"opening\": \"票先開賣，天狗山冬季纜車預定11/28才開始。\"\n      },\n      {\n        \"name\": \"交通選擇\",\n        \"opening\": \"打算搭JR去小樽的人，先算你真正需要哪一段巴士。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。\",\n        \"url\": \"https://www.chuo-bus.co.jp/main/setticket/?n=6&ope=det\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：交通已另安排者可比較單獨纜車券；已有套票者勿重複買。另可整理小樽過夜行程。\"\n    ]\n  },\n  {\n    \"id\": \"doutor-cinnamoroll-mousse-20261126\",\n    \"title\": \"Doutor大耳狗喜拿起司慕斯今天上市：580日圓，抽獎另看資格\",\n    \"threads\": [\n      \"今天11/26起，在日本Doutor可以找這顆大耳狗喜拿「ふわふわチーズムース」，一份580日圓含稅。\\n\\n白色起司優格慕斯裡藏著蘋果與卡士達，是數量限定、售完為止。想排進12月行程可以先記品名，但不要把聖誕活動截止日當成蛋糕一定會賣到那天。\",\n      \"同天開始的聖誕LINE收據Bingo，是另一件事：活動期間到12/25日本時間23:59，外送和手機點餐不適用。\\n\\n一般到店買蛋糕，與是否能參加活動、領取獎品要分開看。本次沒有完全確認海外LINE及抽獎收件地址條件，所以不會把「台灣旅客都能抽」當成購買理由。\",\n      \"最簡單的安排，是逛街休息時先看附近Doutor的門市與供應品項，到店確認有貨再點。不同店及現場庫存可能有差異，不需要為了一張商品照片特地繞遠路。\\n\\n若想參加LINE活動，保留收據前先讀活動規則；蛋糕不是飲料套餐價，購買與抽獎也不是同一資格。\\n官方商品與上市資訊：https://www.value-press.com/pressrelease/384286\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"新品\",\n        \"opening\": \"Doutor今天有580日圓喜拿慕斯，先記住日文品名。\"\n      },\n      {\n        \"name\": \"期間\",\n        \"opening\": \"聖誕活動到12/25，不代表蛋糕保證賣到12/25。\"\n      },\n      {\n        \"name\": \"抽獎\",\n        \"opening\": \"買得到喜拿蛋糕，和台灣旅客能不能抽獎，是兩件事。\"\n      },\n      {\n        \"name\": \"口味\",\n        \"opening\": \"白色起司慕斯裡，藏的是蘋果與卡士達。\"\n      },\n      {\n        \"name\": \"休息\",\n        \"opening\": \"逛街找咖啡店休息，可以順便查這款喜拿甜點。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方原頁可查商品或景點圖；素材可找到不等於可商用，發布圖片前須另核授權。\",\n        \"url\": \"https://www.value-press.com/pressrelease/384286\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸店別與同區行程攻略，不硬接分潤。\"\n    ]\n  }\n]"
+}
