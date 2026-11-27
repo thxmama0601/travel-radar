@@ -1,0 +1,1751 @@
+{
+  "date": "2026-11-27",
+  "cutoff": "2026-11-27 10:06:27 Asia/Taipei（日本11:06:27 Asia/Tokyo）",
+  "scopeNote": "15個不同事件候選線索，3題完成可發布交叉查核，12題待查，未湊足TOP10。未核題八項與星等留null表示未評估，不是0。三題共10串，內容分數91/89/85為編輯判斷；沒有社群合格樣本，無法建立本期熱榜。廣搜全日本並檢視各區域，部分地區只返回舊頁或索引，不硬湊地域。比對11/25、26報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host、吉伊卡哇燒、Doutor及已截止Jetstar優惠。金澤來源含主辦與參展畫廊，屬兩個機構資訊核對，不稱兩家獨立採訪。四平台逐題查找，僅四個住宿列表可核；KKday／Klook沒有本題合格商品，不用其他JR周遊券或2023年富山展替代。",
+  "trends": [
+    "已查證：JR東海冬季2日券今天開賣，使用期12/12起，購買須符合EX條件。",
+    "已查證：3,900日圓券以在來線普通／快速自由席為主，不含新幹線或特急基本運費。",
+    "已查證：7-Eleven今天半價春捲，明後天換品項，部分店採替代商品。",
+    "已查證：金澤工藝展今天限VIP，一般公開11/28、29，最後入場各提前30分鐘。",
+    "官方單源：手稻11/27 07:28 JST顯示CLOSED；尚未完成第二來源核對。",
+    "編輯觀察：今天可用的提醒重點是資格、每日品項與一般公開日，不宜只貼促銷標題。",
+    "社群限制：未取得符合48小時雙作者與完整互動數的樣本，爆紅星等只是編輯預估。"
+  ],
+  "top10": [
+    {
+      "id": "jr-central-winter-pass-20261127",
+      "title": "JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票",
+      "category": "交通／票券",
+      "region": "東海與中部，JR東海在來線區間",
+      "announcementDate": "2026/11/24官方公告；Travel Watch同日15:37 JST",
+      "eventDate": "販售11/27～2027/1/11；使用12/12～2027/1/12，連續2日",
+      "freshness": "今天正式開賣；原公告3天前，不當今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季跨城旅客容易誤以為是人人可買的JR周遊券。購買資格、可搭車種及取票點直接影響行程。",
+      "facts": "成人3900、兒童1900日圓，JR東海12條在來線普通／快速列車普通車自由席連續2日；不含新幹線。特急須另買乘車券與特急券，不只是補特急費。先以EX服務購買抵達熱海～米原間任一東海道新幹線站的車票，出發站不限；LINEからEX不適用。由EX旅先予約進e5489，須免費WESTER帳號，每位符合資格旅客對應1張。EX票領取翌日起或乘車翌日起不能再買。操作時只能指定1個月內且在使用期間的起用日。JR東海指定窗口或有5489標示機器取票，需付款信用卡、4開頭5位預約號與電話末4碼；熱海只限JR東海新幹線轉乘窗口。甲府、國府津、辰野、鹽尻、豬谷、新宮及JR東／西日本站不可取票。海外帳號與付款未實測；不是短期外國旅客專用票，不承諾所有台灣卡可用。",
+      "sources": [
+        {
+          "label": "JR東海完整條件",
+          "url": "https://railway.jr-central.co.jp/tickets/winter-freepass/index.html"
+        },
+        {
+          "label": "11/24官方原公告",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046211.pdf"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2158752.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "本券必須官方EX／e5489流程，不能把第三方JR票替代；路線確認後才能自然銜接名古屋住宿。",
+        "products": [
+          "名古屋住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "先確認你的EX新幹線票符合資格，再安排名古屋住宿；住宿頁不包含這張3,900日圓車票。",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+        "JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "名古屋站周邊住宿",
+              "url": "https://jp.trip.com/hotels/nagoya-jr-nagoya-station/hotels-c360r8255065/",
+              "kind": "住宿列表",
+              "reason": "JR行程確認後的名古屋住宿比較，不含3,900日圓票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "名古屋住宿列表",
+              "url": "https://www.booking.com/accommodation/city/jp/nagoya.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "JR行程確認後的名古屋住宿比較，不含3,900日圓票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "冬天要搭JR東海，今天11/27開賣的「冬の乗り放題きっぷ」成人3,900日圓、兒童1,900日圓，可連續用2天。但它不是人人直接買得到的周遊券。\n\n使用期是12/12～2027/1/12。你要先有符合條件的EX新幹線預約：抵達站須在東海道新幹線熱海～米原之間，出發站不限；「LINEからEX」不適用。",
+          "這張券搭的是JR東海12條在來線的普通／快速列車普通車自由席，不包含新幹線。\n\n最容易看錯的是特急：要搭特急，乘車券和特急券都須另外買，不是只補特急費就好。普通列車指定席、Green車或Home Liner也要另核附加票。\n\n適合本來就有符合資格EX行程的人，先拿官方路線圖對行程，不必為了買這張券額外安排不需要的新幹線。",
+          "購買路徑：登入EX→「EX旅先予約」→e5489，另需免費WESTER帳號。每位符合資格旅客對應1張；操作時只能指定1個月內、且落在使用期的起用日。\n\n別等到搭完才想買：EX車票領取的翌日起，或新幹線乘車翌日起，就不能再購買。本券販售至2027/1/11，也不代表今天能先買所有1月日期。",
+          "取票也要排進行程：到JR東海指定窗口或有「5489」標示的機器，準備付款信用卡、預約號與電話末4碼。熱海限JR東海新幹線轉乘窗口；JR東日本／西日本站等不能取，完整例外請看官網。\n\n海外註冊與信用卡付款本次未實測。先核你的EX資格、起用日、取票站，再付款；住宿與第三方票券不會自動附這張券。\n官方條件及路線圖：https://railway.jr-central.co.jp/tickets/winter-freepass/index.html"
+        ],
+        "angles": [
+          {
+            "name": "資格",
+            "opening": "3,900日圓搭2天，先確認你有符合條件的EX新幹線票。"
+          },
+          {
+            "name": "車種",
+            "opening": "JR東海冬季券不含新幹線，特急也不是只補特急費。"
+          },
+          {
+            "name": "購買順序",
+            "opening": "別等搭完新幹線才買，冬季券有EX領票與乘車限制。"
+          },
+          {
+            "name": "取票",
+            "opening": "到了JR車站不一定能領，先找JR東海的5489機器或指定窗口。"
+          },
+          {
+            "name": "規劃",
+            "opening": "冬季2日券今天開賣，1月行程仍要看一個月內起用規則。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方券適用路線圖；可找到素材，商用與轉貼授權尚未核。",
+            "url": "https://railway.jr-central.co.jp/tickets/winter-freepass/index.html"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：完成EX資格與路線確認後整理名古屋住宿；不能聲稱訂房附票。"
+        ]
+      }
+    },
+    {
+      "id": "seven-daily-halfprice-20261127",
+      "title": "日本7-Eleven今天春捲半價：每天換品項，週末不是繼續買春捲",
+      "category": "美食／購物",
+      "region": "日本7-Eleven參與門市",
+      "announcementDate": "2026/11/16官方原公告；同日10:15 JST Gourmet Watch",
+      "eventDate": "11/26～29每日不同；11/27春捲、28美式熱狗、29ななチキ",
+      "freshness": "超過7天例外：今天切換指定半價品項，週末兩天仍可用",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "正在日本的人可立即使用的小額資訊；每日輪替與不同店替代品項比只喊半價更實用。",
+      "facts": "11/27五目春巻未稅56日圓，官方含稅標示60.48；11/28アメリカンドッグ未稅69、含稅標示74.52；11/29ななチキ未稅116、含稅標示125.28。部分門市27日為唐揚串、29日為香料炸雞，不可保證全店同品。以店頭供應為準，庫存與加熱等待未核；除部分店外7NOW活動品手機點餐暫停。原稿11/16，不將11/26提醒稿當新公布。含稅數字依官方顯示，不把小數日圓寫成未核的現金結帳總額。普通店頭購買未見會員或國籍限制；無預訂與庫存保證。",
+      "sources": [
+        {
+          "label": "官方活動頁",
+          "url": "https://www.sej.co.jp/cmp/hs2611/"
+        },
+        {
+          "label": "11/16官方原稿與價格表",
+          "url": "https://www.sej.co.jp/var/rev0/0013/7102/1261116122910.pdf"
+        },
+        {
+          "label": "Gourmet Watch交叉核對",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2156584.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市小額即買食品與旅遊預訂關係薄弱，四平台沒有適合本題的已核商品，不硬接分潤。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com",
+        "セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com"
+      ],
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com",
+          "セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11/27人在日本，7-Eleven的「五目春巻」半價，未稅56日圓；官方含稅標示是60.48日圓。\n\n這次11/26～29是每天換一種指定炸物，不是四天都能買半價春捲。明天11/28換美式熱狗，後天11/29換ななチキ，先把日期對好再找櫃台。",
+          "把剩下三天記在一起：\n・11/27春捲：未稅56日圓。\n・11/28美式熱狗：未稅69日圓。\n・11/29ななチキ：未稅116日圓。\n\n後兩款官方含稅標示分別為74.52、125.28日圓。以上是活動價格表，不是保證你每一家店、每個時間都買得到；結帳金額看現場。",
+          "有些門市用不同品項參加：27日可能是唐揚串，29日可能是香料炸雞。到店先對活動牌與商品名，有貨再買，也可能需要等炸好。\n\n另外，除部分店外，7NOW活動品項手機點餐會暫停，別把它當成可以先手機下單保留的優惠。適合路過順買，不需要為一個小點心繞很遠。\n官方每日品項與店別說明：https://www.sej.co.jp/cmp/hs2611/"
+        ],
+        "angles": [
+          {
+            "name": "今天買什麼",
+            "opening": "日本7-Eleven今天半價的是春捲，不是整個炸物櫃。"
+          },
+          {
+            "name": "每日輪替",
+            "opening": "週末去買，半價品項已換；先存11/27～29對照。"
+          },
+          {
+            "name": "稅別",
+            "opening": "56日圓是未稅，別把活動大字當含稅結帳價。"
+          },
+          {
+            "name": "店別",
+            "opening": "同一天有些店賣的是唐揚串，先看現場活動牌。"
+          },
+          {
+            "name": "下單",
+            "opening": "這次半價炸物別先假設能用7NOW保留。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方每日半價品項及價格表；素材授權另核。",
+            "url": "https://www.sej.co.jp/cmp/hs2611/"
+          }
+        ],
+        "extensions": [
+          "可整理每日炸物與附近門市，不硬接分潤。"
+        ]
+      }
+    },
+    {
+      "id": "kogei-kanazawa-public-20261128",
+      "title": "金澤工藝展今天只限受邀者：一般旅客11/28、29才能進場",
+      "category": "活動／大型展覽",
+      "region": "北陸金澤Hyatt Centric，2、4、5樓",
+      "announcementDate": "2026/10/29 10:06 JST主辦原稿；畫廊頁未標公布時刻",
+      "eventDate": "11/27 VIP邀請；11/28 11–19、11/29 11–18 JST一般公開，均提前30分鐘截止入場",
+      "freshness": "超過7天例外：明天一般公開；今日VIP不冒充一般開幕",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "週末金澤旅客需要知道一般公開日，避免今天跑到飯店卻無法入場；兩日通票可安排兩天。",
+      "facts": "KOGEI Art Fair Kanazawa2026於Hyatt Centric Kanazawa2、4、5樓，地址廣岡1-5-2；11/27 13–19只限受邀VIP。一般公開11/28 11–19最後18:30，11/29 11–18最後17:30 JST。前售2500、當日3000日圓，兩者都是兩日通票。售票網站只能讀到JavaScript要求，未核前售目前是否可買、截止時間、庫存或海外支付，不把2500寫成保證可買。主辦與參展畫廊共同核對日期票價，屬不同機構原始資訊，不是兩家獨立採訪。住宿不含門票；旅客一般入場未見國籍限制，購票完成仍未實測。",
+      "sources": [
+        {
+          "label": "主辦日期與入場",
+          "url": "https://kogei-artfair.jp/about/"
+        },
+        {
+          "label": "參展畫廊交叉核對",
+          "url": "https://www.enishira.co.jp/exhibition/kogeiartfairkanazawa2026/"
+        },
+        {
+          "label": "10/29原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000022.000063671.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "兩日看展可銜接金澤站住宿，但明天開始，多數旅客已訂房；僅適合仍需過夜安排的人。",
+        "products": [
+          "金澤站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "若你打算兩天看展、住宿還沒定，可比較金澤站周邊；訂房不包含工藝展入場券。",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com"
+      ],
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/27 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤站周邊住宿",
+              "url": "https://jp.trip.com/hotels/kanazawa-jr-kanazawa-station/hotels-c3663r8419318/",
+              "kind": "住宿列表",
+              "reason": "兩日看展仍需住宿者的金澤比較，不含展覽門票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.booking.com/city/jp/kanazawa.ja.html",
+              "kind": "住宿列表",
+              "reason": "兩日看展仍需住宿者的金澤比較，不含展覽門票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天11/27到金澤，別只看到工藝展會期就直接去排：KOGEI Art Fair Kanazawa今天是受邀VIP預覽，一般旅客要等11/28、29。\n\n會場在金澤站旁的Hyatt Centric Kanazawa，展區是2、4、5樓。想把工藝展排進週末，先存一般公開時段，比只記「11/27開幕」更有用。",
+          "一般公開時間都是日本時間：\n・11/28：11:00～19:00，最後入場18:30。\n・11/29：11:00～18:00，最後入場17:30。\n\n公告票價是前售2,500日圓、當日3,000日圓，兩種都是兩日通票。不過本次未能讀取售票頁的即時狀態，無法保證現在仍能買前售，也沒有確認前售截止時間。",
+          "先從主辦頁的購票入口確認票種與可售狀態，再安排看展。地址是金澤市廣岡1-5-2，受付在2樓；訂這間飯店或周邊住宿，不能直接當成已包含入場票。\n\n喜歡九谷燒、玻璃或漆藝，可以先看參展畫廊作品介紹再挑想逛的房間。作品圖可以當行前參考，轉貼圖片的授權仍要另確認。\n官方時段與購票入口：https://kogei-artfair.jp/about/"
+        ],
+        "angles": [
+          {
+            "name": "避免白跑",
+            "opening": "金澤工藝展今天是VIP，一般旅客明天才能進。"
+          },
+          {
+            "name": "時間",
+            "opening": "週六、週日收場差一小時，最後入場也不同。"
+          },
+          {
+            "name": "票種",
+            "opening": "2,500與3,000日圓都是兩日票，但前售即時狀態要再查。"
+          },
+          {
+            "name": "行程",
+            "opening": "住金澤站附近，可以把週末工藝展排進兩天行程。"
+          },
+          {
+            "name": "飯店展場",
+            "opening": "展場在飯店客房樓層，不代表訂房就附門票。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方主視覺與參展畫廊作品照片；可查找不等於可商用，另詢授權。",
+            "url": "https://kogei-artfair.jp/about/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：金澤兩日工藝散步與站區住宿，僅適合仍未訂房者；住宿不含門票。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "jr-central-winter-pass-20261127",
+      "title": "JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票",
+      "category": "交通／票券",
+      "region": "東海與中部，JR東海在來線區間",
+      "announcementDate": "2026/11/24官方公告；Travel Watch同日15:37 JST",
+      "eventDate": "販售11/27～2027/1/11；使用12/12～2027/1/12，連續2日",
+      "freshness": "今天正式開賣；原公告3天前，不當今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "1個月以上",
+      "why": "冬季跨城旅客容易誤以為是人人可買的JR周遊券。購買資格、可搭車種及取票點直接影響行程。",
+      "facts": "成人3900、兒童1900日圓，JR東海12條在來線普通／快速列車普通車自由席連續2日；不含新幹線。特急須另買乘車券與特急券，不只是補特急費。先以EX服務購買抵達熱海～米原間任一東海道新幹線站的車票，出發站不限；LINEからEX不適用。由EX旅先予約進e5489，須免費WESTER帳號，每位符合資格旅客對應1張。EX票領取翌日起或乘車翌日起不能再買。操作時只能指定1個月內且在使用期間的起用日。JR東海指定窗口或有5489標示機器取票，需付款信用卡、4開頭5位預約號與電話末4碼；熱海只限JR東海新幹線轉乘窗口。甲府、國府津、辰野、鹽尻、豬谷、新宮及JR東／西日本站不可取票。海外帳號與付款未實測；不是短期外國旅客專用票，不承諾所有台灣卡可用。",
+      "sources": [
+        {
+          "label": "JR東海完整條件",
+          "url": "https://railway.jr-central.co.jp/tickets/winter-freepass/index.html"
+        },
+        {
+          "label": "11/24官方原公告",
+          "url": "https://jr-central.co.jp/news/release/_pdf/000046211.pdf"
+        },
+        {
+          "label": "Travel Watch交叉核對",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2158752.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "本券必須官方EX／e5489流程，不能把第三方JR票替代；路線確認後才能自然銜接名古屋住宿。",
+        "products": [
+          "名古屋住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "先確認你的EX新幹線票符合資格，再安排名古屋住宿；住宿頁不包含這張3,900日圓車票。",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+        "JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 91,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 15,
+        "稀缺性": 8,
+        "視覺吸引力": 7,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw",
+          "JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "名古屋站周邊住宿",
+              "url": "https://jp.trip.com/hotels/nagoya-jr-nagoya-station/hotels-c360r8255065/",
+              "kind": "住宿列表",
+              "reason": "JR行程確認後的名古屋住宿比較，不含3,900日圓票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "名古屋住宿列表",
+              "url": "https://www.booking.com/accommodation/city/jp/nagoya.en-gb.html",
+              "kind": "住宿列表",
+              "reason": "JR行程確認後的名古屋住宿比較，不含3,900日圓票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，已備獨立串文。"
+    },
+    {
+      "id": "seven-daily-halfprice-20261127",
+      "title": "日本7-Eleven今天春捲半價：每天換品項，週末不是繼續買春捲",
+      "category": "美食／購物",
+      "region": "日本7-Eleven參與門市",
+      "announcementDate": "2026/11/16官方原公告；同日10:15 JST Gourmet Watch",
+      "eventDate": "11/26～29每日不同；11/27春捲、28美式熱狗、29ななチキ",
+      "freshness": "超過7天例外：今天切換指定半價品項，週末兩天仍可用",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "正在日本的人可立即使用的小額資訊；每日輪替與不同店替代品項比只喊半價更實用。",
+      "facts": "11/27五目春巻未稅56日圓，官方含稅標示60.48；11/28アメリカンドッグ未稅69、含稅標示74.52；11/29ななチキ未稅116、含稅標示125.28。部分門市27日為唐揚串、29日為香料炸雞，不可保證全店同品。以店頭供應為準，庫存與加熱等待未核；除部分店外7NOW活動品手機點餐暫停。原稿11/16，不將11/26提醒稿當新公布。含稅數字依官方顯示，不把小數日圓寫成未核的現金結帳總額。普通店頭購買未見會員或國籍限制；無預訂與庫存保證。",
+      "sources": [
+        {
+          "label": "官方活動頁",
+          "url": "https://www.sej.co.jp/cmp/hs2611/"
+        },
+        {
+          "label": "11/16官方原稿與價格表",
+          "url": "https://www.sej.co.jp/var/rev0/0013/7102/1261116122910.pdf"
+        },
+        {
+          "label": "Gourmet Watch交叉核對",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2156584.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "門市小額即買食品與旅遊預訂關係薄弱，四平台沒有適合本題的已核商品，不硬接分潤。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com",
+        "セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com"
+      ],
+      "score": 89,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 14,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 5,
+        "延伸內容價值": 2
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com",
+          "セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以本題及四平台搜尋，無自然銜接的預訂商品。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，已備獨立串文。"
+    },
+    {
+      "id": "kogei-kanazawa-public-20261128",
+      "title": "金澤工藝展今天只限受邀者：一般旅客11/28、29才能進場",
+      "category": "活動／大型展覽",
+      "region": "北陸金澤Hyatt Centric，2、4、5樓",
+      "announcementDate": "2026/10/29 10:06 JST主辦原稿；畫廊頁未標公布時刻",
+      "eventDate": "11/27 VIP邀請；11/28 11–19、11/29 11–18 JST一般公開，均提前30分鐘截止入場",
+      "freshness": "超過7天例外：明天一般公開；今日VIP不冒充一般開幕",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "週末金澤旅客需要知道一般公開日，避免今天跑到飯店卻無法入場；兩日通票可安排兩天。",
+      "facts": "KOGEI Art Fair Kanazawa2026於Hyatt Centric Kanazawa2、4、5樓，地址廣岡1-5-2；11/27 13–19只限受邀VIP。一般公開11/28 11–19最後18:30，11/29 11–18最後17:30 JST。前售2500、當日3000日圓，兩者都是兩日通票。售票網站只能讀到JavaScript要求，未核前售目前是否可買、截止時間、庫存或海外支付，不把2500寫成保證可買。主辦與參展畫廊共同核對日期票價，屬不同機構原始資訊，不是兩家獨立採訪。住宿不含門票；旅客一般入場未見國籍限制，購票完成仍未實測。",
+      "sources": [
+        {
+          "label": "主辦日期與入場",
+          "url": "https://kogei-artfair.jp/about/"
+        },
+        {
+          "label": "參展畫廊交叉核對",
+          "url": "https://www.enishira.co.jp/exhibition/kogeiartfairkanazawa2026/"
+        },
+        {
+          "label": "10/29原公告",
+          "url": "https://prtimes.jp/main/html/rd/p/000000022.000063671.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "中",
+        "reason": "兩日看展可銜接金澤站住宿，但明天開始，多數旅客已訂房；僅適合仍需過夜安排的人。",
+        "products": [
+          "金澤站周邊住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "若你打算兩天看展、住宿還沒定，可比較金澤站周邊；訂房不包含工藝展入場券。",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "queries": [
+        "KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com"
+      ],
+      "score": 85,
+      "scoreBreakdown": {
+        "即時性": 19,
+        "台灣旅客相關性": 16,
+        "社群討論潛力": 11,
+        "實用性": 13,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/27 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤站周邊住宿",
+              "url": "https://jp.trip.com/hotels/kanazawa-jr-kanazawa-station/hotels-c3663r8419318/",
+              "kind": "住宿列表",
+              "reason": "兩日看展仍需住宿者的金澤比較，不含展覽門票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。",
+          "pages": [
+            {
+              "title": "金澤住宿列表",
+              "url": "https://www.booking.com/city/jp/kanazawa.ja.html",
+              "kind": "住宿列表",
+              "reason": "兩日看展仍需住宿者的金澤比較，不含展覽門票。",
+              "checks": "參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。",
+              "checkedAt": "2026-11-27T10:06:27+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。",
+          "pages": []
+        }
+      ],
+      "reason": "入選，已備獨立串文。"
+    },
+    {
+      "id": "pending-20261127-0",
+      "title": "ANA×地球の歩き方旅行用品",
+      "category": "購物",
+      "region": "日本／網購",
+      "announcementDate": "11/26公告與販售線索；11/30機內入口",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.anatc.com/wp-content/uploads/2026/11/News-Release-26-25.pdf"
+        }
+      ],
+      "reason": "僅索引，海外配送、購買與雙源未全核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-1",
+      "title": "るるぶAnime英語指南上市",
+      "category": "旅遊",
+      "region": "日本",
+      "announcementDate": "11/27上市線索，原公告日未確認",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://prtimes.jp/a/?c=24732&f=d24732-672-285b94997574ddb8ac2941514c2276e8.pdf&r=672"
+        }
+      ],
+      "reason": "書籍價格與獨立交叉未核，旅客即時行動價值較弱。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-2",
+      "title": "HIS黑五第二階段",
+      "category": "交通／住宿",
+      "region": "日本出發商品",
+      "announcementDate": "11/6原稿；11/27 11:00 JST階段開始線索",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://storage.googleapis.com/disclosed-file-bucket-d4575ee/20261106567043/1/general.pdf"
+        }
+      ],
+      "reason": "多為日本出發旅行，台灣旅客可用的國內商品與資格未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-3",
+      "title": "THE ROYAL EXPRESS伊勢志摩",
+      "category": "旅遊／交通",
+      "region": "三重",
+      "announcementDate": "11/27出發線索，原公布日未確認",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.pref.mie.lg.jp/common/content/001259633.pdf"
+        }
+      ],
+      "reason": "出發不等於今天可預約，庫存與販售期未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-4",
+      "title": "河童壽司黑五App券",
+      "category": "美食",
+      "region": "日本門市",
+      "announcementDate": "11/25原稿；11/27～30線索",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.kappa-create.co.jp/blog/wp-content/uploads/2026/11/m20261125_BF.pdf"
+        }
+      ],
+      "reason": "僅索引，App海外註冊與券門檻未完整交叉。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-5",
+      "title": "新千歲THE NORTH FACE快閃",
+      "category": "購物",
+      "region": "北海道新千歲機場",
+      "announcementDate": "11/20原稿；11/27開始線索",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.hokkaido-airports.com/ja/corporate/pressrelease/assets/docs/261120_Release_HAP.pdf"
+        }
+      ],
+      "reason": "未核完整會期、商品與第二來源，不用開幕標題替代查證。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-6",
+      "title": "手稻今天仍CLOSED",
+      "category": "季節情報",
+      "region": "北海道札幌",
+      "announcementDate": "11/27 07:28 JST官方狀態",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://sapporo-teine.com/snow/lang/en/"
+        }
+      ],
+      "reason": "已讀官方今日CLOSED，缺第二來源；不推定11/28一定開滑。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-7",
+      "title": "東海道ルミエールエクスプレス夜行新幹線",
+      "category": "交通",
+      "region": "東京—新大阪",
+      "announcementDate": "11/26 15:00 JST販售線索；12/30及1/2出發",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2159562.html"
+        }
+      ],
+      "reason": "已讀11/26 16:03媒體全文，但官方PDF與預訂頁讀取失敗，票價、空位與購買條件未完成雙源。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [
+          {
+            "url": "https://www.dcard.tw/f/railway/p/261709726",
+            "label": "較早夜行新幹線討論索引",
+            "reason": "約5個月前，非本次原始48小時貼文，不計分。"
+          }
+        ],
+        "queries": [
+          "東海道 ルミエール 2026 site:x.com OR site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-8",
+      "title": "卵フェス東京",
+      "category": "活動／美食",
+      "region": "東京池袋",
+      "announcementDate": "11/27～29日曆線索，原公布日未確認",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://machievent.com/calendar/"
+        }
+      ],
+      "reason": "日曆索引，原主辦價格及參加條件尚未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-9",
+      "title": "小樽金融資料館佐渡金山展示",
+      "category": "活動",
+      "region": "北海道小樽",
+      "announcementDate": "11/27～2/23日曆線索，原公布日未確認",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.iwafu.com/jp/events?area=1&mode=soon"
+        }
+      ],
+      "reason": "聚合日曆不能支持原始公告與現場開展狀態。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-10",
+      "title": "KIRORO預定11/28開滑",
+      "category": "季節情報",
+      "region": "北海道赤井川",
+      "announcementDate": "11/28預定線索，原公布日未確認",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.iwafu.com/jp/events?area=1&mode=soon"
+        }
+      ],
+      "reason": "未核當日雪況與正式開滑公告，不把日曆預定當確認。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261127-11",
+      "title": "天神地下街11/27新店",
+      "category": "購物",
+      "region": "福岡天神",
+      "announcementDate": "11/18原稿；11/27開幕線索",
+      "eventDate": "日期線索見上，尚未完全確認",
+      "sources": [
+        {
+          "label": "候選線索；限制見原因",
+          "url": "https://www.tenchika.com/up/topics/054cef89f5a48c0a8ba28d60c0b3c725f1423398.pdf"
+        }
+      ],
+      "reason": "僅索引，完整店名、營業時間及第二來源未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實查核未完成，不推商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。",
+        "assessedOn": "2026-11-27"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，無已核推薦。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-27T10:06:27+08:00",
+        "summary": "以多題組合查詢補查，未取得合格原文；索引非互動證據。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "11/28手稻開滑狀態",
+      "next": "等正式更新與第二來源，不從降雪或預定日期推定營業。",
+      "sources": [
+        {
+          "label": "官方狀態",
+          "url": "https://sapporo-teine.com/snow/lang/en/"
+        }
+      ]
+    },
+    {
+      "title": "夜行新幹線官方商品頁",
+      "next": "補讀官方價格、出發日期、購買資格與庫存；目前媒體單源，不發確定售票攻略。",
+      "sources": [
+        {
+          "label": "官方商品頁，本次無法讀取",
+          "url": "https://travel.jrcentral.co.jp/plan/tokushu/shinkansen/lumiere/"
+        }
+      ]
+    },
+    {
+      "title": "金澤一般公開首日",
+      "next": "核售票狀態與現場入場更新；不預測排隊或售罄。",
+      "sources": [
+        {
+          "label": "主辦",
+          "url": "https://kogei-artfair.jp/about/"
+        }
+      ]
+    },
+    {
+      "title": "7-Eleven週末品項切換",
+      "next": "11/28看美式熱狗、11/29看炸雞與店別替代，不把今日春捲沿用。",
+      "sources": [
+        {
+          "label": "活動",
+          "url": "https://www.sej.co.jp/cmp/hs2611/"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "jr-central-winter-pass-20261127",
+    "title": "JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票",
+    "score": 91,
+    "reason": "編輯推薦標籤，不代使用者選題。今天開賣，條件容易誤讀，適合冬季旅客收藏並轉傳同行者。",
+    "versusSecond": "7-Eleven對當地旅客即時有用，但JR資格、取票與車種影響更高額交通決策，延伸價值較長。",
+    "publishAt": "11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "規劃12月至1月中部行程、已用EX購票的台灣自由行旅客",
+    "angle": "先有符合條件EX票，才談3,900日圓兩日券",
+    "lifecycle": "1個月以上"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-27T10:06:27+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "limitation": "逐題及多題組合搜尋15題，未取得2位作者的48小時原文與可核讚數、留言數；checkedAt為研究截止，無合格互動觀測。數字不補0，未讀原文線索不計分。",
+    "platformAccess": {
+      "Threads": "無本期合格原文",
+      "Facebook": "無本期合格原文",
+      "Instagram": "未取得主題、日期及指標完整樣本",
+      "PTT": "無本期合格原文",
+      "Dcard": "夜行新幹線舊文約5個月前，不套本次事件",
+      "X": "夏季JR話題及其他舊趨勢，不計分",
+      "YouTube": "7NOW官方9月不同活動，排除",
+      "TikTok": "robots讀取限制；返回2025年同日活動索引，不套2026"
+    }
+  },
+  "researchText": "日本每日內容雷達\n2026-11-27\n2026-11-27 10:06:27 Asia/Taipei（日本11:06:27 Asia/Tokyo）\n15個不同事件候選線索，3題完成可發布交叉查核，12題待查，未湊足TOP10。未核題八項與星等留null表示未評估，不是0。三題共10串，內容分數91/89/85為編輯判斷；沒有社群合格樣本，無法建立本期熱榜。廣搜全日本並檢視各區域，部分地區只返回舊頁或索引，不硬湊地域。比對11/25、26報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host、吉伊卡哇燒、Doutor及已截止Jetstar優惠。金澤來源含主辦與參展畫廊，屬兩個機構資訊核對，不稱兩家獨立採訪。四平台逐題查找，僅四個住宿列表可核；KKday／Klook沒有本題合格商品，不用其他JR周遊券或2023年富山展替代。\n已查證：JR東海冬季2日券今天開賣，使用期12/12起，購買須符合EX條件。\n已查證：3,900日圓券以在來線普通／快速自由席為主，不含新幹線或特急基本運費。\n已查證：7-Eleven今天半價春捲，明後天換品項，部分店採替代商品。\n已查證：金澤工藝展今天限VIP，一般公開11/28、29，最後入場各提前30分鐘。\n官方單源：手稻11/27 07:28 JST顯示CLOSED；尚未完成第二來源核對。\n編輯觀察：今天可用的提醒重點是資格、每日品項與一般公開日，不宜只貼促銷標題。\n社群限制：未取得符合48小時雙作者與完整互動數的樣本，爆紅星等只是編輯預估。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數、星等、分潤適合度為編輯判斷，非觀看或收入保證。\n{\n  \"candidates\": [\n    {\n      \"id\": \"jr-central-winter-pass-20261127\",\n      \"title\": \"JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票\",\n      \"category\": \"交通／票券\",\n      \"region\": \"東海與中部，JR東海在來線區間\",\n      \"announcementDate\": \"2026/11/24官方公告；Travel Watch同日15:37 JST\",\n      \"eventDate\": \"販售11/27～2027/1/11；使用12/12～2027/1/12，連續2日\",\n      \"freshness\": \"今天正式開賣；原公告3天前，不當今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季跨城旅客容易誤以為是人人可買的JR周遊券。購買資格、可搭車種及取票點直接影響行程。\",\n      \"facts\": \"成人3900、兒童1900日圓，JR東海12條在來線普通／快速列車普通車自由席連續2日；不含新幹線。特急須另買乘車券與特急券，不只是補特急費。先以EX服務購買抵達熱海～米原間任一東海道新幹線站的車票，出發站不限；LINEからEX不適用。由EX旅先予約進e5489，須免費WESTER帳號，每位符合資格旅客對應1張。EX票領取翌日起或乘車翌日起不能再買。操作時只能指定1個月內且在使用期間的起用日。JR東海指定窗口或有5489標示機器取票，需付款信用卡、4開頭5位預約號與電話末4碼；熱海只限JR東海新幹線轉乘窗口。甲府、國府津、辰野、鹽尻、豬谷、新宮及JR東／西日本站不可取票。海外帳號與付款未實測；不是短期外國旅客專用票，不承諾所有台灣卡可用。\",\n      \"sources\": [\n        {\n          \"label\": \"JR東海完整條件\",\n          \"url\": \"https://railway.jr-central.co.jp/tickets/winter-freepass/index.html\"\n        },\n        {\n          \"label\": \"11/24官方原公告\",\n          \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046211.pdf\"\n        },\n        {\n          \"label\": \"Travel Watch交叉核對\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2158752.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"本券必須官方EX／e5489流程，不能把第三方JR票替代；路線確認後才能自然銜接名古屋住宿。\",\n        \"products\": [\n          \"名古屋住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"先確認你的EX新幹線票符合資格，再安排名古屋住宿；住宿頁不包含這張3,900日圓車票。\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n        \"JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 91,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n          \"JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"名古屋站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/nagoya-jr-nagoya-station/hotels-c360r8255065/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"JR行程確認後的名古屋住宿比較，不含3,900日圓票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"名古屋住宿列表\",\n              \"url\": \"https://www.booking.com/accommodation/city/jp/nagoya.en-gb.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"JR行程確認後的名古屋住宿比較，不含3,900日圓票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"seven-daily-halfprice-20261127\",\n      \"title\": \"日本7-Eleven今天春捲半價：每天換品項，週末不是繼續買春捲\",\n      \"category\": \"美食／購物\",\n      \"region\": \"日本7-Eleven參與門市\",\n      \"announcementDate\": \"2026/11/16官方原公告；同日10:15 JST Gourmet Watch\",\n      \"eventDate\": \"11/26～29每日不同；11/27春捲、28美式熱狗、29ななチキ\",\n      \"freshness\": \"超過7天例外：今天切換指定半價品項，週末兩天仍可用\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"正在日本的人可立即使用的小額資訊；每日輪替與不同店替代品項比只喊半價更實用。\",\n      \"facts\": \"11/27五目春巻未稅56日圓，官方含稅標示60.48；11/28アメリカンドッグ未稅69、含稅標示74.52；11/29ななチキ未稅116、含稅標示125.28。部分門市27日為唐揚串、29日為香料炸雞，不可保證全店同品。以店頭供應為準，庫存與加熱等待未核；除部分店外7NOW活動品手機點餐暫停。原稿11/16，不將11/26提醒稿當新公布。含稅數字依官方顯示，不把小數日圓寫成未核的現金結帳總額。普通店頭購買未見會員或國籍限制；無預訂與庫存保證。\",\n      \"sources\": [\n        {\n          \"label\": \"官方活動頁\",\n          \"url\": \"https://www.sej.co.jp/cmp/hs2611/\"\n        },\n        {\n          \"label\": \"11/16官方原稿與價格表\",\n          \"url\": \"https://www.sej.co.jp/var/rev0/0013/7102/1261116122910.pdf\"\n        },\n        {\n          \"label\": \"Gourmet Watch交叉核對\",\n          \"url\": \"https://gourmet.watch.impress.co.jp/docs/news/2156584.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"門市小額即買食品與旅遊預訂關係薄弱，四平台沒有適合本題的已核商品，不硬接分潤。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com\",\n        \"セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com\"\n      ],\n      \"score\": 89,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 13,\n        \"實用性\": 14,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 2\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com\",\n          \"セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"kogei-kanazawa-public-20261128\",\n      \"title\": \"金澤工藝展今天只限受邀者：一般旅客11/28、29才能進場\",\n      \"category\": \"活動／大型展覽\",\n      \"region\": \"北陸金澤Hyatt Centric，2、4、5樓\",\n      \"announcementDate\": \"2026/10/29 10:06 JST主辦原稿；畫廊頁未標公布時刻\",\n      \"eventDate\": \"11/27 VIP邀請；11/28 11–19、11/29 11–18 JST一般公開，均提前30分鐘截止入場\",\n      \"freshness\": \"超過7天例外：明天一般公開；今日VIP不冒充一般開幕\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"週末金澤旅客需要知道一般公開日，避免今天跑到飯店卻無法入場；兩日通票可安排兩天。\",\n      \"facts\": \"KOGEI Art Fair Kanazawa2026於Hyatt Centric Kanazawa2、4、5樓，地址廣岡1-5-2；11/27 13–19只限受邀VIP。一般公開11/28 11–19最後18:30，11/29 11–18最後17:30 JST。前售2500、當日3000日圓，兩者都是兩日通票。售票網站只能讀到JavaScript要求，未核前售目前是否可買、截止時間、庫存或海外支付，不把2500寫成保證可買。主辦與參展畫廊共同核對日期票價，屬不同機構原始資訊，不是兩家獨立採訪。住宿不含門票；旅客一般入場未見國籍限制，購票完成仍未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦日期與入場\",\n          \"url\": \"https://kogei-artfair.jp/about/\"\n        },\n        {\n          \"label\": \"參展畫廊交叉核對\",\n          \"url\": \"https://www.enishira.co.jp/exhibition/kogeiartfairkanazawa2026/\"\n        },\n        {\n          \"label\": \"10/29原公告\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000022.000063671.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"兩日看展可銜接金澤站住宿，但明天開始，多數旅客已訂房；僅適合仍需過夜安排的人。\",\n        \"products\": [\n          \"金澤站周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"若你打算兩天看展、住宿還沒定，可比較金澤站周邊；訂房不包含工藝展入場券。\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com\"\n      ],\n      \"score\": 85,\n      \"scoreBreakdown\": {\n        \"即時性\": 19,\n        \"台灣旅客相關性\": 16,\n        \"社群討論潛力\": 11,\n        \"實用性\": 13,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/27 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"金澤站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/kanazawa-jr-kanazawa-station/hotels-c3663r8419318/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"兩日看展仍需住宿者的金澤比較，不含展覽門票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"金澤住宿列表\",\n              \"url\": \"https://www.booking.com/city/jp/kanazawa.ja.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"兩日看展仍需住宿者的金澤比較，不含展覽門票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"pending-20261127-0\",\n      \"title\": \"ANA×地球の歩き方旅行用品\",\n      \"category\": \"購物\",\n      \"region\": \"日本／網購\",\n      \"announcementDate\": \"11/26公告與販售線索；11/30機內入口\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.anatc.com/wp-content/uploads/2026/11/News-Release-26-25.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，海外配送、購買與雙源未全核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-1\",\n      \"title\": \"るるぶAnime英語指南上市\",\n      \"category\": \"旅遊\",\n      \"region\": \"日本\",\n      \"announcementDate\": \"11/27上市線索，原公告日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://prtimes.jp/a/?c=24732&f=d24732-672-285b94997574ddb8ac2941514c2276e8.pdf&r=672\"\n        }\n      ],\n      \"reason\": \"書籍價格與獨立交叉未核，旅客即時行動價值較弱。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-2\",\n      \"title\": \"HIS黑五第二階段\",\n      \"category\": \"交通／住宿\",\n      \"region\": \"日本出發商品\",\n      \"announcementDate\": \"11/6原稿；11/27 11:00 JST階段開始線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://storage.googleapis.com/disclosed-file-bucket-d4575ee/20261106567043/1/general.pdf\"\n        }\n      ],\n      \"reason\": \"多為日本出發旅行，台灣旅客可用的國內商品與資格未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-3\",\n      \"title\": \"THE ROYAL EXPRESS伊勢志摩\",\n      \"category\": \"旅遊／交通\",\n      \"region\": \"三重\",\n      \"announcementDate\": \"11/27出發線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.pref.mie.lg.jp/common/content/001259633.pdf\"\n        }\n      ],\n      \"reason\": \"出發不等於今天可預約，庫存與販售期未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-4\",\n      \"title\": \"河童壽司黑五App券\",\n      \"category\": \"美食\",\n      \"region\": \"日本門市\",\n      \"announcementDate\": \"11/25原稿；11/27～30線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.kappa-create.co.jp/blog/wp-content/uploads/2026/11/m20261125_BF.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，App海外註冊與券門檻未完整交叉。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-5\",\n      \"title\": \"新千歲THE NORTH FACE快閃\",\n      \"category\": \"購物\",\n      \"region\": \"北海道新千歲機場\",\n      \"announcementDate\": \"11/20原稿；11/27開始線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.hokkaido-airports.com/ja/corporate/pressrelease/assets/docs/261120_Release_HAP.pdf\"\n        }\n      ],\n      \"reason\": \"未核完整會期、商品與第二來源，不用開幕標題替代查證。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-6\",\n      \"title\": \"手稻今天仍CLOSED\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道札幌\",\n      \"announcementDate\": \"11/27 07:28 JST官方狀態\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ],\n      \"reason\": \"已讀官方今日CLOSED，缺第二來源；不推定11/28一定開滑。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-7\",\n      \"title\": \"東海道ルミエールエクスプレス夜行新幹線\",\n      \"category\": \"交通\",\n      \"region\": \"東京—新大阪\",\n      \"announcementDate\": \"11/26 15:00 JST販售線索；12/30及1/2出發\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2159562.html\"\n        }\n      ],\n      \"reason\": \"已讀11/26 16:03媒體全文，但官方PDF與預訂頁讀取失敗，票價、空位與購買條件未完成雙源。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.dcard.tw/f/railway/p/261709726\",\n            \"label\": \"較早夜行新幹線討論索引\",\n            \"reason\": \"約5個月前，非本次原始48小時貼文，不計分。\"\n          }\n        ],\n        \"queries\": [\n          \"東海道 ルミエール 2026 site:x.com OR site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-8\",\n      \"title\": \"卵フェス東京\",\n      \"category\": \"活動／美食\",\n      \"region\": \"東京池袋\",\n      \"announcementDate\": \"11/27～29日曆線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"日曆索引，原主辦價格及參加條件尚未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-9\",\n      \"title\": \"小樽金融資料館佐渡金山展示\",\n      \"category\": \"活動\",\n      \"region\": \"北海道小樽\",\n      \"announcementDate\": \"11/27～2/23日曆線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.iwafu.com/jp/events?area=1&mode=soon\"\n        }\n      ],\n      \"reason\": \"聚合日曆不能支持原始公告與現場開展狀態。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-10\",\n      \"title\": \"KIRORO預定11/28開滑\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道赤井川\",\n      \"announcementDate\": \"11/28預定線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.iwafu.com/jp/events?area=1&mode=soon\"\n        }\n      ],\n      \"reason\": \"未核當日雪況與正式開滑公告，不把日曆預定當確認。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-11\",\n      \"title\": \"天神地下街11/27新店\",\n      \"category\": \"購物\",\n      \"region\": \"福岡天神\",\n      \"announcementDate\": \"11/18原稿；11/27開幕線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.tenchika.com/up/topics/054cef89f5a48c0a8ba28d60c0b3c725f1423398.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，完整店名、營業時間及第二來源未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"jr-central-winter-pass-20261127\",\n    \"title\": \"JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票\",\n    \"score\": 91,\n    \"reason\": \"編輯推薦標籤，不代使用者選題。今天開賣，條件容易誤讀，適合冬季旅客收藏並轉傳同行者。\",\n    \"versusSecond\": \"7-Eleven對當地旅客即時有用，但JR資格、取票與車種影響更高額交通決策，延伸價值較長。\",\n    \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"規劃12月至1月中部行程、已用EX購票的台灣自由行旅客\",\n    \"angle\": \"先有符合條件EX票，才談3,900日圓兩日券\",\n    \"lifecycle\": \"1個月以上\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"逐題及多題組合搜尋15題，未取得2位作者的48小時原文與可核讚數、留言數；checkedAt為研究截止，無合格互動觀測。數字不補0，未讀原文線索不計分。\",\n    \"platformAccess\": {\n      \"Threads\": \"無本期合格原文\",\n      \"Facebook\": \"無本期合格原文\",\n      \"Instagram\": \"未取得主題、日期及指標完整樣本\",\n      \"PTT\": \"無本期合格原文\",\n      \"Dcard\": \"夜行新幹線舊文約5個月前，不套本次事件\",\n      \"X\": \"夏季JR話題及其他舊趨勢，不計分\",\n      \"YouTube\": \"7NOW官方9月不同活動，排除\",\n      \"TikTok\": \"robots讀取限制；返回2025年同日活動索引，不套2026\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"11/28手稻開滑狀態\",\n      \"next\": \"等正式更新與第二來源，不從降雪或預定日期推定營業。\",\n      \"sources\": [\n        {\n          \"label\": \"官方狀態\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"夜行新幹線官方商品頁\",\n      \"next\": \"補讀官方價格、出發日期、購買資格與庫存；目前媒體單源，不發確定售票攻略。\",\n      \"sources\": [\n        {\n          \"label\": \"官方商品頁，本次無法讀取\",\n          \"url\": \"https://travel.jrcentral.co.jp/plan/tokushu/shinkansen/lumiere/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"金澤一般公開首日\",\n      \"next\": \"核售票狀態與現場入場更新；不預測排隊或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦\",\n          \"url\": \"https://kogei-artfair.jp/about/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"7-Eleven週末品項切換\",\n      \"next\": \"11/28看美式熱狗、11/29看炸雞與店別替代，不把今日春捲沿用。\",\n      \"sources\": [\n        {\n          \"label\": \"活動\",\n          \"url\": \"https://www.sej.co.jp/cmp/hs2611/\"\n        }\n      ]\n    }\n  ]\n}",
+  "fullText": "日本每日內容雷達\n2026-11-27\n2026-11-27 10:06:27 Asia/Taipei（日本11:06:27 Asia/Tokyo）\n15個不同事件候選線索，3題完成可發布交叉查核，12題待查，未湊足TOP10。未核題八項與星等留null表示未評估，不是0。三題共10串，內容分數91/89/85為編輯判斷；沒有社群合格樣本，無法建立本期熱榜。廣搜全日本並檢視各區域，部分地區只返回舊頁或索引，不硬湊地域。比對11/25、26報告，未重發無新進展的麥當勞、FDA、赤福、Royal Host、吉伊卡哇燒、Doutor及已截止Jetstar優惠。金澤來源含主辦與參展畫廊，屬兩個機構資訊核對，不稱兩家獨立採訪。四平台逐題查找，僅四個住宿列表可核；KKday／Klook沒有本題合格商品，不用其他JR周遊券或2023年富山展替代。\n已查證：JR東海冬季2日券今天開賣，使用期12/12起，購買須符合EX條件。\n已查證：3,900日圓券以在來線普通／快速自由席為主，不含新幹線或特急基本運費。\n已查證：7-Eleven今天半價春捲，明後天換品項，部分店採替代商品。\n已查證：金澤工藝展今天限VIP，一般公開11/28、29，最後入場各提前30分鐘。\n官方單源：手稻11/27 07:28 JST顯示CLOSED；尚未完成第二來源核對。\n編輯觀察：今天可用的提醒重點是資格、每日品項與一般公開日，不宜只貼促銷標題。\n社群限制：未取得符合48小時雙作者與完整互動數的樣本，爆紅星等只是編輯預估。\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數、星等、分潤適合度為編輯判斷，非觀看或收入保證。\n{\n  \"candidates\": [\n    {\n      \"id\": \"jr-central-winter-pass-20261127\",\n      \"title\": \"JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票\",\n      \"category\": \"交通／票券\",\n      \"region\": \"東海與中部，JR東海在來線區間\",\n      \"announcementDate\": \"2026/11/24官方公告；Travel Watch同日15:37 JST\",\n      \"eventDate\": \"販售11/27～2027/1/11；使用12/12～2027/1/12，連續2日\",\n      \"freshness\": \"今天正式開賣；原公告3天前，不當今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"冬季跨城旅客容易誤以為是人人可買的JR周遊券。購買資格、可搭車種及取票點直接影響行程。\",\n      \"facts\": \"成人3900、兒童1900日圓，JR東海12條在來線普通／快速列車普通車自由席連續2日；不含新幹線。特急須另買乘車券與特急券，不只是補特急費。先以EX服務購買抵達熱海～米原間任一東海道新幹線站的車票，出發站不限；LINEからEX不適用。由EX旅先予約進e5489，須免費WESTER帳號，每位符合資格旅客對應1張。EX票領取翌日起或乘車翌日起不能再買。操作時只能指定1個月內且在使用期間的起用日。JR東海指定窗口或有5489標示機器取票，需付款信用卡、4開頭5位預約號與電話末4碼；熱海只限JR東海新幹線轉乘窗口。甲府、國府津、辰野、鹽尻、豬谷、新宮及JR東／西日本站不可取票。海外帳號與付款未實測；不是短期外國旅客專用票，不承諾所有台灣卡可用。\",\n      \"sources\": [\n        {\n          \"label\": \"JR東海完整條件\",\n          \"url\": \"https://railway.jr-central.co.jp/tickets/winter-freepass/index.html\"\n        },\n        {\n          \"label\": \"11/24官方原公告\",\n          \"url\": \"https://jr-central.co.jp/news/release/_pdf/000046211.pdf\"\n        },\n        {\n          \"label\": \"Travel Watch交叉核對\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2158752.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"本券必須官方EX／e5489流程，不能把第三方JR票替代；路線確認後才能自然銜接名古屋住宿。\",\n        \"products\": [\n          \"名古屋住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"先確認你的EX新幹線票符合資格，再安排名古屋住宿；住宿頁不包含這張3,900日圓車票。\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n        \"JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 91,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 15,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 7,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"JR 東海 冬 乗り放題 2026 site:threads.com OR site:ptt.cc OR site:dcard.tw\",\n          \"JR東海 冬 乗り放題 2026 site:facebook.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"名古屋站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/nagoya-jr-nagoya-station/hotels-c360r8255065/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"JR行程確認後的名古屋住宿比較，不含3,900日圓票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"名古屋住宿列表\",\n              \"url\": \"https://www.booking.com/accommodation/city/jp/nagoya.en-gb.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"JR行程確認後的名古屋住宿比較，不含3,900日圓票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"seven-daily-halfprice-20261127\",\n      \"title\": \"日本7-Eleven今天春捲半價：每天換品項，週末不是繼續買春捲\",\n      \"category\": \"美食／購物\",\n      \"region\": \"日本7-Eleven參與門市\",\n      \"announcementDate\": \"2026/11/16官方原公告；同日10:15 JST Gourmet Watch\",\n      \"eventDate\": \"11/26～29每日不同；11/27春捲、28美式熱狗、29ななチキ\",\n      \"freshness\": \"超過7天例外：今天切換指定半價品項，週末兩天仍可用\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"正在日本的人可立即使用的小額資訊；每日輪替與不同店替代品項比只喊半價更實用。\",\n      \"facts\": \"11/27五目春巻未稅56日圓，官方含稅標示60.48；11/28アメリカンドッグ未稅69、含稅標示74.52；11/29ななチキ未稅116、含稅標示125.28。部分門市27日為唐揚串、29日為香料炸雞，不可保證全店同品。以店頭供應為準，庫存與加熱等待未核；除部分店外7NOW活動品手機點餐暫停。原稿11/16，不將11/26提醒稿當新公布。含稅數字依官方顯示，不把小數日圓寫成未核的現金結帳總額。普通店頭購買未見會員或國籍限制；無預訂與庫存保證。\",\n      \"sources\": [\n        {\n          \"label\": \"官方活動頁\",\n          \"url\": \"https://www.sej.co.jp/cmp/hs2611/\"\n        },\n        {\n          \"label\": \"11/16官方原稿與價格表\",\n          \"url\": \"https://www.sej.co.jp/var/rev0/0013/7102/1261116122910.pdf\"\n        },\n        {\n          \"label\": \"Gourmet Watch交叉核對\",\n          \"url\": \"https://gourmet.watch.impress.co.jp/docs/news/2156584.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"門市小額即買食品與旅遊預訂關係薄弱，四平台沒有適合本題的已核商品，不硬接分潤。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com\",\n        \"セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com\"\n      ],\n      \"score\": 89,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 13,\n        \"實用性\": 14,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 2\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"セブン 半額 2026 11月27 site:threads.com OR site:x.com OR site:instagram.com\",\n          \"セブン 半額 2026 site:ptt.cc OR site:dcard.tw OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以本題及四平台搜尋，無自然銜接的預訂商品。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"kogei-kanazawa-public-20261128\",\n      \"title\": \"金澤工藝展今天只限受邀者：一般旅客11/28、29才能進場\",\n      \"category\": \"活動／大型展覽\",\n      \"region\": \"北陸金澤Hyatt Centric，2、4、5樓\",\n      \"announcementDate\": \"2026/10/29 10:06 JST主辦原稿；畫廊頁未標公布時刻\",\n      \"eventDate\": \"11/27 VIP邀請；11/28 11–19、11/29 11–18 JST一般公開，均提前30分鐘截止入場\",\n      \"freshness\": \"超過7天例外：明天一般公開；今日VIP不冒充一般開幕\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"週末金澤旅客需要知道一般公開日，避免今天跑到飯店卻無法入場；兩日通票可安排兩天。\",\n      \"facts\": \"KOGEI Art Fair Kanazawa2026於Hyatt Centric Kanazawa2、4、5樓，地址廣岡1-5-2；11/27 13–19只限受邀VIP。一般公開11/28 11–19最後18:30，11/29 11–18最後17:30 JST。前售2500、當日3000日圓，兩者都是兩日通票。售票網站只能讀到JavaScript要求，未核前售目前是否可買、截止時間、庫存或海外支付，不把2500寫成保證可買。主辦與參展畫廊共同核對日期票價，屬不同機構原始資訊，不是兩家獨立採訪。住宿不含門票；旅客一般入場未見國籍限制，購票完成仍未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦日期與入場\",\n          \"url\": \"https://kogei-artfair.jp/about/\"\n        },\n        {\n          \"label\": \"參展畫廊交叉核對\",\n          \"url\": \"https://www.enishira.co.jp/exhibition/kogeiartfairkanazawa2026/\"\n        },\n        {\n          \"label\": \"10/29原公告\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000022.000063671.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"中\",\n        \"reason\": \"兩日看展可銜接金澤站住宿，但明天開始，多數旅客已訂房；僅適合仍需過夜安排的人。\",\n        \"products\": [\n          \"金澤站周邊住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"若你打算兩天看展、住宿還沒定，可比較金澤站周邊；訂房不包含工藝展入場券。\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"queries\": [\n        \"KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com\"\n      ],\n      \"score\": 85,\n      \"scoreBreakdown\": {\n        \"即時性\": 19,\n        \"台灣旅客相關性\": 16,\n        \"社群討論潛力\": 11,\n        \"實用性\": 13,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/27 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者且可核讚數與留言數的原文。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"KOGEI Art Fair Kanazawa 2026 site:threads.com OR site:instagram.com OR site:facebook.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"金澤站周邊住宿\",\n              \"url\": \"https://jp.trip.com/hotels/kanazawa-jr-kanazawa-station/hotels-c3663r8419318/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"兩日看展仍需住宿者的金澤比較，不含展覽門票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀精準地區住宿列表；未核旅行日庫存、價格、結帳或分潤資格。\",\n          \"pages\": [\n            {\n              \"title\": \"金澤住宿列表\",\n              \"url\": \"https://www.booking.com/city/jp/kanazawa.ja.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"兩日看展仍需住宿者的金澤比較，不含展覽門票。\",\n              \"checks\": \"參考價與頁面日期非旅客報價；需重新選日期、核位置、總額、退改及分潤資格。\",\n              \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋，未核到本題門票；其他年份／其他JR票不能代替。本組無合格頁面時留空。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選，已備獨立串文。\"\n    },\n    {\n      \"id\": \"pending-20261127-0\",\n      \"title\": \"ANA×地球の歩き方旅行用品\",\n      \"category\": \"購物\",\n      \"region\": \"日本／網購\",\n      \"announcementDate\": \"11/26公告與販售線索；11/30機內入口\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.anatc.com/wp-content/uploads/2026/11/News-Release-26-25.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，海外配送、購買與雙源未全核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-1\",\n      \"title\": \"るるぶAnime英語指南上市\",\n      \"category\": \"旅遊\",\n      \"region\": \"日本\",\n      \"announcementDate\": \"11/27上市線索，原公告日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://prtimes.jp/a/?c=24732&f=d24732-672-285b94997574ddb8ac2941514c2276e8.pdf&r=672\"\n        }\n      ],\n      \"reason\": \"書籍價格與獨立交叉未核，旅客即時行動價值較弱。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-2\",\n      \"title\": \"HIS黑五第二階段\",\n      \"category\": \"交通／住宿\",\n      \"region\": \"日本出發商品\",\n      \"announcementDate\": \"11/6原稿；11/27 11:00 JST階段開始線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://storage.googleapis.com/disclosed-file-bucket-d4575ee/20261106567043/1/general.pdf\"\n        }\n      ],\n      \"reason\": \"多為日本出發旅行，台灣旅客可用的國內商品與資格未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月26 27 ANA 地球の歩き方 るるぶ アニメ HIS ブラックフライデー site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-3\",\n      \"title\": \"THE ROYAL EXPRESS伊勢志摩\",\n      \"category\": \"旅遊／交通\",\n      \"region\": \"三重\",\n      \"announcementDate\": \"11/27出發線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.pref.mie.lg.jp/common/content/001259633.pdf\"\n        }\n      ],\n      \"reason\": \"出發不等於今天可預約，庫存與販售期未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-4\",\n      \"title\": \"河童壽司黑五App券\",\n      \"category\": \"美食\",\n      \"region\": \"日本門市\",\n      \"announcementDate\": \"11/25原稿；11/27～30線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.kappa-create.co.jp/blog/wp-content/uploads/2026/11/m20261125_BF.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，App海外註冊與券門檻未完整交叉。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-5\",\n      \"title\": \"新千歲THE NORTH FACE快閃\",\n      \"category\": \"購物\",\n      \"region\": \"北海道新千歲機場\",\n      \"announcementDate\": \"11/20原稿；11/27開始線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.hokkaido-airports.com/ja/corporate/pressrelease/assets/docs/261120_Release_HAP.pdf\"\n        }\n      ],\n      \"reason\": \"未核完整會期、商品與第二來源，不用開幕標題替代查證。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-6\",\n      \"title\": \"手稻今天仍CLOSED\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道札幌\",\n      \"announcementDate\": \"11/27 07:28 JST官方狀態\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ],\n      \"reason\": \"已讀官方今日CLOSED，缺第二來源；不推定11/28一定開滑。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-7\",\n      \"title\": \"東海道ルミエールエクスプレス夜行新幹線\",\n      \"category\": \"交通\",\n      \"region\": \"東京—新大阪\",\n      \"announcementDate\": \"11/26 15:00 JST販售線索；12/30及1/2出發\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://travel.watch.impress.co.jp/docs/news/2159562.html\"\n        }\n      ],\n      \"reason\": \"已讀11/26 16:03媒體全文，但官方PDF與預訂頁讀取失敗，票價、空位與購買條件未完成雙源。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [\n          {\n            \"url\": \"https://www.dcard.tw/f/railway/p/261709726\",\n            \"label\": \"較早夜行新幹線討論索引\",\n            \"reason\": \"約5個月前，非本次原始48小時貼文，不計分。\"\n          }\n        ],\n        \"queries\": [\n          \"東海道 ルミエール 2026 site:x.com OR site:threads.com OR site:facebook.com OR site:instagram.com OR site:dcard.tw\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-8\",\n      \"title\": \"卵フェス東京\",\n      \"category\": \"活動／美食\",\n      \"region\": \"東京池袋\",\n      \"announcementDate\": \"11/27～29日曆線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"日曆索引，原主辦價格及參加條件尚未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-9\",\n      \"title\": \"小樽金融資料館佐渡金山展示\",\n      \"category\": \"活動\",\n      \"region\": \"北海道小樽\",\n      \"announcementDate\": \"11/27～2/23日曆線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.iwafu.com/jp/events?area=1&mode=soon\"\n        }\n      ],\n      \"reason\": \"聚合日曆不能支持原始公告與現場開展狀態。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-10\",\n      \"title\": \"KIRORO預定11/28開滑\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道赤井川\",\n      \"announcementDate\": \"11/28預定線索，原公布日未確認\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.iwafu.com/jp/events?area=1&mode=soon\"\n        }\n      ],\n      \"reason\": \"未核當日雪況與正式開滑公告，不把日曆預定當確認。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 長崎 韓国 卵フェス 小樽 砂金 手稲 キロロ かっぱ寿司 site:instagram.com OR site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261127-11\",\n      \"title\": \"天神地下街11/27新店\",\n      \"category\": \"購物\",\n      \"region\": \"福岡天神\",\n      \"announcementDate\": \"11/18原稿；11/27開幕線索\",\n      \"eventDate\": \"日期線索見上，尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選線索；限制見原因\",\n          \"url\": \"https://www.tenchika.com/up/topics/054cef89f5a48c0a8ba28d60c0b3c725f1423398.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，完整店名、營業時間及第二來源未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實查核未完成，不推商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"另核日期、庫存、包含內容、退改、海外付款及分潤資格；未保證最低價或佣金。\",\n        \"assessedOn\": \"2026-11-27\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，無已核推薦。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n        \"summary\": \"以多題組合查詢補查，未取得合格原文；索引非互動證據。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月27 THE NORTH FACE 新千歳 天神地下街 ROYAL EXPRESS site:threads.com OR site:x.com OR site:instagram.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"jr-central-winter-pass-20261127\",\n    \"title\": \"JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票\",\n    \"score\": 91,\n    \"reason\": \"編輯推薦標籤，不代使用者選題。今天開賣，條件容易誤讀，適合冬季旅客收藏並轉傳同行者。\",\n    \"versusSecond\": \"7-Eleven對當地旅客即時有用，但JR資格、取票與車種影響更高額交通決策，延伸價值較長。\",\n    \"publishAt\": \"11/27 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"規劃12月至1月中部行程、已用EX購票的台灣自由行旅客\",\n    \"angle\": \"先有符合條件EX票，才談3,900日圓兩日券\",\n    \"lifecycle\": \"1個月以上\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-27T10:06:27+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"逐題及多題組合搜尋15題，未取得2位作者的48小時原文與可核讚數、留言數；checkedAt為研究截止，無合格互動觀測。數字不補0，未讀原文線索不計分。\",\n    \"platformAccess\": {\n      \"Threads\": \"無本期合格原文\",\n      \"Facebook\": \"無本期合格原文\",\n      \"Instagram\": \"未取得主題、日期及指標完整樣本\",\n      \"PTT\": \"無本期合格原文\",\n      \"Dcard\": \"夜行新幹線舊文約5個月前，不套本次事件\",\n      \"X\": \"夏季JR話題及其他舊趨勢，不計分\",\n      \"YouTube\": \"7NOW官方9月不同活動，排除\",\n      \"TikTok\": \"robots讀取限制；返回2025年同日活動索引，不套2026\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"11/28手稻開滑狀態\",\n      \"next\": \"等正式更新與第二來源，不從降雪或預定日期推定營業。\",\n      \"sources\": [\n        {\n          \"label\": \"官方狀態\",\n          \"url\": \"https://sapporo-teine.com/snow/lang/en/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"夜行新幹線官方商品頁\",\n      \"next\": \"補讀官方價格、出發日期、購買資格與庫存；目前媒體單源，不發確定售票攻略。\",\n      \"sources\": [\n        {\n          \"label\": \"官方商品頁，本次無法讀取\",\n          \"url\": \"https://travel.jrcentral.co.jp/plan/tokushu/shinkansen/lumiere/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"金澤一般公開首日\",\n      \"next\": \"核售票狀態與現場入場更新；不預測排隊或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦\",\n          \"url\": \"https://kogei-artfair.jp/about/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"7-Eleven週末品項切換\",\n      \"next\": \"11/28看美式熱狗、11/29看炸雞與店別替代，不把今日春捲沿用。\",\n      \"sources\": [\n        {\n          \"label\": \"活動\",\n          \"url\": \"https://www.sej.co.jp/cmp/hs2611/\"\n        }\n      ]\n    }\n  ]\n}\n【各題串文、切角、圖片、延伸】\n[\n  {\n    \"id\": \"jr-central-winter-pass-20261127\",\n    \"title\": \"JR東海冬季2日券今天開賣：3,900日圓，但先有符合條件的EX新幹線票\",\n    \"threads\": [\n      \"冬天要搭JR東海，今天11/27開賣的「冬の乗り放題きっぷ」成人3,900日圓、兒童1,900日圓，可連續用2天。但它不是人人直接買得到的周遊券。\\n\\n使用期是12/12～2027/1/12。你要先有符合條件的EX新幹線預約：抵達站須在東海道新幹線熱海～米原之間，出發站不限；「LINEからEX」不適用。\",\n      \"這張券搭的是JR東海12條在來線的普通／快速列車普通車自由席，不包含新幹線。\\n\\n最容易看錯的是特急：要搭特急，乘車券和特急券都須另外買，不是只補特急費就好。普通列車指定席、Green車或Home Liner也要另核附加票。\\n\\n適合本來就有符合資格EX行程的人，先拿官方路線圖對行程，不必為了買這張券額外安排不需要的新幹線。\",\n      \"購買路徑：登入EX→「EX旅先予約」→e5489，另需免費WESTER帳號。每位符合資格旅客對應1張；操作時只能指定1個月內、且落在使用期的起用日。\\n\\n別等到搭完才想買：EX車票領取的翌日起，或新幹線乘車翌日起，就不能再購買。本券販售至2027/1/11，也不代表今天能先買所有1月日期。\",\n      \"取票也要排進行程：到JR東海指定窗口或有「5489」標示的機器，準備付款信用卡、預約號與電話末4碼。熱海限JR東海新幹線轉乘窗口；JR東日本／西日本站等不能取，完整例外請看官網。\\n\\n海外註冊與信用卡付款本次未實測。先核你的EX資格、起用日、取票站，再付款；住宿與第三方票券不會自動附這張券。\\n官方條件及路線圖：https://railway.jr-central.co.jp/tickets/winter-freepass/index.html\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"資格\",\n        \"opening\": \"3,900日圓搭2天，先確認你有符合條件的EX新幹線票。\"\n      },\n      {\n        \"name\": \"車種\",\n        \"opening\": \"JR東海冬季券不含新幹線，特急也不是只補特急費。\"\n      },\n      {\n        \"name\": \"購買順序\",\n        \"opening\": \"別等搭完新幹線才買，冬季券有EX領票與乘車限制。\"\n      },\n      {\n        \"name\": \"取票\",\n        \"opening\": \"到了JR車站不一定能領，先找JR東海的5489機器或指定窗口。\"\n      },\n      {\n        \"name\": \"規劃\",\n        \"opening\": \"冬季2日券今天開賣，1月行程仍要看一個月內起用規則。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方券適用路線圖；可找到素材，商用與轉貼授權尚未核。\",\n        \"url\": \"https://railway.jr-central.co.jp/tickets/winter-freepass/index.html\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：完成EX資格與路線確認後整理名古屋住宿；不能聲稱訂房附票。\"\n    ]\n  },\n  {\n    \"id\": \"seven-daily-halfprice-20261127\",\n    \"title\": \"日本7-Eleven今天春捲半價：每天換品項，週末不是繼續買春捲\",\n    \"threads\": [\n      \"今天11/27人在日本，7-Eleven的「五目春巻」半價，未稅56日圓；官方含稅標示是60.48日圓。\\n\\n這次11/26～29是每天換一種指定炸物，不是四天都能買半價春捲。明天11/28換美式熱狗，後天11/29換ななチキ，先把日期對好再找櫃台。\",\n      \"把剩下三天記在一起：\\n・11/27春捲：未稅56日圓。\\n・11/28美式熱狗：未稅69日圓。\\n・11/29ななチキ：未稅116日圓。\\n\\n後兩款官方含稅標示分別為74.52、125.28日圓。以上是活動價格表，不是保證你每一家店、每個時間都買得到；結帳金額看現場。\",\n      \"有些門市用不同品項參加：27日可能是唐揚串，29日可能是香料炸雞。到店先對活動牌與商品名，有貨再買，也可能需要等炸好。\\n\\n另外，除部分店外，7NOW活動品項手機點餐會暫停，別把它當成可以先手機下單保留的優惠。適合路過順買，不需要為一個小點心繞很遠。\\n官方每日品項與店別說明：https://www.sej.co.jp/cmp/hs2611/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"今天買什麼\",\n        \"opening\": \"日本7-Eleven今天半價的是春捲，不是整個炸物櫃。\"\n      },\n      {\n        \"name\": \"每日輪替\",\n        \"opening\": \"週末去買，半價品項已換；先存11/27～29對照。\"\n      },\n      {\n        \"name\": \"稅別\",\n        \"opening\": \"56日圓是未稅，別把活動大字當含稅結帳價。\"\n      },\n      {\n        \"name\": \"店別\",\n        \"opening\": \"同一天有些店賣的是唐揚串，先看現場活動牌。\"\n      },\n      {\n        \"name\": \"下單\",\n        \"opening\": \"這次半價炸物別先假設能用7NOW保留。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方每日半價品項及價格表；素材授權另核。\",\n        \"url\": \"https://www.sej.co.jp/cmp/hs2611/\"\n      }\n    ],\n    \"extensions\": [\n      \"可整理每日炸物與附近門市，不硬接分潤。\"\n    ]\n  },\n  {\n    \"id\": \"kogei-kanazawa-public-20261128\",\n    \"title\": \"金澤工藝展今天只限受邀者：一般旅客11/28、29才能進場\",\n    \"threads\": [\n      \"今天11/27到金澤，別只看到工藝展會期就直接去排：KOGEI Art Fair Kanazawa今天是受邀VIP預覽，一般旅客要等11/28、29。\\n\\n會場在金澤站旁的Hyatt Centric Kanazawa，展區是2、4、5樓。想把工藝展排進週末，先存一般公開時段，比只記「11/27開幕」更有用。\",\n      \"一般公開時間都是日本時間：\\n・11/28：11:00～19:00，最後入場18:30。\\n・11/29：11:00～18:00，最後入場17:30。\\n\\n公告票價是前售2,500日圓、當日3,000日圓，兩種都是兩日通票。不過本次未能讀取售票頁的即時狀態，無法保證現在仍能買前售，也沒有確認前售截止時間。\",\n      \"先從主辦頁的購票入口確認票種與可售狀態，再安排看展。地址是金澤市廣岡1-5-2，受付在2樓；訂這間飯店或周邊住宿，不能直接當成已包含入場票。\\n\\n喜歡九谷燒、玻璃或漆藝，可以先看參展畫廊作品介紹再挑想逛的房間。作品圖可以當行前參考，轉貼圖片的授權仍要另確認。\\n官方時段與購票入口：https://kogei-artfair.jp/about/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"避免白跑\",\n        \"opening\": \"金澤工藝展今天是VIP，一般旅客明天才能進。\"\n      },\n      {\n        \"name\": \"時間\",\n        \"opening\": \"週六、週日收場差一小時，最後入場也不同。\"\n      },\n      {\n        \"name\": \"票種\",\n        \"opening\": \"2,500與3,000日圓都是兩日票，但前售即時狀態要再查。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"住金澤站附近，可以把週末工藝展排進兩天行程。\"\n      },\n      {\n        \"name\": \"飯店展場\",\n        \"opening\": \"展場在飯店客房樓層，不代表訂房就附門票。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方主視覺與參展畫廊作品照片；可查找不等於可商用，另詢授權。\",\n        \"url\": \"https://kogei-artfair.jp/about/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：金澤兩日工藝散步與站區住宿，僅適合仍未訂房者；住宿不含門票。\"\n    ]\n  }\n]"
+}
