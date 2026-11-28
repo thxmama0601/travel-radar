@@ -1,0 +1,1868 @@
+{
+  "date": "2026-11-28",
+  "cutoff": "2026-11-28 10:01:57 Asia/Taipei（日本11:01:57 Asia/Tokyo）",
+  "scopeNote": "15個不同事件候選線索，4題完成可發布核心事實交叉核對，11題待查。沒有湊足10題；未核題八項與星等留null，不冒充0分。四題共14串。排序為內容潛力編輯評估，不是社群熱榜。搜尋涵蓋北海道、東北、關東、北陸、中部名古屋、關西、中國、四國、九州與沖繩；部分地區只有舊聞或索引，未硬納。比對11/27報告，未重選JR東海冬券、超商半價及金澤工藝展。社群各平台以題名與組合關鍵字搜尋，無符合雙作者門檻的原始互動樣本。官方與參展／業界頁交叉確認不等於兩次獨立採訪。沖繩入場費未明列，正文明示未確認，不宣稱免費。四平台查找後僅指宿兩個住宿列表可核用途；未核庫存或分潤資格，不把足利花卉公園當鹿兒島商品。",
+  "trends": [
+    "已查證：留壽都原訂11/28開滑因積雪不足延期，飯店營業與雪場分開。",
+    "已查證：Hotel & Convention與Westin取消條件不同，特別措施不是全平台自動退款。",
+    "已查證：萬博鐵道祭今天在吹田開始，活動免費與公園450日圓費用分開。",
+    "已查證：指宿點燈已開始，12/30、31休園；12/3起部分日期有指定住客接駁。",
+    "已查證：沖繩離島展明天截止，週日比週六早一小時結束。",
+    "編輯觀察：今天適合發出發前條件提醒；先核開滑、票價範圍、回程與資格，比照貼開幕日期實用。",
+    "社群限制：沒有符合規則的自然討論樣本，無法建立本期社群熱榜；星等是編輯預估。"
+  ],
+  "top10": [
+    {
+      "id": "rusutsu-opening-delay-20261128",
+      "title": "留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看",
+      "category": "季節情報／住宿",
+      "region": "北海道留壽都",
+      "announcementDate": "2026/11/27官方公告，未標時刻",
+      "eventDate": "原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿",
+      "freshness": "48小時：前一日公告，無時刻不斷言精確24小時",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "3天",
+      "why": "今天出發的人會直接受影響；雪場未開不等於飯店停業，更不等於所有訂房都自動免費退。",
+      "facts": "積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。",
+      "sources": [
+        {
+          "label": "官方住宿與延期公告",
+          "url": "https://rusutsu.com/information/for-hotel-guests/"
+        },
+        {
+          "label": "SURF&SNOW開場狀態交叉核對",
+          "url": "https://surfsnow.jp/open/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com",
+        "ルスツ 2026 延期 site:facebook.com"
+      ],
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com",
+          "ルスツ 2026 延期 site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "原本要今天11/28去留壽都滑雪，先停一下：官方11/27公告積雪不足，原訂今天開滑延期，新開滑日期尚未確定。\n\n但住宿並沒有一起停止。Rusutsu Resort Hotel & Convention仍從11/28營業，Westin則是12/1。不要把「雪場延期」直接當成「飯店取消入住」，先確認你訂的是哪一間、透過誰訂。",
+          "退改規則要分開看。Hotel & Convention的特別措施涵蓋12/1以前住宿，也包含沒有附雪票的方案；需要變更或取消，請聯絡綜合預約中心處理。\n\n透過旅行社訂房，找原旅行社；已自行取消的訂單，也請再聯絡確認。這不是所有平台都會自動退款的承諾，而且特別措施會在雪場開始營業時結束。",
+          "Westin的規則不同：官方寫明取消仍會產生費用，請向預約中心確認自己的訂單。\n\n另有附纜車券住宿方案的處理方式：到櫃台把票換成每日2,000日圓的度假村利用券。這是利用券，不是現金退款，措施同樣到雪場開放為止。現場可用範圍與個人方案請再向飯店核對。",
+          "如果已人在北海道，別先假設飯店會載你去別的雪場：官方這次明列沒有前往其他營業雪場的接駁。\n\n現在最實際的順序是：確認飯店名稱與訂單→聯絡原預訂窗口→再查雪場新的開放公告。其他雪場也要看當日實際營業，預定開場日不能當保證。\n官方公告：https://rusutsu.com/information/for-hotel-guests/"
+        ],
+        "angles": [
+          {
+            "name": "出發前",
+            "opening": "留壽都原訂今天開滑延期，但飯店沒有一起停業。"
+          },
+          {
+            "name": "退改",
+            "opening": "同在留壽都，兩間飯店取消條件不同，先看訂單名字。"
+          },
+          {
+            "name": "票券",
+            "opening": "2,000日圓是度假村利用券，別看成現金退費。"
+          },
+          {
+            "name": "交通",
+            "opening": "改去其他雪場前先排交通，官方沒有提供跨雪場接駁。"
+          },
+          {
+            "name": "日期",
+            "opening": "12/1以前住宿的特別措施，也有「雪場開放即結束」條件。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方延期與住宿處理條件截圖，可作提醒；不要用舊滑雪照片暗示已開滑。素材可找到，轉貼及商用授權另核。",
+            "url": "https://rusutsu.com/information/for-hotel-guests/"
+          }
+        ],
+        "extensions": [
+          "可整理訂單退改與雪況查詢步驟，暫不銷售未開滑商品。"
+        ]
+      }
+    },
+    {
+      "id": "expo-rail-festival-20261128",
+      "title": "大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓",
+      "category": "活動／交通",
+      "region": "大阪府吹田市萬博紀念公園東之廣場等",
+      "announcementDate": "6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒",
+      "eventDate": "11/28、29 09:30～16:00 JST",
+      "freshness": "超過7天例外：今天正式開始，不把11/26提醒稿當新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "適合已在關西的親子與鐵道迷；免費活動與公園門票分開講，可避免誤解，也避免跑去夢洲。",
+      "facts": "万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。",
+      "sources": [
+        {
+          "label": "主辦活動與費用",
+          "url": "https://bamtetsu.kanko-expo.com/"
+        },
+        {
+          "label": "6/5原始公告",
+          "url": "https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf"
+        },
+        {
+          "label": "大阪府11/13詳細公告",
+          "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html"
+        },
+        {
+          "label": "11/26讀賣旅行媒體",
+          "url": "https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "万博鉄道まつり2026 site:threads.com",
+        "2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com"
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "万博鉄道まつり2026 site:threads.com",
+          "2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "這週末人在大阪、喜歡火車，可以看「萬博鐵道祭2026」：今天11/28和明天11/29，都是日本時間09:30～16:00。\n\n先分清楚地點與費用：在吹田的萬博紀念公園，不是夢洲。鐵道祭活動本身免費，但進公園高中生以上要450日圓，中學生以下免費。",
+          "會場分布在東之廣場、EXPO’70展館等區域，可以逛鐵道與觀光單位攤位、看舞台，也有親子區與美食。\n\n「免費活動」不代表買紀念品、吃東西或所有遊具都免費；主辦另外列出付費遊具區。想參加特定體驗，先看官方節目與攤位說明，預約或現場排隊規則不要一概而論。",
+          "兩天都只到16:00，適合安排白天行程。雨天照常、惡劣天氣可能取消，出發前再看主辦公告和會場圖。\n\n如果查到「164個單位」，先看年份：原公告表格的164是2025年資料，不能直接當今年規模。把日期、會場和450日圓公園入園費記好，就比較不會被簡略標題誤導。\n官方節目與會場：https://bamtetsu.kanko-expo.com/"
+        ],
+        "angles": [
+          {
+            "name": "費用",
+            "opening": "大阪萬博鐵道祭免費，但進公園仍有450日圓費用。"
+          },
+          {
+            "name": "地點",
+            "opening": "這週末的萬博鐵道祭在吹田，不是夢洲。"
+          },
+          {
+            "name": "親子",
+            "opening": "中學生以下公園免費，親子區內仍有另付費項目。"
+          },
+          {
+            "name": "時間",
+            "opening": "兩天都16:00結束，別當成晚上的祭典安排。"
+          },
+          {
+            "name": "查年份",
+            "opening": "看到164個單位先看年份，那是2025的表格。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。",
+            "url": "https://bamtetsu.kanko-expo.com/"
+          }
+        ],
+        "extensions": [
+          "可整理當日交通與現場攻略，不硬接分潤。"
+        ]
+      }
+    },
+    {
+      "id": "ibusuki-lights-guest-bus-20261203",
+      "title": "指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期",
+      "category": "季節情報／住宿",
+      "region": "鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿",
+      "announcementDate": "縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導",
+      "eventDate": "點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日",
+      "freshness": "超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "指宿過夜旅客有實際交通安排需求；要把住客資格、七個日期、另付門票與短停留寫清楚。",
+      "facts": "約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。",
+      "sources": [
+        {
+          "label": "公園活動",
+          "url": "https://www.fp-k.org/event/topics/13206/"
+        },
+        {
+          "label": "鹿兒島縣原公告",
+          "url": "https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html"
+        },
+        {
+          "label": "觀光局票價",
+          "url": "https://www.kagoshima-kankou.com/event/52304"
+        },
+        {
+          "label": "飯店巴士原公告",
+          "url": "https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873"
+        },
+        {
+          "label": "Digital Camera Watch交叉確認",
+          "url": "https://dc.watch.impress.co.jp/docs/news/2156390.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。",
+        "products": [
+          "指宿住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "想把點燈排進指宿過夜行程，可以先比較住宿；免費接駁僅限休暇村指定日期住客，其他訂房不包含這項服務。",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/28 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。",
+          "pages": [
+            {
+              "title": "指宿站周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/ibusuki-jr-ibusuki-station/hotels-c50240r8258064/",
+              "kind": "住宿列表",
+              "reason": "供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。",
+              "checks": "重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。",
+              "checkedAt": "2026-11-28T10:01:57+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。",
+          "pages": [
+            {
+              "title": "指宿日式旅館列表",
+              "url": "https://www.booking.com/ryokans/city/jp/ibusuki.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。",
+              "checks": "重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。",
+              "checkedAt": "2026-11-28T10:01:57+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "去鹿兒島想看冬季點燈，指宿的Flower Park Kagoshima約50萬盞燈已從11/27亮起。但看到「免費接駁」，先別以為住指宿哪間飯店都能搭。\n\n12月的這班車，只給「休暇村指宿」住客，而且只有7個日期、最多20人，入園費另外付。這些條件比只存一張點燈照片更重要。",
+          "先記點燈本身：11/27～2027/1/3，日本時間17:00～21:00，最後入園20:30；12/30、31休園，所以不能把跨年夜排進去。\n\n入園費高中生以上630日圓、小中學生310日圓，學齡前免費。官網部分長者與學童優惠有鹿兒島縣民條件，台灣旅客不要直接套用。",
+          "住客巴士是12/3、7、10、14、17、21、24，共7天，不是整個12月每個週一、週四都有。\n\n飯店公告可在入住時向櫃台預約，最多20人。19:15從飯店出發、19:45抵達公園，20:30離園、21:00回飯店，現場約45分鐘。想慢慢拍照，先衡量這個停留時間是否夠用。",
+          "訂房前可先向休暇村確認巴士安排，訂到房不等於已保留車位；住其他飯店則要自己查回程交通。住宿、巴士與630日圓園票是不同項目，別合併理解成套票。\n\n公園日期與票價：https://www.fp-k.org/event/topics/13206/\n飯店指定日期與預約說明：https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873"
+        ],
+        "angles": [
+          {
+            "name": "住客資格",
+            "opening": "指宿免費點燈巴士有條件：只限休暇村住客。"
+          },
+          {
+            "name": "休園日",
+            "opening": "這場點燈到1月，12/30、31卻休園，跨年別排錯。"
+          },
+          {
+            "name": "交通",
+            "opening": "7個指定日期、最多20人，訂到房不等於訂到接駁位。"
+          },
+          {
+            "name": "拍照",
+            "opening": "接駁在園內停約45分鐘，慢拍的人先想好回程。"
+          },
+          {
+            "name": "費用",
+            "opening": "巴士免費，630日圓入園費仍要另外付。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。",
+            "url": "https://www.fp-k.org/event/topics/13206/"
+          }
+        ],
+        "extensions": [
+          "可延伸商業內容：指宿過夜行程與住宿比較；只有休暇村指定住客有本題接駁，其他飯店不含巴士或門票。"
+        ]
+      }
+    },
+    {
+      "id": "okinawa-ritou-fair-final-weekend-20261128",
+      "title": "沖繩離島物產展剩最後週末：週日提早一小時結束",
+      "category": "活動／美食",
+      "region": "沖繩那霸奧武山公園，Okinawa Cellular PARK Naha",
+      "announcementDate": "原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告",
+      "eventDate": "11/27～29；11/28 10～19、11/29 10～18 JST",
+      "freshness": "超過7天例外：明天截止；11/26出展提醒不是展會首次公告",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "正在那霸的旅客可逛島嶼物產與表演；週日提早收場與無會場停車位，比泛泛介紹離島美食更有行動價值。",
+      "facts": "離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "主辦會場與節目",
+          "url": "https://okinawa-ritoufair.jp/"
+        },
+        {
+          "label": "沖繩縣開催案內",
+          "url": "https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html"
+        },
+        {
+          "label": "11/26座間味村參展公告",
+          "url": "https://www.vill.zamami.okinawa.jp/article/1795669433/"
+        },
+        {
+          "label": "11/26沖繩Navi提醒",
+          "url": "https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "離島フェア2026 site:instagram.com",
+        "2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "離島フェア2026 site:instagram.com",
+          "2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "draft": {
+        "threads": [
+          "今天人在那霸，還能逛「離島フェア2026」的最後週末：11/28到日本時間19:00，明天11/29只到18:00，別用週六時間安排週日。\n\n會場是奧武山公園內的Okinawa Cellular PARK Naha，有離島物產、島嶼食堂與表演。適合原本就在那霸、想吃點島味和找伴手禮的人。",
+          "縣府案內寫明來場不需事先申請，但沒有明列入場費，本次不把它寫成已確認「免費入場」。食物與商品則依各店現場價格付款，想買特定品項也不能保證還有貨。\n\n可以先看主辦的會場圖與兩天節目表，再決定先吃東西還是看表演；節目可能調整，現場公告優先。",
+          "開車去之前先排停車：官方說會場沒有停車場，可從那霸軍港臨時停車場搭免費接駁。這次沒有核到接駁班距與末班，不要把展會結束時間當成最後發車時間。\n\n週日18:00就收場，記得替買東西與回程留時間。這是一場那霸的離島物產展，不需要為了參加而另買離島船票。\n官方會場、接駁與節目：https://okinawa-ritoufair.jp/"
+        ],
+        "angles": [
+          {
+            "name": "結束時間",
+            "opening": "沖繩離島展週日提早一小時收場，別記成19點。"
+          },
+          {
+            "name": "地點",
+            "opening": "不用搭船離開那霸，也能逛島嶼物產與食堂。"
+          },
+          {
+            "name": "停車",
+            "opening": "會場沒有停車位，先看軍港接駁安排。"
+          },
+          {
+            "name": "費用",
+            "opening": "不需申請不等於已確認免費，餐飲物產另付。"
+          },
+          {
+            "name": "行程",
+            "opening": "已在那霸的週末空檔，先對節目再安排逛展。"
+          }
+        ],
+        "images": [
+          {
+            "description": "官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。",
+            "url": "https://okinawa-ritoufair.jp/"
+          }
+        ],
+        "extensions": [
+          "可整理當日交通與現場攻略，不硬接分潤。"
+        ]
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "id": "rusutsu-opening-delay-20261128",
+      "title": "留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看",
+      "category": "季節情報／住宿",
+      "region": "北海道留壽都",
+      "announcementDate": "2026/11/27官方公告，未標時刻",
+      "eventDate": "原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿",
+      "freshness": "48小時：前一日公告，無時刻不斷言精確24小時",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 5
+      },
+      "risk": "中",
+      "lifecycle": "3天",
+      "why": "今天出發的人會直接受影響；雪場未開不等於飯店停業，更不等於所有訂房都自動免費退。",
+      "facts": "積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。",
+      "sources": [
+        {
+          "label": "官方住宿與延期公告",
+          "url": "https://rusutsu.com/information/for-hotel-guests/"
+        },
+        {
+          "label": "SURF&SNOW開場狀態交叉核對",
+          "url": "https://surfsnow.jp/open/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com",
+        "ルスツ 2026 延期 site:facebook.com"
+      ],
+      "score": 92,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 20,
+        "社群討論潛力": 13,
+        "實用性": 15,
+        "稀缺性": 9,
+        "視覺吸引力": 5,
+        "標題吸引力": 5,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com",
+          "ルスツ 2026 延期 site:facebook.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "reason": "入選：完整限制見本題事實及來源；已備獨立串文。"
+    },
+    {
+      "id": "expo-rail-festival-20261128",
+      "title": "大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓",
+      "category": "活動／交通",
+      "region": "大阪府吹田市萬博紀念公園東之廣場等",
+      "announcementDate": "6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒",
+      "eventDate": "11/28、29 09:30～16:00 JST",
+      "freshness": "超過7天例外：今天正式開始，不把11/26提醒稿當新公告",
+      "stars": {
+        "viral": 4,
+        "save": 4,
+        "share": 5
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "適合已在關西的親子與鐵道迷；免費活動與公園門票分開講，可避免誤解，也避免跑去夢洲。",
+      "facts": "万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。",
+      "sources": [
+        {
+          "label": "主辦活動與費用",
+          "url": "https://bamtetsu.kanko-expo.com/"
+        },
+        {
+          "label": "6/5原始公告",
+          "url": "https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf"
+        },
+        {
+          "label": "大阪府11/13詳細公告",
+          "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html"
+        },
+        {
+          "label": "11/26讀賣旅行媒體",
+          "url": "https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "万博鉄道まつり2026 site:threads.com",
+        "2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com"
+      ],
+      "score": 90,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 19,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 9,
+        "標題吸引力": 4,
+        "延伸內容價值": 4
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "万博鉄道まつり2026 site:threads.com",
+          "2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "reason": "入選：完整限制見本題事實及來源；已備獨立串文。"
+    },
+    {
+      "id": "ibusuki-lights-guest-bus-20261203",
+      "title": "指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期",
+      "category": "季節情報／住宿",
+      "region": "鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿",
+      "announcementDate": "縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導",
+      "eventDate": "點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日",
+      "freshness": "超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告",
+      "stars": {
+        "viral": 4,
+        "save": 5,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "1個月以上",
+      "why": "指宿過夜旅客有實際交通安排需求；要把住客資格、七個日期、另付門票與短停留寫清楚。",
+      "facts": "約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。",
+      "sources": [
+        {
+          "label": "公園活動",
+          "url": "https://www.fp-k.org/event/topics/13206/"
+        },
+        {
+          "label": "鹿兒島縣原公告",
+          "url": "https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html"
+        },
+        {
+          "label": "觀光局票價",
+          "url": "https://www.kagoshima-kankou.com/event/52304"
+        },
+        {
+          "label": "飯店巴士原公告",
+          "url": "https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873"
+        },
+        {
+          "label": "Digital Camera Watch交叉確認",
+          "url": "https://dc.watch.impress.co.jp/docs/news/2156390.html"
+        }
+      ],
+      "affiliateFit": {
+        "level": "高",
+        "reason": "12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。",
+        "products": [
+          "指宿住宿"
+        ],
+        "platforms": [
+          "Trip.com",
+          "Booking.com"
+        ],
+        "commentOpening": "想把點燈排進指宿過夜行程，可以先比較住宿；免費接駁僅限休暇村指定日期住客，其他訂房不包含這項服務。",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 88,
+      "scoreBreakdown": {
+        "即時性": 17,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 12,
+        "實用性": 14,
+        "稀缺性": 8,
+        "視覺吸引力": 10,
+        "標題吸引力": 4,
+        "延伸內容價值": 5
+      },
+      "publishDecision": "晚上發",
+      "publishAt": "11/28 19:30 Asia/Taipei（編輯建議）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。",
+          "pages": [
+            {
+              "title": "指宿站周邊住宿列表",
+              "url": "https://jp.trip.com/hotels/ibusuki-jr-ibusuki-station/hotels-c50240r8258064/",
+              "kind": "住宿列表",
+              "reason": "供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。",
+              "checks": "重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。",
+              "checkedAt": "2026-11-28T10:01:57+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "booking",
+          "note": "已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。",
+          "pages": [
+            {
+              "title": "指宿日式旅館列表",
+              "url": "https://www.booking.com/ryokans/city/jp/ibusuki.zh-tw.html",
+              "kind": "住宿列表",
+              "reason": "供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。",
+              "checks": "重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。",
+              "checkedAt": "2026-11-28T10:01:57+08:00",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "platform": "kkday",
+          "note": "已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。",
+          "pages": []
+        }
+      ],
+      "reason": "入選：完整限制見本題事實及來源；已備獨立串文。"
+    },
+    {
+      "id": "okinawa-ritou-fair-final-weekend-20261128",
+      "title": "沖繩離島物產展剩最後週末：週日提早一小時結束",
+      "category": "活動／美食",
+      "region": "沖繩那霸奧武山公園，Okinawa Cellular PARK Naha",
+      "announcementDate": "原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告",
+      "eventDate": "11/27～29；11/28 10～19、11/29 10～18 JST",
+      "freshness": "超過7天例外：明天截止；11/26出展提醒不是展會首次公告",
+      "stars": {
+        "viral": 3,
+        "save": 4,
+        "share": 4
+      },
+      "risk": "低",
+      "lifecycle": "3天",
+      "why": "正在那霸的旅客可逛島嶼物產與表演；週日提早收場與無會場停車位，比泛泛介紹離島美食更有行動價值。",
+      "facts": "離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。",
+      "sources": [
+        {
+          "label": "主辦會場與節目",
+          "url": "https://okinawa-ritoufair.jp/"
+        },
+        {
+          "label": "沖繩縣開催案內",
+          "url": "https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html"
+        },
+        {
+          "label": "11/26座間味村參展公告",
+          "url": "https://www.vill.zamami.okinawa.jp/article/1795669433/"
+        },
+        {
+          "label": "11/26沖繩Navi提醒",
+          "url": "https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/"
+        }
+      ],
+      "affiliateFit": {
+        "level": "低",
+        "reason": "只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "queries": [
+        "離島フェア2026 site:instagram.com",
+        "2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com"
+      ],
+      "score": 83,
+      "scoreBreakdown": {
+        "即時性": 20,
+        "台灣旅客相關性": 18,
+        "社群討論潛力": 10,
+        "實用性": 13,
+        "稀缺性": 7,
+        "視覺吸引力": 8,
+        "標題吸引力": 4,
+        "延伸內容價值": 3
+      },
+      "publishDecision": "現在發",
+      "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "離島フェア2026 site:instagram.com",
+          "2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com"
+        ]
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。",
+          "pages": []
+        }
+      ],
+      "reason": "入選：完整限制見本題事實及來源；已備獨立串文。"
+    },
+    {
+      "id": "pending-20261128-0",
+      "title": "Grand Hirafu預定開滑",
+      "category": "季節情報",
+      "region": "北海道俱知安",
+      "announcementDate": "11/25公告線索；11/28預定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://www.grand-hirafu.jp/news/2026-27-season-open/"
+        }
+      ],
+      "reason": "官方原頁兩次讀取逾時，不能以預定日期保證今天實際可滑。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-1",
+      "title": "新富良野王子飯店翻新",
+      "category": "住宿",
+      "region": "北海道富良野",
+      "announcementDate": "11/26官方PDF；11/27翻新線索",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://www.princehotels.co.jp/file.jsp?id=530213"
+        }
+      ],
+      "reason": "已讀官方稿，缺第二來源與實際住宿產品條件。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-2",
+      "title": "Bistro IKEDAYAMA開幕",
+      "category": "美食",
+      "region": "東京五反田",
+      "announcementDate": "10/29品牌稿；11/28開幕",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://prtimes.jp/main/html/rd/p/000000164.000177867.html"
+        }
+      ],
+      "reason": "品牌與餐廳目錄座位數不一致，付款與席料未全核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-3",
+      "title": "KPF2026",
+      "category": "活動",
+      "region": "福岡北九州",
+      "announcementDate": "11/28～29線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://ssl.city.kitakyushu.lg.jp/contents/29200100_00002.html"
+        }
+      ],
+      "reason": "日曆及索引，票種與入場條件未雙源核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-4",
+      "title": "Ultra Multiverse橫濱",
+      "category": "活動／動漫IP",
+      "region": "神奈川橫濱",
+      "announcementDate": "11/28～1/11線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://eplus.jp/sf/event/day-1128/p4"
+        }
+      ],
+      "reason": "只有售票日曆線索，不能當已讀商品及可售狀態。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-5",
+      "title": "青春18冬季販售",
+      "category": "交通／票券",
+      "region": "日本JR",
+      "announcementDate": "2/5年度公告；11/27販售線索",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://www.jreast.co.jp/press/2025/20260205_ho02.pdf"
+        }
+      ],
+      "reason": "缺本次完整使用期與條件交叉；無今天新進展不重包成新消息。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-6",
+      "title": "J-Village天空燈籠",
+      "category": "活動",
+      "region": "福島",
+      "announcementDate": "11/28活動線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://machievent.com/calendar/"
+        }
+      ],
+      "reason": "僅日曆，入場與體驗預約售罄狀態未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-7",
+      "title": "Keitto北歐聖誕",
+      "category": "活動",
+      "region": "大阪",
+      "announcementDate": "11/28～29線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://machievent.com/calendar/"
+        }
+      ],
+      "reason": "僅日曆，體驗費用及預約未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-8",
+      "title": "長久手Candle Days",
+      "category": "活動",
+      "region": "愛知長久手",
+      "announcementDate": "11/28線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://machievent.com/calendar/"
+        }
+      ],
+      "reason": "僅索引，雨備、時間及第二來源不足。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-9",
+      "title": "FENDI心齋橋旗艦店",
+      "category": "購物",
+      "region": "大阪心齋橋",
+      "announcementDate": "11/28開幕線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://www.fashion-press.net/news/calendar/6/from%3Aweekend/"
+        }
+      ],
+      "reason": "日曆非完整新店查核，限定品、時間與資格未核。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com"
+        ]
+      }
+    },
+    {
+      "id": "pending-20261128-10",
+      "title": "やさと周遊巴士時刻異動",
+      "category": "交通",
+      "region": "茨城石岡",
+      "announcementDate": "11/28～12/27週末線索，原公告日未定",
+      "eventDate": "日期線索見上；尚未完全確認",
+      "sources": [
+        {
+          "label": "候選來源或索引，非完成查核",
+          "url": "https://www.kantetsu.co.jp/cms/wp-content/uploads/2026/11/20261128_info_yasatofullower.pdf"
+        }
+      ],
+      "reason": "僅索引，往返時刻及路線未讀全，不發可照做的交通攻略。",
+      "score": null,
+      "scoreBreakdown": {
+        "即時性": null,
+        "台灣旅客相關性": null,
+        "社群討論潛力": null,
+        "實用性": null,
+        "稀缺性": null,
+        "視覺吸引力": null,
+        "標題吸引力": null,
+        "延伸內容價值": null
+      },
+      "stars": {
+        "viral": null,
+        "save": null,
+        "share": null
+      },
+      "risk": "未評估",
+      "freshness": "未確認",
+      "lifecycle": "未評估",
+      "publishDecision": "先收藏觀察",
+      "affiliateFit": {
+        "level": "未評估",
+        "reason": "事實未全核，暫不推薦商品。",
+        "products": [],
+        "platforms": [],
+        "commentOpening": "",
+        "checks": "重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。",
+        "assessedOn": "2026-11-28"
+      },
+      "affiliatePages": [
+        {
+          "platform": "trip",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "booking",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "kkday",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        },
+        {
+          "platform": "klook",
+          "note": "未入選，沒有已核商品頁。",
+          "pages": []
+        }
+      ],
+      "socialHeat": {
+        "checkedAt": "2026-11-28T10:01:57+08:00",
+        "summary": "多題組合搜尋未取得合格原文，不以索引當熱度。",
+        "evidence": [],
+        "leads": [],
+        "queries": [
+          "2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com"
+        ]
+      }
+    }
+  ],
+  "followups": [
+    {
+      "title": "留壽都實際開滑日期",
+      "next": "追正式開放公告與特別退改措施是否結束，不依天氣預測推定開滑。",
+      "sources": [
+        {
+          "label": "官方",
+          "url": "https://rusutsu.com/information/for-hotel-guests/"
+        }
+      ]
+    },
+    {
+      "title": "Grand Hirafu實際營業",
+      "next": "補讀官方當日雪場狀態與第二來源，目前預定開幕不能當確認。",
+      "sources": [
+        {
+          "label": "待補讀公告",
+          "url": "https://www.grand-hirafu.jp/news/2026-27-season-open/"
+        }
+      ]
+    },
+    {
+      "title": "11/29活動最後一天",
+      "next": "核大阪鐵道祭天氣／取消與沖繩接駁末班；不預測人潮或售罄。",
+      "sources": [
+        {
+          "label": "大阪",
+          "url": "https://bamtetsu.kanko-expo.com/"
+        },
+        {
+          "label": "沖繩",
+          "url": "https://okinawa-ritoufair.jp/"
+        }
+      ]
+    },
+    {
+      "title": "12/3指宿住客巴士",
+      "next": "追首班預約與座位安排，只有直接核到才寫可搭；不把訂房當保證座位。",
+      "sources": [
+        {
+          "label": "飯店",
+          "url": "https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873"
+        }
+      ]
+    }
+  ],
+  "choice": {
+    "id": "rusutsu-opening-delay-20261128",
+    "title": "留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看",
+    "score": 92,
+    "reason": "編輯推薦標籤，不替使用者選題。準備今天開滑與入住的人需要立即處理行程、訂單與替代交通。",
+    "versusSecond": "比大阪鐵道祭更急迫：誤認雪場已開或所有飯店免費取消，會直接造成金錢與行程損失。",
+    "publishAt": "11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）",
+    "audience": "本週赴北海道滑雪及已訂留壽都住宿的台灣旅客",
+    "angle": "雪場延期不等於飯店停業，退改先分飯店與預訂窗口",
+    "lifecycle": "3天；實際開滑後即須更新"
+  },
+  "socialResearch": {
+    "checkedAt": "2026-11-28T10:01:57+08:00",
+    "windowHours": 48,
+    "methodVersion": "public-sample-v1",
+    "searchedTopicCount": 15,
+    "qualifiedTopicCount": 0,
+    "limitation": "逐題及組合搜尋15題，無2位不同作者的48小時原文及可核讚數、留言數；checkedAt為研究截止，並無合格互動觀測。官方鏡像、2023鐵道祭影片、其他花卉公園與舊年活動不計。",
+    "platformAccess": {
+      "Threads": "未取得合格原始貼文",
+      "Facebook": "未取得完整主題時間與數字樣本",
+      "Instagram": "官方／舊頁／其他園區不計",
+      "Dcard": "搜尋返回不相干延期討論，未套用",
+      "PTT": "未取得合格原始貼文",
+      "X": "留壽都官方鏡像不是自然討論；足利與鹿兒島不可混用",
+      "YouTube": "2023鐵道祭內容排除",
+      "TikTok": "robots限制，無可核原始互動"
+    }
+  },
+  "researchText": "日本每日內容雷達\n\n2026-11-28\n\n2026-11-28 10:01:57 Asia/Taipei（日本11:01:57 Asia/Tokyo）\n\n15個不同事件候選線索，4題完成可發布核心事實交叉核對，11題待查。沒有湊足10題；未核題八項與星等留null，不冒充0分。四題共14串。排序為內容潛力編輯評估，不是社群熱榜。搜尋涵蓋北海道、東北、關東、北陸、中部名古屋、關西、中國、四國、九州與沖繩；部分地區只有舊聞或索引，未硬納。比對11/27報告，未重選JR東海冬券、超商半價及金澤工藝展。社群各平台以題名與組合關鍵字搜尋，無符合雙作者門檻的原始互動樣本。官方與參展／業界頁交叉確認不等於兩次獨立採訪。沖繩入場費未明列，正文明示未確認，不宣稱免費。四平台查找後僅指宿兩個住宿列表可核用途；未核庫存或分潤資格，不把足利花卉公園當鹿兒島商品。\n\n已查證：留壽都原訂11/28開滑因積雪不足延期，飯店營業與雪場分開。\n\n已查證：Hotel & Convention與Westin取消條件不同，特別措施不是全平台自動退款。\n\n已查證：萬博鐵道祭今天在吹田開始，活動免費與公園450日圓費用分開。\n\n已查證：指宿點燈已開始，12/30、31休園；12/3起部分日期有指定住客接駁。\n\n已查證：沖繩離島展明天截止，週日比週六早一小時結束。\n\n編輯觀察：今天適合發出發前條件提醒；先核開滑、票價範圍、回程與資格，比照貼開幕日期實用。\n\n社群限制：沒有符合規則的自然討論樣本，無法建立本期社群熱榜；星等是編輯預估。\n\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數、星等、分潤適合度為編輯判斷，非流量或收入保證。\n\n留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\n2026/11/27官方公告，未標時刻\n原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿\n分類／地區：季節情報／住宿／北海道留壽都\n八項：20/20/13/15/9/5/5/5；總分：92\n爆紅／收藏／分享：★★★★/★★★★★/★★★★★；風險：中；時效：48小時：前一日公告，無時刻不斷言精確24小時；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。\n分潤：低；緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。\n官方住宿與延期公告 https://rusutsu.com/information/for-hotel-guests/\nSURF&SNOW開場狀態交叉核對 https://surfsnow.jp/open/\n\n大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓\n6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒\n11/28、29 09:30～16:00 JST\n分類／地區：活動／交通／大阪府吹田市萬博紀念公園東之廣場等\n八項：20/19/12/14/8/9/4/4；總分：90\n爆紅／收藏／分享：★★★★/★★★★/★★★★★；風險：低；時效：超過7天例外：今天正式開始，不把11/26提醒稿當新公告；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。\n分潤：低；今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。\n主辦活動與費用 https://bamtetsu.kanko-expo.com/\n6/5原始公告 https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf\n大阪府11/13詳細公告 https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html\n11/26讀賣旅行媒體 https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html\n\n指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期\n縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導\n點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日\n分類／地區：季節情報／住宿／鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿\n八項：17/18/12/14/8/10/4/5；總分：88\n爆紅／收藏／分享：★★★★/★★★★★/★★★★；風險：低；時效：超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告；生命週期：1個月以上\n發布：晚上發 11/28 19:30 Asia/Taipei（編輯建議）\n約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。\n分潤：高；12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。\n公園活動 https://www.fp-k.org/event/topics/13206/\n鹿兒島縣原公告 https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html\n觀光局票價 https://www.kagoshima-kankou.com/event/52304\n飯店巴士原公告 https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\nDigital Camera Watch交叉確認 https://dc.watch.impress.co.jp/docs/news/2156390.html\n\n沖繩離島物產展剩最後週末：週日提早一小時結束\n原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告\n11/27～29；11/28 10～19、11/29 10～18 JST\n分類／地區：活動／美食／沖繩那霸奧武山公園，Okinawa Cellular PARK Naha\n八項：20/18/10/13/7/8/4/3；總分：83\n爆紅／收藏／分享：★★★/★★★★/★★★★；風險：低；時效：超過7天例外：明天截止；11/26出展提醒不是展會首次公告；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。\n分潤：低；只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。\n主辦會場與節目 https://okinawa-ritoufair.jp/\n沖繩縣開催案內 https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html\n11/26座間味村參展公告 https://www.vill.zamami.okinawa.jp/article/1795669433/\n11/26沖繩Navi提醒 https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/\n\nGrand Hirafu預定開滑\n11/25公告線索；11/28預定\n日期線索見上；尚未完全確認\n分類／地區：季節情報／北海道俱知安\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n官方原頁兩次讀取逾時，不能以預定日期保證今天實際可滑。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.grand-hirafu.jp/news/2026-27-season-open/\n\n新富良野王子飯店翻新\n11/26官方PDF；11/27翻新線索\n日期線索見上；尚未完全確認\n分類／地區：住宿／北海道富良野\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n已讀官方稿，缺第二來源與實際住宿產品條件。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.princehotels.co.jp/file.jsp?id=530213\n\nBistro IKEDAYAMA開幕\n10/29品牌稿；11/28開幕\n日期線索見上；尚未完全確認\n分類／地區：美食／東京五反田\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n品牌與餐廳目錄座位數不一致，付款與席料未全核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://prtimes.jp/main/html/rd/p/000000164.000177867.html\n\nKPF2026\n11/28～29線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／福岡北九州\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n日曆及索引，票種與入場條件未雙源核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://ssl.city.kitakyushu.lg.jp/contents/29200100_00002.html\n\nUltra Multiverse橫濱\n11/28～1/11線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／動漫IP／神奈川橫濱\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n只有售票日曆線索，不能當已讀商品及可售狀態。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://eplus.jp/sf/event/day-1128/p4\n\n青春18冬季販售\n2/5年度公告；11/27販售線索\n日期線索見上；尚未完全確認\n分類／地區：交通／票券／日本JR\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n缺本次完整使用期與條件交叉；無今天新進展不重包成新消息。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.jreast.co.jp/press/2025/20260205_ho02.pdf\n\nJ-Village天空燈籠\n11/28活動線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／福島\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅日曆，入場與體驗預約售罄狀態未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\nKeitto北歐聖誕\n11/28～29線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／大阪\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅日曆，體驗費用及預約未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\n長久手Candle Days\n11/28線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／愛知長久手\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅索引，雨備、時間及第二來源不足。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\nFENDI心齋橋旗艦店\n11/28開幕線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：購物／大阪心齋橋\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n日曆非完整新店查核，限定品、時間與資格未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.fashion-press.net/news/calendar/6/from%3Aweekend/\n\nやさと周遊巴士時刻異動\n11/28～12/27週末線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：交通／茨城石岡\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅索引，往返時刻及路線未讀全，不發可照做的交通攻略。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.kantetsu.co.jp/cms/wp-content/uploads/2026/11/20261128_info_yasatofullower.pdf\n\n完整查核欄位與平台查閱限制：\n\n{\n  \"candidates\": [\n    {\n      \"id\": \"rusutsu-opening-delay-20261128\",\n      \"title\": \"留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\",\n      \"category\": \"季節情報／住宿\",\n      \"region\": \"北海道留壽都\",\n      \"announcementDate\": \"2026/11/27官方公告，未標時刻\",\n      \"eventDate\": \"原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿\",\n      \"freshness\": \"48小時：前一日公告，無時刻不斷言精確24小時\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"今天出發的人會直接受影響；雪場未開不等於飯店停業，更不等於所有訂房都自動免費退。\",\n      \"facts\": \"積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。\",\n      \"sources\": [\n        {\n          \"label\": \"官方住宿與延期公告\",\n          \"url\": \"https://rusutsu.com/information/for-hotel-guests/\"\n        },\n        {\n          \"label\": \"SURF&SNOW開場狀態交叉核對\",\n          \"url\": \"https://surfsnow.jp/open/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com\",\n        \"ルスツ 2026 延期 site:facebook.com\"\n      ],\n      \"score\": 92,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 5,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com\",\n          \"ルスツ 2026 延期 site:facebook.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"expo-rail-festival-20261128\",\n      \"title\": \"大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓\",\n      \"category\": \"活動／交通\",\n      \"region\": \"大阪府吹田市萬博紀念公園東之廣場等\",\n      \"announcementDate\": \"6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒\",\n      \"eventDate\": \"11/28、29 09:30～16:00 JST\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把11/26提醒稿當新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"適合已在關西的親子與鐵道迷；免費活動與公園門票分開講，可避免誤解，也避免跑去夢洲。\",\n      \"facts\": \"万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦活動與費用\",\n          \"url\": \"https://bamtetsu.kanko-expo.com/\"\n        },\n        {\n          \"label\": \"6/5原始公告\",\n          \"url\": \"https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf\"\n        },\n        {\n          \"label\": \"大阪府11/13詳細公告\",\n          \"url\": \"https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html\"\n        },\n        {\n          \"label\": \"11/26讀賣旅行媒體\",\n          \"url\": \"https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"万博鉄道まつり2026 site:threads.com\",\n        \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n      ],\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"万博鉄道まつり2026 site:threads.com\",\n          \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"ibusuki-lights-guest-bus-20261203\",\n      \"title\": \"指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期\",\n      \"category\": \"季節情報／住宿\",\n      \"region\": \"鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿\",\n      \"announcementDate\": \"縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導\",\n      \"eventDate\": \"點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日\",\n      \"freshness\": \"超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"指宿過夜旅客有實際交通安排需求；要把住客資格、七個日期、另付門票與短停留寫清楚。\",\n      \"facts\": \"約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"公園活動\",\n          \"url\": \"https://www.fp-k.org/event/topics/13206/\"\n        },\n        {\n          \"label\": \"鹿兒島縣原公告\",\n          \"url\": \"https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html\"\n        },\n        {\n          \"label\": \"觀光局票價\",\n          \"url\": \"https://www.kagoshima-kankou.com/event/52304\"\n        },\n        {\n          \"label\": \"飯店巴士原公告\",\n          \"url\": \"https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\"\n        },\n        {\n          \"label\": \"Digital Camera Watch交叉確認\",\n          \"url\": \"https://dc.watch.impress.co.jp/docs/news/2156390.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。\",\n        \"products\": [\n          \"指宿住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"想把點燈排進指宿過夜行程，可以先比較住宿；免費接駁僅限休暇村指定日期住客，其他訂房不包含這項服務。\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 88,\n      \"scoreBreakdown\": {\n        \"即時性\": 17,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/28 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。\",\n          \"pages\": [\n            {\n              \"title\": \"指宿站周邊住宿列表\",\n              \"url\": \"https://jp.trip.com/hotels/ibusuki-jr-ibusuki-station/hotels-c50240r8258064/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。\",\n              \"checks\": \"重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。\",\n              \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。\",\n          \"pages\": [\n            {\n              \"title\": \"指宿日式旅館列表\",\n              \"url\": \"https://www.booking.com/ryokans/city/jp/ibusuki.zh-tw.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。\",\n              \"checks\": \"重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。\",\n              \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"okinawa-ritou-fair-final-weekend-20261128\",\n      \"title\": \"沖繩離島物產展剩最後週末：週日提早一小時結束\",\n      \"category\": \"活動／美食\",\n      \"region\": \"沖繩那霸奧武山公園，Okinawa Cellular PARK Naha\",\n      \"announcementDate\": \"原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告\",\n      \"eventDate\": \"11/27～29；11/28 10～19、11/29 10～18 JST\",\n      \"freshness\": \"超過7天例外：明天截止；11/26出展提醒不是展會首次公告\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"正在那霸的旅客可逛島嶼物產與表演；週日提早收場與無會場停車位，比泛泛介紹離島美食更有行動價值。\",\n      \"facts\": \"離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦會場與節目\",\n          \"url\": \"https://okinawa-ritoufair.jp/\"\n        },\n        {\n          \"label\": \"沖繩縣開催案內\",\n          \"url\": \"https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html\"\n        },\n        {\n          \"label\": \"11/26座間味村參展公告\",\n          \"url\": \"https://www.vill.zamami.okinawa.jp/article/1795669433/\"\n        },\n        {\n          \"label\": \"11/26沖繩Navi提醒\",\n          \"url\": \"https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"離島フェア2026 site:instagram.com\",\n        \"2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 83,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 10,\n        \"實用性\": 13,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"離島フェア2026 site:instagram.com\",\n          \"2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"pending-20261128-0\",\n      \"title\": \"Grand Hirafu預定開滑\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道俱知安\",\n      \"announcementDate\": \"11/25公告線索；11/28預定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.grand-hirafu.jp/news/2026-27-season-open/\"\n        }\n      ],\n      \"reason\": \"官方原頁兩次讀取逾時，不能以預定日期保證今天實際可滑。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-1\",\n      \"title\": \"新富良野王子飯店翻新\",\n      \"category\": \"住宿\",\n      \"region\": \"北海道富良野\",\n      \"announcementDate\": \"11/26官方PDF；11/27翻新線索\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.princehotels.co.jp/file.jsp?id=530213\"\n        }\n      ],\n      \"reason\": \"已讀官方稿，缺第二來源與實際住宿產品條件。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-2\",\n      \"title\": \"Bistro IKEDAYAMA開幕\",\n      \"category\": \"美食\",\n      \"region\": \"東京五反田\",\n      \"announcementDate\": \"10/29品牌稿；11/28開幕\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000164.000177867.html\"\n        }\n      ],\n      \"reason\": \"品牌與餐廳目錄座位數不一致，付款與席料未全核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-3\",\n      \"title\": \"KPF2026\",\n      \"category\": \"活動\",\n      \"region\": \"福岡北九州\",\n      \"announcementDate\": \"11/28～29線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://ssl.city.kitakyushu.lg.jp/contents/29200100_00002.html\"\n        }\n      ],\n      \"reason\": \"日曆及索引，票種與入場條件未雙源核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-4\",\n      \"title\": \"Ultra Multiverse橫濱\",\n      \"category\": \"活動／動漫IP\",\n      \"region\": \"神奈川橫濱\",\n      \"announcementDate\": \"11/28～1/11線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://eplus.jp/sf/event/day-1128/p4\"\n        }\n      ],\n      \"reason\": \"只有售票日曆線索，不能當已讀商品及可售狀態。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-5\",\n      \"title\": \"青春18冬季販售\",\n      \"category\": \"交通／票券\",\n      \"region\": \"日本JR\",\n      \"announcementDate\": \"2/5年度公告；11/27販售線索\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.jreast.co.jp/press/2025/20260205_ho02.pdf\"\n        }\n      ],\n      \"reason\": \"缺本次完整使用期與條件交叉；無今天新進展不重包成新消息。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-6\",\n      \"title\": \"J-Village天空燈籠\",\n      \"category\": \"活動\",\n      \"region\": \"福島\",\n      \"announcementDate\": \"11/28活動線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅日曆，入場與體驗預約售罄狀態未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-7\",\n      \"title\": \"Keitto北歐聖誕\",\n      \"category\": \"活動\",\n      \"region\": \"大阪\",\n      \"announcementDate\": \"11/28～29線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅日曆，體驗費用及預約未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-8\",\n      \"title\": \"長久手Candle Days\",\n      \"category\": \"活動\",\n      \"region\": \"愛知長久手\",\n      \"announcementDate\": \"11/28線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅索引，雨備、時間及第二來源不足。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-9\",\n      \"title\": \"FENDI心齋橋旗艦店\",\n      \"category\": \"購物\",\n      \"region\": \"大阪心齋橋\",\n      \"announcementDate\": \"11/28開幕線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.fashion-press.net/news/calendar/6/from%3Aweekend/\"\n        }\n      ],\n      \"reason\": \"日曆非完整新店查核，限定品、時間與資格未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-10\",\n      \"title\": \"やさと周遊巴士時刻異動\",\n      \"category\": \"交通\",\n      \"region\": \"茨城石岡\",\n      \"announcementDate\": \"11/28～12/27週末線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.kantetsu.co.jp/cms/wp-content/uploads/2026/11/20261128_info_yasatofullower.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，往返時刻及路線未讀全，不發可照做的交通攻略。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"rusutsu-opening-delay-20261128\",\n    \"title\": \"留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\",\n    \"score\": 92,\n    \"reason\": \"編輯推薦標籤，不替使用者選題。準備今天開滑與入住的人需要立即處理行程、訂單與替代交通。\",\n    \"versusSecond\": \"比大阪鐵道祭更急迫：誤認雪場已開或所有飯店免費取消，會直接造成金錢與行程損失。\",\n    \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"本週赴北海道滑雪及已訂留壽都住宿的台灣旅客\",\n    \"angle\": \"雪場延期不等於飯店停業，退改先分飯店與預訂窗口\",\n    \"lifecycle\": \"3天；實際開滑後即須更新\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"逐題及組合搜尋15題，無2位不同作者的48小時原文及可核讚數、留言數；checkedAt為研究截止，並無合格互動觀測。官方鏡像、2023鐵道祭影片、其他花卉公園與舊年活動不計。\",\n    \"platformAccess\": {\n      \"Threads\": \"未取得合格原始貼文\",\n      \"Facebook\": \"未取得完整主題時間與數字樣本\",\n      \"Instagram\": \"官方／舊頁／其他園區不計\",\n      \"Dcard\": \"搜尋返回不相干延期討論，未套用\",\n      \"PTT\": \"未取得合格原始貼文\",\n      \"X\": \"留壽都官方鏡像不是自然討論；足利與鹿兒島不可混用\",\n      \"YouTube\": \"2023鐵道祭內容排除\",\n      \"TikTok\": \"robots限制，無可核原始互動\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"留壽都實際開滑日期\",\n      \"next\": \"追正式開放公告與特別退改措施是否結束，不依天氣預測推定開滑。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://rusutsu.com/information/for-hotel-guests/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Grand Hirafu實際營業\",\n      \"next\": \"補讀官方當日雪場狀態與第二來源，目前預定開幕不能當確認。\",\n      \"sources\": [\n        {\n          \"label\": \"待補讀公告\",\n          \"url\": \"https://www.grand-hirafu.jp/news/2026-27-season-open/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"11/29活動最後一天\",\n      \"next\": \"核大阪鐵道祭天氣／取消與沖繩接駁末班；不預測人潮或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"大阪\",\n          \"url\": \"https://bamtetsu.kanko-expo.com/\"\n        },\n        {\n          \"label\": \"沖繩\",\n          \"url\": \"https://okinawa-ritoufair.jp/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"12/3指宿住客巴士\",\n      \"next\": \"追首班預約與座位安排，只有直接核到才寫可搭；不把訂房當保證座位。\",\n      \"sources\": [\n        {\n          \"label\": \"飯店\",\n          \"url\": \"https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\"\n        }\n      ]\n    }\n  ]\n}",
+  "fullText": "日本每日內容雷達\n\n2026-11-28\n\n2026-11-28 10:01:57 Asia/Taipei（日本11:01:57 Asia/Tokyo）\n\n15個不同事件候選線索，4題完成可發布核心事實交叉核對，11題待查。沒有湊足10題；未核題八項與星等留null，不冒充0分。四題共14串。排序為內容潛力編輯評估，不是社群熱榜。搜尋涵蓋北海道、東北、關東、北陸、中部名古屋、關西、中國、四國、九州與沖繩；部分地區只有舊聞或索引，未硬納。比對11/27報告，未重選JR東海冬券、超商半價及金澤工藝展。社群各平台以題名與組合關鍵字搜尋，無符合雙作者門檻的原始互動樣本。官方與參展／業界頁交叉確認不等於兩次獨立採訪。沖繩入場費未明列，正文明示未確認，不宣稱免費。四平台查找後僅指宿兩個住宿列表可核用途；未核庫存或分潤資格，不把足利花卉公園當鹿兒島商品。\n\n已查證：留壽都原訂11/28開滑因積雪不足延期，飯店營業與雪場分開。\n\n已查證：Hotel & Convention與Westin取消條件不同，特別措施不是全平台自動退款。\n\n已查證：萬博鐵道祭今天在吹田開始，活動免費與公園450日圓費用分開。\n\n已查證：指宿點燈已開始，12/30、31休園；12/3起部分日期有指定住客接駁。\n\n已查證：沖繩離島展明天截止，週日比週六早一小時結束。\n\n編輯觀察：今天適合發出發前條件提醒；先核開滑、票價範圍、回程與資格，比照貼開幕日期實用。\n\n社群限制：沒有符合規則的自然討論樣本，無法建立本期社群熱榜；星等是編輯預估。\n\n八項順序：即時性/台灣旅客相關性/社群討論潛力/實用性/稀缺性/視覺吸引力/標題吸引力/延伸內容價值；上限20/20/15/15/10/10/5/5。分數、星等、分潤適合度為編輯判斷，非流量或收入保證。\n\n留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\n2026/11/27官方公告，未標時刻\n原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿\n分類／地區：季節情報／住宿／北海道留壽都\n八項：20/20/13/15/9/5/5/5；總分：92\n爆紅／收藏／分享：★★★★/★★★★★/★★★★★；風險：中；時效：48小時：前一日公告，無時刻不斷言精確24小時；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。\n分潤：低；緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。\n官方住宿與延期公告 https://rusutsu.com/information/for-hotel-guests/\nSURF&SNOW開場狀態交叉核對 https://surfsnow.jp/open/\n\n大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓\n6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒\n11/28、29 09:30～16:00 JST\n分類／地區：活動／交通／大阪府吹田市萬博紀念公園東之廣場等\n八項：20/19/12/14/8/9/4/4；總分：90\n爆紅／收藏／分享：★★★★/★★★★/★★★★★；風險：低；時效：超過7天例外：今天正式開始，不把11/26提醒稿當新公告；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。\n分潤：低；今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。\n主辦活動與費用 https://bamtetsu.kanko-expo.com/\n6/5原始公告 https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf\n大阪府11/13詳細公告 https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html\n11/26讀賣旅行媒體 https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html\n\n指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期\n縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導\n點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日\n分類／地區：季節情報／住宿／鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿\n八項：17/18/12/14/8/10/4/5；總分：88\n爆紅／收藏／分享：★★★★/★★★★★/★★★★；風險：低；時效：超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告；生命週期：1個月以上\n發布：晚上發 11/28 19:30 Asia/Taipei（編輯建議）\n約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。\n分潤：高；12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。\n公園活動 https://www.fp-k.org/event/topics/13206/\n鹿兒島縣原公告 https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html\n觀光局票價 https://www.kagoshima-kankou.com/event/52304\n飯店巴士原公告 https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\nDigital Camera Watch交叉確認 https://dc.watch.impress.co.jp/docs/news/2156390.html\n\n沖繩離島物產展剩最後週末：週日提早一小時結束\n原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告\n11/27～29；11/28 10～19、11/29 10～18 JST\n分類／地區：活動／美食／沖繩那霸奧武山公園，Okinawa Cellular PARK Naha\n八項：20/18/10/13/7/8/4/3；總分：83\n爆紅／收藏／分享：★★★/★★★★/★★★★；風險：低；時效：超過7天例外：明天截止；11/26出展提醒不是展會首次公告；生命週期：3天\n發布：現在發 11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\n離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。\n分潤：低；只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。\n主辦會場與節目 https://okinawa-ritoufair.jp/\n沖繩縣開催案內 https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html\n11/26座間味村參展公告 https://www.vill.zamami.okinawa.jp/article/1795669433/\n11/26沖繩Navi提醒 https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/\n\nGrand Hirafu預定開滑\n11/25公告線索；11/28預定\n日期線索見上；尚未完全確認\n分類／地區：季節情報／北海道俱知安\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n官方原頁兩次讀取逾時，不能以預定日期保證今天實際可滑。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.grand-hirafu.jp/news/2026-27-season-open/\n\n新富良野王子飯店翻新\n11/26官方PDF；11/27翻新線索\n日期線索見上；尚未完全確認\n分類／地區：住宿／北海道富良野\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n已讀官方稿，缺第二來源與實際住宿產品條件。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.princehotels.co.jp/file.jsp?id=530213\n\nBistro IKEDAYAMA開幕\n10/29品牌稿；11/28開幕\n日期線索見上；尚未完全確認\n分類／地區：美食／東京五反田\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n品牌與餐廳目錄座位數不一致，付款與席料未全核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://prtimes.jp/main/html/rd/p/000000164.000177867.html\n\nKPF2026\n11/28～29線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／福岡北九州\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n日曆及索引，票種與入場條件未雙源核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://ssl.city.kitakyushu.lg.jp/contents/29200100_00002.html\n\nUltra Multiverse橫濱\n11/28～1/11線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／動漫IP／神奈川橫濱\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n只有售票日曆線索，不能當已讀商品及可售狀態。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://eplus.jp/sf/event/day-1128/p4\n\n青春18冬季販售\n2/5年度公告；11/27販售線索\n日期線索見上；尚未完全確認\n分類／地區：交通／票券／日本JR\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n缺本次完整使用期與條件交叉；無今天新進展不重包成新消息。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.jreast.co.jp/press/2025/20260205_ho02.pdf\n\nJ-Village天空燈籠\n11/28活動線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／福島\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅日曆，入場與體驗預約售罄狀態未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\nKeitto北歐聖誕\n11/28～29線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／大阪\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅日曆，體驗費用及預約未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\n長久手Candle Days\n11/28線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：活動／愛知長久手\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅索引，雨備、時間及第二來源不足。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://machievent.com/calendar/\n\nFENDI心齋橋旗艦店\n11/28開幕線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：購物／大阪心齋橋\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n日曆非完整新店查核，限定品、時間與資格未核。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.fashion-press.net/news/calendar/6/from%3Aweekend/\n\nやさと周遊巴士時刻異動\n11/28～12/27週末線索，原公告日未定\n日期線索見上；尚未完全確認\n分類／地區：交通／茨城石岡\n八項：///////；總分：未評估\n爆紅／收藏／分享：未評估/未評估/未評估；風險：未評估；時效：未確認；生命週期：未評估\n發布：先收藏觀察 \n僅索引，往返時刻及路線未讀全，不發可照做的交通攻略。\n分潤：未評估；事實未全核，暫不推薦商品。\n候選來源或索引，非完成查核 https://www.kantetsu.co.jp/cms/wp-content/uploads/2026/11/20261128_info_yasatofullower.pdf\n\n完整查核欄位與平台查閱限制：\n\n{\n  \"candidates\": [\n    {\n      \"id\": \"rusutsu-opening-delay-20261128\",\n      \"title\": \"留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\",\n      \"category\": \"季節情報／住宿\",\n      \"region\": \"北海道留壽都\",\n      \"announcementDate\": \"2026/11/27官方公告，未標時刻\",\n      \"eventDate\": \"原訂11/28開滑延期；新開滑日未定；部分住宿取消措施至12/1住宿\",\n      \"freshness\": \"48小時：前一日公告，無時刻不斷言精確24小時\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 5\n      },\n      \"risk\": \"中\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"今天出發的人會直接受影響；雪場未開不等於飯店停業，更不等於所有訂房都自動免費退。\",\n      \"facts\": \"積雪不足延期開滑，SURF&SNOW開場資訊也列未開及延期。Hotel & Convention仍11/28營業，Westin仍12/1營業；沒有前往其他營業雪場的接駁。含纜車券住宿方案可於櫃台把券換成每日日圓2000的度假村利用券，不是現金退費。Hotel & Convention含不帶雪票方案，12/1以前住宿變更或取消須聯絡綜合預約中心；旅行社訂單找原旅行社，已自行取消也請聯絡。上述特別措施於雪場開放時結束。Westin取消仍收費，須另向預約中心確認。個人訂單退改結果與後續實際開滑時刻未核。\",\n      \"sources\": [\n        {\n          \"label\": \"官方住宿與延期公告\",\n          \"url\": \"https://rusutsu.com/information/for-hotel-guests/\"\n        },\n        {\n          \"label\": \"SURF&SNOW開場狀態交叉核對\",\n          \"url\": \"https://surfsnow.jp/open/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"緊急退改與雪況資訊，不宜推尚未開滑雪票或新訂房；先處理既有訂單。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com\",\n        \"ルスツ 2026 延期 site:facebook.com\"\n      ],\n      \"score\": 92,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 20,\n        \"社群討論潛力\": 13,\n        \"實用性\": 15,\n        \"稀缺性\": 9,\n        \"視覺吸引力\": 5,\n        \"標題吸引力\": 5,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 ルスツ 延期 site:ptt.cc OR site:dcard.tw OR site:threads.com OR site:x.com\",\n          \"ルスツ 2026 延期 site:facebook.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"expo-rail-festival-20261128\",\n      \"title\": \"大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓\",\n      \"category\": \"活動／交通\",\n      \"region\": \"大阪府吹田市萬博紀念公園東之廣場等\",\n      \"announcementDate\": \"6/5原始開催公告；11/13 14:00 JST大阪府詳細公告；11/26媒體提醒\",\n      \"eventDate\": \"11/28、29 09:30～16:00 JST\",\n      \"freshness\": \"超過7天例外：今天正式開始，不把11/26提醒稿當新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 4,\n        \"share\": 5\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"適合已在關西的親子與鐵道迷；免費活動與公園門票分開講，可避免誤解，也避免跑去夢洲。\",\n      \"facts\": \"万博鉄道まつり2026 with観光EXPO，11/28–29各09:30–16:00，地點吹田萬博紀念公園東之廣場、EXPO70展館等，不是夢洲2025世博場地。活動本身免費，但公園高中生以上450日圓，中學生以下免費。物販、美食與部分遊具另付費。雨天舉行，惡劣天氣取消。未見一般參觀國籍限制；各體驗是否預約、當日排隊與庫存未全核。164是2025出展總數，不套作2026數字。主辦、共同主辦大阪府及讀賣旅行媒體核對；媒體亦有參展，不當獨立調查。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦活動與費用\",\n          \"url\": \"https://bamtetsu.kanko-expo.com/\"\n        },\n        {\n          \"label\": \"6/5原始公告\",\n          \"url\": \"https://www.osaka-monorail.co.jp/upload/company/press/attach/20260605_pressrelease-.pdf\"\n        },\n        {\n          \"label\": \"大阪府11/13詳細公告\",\n          \"url\": \"https://www.pref.osaka.lg.jp/hodo/fumin/o130090/prs_51111.html\"\n        },\n        {\n          \"label\": \"11/26讀賣旅行媒體\",\n          \"url\": \"https://tabiyomi.yomiuri-ryokou.co.jp/news/005039.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"今天至明天的現場活動，讀者多已在關西；沒有另售活動門票的自然分潤需求，不硬推住宿。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"万博鉄道まつり2026 site:threads.com\",\n        \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n      ],\n      \"score\": 90,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 19,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 9,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 4\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"万博鉄道まつり2026 site:threads.com\",\n          \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"ibusuki-lights-guest-bus-20261203\",\n      \"title\": \"指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期\",\n      \"category\": \"季節情報／住宿\",\n      \"region\": \"鹿兒島縣指宿，Flower Park Kagoshima／休暇村指宿\",\n      \"announcementDate\": \"縣府10/30活動公告；飯店11/10巴士公告；11/13 17:47 JST媒體報導\",\n      \"eventDate\": \"點燈11/27～2027/1/3 17～21時，20:30最後入園；12/30、31休園；住客巴士12/3起7日\",\n      \"freshness\": \"超過7天例外：12/3限定住客巴士即將開始，點燈進入首個週末；不是今天新公告\",\n      \"stars\": {\n        \"viral\": 4,\n        \"save\": 5,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"1個月以上\",\n      \"why\": \"指宿過夜旅客有實際交通安排需求；要把住客資格、七個日期、另付門票與短停留寫清楚。\",\n      \"facts\": \"約50萬燈，點燈11/27至2027/1/3 17–21時，最後入園20:30，12/30、31休園。高中以上630日圓、小中學生310、學齡前免費；縣民長者及學童特定優惠不可直接套台灣觀光客。休暇村指宿住客限定免費巴士12/3、7、10、14、17、21、24，最多20人，入住時櫃台預約，門票另付。19:15飯店出發、19:45抵公園，20:30回程、21:00回飯店，停約45分鐘。不是所有指宿飯店都有、不是全12月每週一四、訂房不等於有座位。一般遊客可另行購園票，未見國籍限制；其他回程交通與即時床位未實測。\",\n      \"sources\": [\n        {\n          \"label\": \"公園活動\",\n          \"url\": \"https://www.fp-k.org/event/topics/13206/\"\n        },\n        {\n          \"label\": \"鹿兒島縣原公告\",\n          \"url\": \"https://www.pref.kagoshima.jp/al01/r8-11-27_winter_festival_fpk.html\"\n        },\n        {\n          \"label\": \"觀光局票價\",\n          \"url\": \"https://www.kagoshima-kankou.com/event/52304\"\n        },\n        {\n          \"label\": \"飯店巴士原公告\",\n          \"url\": \"https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\"\n        },\n        {\n          \"label\": \"Digital Camera Watch交叉確認\",\n          \"url\": \"https://dc.watch.impress.co.jp/docs/news/2156390.html\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"高\",\n        \"reason\": \"12月仍有規劃時間，夜間點燈可自然銜接指宿過夜需求；免費接駁只屬休暇村，不能推成所有住宿附贈。\",\n        \"products\": [\n          \"指宿住宿\"\n        ],\n        \"platforms\": [\n          \"Trip.com\",\n          \"Booking.com\"\n        ],\n        \"commentOpening\": \"想把點燈排進指宿過夜行程，可以先比較住宿；免費接駁僅限休暇村指定日期住客，其他訂房不包含這項服務。\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 88,\n      \"scoreBreakdown\": {\n        \"即時性\": 17,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 12,\n        \"實用性\": 14,\n        \"稀缺性\": 8,\n        \"視覺吸引力\": 10,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 5\n      },\n      \"publishDecision\": \"晚上發\",\n      \"publishAt\": \"11/28 19:30 Asia/Taipei（編輯建議）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"フラワーパークかごしま 2026 11月27 site:threads.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。\",\n          \"pages\": [\n            {\n              \"title\": \"指宿站周邊住宿列表\",\n              \"url\": \"https://jp.trip.com/hotels/ibusuki-jr-ibusuki-station/hotels-c50240r8258064/\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。\",\n              \"checks\": \"重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。\",\n              \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"已讀取指宿地區住宿列表；僅核地區與頁面用途，未核即時房價、庫存或是否列有休暇村。Booking休暇村個別頁遇JavaScript檢查，改留地區列表。\",\n          \"pages\": [\n            {\n              \"title\": \"指宿日式旅館列表\",\n              \"url\": \"https://www.booking.com/ryokans/city/jp/ibusuki.zh-tw.html\",\n              \"kind\": \"住宿列表\",\n              \"reason\": \"供仍未訂房的指宿旅客比較；這些列表不保證住宿含點燈門票或住客巴士。\",\n              \"checks\": \"重新選入住日期，確認飯店位置、房型總額、退改與分潤資格；列表快取不表示即時庫存。\",\n              \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n              \"verified\": true\n            }\n          ]\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"已搜尋；無合格活動商品，其他花卉公園或滑雪商品不能替代。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"okinawa-ritou-fair-final-weekend-20261128\",\n      \"title\": \"沖繩離島物產展剩最後週末：週日提早一小時結束\",\n      \"category\": \"活動／美食\",\n      \"region\": \"沖繩那霸奧武山公園，Okinawa Cellular PARK Naha\",\n      \"announcementDate\": \"原始對外公告日未確定；縣府頁10/27更新，座間味村11/26出展公告\",\n      \"eventDate\": \"11/27～29；11/28 10～19、11/29 10～18 JST\",\n      \"freshness\": \"超過7天例外：明天截止；11/26出展提醒不是展會首次公告\",\n      \"stars\": {\n        \"viral\": 3,\n        \"save\": 4,\n        \"share\": 4\n      },\n      \"risk\": \"低\",\n      \"lifecycle\": \"3天\",\n      \"why\": \"正在那霸的旅客可逛島嶼物產與表演；週日提早收場與無會場停車位，比泛泛介紹離島美食更有行動價值。\",\n      \"facts\": \"離島フェア2026在沖繩Cellular PARK那霸，奧武山公園內；11/28 10–19、11/29 10–18。有島嶼物產、離島食堂與藝能表演。無須來場申請，未見國籍限制。縣府頁未寫入場費，不能推論已確認免費；商品餐飲各店付款，價格庫存未核。會場沒有停車場，可利用那霸軍港臨時停車場免費接駁，班距末班未核。伊江村PDF無文字且截圖失敗，因此不拿未讀海報補費用結論。媒體主要引用縣府，另以座間味村參展公告與主辦節目表交叉日期，不當兩次獨立採訪。\",\n      \"sources\": [\n        {\n          \"label\": \"主辦會場與節目\",\n          \"url\": \"https://okinawa-ritoufair.jp/\"\n        },\n        {\n          \"label\": \"沖繩縣開催案內\",\n          \"url\": \"https://www.pref.okinawa.lg.jp/kensei/shinko/1017087/1017118/1030785/1041716.html\"\n        },\n        {\n          \"label\": \"11/26座間味村參展公告\",\n          \"url\": \"https://www.vill.zamami.okinawa.jp/article/1795669433/\"\n        },\n        {\n          \"label\": \"11/26沖繩Navi提醒\",\n          \"url\": \"https://okinawa-navi.jp/magazine/okinawa-weekend-events-2/\"\n        }\n      ],\n      \"affiliateFit\": {\n        \"level\": \"低\",\n        \"reason\": \"只剩今明兩天，多數讀者已在那霸；門市餐飲與物產不適合硬接住宿或離島船票。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"queries\": [\n        \"離島フェア2026 site:instagram.com\",\n        \"2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\"\n      ],\n      \"score\": 83,\n      \"scoreBreakdown\": {\n        \"即時性\": 20,\n        \"台灣旅客相關性\": 18,\n        \"社群討論潛力\": 10,\n        \"實用性\": 13,\n        \"稀缺性\": 7,\n        \"視覺吸引力\": 8,\n        \"標題吸引力\": 4,\n        \"延伸內容價值\": 3\n      },\n      \"publishDecision\": \"現在發\",\n      \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"熱度未確認，未取得48小時內雙作者及可核讚數、留言數的原始公開樣本。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"離島フェア2026 site:instagram.com\",\n          \"2026 11月28 ルスツ 万博鉄道 離島フェア site:threads.com OR site:facebook.com OR site:instagram.com OR site:x.com\"\n        ]\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"以題名與四平台查找，沒有自然且已核的預訂商品，保留空陣列。\",\n          \"pages\": []\n        }\n      ],\n      \"reason\": \"入選：完整限制見本題事實及來源；已備獨立串文。\"\n    },\n    {\n      \"id\": \"pending-20261128-0\",\n      \"title\": \"Grand Hirafu預定開滑\",\n      \"category\": \"季節情報\",\n      \"region\": \"北海道俱知安\",\n      \"announcementDate\": \"11/25公告線索；11/28預定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.grand-hirafu.jp/news/2026-27-season-open/\"\n        }\n      ],\n      \"reason\": \"官方原頁兩次讀取逾時，不能以預定日期保證今天實際可滑。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 万博鉄道まつり 離島フェア グランヒラフ site:instagram.com OR site:facebook.com OR site:youtube.com OR site:tiktok.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-1\",\n      \"title\": \"新富良野王子飯店翻新\",\n      \"category\": \"住宿\",\n      \"region\": \"北海道富良野\",\n      \"announcementDate\": \"11/26官方PDF；11/27翻新線索\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.princehotels.co.jp/file.jsp?id=530213\"\n        }\n      ],\n      \"reason\": \"已讀官方稿，缺第二來源與實際住宿產品條件。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-2\",\n      \"title\": \"Bistro IKEDAYAMA開幕\",\n      \"category\": \"美食\",\n      \"region\": \"東京五反田\",\n      \"announcementDate\": \"10/29品牌稿；11/28開幕\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://prtimes.jp/main/html/rd/p/000000164.000177867.html\"\n        }\n      ],\n      \"reason\": \"品牌與餐廳目錄座位數不一致，付款與席料未全核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-3\",\n      \"title\": \"KPF2026\",\n      \"category\": \"活動\",\n      \"region\": \"福岡北九州\",\n      \"announcementDate\": \"11/28～29線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://ssl.city.kitakyushu.lg.jp/contents/29200100_00002.html\"\n        }\n      ],\n      \"reason\": \"日曆及索引，票種與入場條件未雙源核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-4\",\n      \"title\": \"Ultra Multiverse橫濱\",\n      \"category\": \"活動／動漫IP\",\n      \"region\": \"神奈川橫濱\",\n      \"announcementDate\": \"11/28～1/11線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://eplus.jp/sf/event/day-1128/p4\"\n        }\n      ],\n      \"reason\": \"只有售票日曆線索，不能當已讀商品及可售狀態。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-5\",\n      \"title\": \"青春18冬季販售\",\n      \"category\": \"交通／票券\",\n      \"region\": \"日本JR\",\n      \"announcementDate\": \"2/5年度公告；11/27販售線索\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.jreast.co.jp/press/2025/20260205_ho02.pdf\"\n        }\n      ],\n      \"reason\": \"缺本次完整使用期與條件交叉；無今天新進展不重包成新消息。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 新富良野 Bistro IKEDAYAMA KPF 青春18 ウルトラマルチバース site:threads.com OR site:x.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-6\",\n      \"title\": \"J-Village天空燈籠\",\n      \"category\": \"活動\",\n      \"region\": \"福島\",\n      \"announcementDate\": \"11/28活動線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅日曆，入場與體驗預約售罄狀態未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-7\",\n      \"title\": \"Keitto北歐聖誕\",\n      \"category\": \"活動\",\n      \"region\": \"大阪\",\n      \"announcementDate\": \"11/28～29線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅日曆，體驗費用及預約未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-8\",\n      \"title\": \"長久手Candle Days\",\n      \"category\": \"活動\",\n      \"region\": \"愛知長久手\",\n      \"announcementDate\": \"11/28線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://machievent.com/calendar/\"\n        }\n      ],\n      \"reason\": \"僅索引，雨備、時間及第二來源不足。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-9\",\n      \"title\": \"FENDI心齋橋旗艦店\",\n      \"category\": \"購物\",\n      \"region\": \"大阪心齋橋\",\n      \"announcementDate\": \"11/28開幕線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.fashion-press.net/news/calendar/6/from%3Aweekend/\"\n        }\n      ],\n      \"reason\": \"日曆非完整新店查核，限定品、時間與資格未核。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    },\n    {\n      \"id\": \"pending-20261128-10\",\n      \"title\": \"やさと周遊巴士時刻異動\",\n      \"category\": \"交通\",\n      \"region\": \"茨城石岡\",\n      \"announcementDate\": \"11/28～12/27週末線索，原公告日未定\",\n      \"eventDate\": \"日期線索見上；尚未完全確認\",\n      \"sources\": [\n        {\n          \"label\": \"候選來源或索引，非完成查核\",\n          \"url\": \"https://www.kantetsu.co.jp/cms/wp-content/uploads/2026/11/20261128_info_yasatofullower.pdf\"\n        }\n      ],\n      \"reason\": \"僅索引，往返時刻及路線未讀全，不發可照做的交通攻略。\",\n      \"score\": null,\n      \"scoreBreakdown\": {\n        \"即時性\": null,\n        \"台灣旅客相關性\": null,\n        \"社群討論潛力\": null,\n        \"實用性\": null,\n        \"稀缺性\": null,\n        \"視覺吸引力\": null,\n        \"標題吸引力\": null,\n        \"延伸內容價值\": null\n      },\n      \"stars\": {\n        \"viral\": null,\n        \"save\": null,\n        \"share\": null\n      },\n      \"risk\": \"未評估\",\n      \"freshness\": \"未確認\",\n      \"lifecycle\": \"未評估\",\n      \"publishDecision\": \"先收藏觀察\",\n      \"affiliateFit\": {\n        \"level\": \"未評估\",\n        \"reason\": \"事實未全核，暫不推薦商品。\",\n        \"products\": [],\n        \"platforms\": [],\n        \"commentOpening\": \"\",\n        \"checks\": \"重查適用日期、庫存、包含內容、退改、海外付款及分潤資格；未保證價格或佣金。\",\n        \"assessedOn\": \"2026-11-28\"\n      },\n      \"affiliatePages\": [\n        {\n          \"platform\": \"trip\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"booking\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"kkday\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        },\n        {\n          \"platform\": \"klook\",\n          \"note\": \"未入選，沒有已核商品頁。\",\n          \"pages\": []\n        }\n      ],\n      \"socialHeat\": {\n        \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n        \"summary\": \"多題組合搜尋未取得合格原文，不以索引當熱度。\",\n        \"evidence\": [],\n        \"leads\": [],\n        \"queries\": [\n          \"2026 11月28 Keitto 長久手 FENDI スカイランタン やさと バス site:facebook.com OR site:instagram.com OR site:threads.com\"\n        ]\n      }\n    }\n  ],\n  \"choice\": {\n    \"id\": \"rusutsu-opening-delay-20261128\",\n    \"title\": \"留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\",\n    \"score\": 92,\n    \"reason\": \"編輯推薦標籤，不替使用者選題。準備今天開滑與入住的人需要立即處理行程、訂單與替代交通。\",\n    \"versusSecond\": \"比大阪鐵道祭更急迫：誤認雪場已開或所有飯店免費取消，會直接造成金錢與行程損失。\",\n    \"publishAt\": \"11/28 10:30 Asia/Taipei（編輯建議，無帳號歷史數據）\",\n    \"audience\": \"本週赴北海道滑雪及已訂留壽都住宿的台灣旅客\",\n    \"angle\": \"雪場延期不等於飯店停業，退改先分飯店與預訂窗口\",\n    \"lifecycle\": \"3天；實際開滑後即須更新\"\n  },\n  \"socialResearch\": {\n    \"checkedAt\": \"2026-11-28T10:01:57+08:00\",\n    \"windowHours\": 48,\n    \"methodVersion\": \"public-sample-v1\",\n    \"searchedTopicCount\": 15,\n    \"qualifiedTopicCount\": 0,\n    \"limitation\": \"逐題及組合搜尋15題，無2位不同作者的48小時原文及可核讚數、留言數；checkedAt為研究截止，並無合格互動觀測。官方鏡像、2023鐵道祭影片、其他花卉公園與舊年活動不計。\",\n    \"platformAccess\": {\n      \"Threads\": \"未取得合格原始貼文\",\n      \"Facebook\": \"未取得完整主題時間與數字樣本\",\n      \"Instagram\": \"官方／舊頁／其他園區不計\",\n      \"Dcard\": \"搜尋返回不相干延期討論，未套用\",\n      \"PTT\": \"未取得合格原始貼文\",\n      \"X\": \"留壽都官方鏡像不是自然討論；足利與鹿兒島不可混用\",\n      \"YouTube\": \"2023鐵道祭內容排除\",\n      \"TikTok\": \"robots限制，無可核原始互動\"\n    }\n  },\n  \"followups\": [\n    {\n      \"title\": \"留壽都實際開滑日期\",\n      \"next\": \"追正式開放公告與特別退改措施是否結束，不依天氣預測推定開滑。\",\n      \"sources\": [\n        {\n          \"label\": \"官方\",\n          \"url\": \"https://rusutsu.com/information/for-hotel-guests/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Grand Hirafu實際營業\",\n      \"next\": \"補讀官方當日雪場狀態與第二來源，目前預定開幕不能當確認。\",\n      \"sources\": [\n        {\n          \"label\": \"待補讀公告\",\n          \"url\": \"https://www.grand-hirafu.jp/news/2026-27-season-open/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"11/29活動最後一天\",\n      \"next\": \"核大阪鐵道祭天氣／取消與沖繩接駁末班；不預測人潮或售罄。\",\n      \"sources\": [\n        {\n          \"label\": \"大阪\",\n          \"url\": \"https://bamtetsu.kanko-expo.com/\"\n        },\n        {\n          \"label\": \"沖繩\",\n          \"url\": \"https://okinawa-ritoufair.jp/\"\n        }\n      ]\n    },\n    {\n      \"title\": \"12/3指宿住客巴士\",\n      \"next\": \"追首班預約與座位安排，只有直接核到才寫可搭；不把訂房當保證座位。\",\n      \"sources\": [\n        {\n          \"label\": \"飯店\",\n          \"url\": \"https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\"\n        }\n      ]\n    }\n  ]\n}\n【各題串文、切角、圖片、延伸】\n[\n  {\n    \"id\": \"rusutsu-opening-delay-20261128\",\n    \"title\": \"留壽都原訂今天開滑延期：飯店照常營業，取消條件分兩間看\",\n    \"threads\": [\n      \"原本要今天11/28去留壽都滑雪，先停一下：官方11/27公告積雪不足，原訂今天開滑延期，新開滑日期尚未確定。\\n\\n但住宿並沒有一起停止。Rusutsu Resort Hotel & Convention仍從11/28營業，Westin則是12/1。不要把「雪場延期」直接當成「飯店取消入住」，先確認你訂的是哪一間、透過誰訂。\",\n      \"退改規則要分開看。Hotel & Convention的特別措施涵蓋12/1以前住宿，也包含沒有附雪票的方案；需要變更或取消，請聯絡綜合預約中心處理。\\n\\n透過旅行社訂房，找原旅行社；已自行取消的訂單，也請再聯絡確認。這不是所有平台都會自動退款的承諾，而且特別措施會在雪場開始營業時結束。\",\n      \"Westin的規則不同：官方寫明取消仍會產生費用，請向預約中心確認自己的訂單。\\n\\n另有附纜車券住宿方案的處理方式：到櫃台把票換成每日2,000日圓的度假村利用券。這是利用券，不是現金退款，措施同樣到雪場開放為止。現場可用範圍與個人方案請再向飯店核對。\",\n      \"如果已人在北海道，別先假設飯店會載你去別的雪場：官方這次明列沒有前往其他營業雪場的接駁。\\n\\n現在最實際的順序是：確認飯店名稱與訂單→聯絡原預訂窗口→再查雪場新的開放公告。其他雪場也要看當日實際營業，預定開場日不能當保證。\\n官方公告：https://rusutsu.com/information/for-hotel-guests/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"出發前\",\n        \"opening\": \"留壽都原訂今天開滑延期，但飯店沒有一起停業。\"\n      },\n      {\n        \"name\": \"退改\",\n        \"opening\": \"同在留壽都，兩間飯店取消條件不同，先看訂單名字。\"\n      },\n      {\n        \"name\": \"票券\",\n        \"opening\": \"2,000日圓是度假村利用券，別看成現金退費。\"\n      },\n      {\n        \"name\": \"交通\",\n        \"opening\": \"改去其他雪場前先排交通，官方沒有提供跨雪場接駁。\"\n      },\n      {\n        \"name\": \"日期\",\n        \"opening\": \"12/1以前住宿的特別措施，也有「雪場開放即結束」條件。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方延期與住宿處理條件截圖，可作提醒；不要用舊滑雪照片暗示已開滑。素材可找到，轉貼及商用授權另核。\",\n        \"url\": \"https://rusutsu.com/information/for-hotel-guests/\"\n      }\n    ],\n    \"extensions\": [\n      \"可整理訂單退改與雪況查詢步驟，暫不銷售未開滑商品。\"\n    ]\n  },\n  {\n    \"id\": \"expo-rail-festival-20261128\",\n    \"title\": \"大阪萬博鐵道祭今天開始：活動免費，公園仍收450日圓\",\n    \"threads\": [\n      \"這週末人在大阪、喜歡火車，可以看「萬博鐵道祭2026」：今天11/28和明天11/29，都是日本時間09:30～16:00。\\n\\n先分清楚地點與費用：在吹田的萬博紀念公園，不是夢洲。鐵道祭活動本身免費，但進公園高中生以上要450日圓，中學生以下免費。\",\n      \"會場分布在東之廣場、EXPO’70展館等區域，可以逛鐵道與觀光單位攤位、看舞台，也有親子區與美食。\\n\\n「免費活動」不代表買紀念品、吃東西或所有遊具都免費；主辦另外列出付費遊具區。想參加特定體驗，先看官方節目與攤位說明，預約或現場排隊規則不要一概而論。\",\n      \"兩天都只到16:00，適合安排白天行程。雨天照常、惡劣天氣可能取消，出發前再看主辦公告和會場圖。\\n\\n如果查到「164個單位」，先看年份：原公告表格的164是2025年資料，不能直接當今年規模。把日期、會場和450日圓公園入園費記好，就比較不會被簡略標題誤導。\\n官方節目與會場：https://bamtetsu.kanko-expo.com/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"費用\",\n        \"opening\": \"大阪萬博鐵道祭免費，但進公園仍有450日圓費用。\"\n      },\n      {\n        \"name\": \"地點\",\n        \"opening\": \"這週末的萬博鐵道祭在吹田，不是夢洲。\"\n      },\n      {\n        \"name\": \"親子\",\n        \"opening\": \"中學生以下公園免費，親子區內仍有另付費項目。\"\n      },\n      {\n        \"name\": \"時間\",\n        \"opening\": \"兩天都16:00結束，別當成晚上的祭典安排。\"\n      },\n      {\n        \"name\": \"查年份\",\n        \"opening\": \"看到164個單位先看年份，那是2025的表格。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。\",\n        \"url\": \"https://bamtetsu.kanko-expo.com/\"\n      }\n    ],\n    \"extensions\": [\n      \"可整理當日交通與現場攻略，不硬接分潤。\"\n    ]\n  },\n  {\n    \"id\": \"ibusuki-lights-guest-bus-20261203\",\n    \"title\": \"指宿50萬燈點亮，12月免費接駁僅限指定住客與7個日期\",\n    \"threads\": [\n      \"去鹿兒島想看冬季點燈，指宿的Flower Park Kagoshima約50萬盞燈已從11/27亮起。但看到「免費接駁」，先別以為住指宿哪間飯店都能搭。\\n\\n12月的這班車，只給「休暇村指宿」住客，而且只有7個日期、最多20人，入園費另外付。這些條件比只存一張點燈照片更重要。\",\n      \"先記點燈本身：11/27～2027/1/3，日本時間17:00～21:00，最後入園20:30；12/30、31休園，所以不能把跨年夜排進去。\\n\\n入園費高中生以上630日圓、小中學生310日圓，學齡前免費。官網部分長者與學童優惠有鹿兒島縣民條件，台灣旅客不要直接套用。\",\n      \"住客巴士是12/3、7、10、14、17、21、24，共7天，不是整個12月每個週一、週四都有。\\n\\n飯店公告可在入住時向櫃台預約，最多20人。19:15從飯店出發、19:45抵達公園，20:30離園、21:00回飯店，現場約45分鐘。想慢慢拍照，先衡量這個停留時間是否夠用。\",\n      \"訂房前可先向休暇村確認巴士安排，訂到房不等於已保留車位；住其他飯店則要自己查回程交通。住宿、巴士與630日圓園票是不同項目，別合併理解成套票。\\n\\n公園日期與票價：https://www.fp-k.org/event/topics/13206/\\n飯店指定日期與預約說明：https://www.qkamura.or.jp/ibusuki/blog/detail/?id=123873\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"住客資格\",\n        \"opening\": \"指宿免費點燈巴士有條件：只限休暇村住客。\"\n      },\n      {\n        \"name\": \"休園日\",\n        \"opening\": \"這場點燈到1月，12/30、31卻休園，跨年別排錯。\"\n      },\n      {\n        \"name\": \"交通\",\n        \"opening\": \"7個指定日期、最多20人，訂到房不等於訂到接駁位。\"\n      },\n      {\n        \"name\": \"拍照\",\n        \"opening\": \"接駁在園內停約45分鐘，慢拍的人先想好回程。\"\n      },\n      {\n        \"name\": \"費用\",\n        \"opening\": \"巴士免費，630日圓入園費仍要另外付。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。\",\n        \"url\": \"https://www.fp-k.org/event/topics/13206/\"\n      }\n    ],\n    \"extensions\": [\n      \"可延伸商業內容：指宿過夜行程與住宿比較；只有休暇村指定住客有本題接駁，其他飯店不含巴士或門票。\"\n    ]\n  },\n  {\n    \"id\": \"okinawa-ritou-fair-final-weekend-20261128\",\n    \"title\": \"沖繩離島物產展剩最後週末：週日提早一小時結束\",\n    \"threads\": [\n      \"今天人在那霸，還能逛「離島フェア2026」的最後週末：11/28到日本時間19:00，明天11/29只到18:00，別用週六時間安排週日。\\n\\n會場是奧武山公園內的Okinawa Cellular PARK Naha，有離島物產、島嶼食堂與表演。適合原本就在那霸、想吃點島味和找伴手禮的人。\",\n      \"縣府案內寫明來場不需事先申請，但沒有明列入場費，本次不把它寫成已確認「免費入場」。食物與商品則依各店現場價格付款，想買特定品項也不能保證還有貨。\\n\\n可以先看主辦的會場圖與兩天節目表，再決定先吃東西還是看表演；節目可能調整，現場公告優先。\",\n      \"開車去之前先排停車：官方說會場沒有停車場，可從那霸軍港臨時停車場搭免費接駁。這次沒有核到接駁班距與末班，不要把展會結束時間當成最後發車時間。\\n\\n週日18:00就收場，記得替買東西與回程留時間。這是一場那霸的離島物產展，不需要為了參加而另買離島船票。\\n官方會場、接駁與節目：https://okinawa-ritoufair.jp/\"\n    ],\n    \"angles\": [\n      {\n        \"name\": \"結束時間\",\n        \"opening\": \"沖繩離島展週日提早一小時收場，別記成19點。\"\n      },\n      {\n        \"name\": \"地點\",\n        \"opening\": \"不用搭船離開那霸，也能逛島嶼物產與食堂。\"\n      },\n      {\n        \"name\": \"停車\",\n        \"opening\": \"會場沒有停車位，先看軍港接駁安排。\"\n      },\n      {\n        \"name\": \"費用\",\n        \"opening\": \"不需申請不等於已確認免費，餐飲物產另付。\"\n      },\n      {\n        \"name\": \"行程\",\n        \"opening\": \"已在那霸的週末空檔，先對節目再安排逛展。\"\n      }\n    ],\n    \"images\": [\n      {\n        \"description\": \"官方活動主視覺、場地圖或時刻表；可找到素材不等於有商用授權。\",\n        \"url\": \"https://okinawa-ritoufair.jp/\"\n      }\n    ],\n    \"extensions\": [\n      \"可整理當日交通與現場攻略，不硬接分潤。\"\n    ]\n  }\n]"
+}
